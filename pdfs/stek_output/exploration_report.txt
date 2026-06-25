@@ -1,0 +1,199 @@
+======================================================================
+STEK 2035 CORPUS EXPLORATION REPORT
+======================================================================
+
+--- PER-DOCUMENT STATS ---
+file                                            tokens    uniq
+12_PDF_STEK 2035_Dokumentation_Online-Beteil    110659   14202
+12_pdf_STEK 2035_Dokumentation_Zukunft gesta     15516    3913
+12_pdf_STEK_Nachhaltigkeitsbericht_2025.pdf      13464    3250
+2015_Stadtentwicklungsplan.pdf                   15996    4305
+20230728_STEK 2035_Zukunftsreise 2035.pdf         4939    2025
+AK STEK 2035_Dokumentation 1_Sitzung_09_11_2      1893     743
+AK STEK 2035_Dokumentation 2_Sitzung_25_01_2      2271     949
+MRO 2035+_Konzeptbericht_Broschüre.pdf          32269    7108
+MRO 2035+_Konzeptkarten.pdf                        766     289
+STEK 2035_Arbeitstreffen_17_06_24_Dokumentat      8745    2489
+STEK 2035_Dokumentation_Wege zu den Zielen_1      5060    1752
+STEK_Stadtentwicklungskonzept 2035_A3.pdf        27579    6404
+
+--- GLOBAL ---
+documents:            12
+total tokens:         239,157
+vocabulary size:      26,413
+hapax legomena:       14,920 (56.5% of vocab)
+doc length min/median/max: 766 / 13,464 / 110,659
+
+--- TOP 60 CONTENT TERMS (function words removed) ---
+  heidelberg                            2834
+  stadt                                 2237
+  menschen                              1036
+  seite                                  777
+  stek                                   685
+  erstellt                               626
+  auftrag                                623
+  kokonsult                              622
+  dokumentation                          621
+  gmbh                                   594
+  wohnraum                               549
+  beteiligung                            543
+  alle                                   537
+  flächen                                494
+  online-beteiligung                     486
+  aufsuchende                            486
+  keine                                  370
+  gibt                                   361
+  weniger                                353
+  grünflächen                            348
+  entwicklung                            340
+  sein                                   338
+  angebote                               327
+  schaffen                               323
+  hier                                   314
+  wenn                                   308
+  viele                                  293
+  wohnungen                              284
+  fördern                                278
+  gute                                   269
+  machen                                 267
+  ohne                                   261
+  viel                                   260
+  vertiefung                             258
+  wald                                   257
+  sollte                                 257
+  fachliche                              257
+  erhalten                               255
+  öpnv                                   255
+  ziel                                   249
+  allen                                  249
+  heidelberger                           248
+  neue                                   248
+  besonders                              236
+  ziele                                  236
+  wohnen                                 228
+  kinder                                 228
+  damit                                  227
+  öffentliche                            227
+  leben                                  225
+  stadtteilen                            222
+  stadtentwicklung                       216
+  immer                                  215
+  orte                                   211
+  stärken                                206
+  dabei                                  205
+  altstadt                               205
+  personen                               204
+  frage                                  199
+  infrastruktur                          199
+
+--- BOILERPLATE CANDIDATES (in >=90% of docs, top 50 by freq) ---
+heidelberg, stadt, menschen, seite, stek, erstellt, auftrag, wohnraum, alle, flächen, gibt, weniger, grünflächen, entwicklung, sein, angebote, schaffen, wenn, viele, fördern, gute, machen, ohne, wald, sollte, erhalten, allen, ziel, neue, heidelberger, besonders, ziele, wohnen, öffentliche, stadtteilen, stadtentwicklung, immer, orte, stärken, dabei, altstadt, infrastruktur, wichtig, raum, kultur, öffentlichen, zwischen, wege, räume, nutzen
+
+--- NOISE INDICATORS ---
+digit-containing 'words':     0
+hyphen-linebreak artifacts:   0
+URLs:                         0
+page-number-like lines:       0
+ALL-CAPS lines (headers?):    0
+
+--- RAW SNIPPETS (formatting inspection) ---
+
+>>> 12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.pdf [middle 400 chars]:
+erden und zwar ⏎nicht nur oberflächlich. Warum werden dreckige ⏎Mülleimer und Fassaden einfach so gelassen? Es ⏎wirkt als hätte die Stadt aufgegeben ⏎OB ⏎Barrierefreiheit, Sauberkeit, Sicherheit. ⏎Barrierefreie WCs, Gastronomie und ⏎Geschäfte.Kühle, schattige Plätze zum Hinsetzen ⏎und verweilen. Trinkwasserbrunnen. AEDs. Plätze ⏎für Jugendliche ⏎OB ⏎⏎ ⏎                SEITE 233 VON ⏎472 ⏎DOKUMENTA
+
+>>> 12_pdf_STEK 2035_Dokumentation_Zukunft gestalten_25_06_24.pdf [middle 400 chars]:
+ie z. B. nach Mannheim wollen, die wegen der ⏎langen Fahrzeit doch lieber das Auto nehmen.  ⏎ ⏎Freizeitanlage ⏎Hütte und/oder Veranstaltungsgebäude für private Feste, ⏎möglichst in jedem Stadtteil. Unsere 10-20.000 Einwohner ⏎großen Umlandgemeinden (z. B. Leimen, Nußloch, Walldorf, ⏎Dossenheim, Plankstadt etc.) verfügen über eine oder ⏎mehrere hochwertige Anlagen. Diese Gemeinden haben Typ ⏎Stadtt
+
+>>> 12_pdf_STEK_Nachhaltigkeitsbericht_2025.pdf [middle 400 chars]:
+⏎Ein Indikator zur Messung der Mobilitätswende ist das Aufkommen des Kraftfahrzeugverkehrs. Hier ⏎dargestellt als die durchschnittliche Verkehrsmenge in einer Woche (Montag bis Sonntag). Für das ⏎Heidelberger Verkehrsaufkommen wurde der Verkehr in Heidelberg an 7 Verkehrszählstellen gemes-⏎sen (siehe Trendanalyse Verkehr), welche sich über das Stadtgebiet verteilen (Anlage 03 zur Drucksa-⏎che 0081
+
+>>> 2015_Stadtentwicklungsplan.pdf [middle 400 chars]:
+ugendliche in ihrem Lebensbereich ⏎Erfahrungen mit der Natur machen ⏎können.⏎*Mehr Informationen dazu im Anhang⏎⏎27⏎Zielvorgaben des neuen⏎Verkehrsentwicklungsplans⏎D⏎er Stadtentwicklungsplan Heidel-⏎berg 2010 bezieht sich in seinen⏎Aussagen zur Verkehrsentwicklung ⏎und umweltfreundlichen Mobilität im⏎wesentlichen auf die Vorgaben des⏎neuen Verkehrsentwicklungsplans aus⏎dem Jahr 1994. Die dort det
+
+--- EXTRACTION META ---
+[
+ {
+  "file": "12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.pdf",
+  "pages": 472,
+  "near_empty_pages": 0,
+  "chars": 897945,
+  "chars_per_page": 1902
+ },
+ {
+  "file": "12_pdf_STEK 2035_Dokumentation_Zukunft gestalten_25_06_24.pdf",
+  "pages": 75,
+  "near_empty_pages": 0,
+  "chars": 133377,
+  "chars_per_page": 1778
+ },
+ {
+  "file": "12_pdf_STEK_Nachhaltigkeitsbericht_2025.pdf",
+  "pages": 86,
+  "near_empty_pages": 2,
+  "chars": 131614,
+  "chars_per_page": 1530
+ },
+ {
+  "file": "2015_Stadtentwicklungsplan.pdf",
+  "pages": 52,
+  "near_empty_pages": 2,
+  "chars": 129945,
+  "chars_per_page": 2499
+ },
+ {
+  "file": "20230728_STEK 2035_Zukunftsreise 2035.pdf",
+  "pages": 22,
+  "near_empty_pages": 0,
+  "chars": 43002,
+  "chars_per_page": 1955
+ },
+ {
+  "file": "AK STEK 2035_Dokumentation 1_Sitzung_09_11_23_kein.pdf",
+  "pages": 53,
+  "near_empty_pages": 6,
+  "chars": 16406,
+  "chars_per_page": 310
+ },
+ {
+  "file": "AK STEK 2035_Dokumentation 2_Sitzung_25_01_24.pdf",
+  "pages": 38,
+  "near_empty_pages": 1,
+  "chars": 20104,
+  "chars_per_page": 529
+ },
+ {
+  "file": "MRO 2035+_Konzeptbericht_Broschüre.pdf",
+  "pages": 71,
+  "near_empty_pages": 0,
+  "chars": 282290,
+  "chars_per_page": 3976
+ },
+ {
+  "file": "MRO 2035+_Konzeptkarten.pdf",
+  "pages": 4,
+  "near_empty_pages": 0,
+  "chars": 8111,
+  "chars_per_page": 2028
+ },
+ {
+  "file": "STEK 2035_Arbeitstreffen_17_06_24_Dokumentation.pdf",
+  "pages": 49,
+  "near_empty_pages": 1,
+  "chars": 75369,
+  "chars_per_page": 1538
+ },
+ {
+  "file": "STEK 2035_Dokumentation_Wege zu den Zielen_11_12_24.pdf",
+  "pages": 32,
+  "near_empty_pages": 0,
+  "chars": 45408,
+  "chars_per_page": 1419
+ },
+ {
+  "file": "STEK_Stadtentwicklungskonzept 2035_A3.pdf",
+  "pages": 68,
+  "near_empty_pages": 1,
+  "chars": 236126,
+  "chars_per_page": 3472
+ }
+]

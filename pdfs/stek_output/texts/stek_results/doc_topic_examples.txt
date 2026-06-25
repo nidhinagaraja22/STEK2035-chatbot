@@ -1,0 +1,39 @@
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 0 (p=0.42)
+  words: fläche, wald, grünfläch, neckar, gebäude, landschaft, baum, grün
+  text:  | 25.06.-25.07.24 | HEIDELBERG STEK 2035 26.08.2024 Indem Heidelberg nicht auf Windkraft setzt, sondern auf Solar, Gas perspektivisch Wasserstoff oder AKWs der neuen Generation. Das Mannheimer Kraftwerk sollte am Strom b...
+
+[MRO 2035+_Konzeptbericht_Broschüre] LDA topic 3 (p=0.41)
+  words: fläche, entwicklung, person, wohnung, hoch, mro, quelle, wohnraum
+  text:  hoher Windhöffigkeit der Bau von Windenergieanalagen an. Für diese wurden am 01. Februar 2023 mit dem Wind-an-Land-Gesetz verbindliche Flächenziele für die einzelnen Bundesländer festgelegt. Deren Darstellung von Energie...
+
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 0 (p=0.96)
+  words: fläche, wald, grünfläch, neckar, gebäude, landschaft, baum, grün
+  text:  davor habe ich sie bemerkt. Im Wald sind die unsichtbar. Wenn man darunter steht sind sie beeindruckend. Ich bin gelernter Energieanlagenelektroniker und kann deren Leistung beurteilen. Es ist faszinierend. Damit lösen w...
+
+[20230728_STEK 2035_Zukunftsreise 2035] LDA topic 1 (p=0.40)
+  words: mensch, sozial, angebot, kultur, gruppe, international, bevölkerung, infrastruktur
+  text:  mit Lautsprache. Du musst Stunden auf Hilfe warten. Lernen Best-Practice Beispiele anderer Städte in einem Katalog zusammenfassen und eine Ideensammlung schaffen Anlage 2: Weitere Kommentare zu den Themenstationen Arbeit...
+
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 4 (p=0.53)
+  words: mensch, stadtteil, aufsuchende_beteiligung, angebot, öpnv, kind, ort, auto
+  text:  organisiert ggf. Hilfen. OB Sicherheit! Verbot von Betteln und Hausieren OB Ältere Menschen Wegen Vereinbarung und Armut Frauen, jeden Alters Wegen übergriffiger Männer Die sich in Deutschland nicht an die Regeln halten ...
+
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 4 (p=0.66)
+  words: mensch, stadtteil, aufsuchende_beteiligung, angebot, öpnv, kind, ort, auto
+  text:  Pflege lösen wie zB mit Mexiko- Vertrag: Ausländer mithelfen + arbeiten lassen, Partnerschaften (Länder/Stadt, Aus- OB SEITE 447 VON DOKUMENTATION ONLINE-BETEILIGUNG UND AUFSUCHENDE BETEILIGUNG | 25.06.-25.07.24 | HEIDEL...
+
+[MRO 2035+_Konzeptbericht_Broschüre] LDA topic 3 (p=0.49)
+  words: fläche, entwicklung, person, wohnung, hoch, mro, quelle, wohnraum
+  text:  Ein weiterer Fokus wird zukünftig auf die Bestandsoptimierung und Weiterentwicklung von bisher eher monofunktionalen Gewerbestandorten gelegt werden, da durch neue Produktions- und Arbeitsweisen hier neue Möglichkeiten f...
+
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 0 (p=0.67)
+  words: fläche, wald, grünfläch, neckar, gebäude, landschaft, baum, grün
+  text:  das Stadtbild nicht verändern OB DOKUMENTATION ONLINE-BETEILIGUNG UND AUFSUCHENDE BETEILIGUNG | 25.06.-25.07.24 | HEIDELBERG STEK 2035 26.08.2024 Frage 2: Wie kann Landwirtschaft und Naturschutz in Heidelberg in Einklang...
+
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 4 (p=0.60)
+  words: mensch, stadtteil, aufsuchende_beteiligung, angebot, öpnv, kind, ort, auto
+  text:  mehr Repräsentation in der Stadt (Verwaltung, Werbung, Gemeinderat), Sensibilisierung für Vielfalt -> Vorbeugungen von Diskriminierungen, Förderungen des Engagements in den Bereichen OB SEITE 207 VON DOKUMENTATION ONLINE...
+
+[STEK 2035_Arbeitstreffen_17_06_24_Dokumentation] LDA topic 1 (p=0.59)
+  words: mensch, sozial, angebot, kultur, gruppe, international, bevölkerung, infrastruktur
+  text:  brauchen vulnerable Gruppen?  Übung  Mehr Aufmerksamkeit  Leitfaden, Sicherheit  Zugang zu Informationen  Mehr Sichtbarkeit  Mehr Aufmerksamkeit  Fürsprecher  System das zuhört  Ehrenamt, bürgerschaftliches Eng...

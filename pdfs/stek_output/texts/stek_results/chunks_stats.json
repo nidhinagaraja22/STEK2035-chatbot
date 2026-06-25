@@ -1,0 +1,19 @@
+{
+ "n_chunks": 972,
+ "chunks_per_doc": {
+  "12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024": 441,
+  "MRO 2035+_Konzeptbericht_Broschüre": 129,
+  "STEK_Stadtentwicklungskonzept 2035_A3": 117,
+  "2015_Stadtentwicklungsplan": 63,
+  "12_pdf_STEK 2035_Dokumentation_Zukunft gestalten_25_06_24": 62,
+  "12_pdf_STEK_Nachhaltigkeitsbericht_2025": 59,
+  "STEK 2035_Arbeitstreffen_17_06_24_Dokumentation": 36,
+  "20230728_STEK 2035_Zukunftsreise 2035": 22,
+  "STEK 2035_Dokumentation_Wege zu den Zielen_11_12_24": 22,
+  "AK STEK 2035_Dokumentation 2_Sitzung_25_01_24": 9,
+  "AK STEK 2035_Dokumentation 1_Sitzung_09_11_23_kein": 8,
+  "MRO 2035+_Konzeptkarten": 4
+ },
+ "dict_size": 2678,
+ "mean_tokens_per_chunk": 85.19135802469135
+}
