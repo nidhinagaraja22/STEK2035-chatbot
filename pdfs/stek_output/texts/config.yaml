@@ -1,12 +1,12 @@
 # STEK 2035 Topic Modeling Pipeline — configuration
 paths:
   
-  text_dir: "/Users/nidhinagaraja/Desktop/pdfs/stek_output/texts"      # output of stek_explore.py
+  text_dir: ""      # output of stek_explore.py
   results_dir: "./stek_results"
 
 chunking:
-  target_tokens: 250        # merge pages until chunk reaches ~this size
-  min_tokens: 80            # drop chunks smaller than this after cleaning
+  target_tokens: 150        # merge pages until chunk reaches ~this size
+  min_tokens: 50            # drop chunks smaller than this after cleaning
 
 cleaning:
   footer_patterns:          # lines matching these are removed entirely

@@ -1,0 +1,8 @@
+Topic  0: reihe, bildung, mensch, leben, schule, strategie, wohnen, wohnung, rad, kind, arbeit, weg, einrichtung, quelle, bürgerin_bürger
+Topic  1: fachliche_vertiefung, kommune, landschaft, umsetzung, nutzunge, nutzung, produktion, mro, fläche, standort, glossar, nachhaltig, grundlage, nachhaltig_entwicklung, ebene
+Topic  2: unterschiedlich, hoch, zusammenhalt, individuell, fokus, bestehend, diskussion, stadtgesellschaft, gewerbegebiet, umland, arbeitsplatz, gemeinde, telefon, mannheim, interesse
+Topic  3: ziel, natürlich, nutzung, bild, struktur, ressource, wirtschaftlich, kommunal, unterer, region, zentral, sinn, sozial, maßnahme, städtebaulich
+Topic  4: entwicklung, ziel, wichtig, fläche, maßnahme, verschieden, bereich, besonderer, öffentlich, zukunft, infrastruktur, veränderung, klima, funktion, quartier
+Topic  5: fläche, gebäude, grünfläch, straße, wald, instrument, baum, park, grün, neckar, platz, auto, öpnv, natur, ökosystem
+Topic  6: mensch, stadtteil, angebot, ort, vielfalt, raum, kultur, gruppe, sozial, kulturell, teilhabe, gesellschaftlich, innenstadt, verein, möglichkeit
+Topic  7: person, wohnraum, prozent, bevölkerung, energie, amt_stadtentwicklung, lernen, statistik, anteil, material, menschlich, hoch, wohnung, deutsch, mobilitätswende

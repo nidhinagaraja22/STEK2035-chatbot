@@ -1,5 +1,5 @@
 """
-STEK 2035 — Tasks 2–5: Preprocessing, LDA, LSA, Comparative Evaluation
+STEK 2035 — Tasks 2-5: Preprocessing, LDA, LSA, Comparative Evaluation
 =======================================================================
 Usage:
     pip install pymupdf gensim scikit-learn spacy pyyaml pandas
@@ -78,9 +78,9 @@ def preprocess_chunks(chunks: list[str], cfg: dict) -> list[list[str]]:
     p = cfg["preprocessing"]
     log.info("Loading spaCy model %s ...", p["spacy_model"])
     nlp = spacy.load(p["spacy_model"], disable=["parser", "ner"])
-    keep_pos = set(p["keep_pos"])
-    custom_stop = set(w.lower() for w in p["custom_stopwords"])
-    min_len = p["min_token_len"]
+    keep_pos = set(p["keep_pos"])  # e.g. ["NOUN", "VERB", "ADJ"]
+    custom_stop = set(w.lower() for w in p["custom_stopwords"]) # e.g. ["dass", "sein"]
+    min_len = p["min_token_len"] # min length of lemmatized token to keep
 
     docs = []
     for doc in nlp.pipe(chunks, batch_size=64):
@@ -93,8 +93,7 @@ def preprocess_chunks(chunks: list[str], cfg: dict) -> list[list[str]]:
                 continue
             toks.append(lemma)
         docs.append(toks)
-    log.info("Lemmatized %d chunks", len(docs))
-
+    log.info("Lemmatized %d chunks", len(docs))  # lemmatization + POS filter + stopwords + min_len filter
     if p["bigrams"]["enabled"]:
         phrases = Phrases(docs, min_count=p["bigrams"]["min_count"],
                           threshold=p["bigrams"]["threshold"])
