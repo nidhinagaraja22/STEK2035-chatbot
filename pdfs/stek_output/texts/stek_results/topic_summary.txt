@@ -1,0 +1,9 @@
+STEK 2035 — BERTopic Topic Summary
+============================================================
+Total chunks   : 1255
+Topics found   : 3
+Noise chunks   : 16 (1.3%)
+
+Topic 00 (1161 chunks): menschen, 25, beteiligung, 2024, seite, 2035, können, auftrag, erstellt, kokonsult
+Topic 01 (  51 chunks): themen, ziele, wurden, arbeitskreis, seite, teilnehmenden, 2024, indikatoren, 2035, stadtentwicklungskonzept
+Topic 02 (  27 chunks): sicher, mich, 25, beteiligung, sicherer, bismarckplatz, fühle, unsicher, nachts, fühle mich

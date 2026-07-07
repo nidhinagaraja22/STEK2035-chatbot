@@ -1,0 +1,58 @@
+# STEK 2035 Topic Modeling Pipeline — configuration
+paths:
+  
+  text_dir: ""      # output of stek_explore.py
+  results_dir: "./stek_results"
+
+chunking:
+  target_tokens: 150        # merge pages until chunk reaches ~this size
+  min_tokens: 50            # drop chunks smaller than this after cleaning
+
+cleaning:
+  footer_patterns:          # lines matching these are removed entirely
+    - '(?i)^\s*seite\s+\d+\s+von\s+\d+'
+    - '(?i)kokonsult'
+    - '(?i)erstellt\s+im\s+auftrag'
+    - '(?i)^\s*dokumentation\s*$'
+    - '^\s*\d{1,3}\s*$'     # bare page numbers
+
+preprocessing:
+  spacy_model: "de_core_news_sm"
+  keep_pos: ["NOUN", "PROPN", "ADJ"]
+  min_token_len: 3
+  custom_stopwords:         # corpus-specific, justified by exploration report
+    - heidelberg
+    - heidelberger
+    - stadt
+    - stek
+    - seite
+    - dokumentation
+    - auftrag
+    - gmbh
+    - thema
+    - frage
+    - beispiel
+  bigrams:
+    enabled: true
+    min_count: 10
+    threshold: 12.0
+
+dictionary:
+  no_below: 5               # term must appear in >=5 chunks
+  no_above: 0.5             # term must appear in <50% of chunks
+
+models:
+  topic_counts: [5, 6, 8, 10, 12, 15, 18, 20]
+  random_seed: 42
+  lda:
+    passes: 15
+    iterations: 200
+    alpha: "auto"
+    eta: "auto"
+    chunksize: 200
+  lsa:
+    use_tfidf: true
+
+evaluation:
+  coherence_metric: "c_v"
+  top_n_words: 10

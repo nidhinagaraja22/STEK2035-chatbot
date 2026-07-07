@@ -1,0 +1,5 @@
+Topic  0: fläche, wald, grünfläch, neckar, gebäude, landschaft, baum, grün, natur, landwirtschaft, bahnstadt, nutzunge, freiraum, altstadt, entsiegelung
+Topic  1: mensch, sozial, angebot, kultur, gruppe, international, bevölkerung, infrastruktur, teilnehmend, engagement, stadtentwicklung, ressource, teilhabe, verwaltung, bereich
+Topic  2: ziel, fachliche_vertiefung, entwicklung, stadtteil, wichtig, prozent, umsetzung, anteil, regional, fokus, diskussion, weg_ziel, nachhaltig, stadtentwicklungskonzept, funktion
+Topic  3: fläche, entwicklung, person, wohnung, hoch, mro, quelle, wohnraum, räumlich, nutzung, standort, wohnen, baulich, planung, bestehend
+Topic  4: mensch, stadtteil, aufsuchende_beteiligung, angebot, öpnv, kind, ort, auto, platz, wohnraum, innenstadt, schule, raum, öffentlich, park

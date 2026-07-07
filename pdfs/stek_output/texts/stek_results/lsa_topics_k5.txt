@@ -1,0 +1,5 @@
+Topic  0 (var 0.002): mensch, stadtteil, wohnraum, fläche, wald, aufsuchende_beteiligung, angebot, wohnung, ort, ziel, grünfläch, platz, auto, öpnv, baum
+Topic  1 (var 0.007): wald, neckar, feld, natur, baum, neckarwiese, grünfläch, park, stadtwald, rohrbach, wald_feld, berg, bahnstadt, altstadt, königstuhl
+Topic  2 (var 0.007): wohnung, wohnraum, familie, haus, aufsuchende_beteiligung, mensch, auto, platz, leerstand, kind, gebäude, alt, miete, öpnv, geschäft
+Topic  3 (var 0.006): wohnung, fläche, wohnraum, gebäude, leerstand, haus, entwicklung, wald, neubau, grünfläch, nutzung, nachverdichtung, versiegelung, wohnfläche, familie
+Topic  4 (var 0.005): prozent, person, anteil, quelle, amt_stadtentwicklung, wald, indikator, zahl, beschäftigter, indikatorbeschreibung, kind, statistik, verhältnis, anzahl, durchschnittlich

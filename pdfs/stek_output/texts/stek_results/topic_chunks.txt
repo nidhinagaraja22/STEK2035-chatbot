@@ -1,0 +1,202 @@
+STEK 2035 — Chunks per Topic
+============================================================
+
+────────────────────────────────────────────────────────────
+NOISE | 16 chunks (not assigned to any topic)
+
+  [01] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       55 55 5 Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç ...
+
+  [02] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç ...
+
+  [03] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç ...
+
+  [04] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç Ç ...
+
+  [05] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º ...
+
+  [06] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º ...
+
+  [07] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º ...
+
+  [08] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º ...
+
+  [09] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º º ...
+
+  [10] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       º º º º º º º º Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î ù ù Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î ...
+
+  [11] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       ù Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ...
+
+  [12] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ...
+
+  [13] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î ...
+
+  [14] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î ...
+
+  [15] [MRO 2035+_Konzeptbericht_Broschüre.txt]
+       Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ù ù Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î Î ...
+
+  ... and 1 more chunks
+
+────────────────────────────────────────────────────────────
+Topic 00 | keywords: menschen, 25, beteiligung, 2024, seite, 2035 | 1161 chunks
+
+  [01] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       Anzahl der teilnehmenden Personen, noch deren demografischer Zusammensetzung gemacht werden. Im Rahmen der Online-Beteiligung wird unter „Einträgen“ das Ausfüllen und Versenden eines Kommentar-Formula...
+
+  [02] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       Stadtteil unbedingt geben, damit alle Menschen dort gut wohnen und leben können?“ (Thema „Lebenswerte, Gemischte und inklusive Stadt + Aufgeteilte Stadt“). Mit 271 Einträge wurde am zweithäufigsten di...
+
+  [03] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       und Wirtschaftskraft Freiraum Nutzung + Freiraum Schutz Lebenswerte, gemischte und inklusive Stadt + Aufgeteilte Stadt Transformation + Gesellschaftliche Stabilität International vernetzte Stadt + Lok...
+
+  [04] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       Angebote und einen hohen Standard bei der sozialen Infrastruktur. Wie können diese besser zugänglich gemacht werden? Allgemeine Anmerkungen Transformation + Gesellschaftliche Stabilität Auf welche Men...
+
+  [05] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       sich Heidelberg vorbereiten? Wie sicher ist Heidelberg und wo muss Heidelberg sicherer werden? Wie wird Heidelberg zur klimaangepassten Stadt? Wie kann Heidelberg psychische Gesundheit und Wohlbefinde...
+
+  [06] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       Wohnraum zu schaffen, ohne zusätzliche Flächen zu versiegeln. Bedarfsgerichte (Um-)Verteilung von Wohnraum: Einige Teilnehmende schlagen vor, Tauschbörsen einzurichten, um Wohnraum bedarfsgerecht zu v...
+
+  [07] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       anstatt neue Flächen zu versiegeln. Dazu gehört auch die Umwandlung von Gewerbegebieten in Mischgebiete. Viele Beiträge nennen Konversionsflächen, ehemalige Militärgelände und brachliegende Gewerbegeb...
+
+  [08] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       dem Bismarckplatz oder entlang der Bahnhofsregion mehr Grünflächen zu schaffen. Skeptische und ablehnende Haltungen: Einige Beiträge äußern Skepsis gegenüber weiterem Wachstum der Stadt und betonen, d...
+
+  [09] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       für Tiere und Pflanzen aus, um die Biodiversität zu erhöhen. Reduzierung des Autoverkehrs: Viele Kommentare fordern eine Reduzierung des Autoverkehrs und die Förderung von alternativen Verkehrsmitteln...
+
+  [10] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       besonders wichtig für diejenigen, die nicht regelmäßig die Stadt verlassen können. SEITE 12 VON 472 DOKUMENTATION ONLINE-BETEILIGUNG UND AUFSUCHENDE BETEILIGUNG | 25.06.-25.07.24 | HEIDELBERG STEK 203...
+
+  [11] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       Restaurants und Dienstleistungen wie Ärzten oder Apotheken wird häufig genannt. Verkehrsberuhigung und Mobilität: Viele Teilnehmende betonen die Wichtigkeit einer gute Anbindung an den öffentlichen Na...
+
+  [12] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       und die Förderung von kleinen, inhabergeführten Geschäften betonen. Viele wünschen sich eine größere Vielfalt an Einkaufsmöglichkeiten (weniger Ketten, mehr einzigarte lokale Geschäfte). Auch der Wuns...
+
+  [13] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       DURCH KOKONSULT GMBH & CO. KG IM AUFTRAG DER STADT HEIDELBERG Transformation + Gesellschaftliche Stabilität Auf welche Menschen muss die Stadt besonders Acht geben, um sie auf dem Weg des Wandels nich...
+
+  [14] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       Mobilität und eines Ausbaus der Infrastruktur. Beispielsweise um ältere Menschen oder Menschen ohne Auto nicht abzuhängen. Bildung und Integration: Es wird in einigen Beiträgen betont, dass Bildungsan...
+
+  [15] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       von Stadtentwicklung und Infrastruktur, wie die Schaffung von mehr Grünflächen die Förderung von Bildungseinrichtungen und die Verbesserung der städtischen Ämter. Digitalisierung und Technologie: Eini...
+
+  ... and 1146 more chunks
+
+────────────────────────────────────────────────────────────
+Topic 01 | keywords: themen, ziele, wurden, arbeitskreis, seite, teilnehmenden | 51 chunks
+
+  [01] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       SEITE 1 VON 472 DOKUMENTATION ONLINE-BETEILIGUNG UND AUFSUCHENDE BETEILIGUNG | 25.06.-25.07.24 | HEIDELBERG STEK 2035 26.08.2024 ERSTELLT DURCH KOKONSULT GMBH & CO. KG IM AUFTRAG DER STADT HEIDELBERG ...
+
+  [02] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       auch über die Laufzeit der Beteiligung hinaus angeschaut werden. Parallel zur Online-Beteiligung wurde eine aufsuchende Beteiligung mit einer Auswahl von Fragen aus der Onlinebeteiligung in verschiede...
+
+  [03] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       die STEK Projektgruppe insgesamt 29 Fragen in den sechs STEK Themenfeldern erarbeitet, die die „Knackpunkte“ der Stadtentwicklung betreffen. Die Bürgerinnen und Bürger konnten diese Fragen bei der Onl...
+
+  [04] [12_pdf_STEK 2035_Dokumentation_Zukunft gestalten_25_06_24.txt]
+       Foto: Christian Buck ÖFFENTLICHE VERANSTALTUNG STADTENTWICKLUNGSKONZEPT (STEK) 2035 25. JUNI 2024 | 16:00-20:00 UHR KARLSTORBAHNHOF (SÜDSTADT) SEITE 2 VON 64 DOKUMENTATION ÖFFENTLICHE VERANSTALTUNG AM...
+
+  [05] [12_pdf_STEK 2035_Dokumentation_Zukunft gestalten_25_06_24.txt]
+       An jeder Station gab es themenspezifische „Knackpunkte“ zu lösen. Die Besucherinnen und Besucher hielten ihre Antworten auf bunten Karten fest und klebten diese an eine „Zukunftswand“. Zudem hatten si...
+
+  [06] [12_pdf_STEK 2035_Dokumentation_Zukunft gestalten_25_06_24.txt]
+       GMBH & CO. KG IM AUFTRAG DER STADT HEIDELBERG TALKRUNDEN Moderation: Katharina Lampe (Kokonsult) Talkrunde 1 „Heidelberg 2035 – Einführung in das Stadtentwicklungskonzept“ Stefanie Jansen (Bürgermeist...
+
+  [07] [12_pdf_STEK_Nachhaltigkeitsbericht_2025.txt]
+       die Verpflichtung zu den SDGs, dokumentiert in der Musterresolution 2030 zur Gestaltung der Nachhaltigkeit auf kommunaler Ebene. Relevante Rahmenwerke und Konzepte Die Grundlage für die nachhaltige St...
+
+  [08] [12_pdf_STEK_Nachhaltigkeitsbericht_2025.txt]
+       kontinuierliche Kontrolle der Zielerreichung in der Stadtentwicklung. Sie bieten eine transparente und nachvollziehbare Methode, um den Fortschritt sichtbar zu machen und gegebenenfalls Anpassungen vo...
+
+  [09] [12_pdf_STEK_Nachhaltigkeitsbericht_2025.txt]
+       die Zielerreichung mit realistischer Zielsetzung und der Bezug klar terminiert sind. Qualitative Komponenten sind hingegen nur schwer berücksichtigbar, außer sie werden wie über die Heidelberg-Studie ...
+
+  [10] [12_pdf_STEK_Nachhaltigkeitsbericht_2025.txt]
+       hat in einem gemeinsamen Aushandlungsprozess die Inhalte des STEKs erarbeitet. Wichtiger Bestandteil war der Einbezug von Interessensgruppen sowie Bürgerinnen und Bürgern, um die Inhalte weiter zu sch...
+
+  [11] [12_pdf_STEK_Nachhaltigkeitsbericht_2025.txt]
+       dem SRM abgeleiteten Wissen können zielgruppenspezifische Lösungen entwickelt werden. Diese sollen den individuellen Bedürfnissen der Menschen vor Ort gerecht werden und die Lebensqualität in den einz...
+
+  [12] [12_pdf_STEK_Nachhaltigkeitsbericht_2025.txt]
+       die kommunale Verschuldung bei über 2.800 Euro je Person. Die Steigerung der kommunalen Schulden von 2019 bis 2023 beträgt rund + 26 Prozent. II. Sozialraummonitoring auf Stadtviertelebene – Bezugsjah...
+
+  [13] [12_pdf_STEK_Nachhaltigkeitsbericht_2025.txt]
+       den Sustainable Development Goals (SDG's) und dem Stadtentwicklungskonzept orientieren. Als Themenfelder werden folgende Einzelbereiche empfohlen: ̶ Bevölkerung ̶ Wohnen ̶ Erwerbssituation ̶ Partizipa...
+
+  [14] [12_pdf_STEK_Nachhaltigkeitsbericht_2025.txt]
+       thematischen Blöcke sollen sich an den Themen der Empfehlung aus dem Bericht zur Sozialen Lage 2018 orientieren. Dabei fällt auf, dass rund die Hälfte der Themen mit diesem Vorgehen adressiert werden ...
+
+  [15] [12_pdf_STEK_Nachhaltigkeitsbericht_2025.txt]
+       Dynamik des Fortschritts dokumentieren, wodurch Aussagen zur Realitätsnähe der gesetzten Ziele möglich sind. Im Fokus bleibt dabei weiterhin die Einordnung der Entwicklung in Heidelberg im Kontext des...
+
+  ... and 36 more chunks
+
+────────────────────────────────────────────────────────────
+Topic 02 | keywords: sicher, mich, 25, beteiligung, sicherer, bismarckplatz | 27 chunks
+
+  [01] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       dem Fehlen von bezahlbarem Wohnraum in der Stadt. Einige Antworten thematisieren eine zunehmende LGBTQ Feindlichkeit, Rechtsruck und Rassismus als drängende soziale Herausforderungen, denen sich Heide...
+
+  [02] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       attraktiver machen. OB Frage 4: Wie sicher ist Heidelberg und wo muss Heidelberg sicherer werden? Kürfürstenanlage mehr Sauberkeit Kommunity [SIC] Work für Sauberkeit [unleserlich] AB: Emmertsgrund Si...
+
+  [03] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       mal sogar gefährlich, da Sie nicht zum Ziel führen. Dabei soll die Stadt doch für alle Lebenswert sein. OB Heidelberg ist ausreichend sicher Nachttaxi, Beseitigung von Angsträumen sind ja Thema Besser...
+
+  [04] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       übriges. Ansonsten fühle ich mich in Heidelberg sehr sicher. OB Also diese Burschenschaften die es hier gibt und da sind dass ja schon einige an der Zahl machen mir in diesem politischen Klima schon S...
+
+  [05] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       wie viele umliegende Städtchen, viel mehr stationäre OB SEITE 426 VON DOKUMENTATION ONLINE-BETEILIGUNG UND AUFSUCHENDE BETEILIGUNG | 25.06.-25.07.24 | HEIDELBERG STEK 2035 26.08.2024 ERSTELLT DURCH KO...
+
+  [06] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       Altstadt und in Bahnhofsnähe nur ungern aufhalten. In den Nachtbussen ist es mir auch nicht geheuer - zu viele alkoholisierte Menschen. OB Mehr Fahrradwegen (z.B. in Handschuhsheim auf der Dossenheime...
+
+  [07] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       Der Nahverkehr ist unzuverlässig Radwege versanden, sind nicht vorhanden oder werden bei Straßenbaumaßnahmen nicht mitgedacht, sehr lange Ampelperioden mit ungünstiger Schaltung im Vergleich zu den Au...
+
+  [08] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       ein paar Jahren. OB Das Problem rund um die Stadtwerke Haltestelle ist bekannt. Ich selbst bin selten da, aber ich habe Freundinnen, die dort nicht mehr aussteigen, auch tagsüber, weil sie sich nicht ...
+
+  [09] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       & CO. KG IM AUFTRAG DER STADT HEIDELBERG Ich finde Heidelberg recht sicher, würde als Frau aber abends ungern allein an manchen Orten sein. Stärkere Ausleuchtung an Unterführungen, dunklen Ecken. Mögl...
+
+  [10] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       ist es unheimlich. Gneisenaustrasse auch. OB 50% Schutz der Bürger OB SEITE 430 VON DOKUMENTATION ONLINE-BETEILIGUNG UND AUFSUCHENDE BETEILIGUNG | 25.06.-25.07.24 | HEIDELBERG STEK 2035 26.08.2024 ERS...
+
+  [11] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       Emmertsgrund sowie Kurfürstenanlage OB Kurfürstenanlage muss sicherer werden OB mehr Sicherheit bei bekannten Brennpunkten wie Kurfürstenanlage notwendig OB Polizeipräsenz an den kritischen Stellen be...
+
+  [12] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       war vor 10 Jahren noch anders, da bin ich oft auch nachts alleine mit dem Bus nach Hause gefahren und habe mich sicher gefühlt. Wegen eines aktuellen Vorfalls muss ich sagen, dass die Benutzung von Bu...
+
+  [13] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       OB Schon sehr sicher, unwohl gefühlt habe ich mich aber schon öfter an den Stadtwerken abends OB Für mich gibt es kaum eine andere Stadt, die sicherer ist. Als Mutter von drei Kindern muss ich mir die...
+
+  [14] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       dass ich mein Kind von 7-18 Uhr in eine "Verwahrung" gebe! OB Kurfürstenanlage ist ganz schlimm (Bereich Kaufland), dort fülle ich mich als relativ junger Mann (um die 40) am Abend selbst alleine nich...
+
+  [15] [12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt]
+       Rad- und Gehwegen (nicht wie in der Bahnstadt). Bedeutet auch Durchgreifen bei OB SEITE 434 VON DOKUMENTATION ONLINE-BETEILIGUNG UND AUFSUCHENDE BETEILIGUNG | 25.06.-25.07.24 | HEIDELBERG STEK 2035 26...
+
+  ... and 12 more chunks

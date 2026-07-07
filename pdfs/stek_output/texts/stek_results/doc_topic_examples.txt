@@ -1,0 +1,39 @@
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 5 (p=0.42)
+  words: fläche, gebäude, grünfläch, straße, wald, instrument, baum, park
+  text:  die Bürger beteiligen - Agrar-Photovoltaik nutzen und fördern, unten Pflanzen oder Tiere, oben Photovoltaik, gibt gute Beispiele. - Wasserkraft vom Neckar nutzen (sowohl Durchfluss als auch bei Schleusen durch die versch...
+
+[MRO 2035+_Konzeptbericht_Broschüre] LDA topic 4 (p=0.29)
+  words: entwicklung, ziel, wichtig, fläche, maßnahme, verschieden, bereich, besonderer
+  text:  dem S-Bahnhof und dessen Umfeld ein Fokus liegen. Um flüssige Verkehrsanbindungen gewährleisten zu können, werden die Knotenpunkte multimodal gestaltet. Das bedeutet, dass hier verschiedene Mobilitätsangebote miteinander...
+
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 5 (p=0.47)
+  words: fläche, gebäude, grünfläch, straße, wald, instrument, baum, park
+  text:  ausstatten. OB Stadtwerke und Stadt müssen schneller werden. Z.B. Fernwärme in jedem Stadtteil innerhalb kürzester Zeit OB Energiegewinnung durch Neckar Fluss Alle öffentlich Gebäude mit Solar, auch Schulen und Turnhalle...
+
+[20230728_STEK 2035_Zukunftsreise 2035] LDA topic 6 (p=0.35)
+  words: mensch, stadtteil, angebot, ort, vielfalt, raum, kultur, gruppe
+  text:  mit gehörlosen Menschen verbessern - Handwerk und Handwerkliche Verarbeitung fördern - Wie können wir Barrieren in Kultureinrichtungen abbauen und kulturelle Veranstaltungen für alle Personengruppen zugänglich machen? Th...
+
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 6 (p=0.33)
+  words: mensch, stadtteil, angebot, ort, vielfalt, raum, kultur, gruppe
+  text:  Menschen und Kinder. Es braucht bezahlbaren Wohnraum, um mit Rentenbezug noch die Miete zahlen zu können sowie eine höhere Unterstützung für die Kita- /Tagesmutterbeiträge. Wenn man vom Haushaltseinkommen her gerade so i...
+
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 6 (p=0.26)
+  words: mensch, stadtteil, angebot, ort, vielfalt, raum, kultur, gruppe
+  text:  Nähtreffs,...) OB sozial benachteiligte Menschen, ansonsten wie oben aufgeführt; Angebote, Transparenz OB Langzeitarbeitslose (aufgrund von psychischen/ Suchterkrankungen, Wohnungslosigkeit); brauchen: engmaschige Beglei...
+
+[MRO 2035+_Konzeptbericht_Broschüre] LDA topic 4 (p=0.39)
+  words: entwicklung, ziel, wichtig, fläche, maßnahme, verschieden, bereich, besonderer
+  text:  Ein weiterer Fokus wird zukünftig auf die Bestandsoptimierung und Weiterentwicklung von bisher eher monofunktionalen Gewerbestandorten gelegt werden, da durch neue Produktions- und Arbeitsweisen hier neue Möglichkeiten f...
+
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 3 (p=0.50)
+  words: ziel, natürlich, nutzung, bild, struktur, ressource, wirtschaftlich, kommunal
+  text:  außer-Haus-Verpflegung verpflichtender Regional- Anteil, gemeinsame Bauernläden für alle regionalen Betriebe / Verteilzentren für SolaWis in allen Stadtteilen einrichten und betreiben. Vermarktung der Produkte aus der re...
+
+[12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024] LDA topic 0 (p=0.46)
+  words: reihe, bildung, mensch, leben, schule, strategie, wohnen, wohnung
+  text:  mehr Repräsentation in der Stadt (Verwaltung, Werbung, Gemeinderat), Sensibilisierung für Vielfalt -> Vorbeugungen von Diskriminierungen, Förderungen des Engagements in den Bereichen OB SEITE 207 VON DOKUMENTATION ONLINE...
+
+[STEK 2035_Arbeitstreffen_17_06_24_Dokumentation] LDA topic 1 (p=0.63)
+  words: fachliche_vertiefung, kommune, landschaft, umsetzung, nutzunge, nutzung, produktion, mro
+  text:  Stadt im Stress + Robuste und resiliente Infrastruktur ©urbanista/Tobias Hage Seite 7 Arbeitsphase Kleingruppenarbeit Moderierte Perspektivgespräche Orientierung Seite 8 −Die Arbeitsphasen finden in moderierten Kleingrup...

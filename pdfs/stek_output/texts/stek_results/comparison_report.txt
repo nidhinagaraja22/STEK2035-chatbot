@@ -1,0 +1,31 @@
+STEK 2035 — LDA vs LSA QUANTITATIVE COMPARISON
+============================================================
+ k  lda_coherence  lsa_coherence  lda_diversity  lsa_diversity  lda_jaccard  lsa_jaccard
+ 5         0.3754         0.6350         0.9200         0.7400       0.0211       0.1072
+ 6         0.4238         0.5953         0.9833         0.6333       0.0035       0.1423
+ 8         0.4585         0.6162         0.9375         0.6750       0.0113       0.0938
+10         0.4148         0.5493         0.9500         0.6400       0.0060       0.0745
+12         0.4061         0.5332         0.9917         0.5917       0.0008       0.0787
+15         0.3889         0.5026         0.9733         0.5533       0.0020       0.0767
+18         0.4101         0.4759         0.9889         0.5222       0.0007       0.0803
+20         0.3590         0.4791         0.9600         0.5350       0.0025       0.0727
+
+Best LDA: k=8, c_v=0.4585
+Best LSA: k=5, c_v=0.6350
+
+--- LDA topics (k=8) ---
+T 0: reihe, bildung, mensch, leben, schule, strategie, wohnen, wohnung, rad, kind
+T 1: fachliche_vertiefung, kommune, landschaft, umsetzung, nutzunge, nutzung, produktion, mro, fläche, standort
+T 2: unterschiedlich, hoch, zusammenhalt, individuell, fokus, bestehend, diskussion, stadtgesellschaft, gewerbegebiet, umland
+T 3: ziel, natürlich, nutzung, bild, struktur, ressource, wirtschaftlich, kommunal, unterer, region
+T 4: entwicklung, ziel, wichtig, fläche, maßnahme, verschieden, bereich, besonderer, öffentlich, zukunft
+T 5: fläche, gebäude, grünfläch, straße, wald, instrument, baum, park, grün, neckar
+T 6: mensch, stadtteil, angebot, ort, vielfalt, raum, kultur, gruppe, sozial, kulturell
+T 7: person, wohnraum, prozent, bevölkerung, energie, amt_stadtentwicklung, lernen, statistik, anteil, material
+
+--- LSA topics (k=5) ---
+T 0 (var 0.002): mensch, stadtteil, wohnraum, fläche, wald, aufsuchende_beteiligung, angebot, wohnung, ort, ziel
+T 1 (var 0.007): wald, neckar, feld, natur, baum, neckarwiese, grünfläch, park, stadtwald, rohrbach
+T 2 (var 0.007): wohnung, wohnraum, familie, haus, aufsuchende_beteiligung, mensch, auto, platz, leerstand, kind
+T 3 (var 0.006): wohnung, fläche, wohnraum, gebäude, leerstand, haus, entwicklung, wald, neubau, grünfläch
+T 4 (var 0.005): prozent, person, anteil, quelle, amt_stadtentwicklung, wald, indikator, zahl, beschäftigter, indikatorbeschreibung

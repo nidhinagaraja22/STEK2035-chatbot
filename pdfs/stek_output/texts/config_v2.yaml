@@ -1,0 +1,76 @@
+# STEK 2035 Topic Modeling Pipeline — REFINED configuration (final run)
+# Changes vs v1 are marked with  # <-- CHANGED / # <-- NEW
+paths:
+  text_dir: "./stek_output/texts"
+  results_dir: "./stek_results_v2"        # <-- CHANGED: keep v1 results for comparison
+
+chunking:
+  target_tokens: 250
+  min_tokens: 80
+
+cleaning:
+  # <-- CHANGED: patterns are now UNANCHORED substrings removed via re.sub
+  # (v1 line-anchored filtering missed footers merged into running text)
+  inline_patterns:                        # <-- NEW: applied with re.sub on full text
+    - '(?i)seite\s+\d+\s+von\s+\d*'
+    - '(?i)dokumentation\s+online-beteiligung\s+und\s+aufsuchende\s+beteiligung'
+    - '(?i)online-beteiligung\s+und\s+aufsuchende\s+formate'
+    - '(?i)erstellt\s+im\s+auftrag\s+(der|des)?\s*\w*'
+    - '(?i)kokonsult(\s+gmbh)?'
+    - '(?i)heidelberg\s+stek\s+2035'
+    - '\|\s*25\.06\.-25\.07\.24\s*\|'
+    - '\d{2}\.\d{2}\.\d{4}'               # standalone dates (report headers)
+  footer_patterns:                        # line-level removal (kept from v1)
+    - '(?i)^\s*seite\s+\d+'
+    - '(?i)^\s*dokumentation\s*$'
+    - '^\s*\d{1,3}\s*$'
+
+preprocessing:
+  spacy_model: "de_core_news_lg"
+  keep_pos: ["NOUN", "PROPN", "ADJ"]
+  min_token_len: 3
+  lemma_corrections:                      # <-- NEW: fix spaCy truncation artifacts
+    grünfläch: grünfläche
+    grünflächen: grünfläche
+  custom_stopwords:
+    - heidelberg
+    - heidelberger
+    - stek
+    - stadt
+    - seite
+    - dokumentation
+    - auftrag
+    - gmbh
+    - thema
+    - frage
+    - beispiel
+    - fachlich                            # <-- NEW: section header "Fachliche Vertiefung"
+    - vertiefung                          # <-- NEW
+    - quelle                              # <-- NEW: figure/source captions
+    - teilnehmend                         # <-- NEW: workshop process word, not content
+    - mensch                              # <-- NEW: see note below
+  bigrams:
+    enabled: true
+    min_count: 10
+    threshold: 12.0
+
+dictionary:
+  no_below: 5
+  no_above: 0.4                           # <-- CHANGED: 0.5 -> 0.4, tightens ubiquitous terms
+
+models:
+  topic_counts: [4, 5, 6, 7, 8, 10, 12]   # <-- CHANGED: densified around the k=5 optimum
+  random_seed: 42
+  seeds_stability: [42, 7, 123]           # <-- NEW: LDA stability check at best k
+  lda:
+    passes: 20                            # <-- CHANGED: 15 -> 20 (final run, small corpus)
+    iterations: 300                       # <-- CHANGED: 200 -> 300
+    alpha: "auto"
+    eta: "auto"
+    chunksize: 200
+  lsa:
+    use_tfidf: true
+
+evaluation:
+  coherence_metric: "c_v"
+  top_n_words: 10
