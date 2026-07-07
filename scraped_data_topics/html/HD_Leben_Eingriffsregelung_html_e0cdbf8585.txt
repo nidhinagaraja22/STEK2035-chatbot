@@ -1,0 +1,15 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/Eingriffsregelung.html
+MATCHED_TOPICS: [0, 1, 2, 3]
+MATCHED_KEYWORDS: ['bereich', 'entwicklung', 'fläche', 'landschaft', 'nachhaltig', 'natur', 'nutzung', 'planung', 'ziel']
+
+Eingriffsregelung
+nach Naturschutzrecht
+Die Eingriffsregelung ist ein Instrument des Naturschutzrechts, das mit seinem allgemeinen Verschlechterungsverbot auch außerhalb von Schutzgebieten einen Mindestschutz von Natur und Landschaft gewährleisten soll. Über eine verbindliche Entscheidungsabfolge bei der Zulassung von Eingriffen soll sie Beeinträchtigungen von Natur und Landschaft entgegenwirken und unvermeidbare Beeinträchtigungen kompensieren. Dadurch sollen die Leistungsfähigkeit des Naturhaushaltes und die Qualität des Landschaftsbildes sowohl in quantitativer als auch in qualitativer Hinsicht nachhaltig gesichert werden.
+Die rechtliche Weiterentwicklung dieses Instrumentes hat dazu geführt, dass heute zwei Varianten der Eingriffsregelung unterschieden werden müssen:
+Naturschutzrechtliche Eingriffsregelung
+Die naturschutzrechtliche Eingriffsregelung (§§ 13 - 18 Bundesnaturschutzgesetz) gilt im Außenbereich, bei baurechtlichen Vorhaben im Außenbereich nach § 35 Baugesetzbuch und bei Bebauungsplänen, die eine Planfeststellung ersetzen. Gemäß § 16 Bundesnaturschutzgesetz können seit der Novellierung des Bundesnaturschutzgesetzes im Jahr 2010 Ausgleichs- und Ersatzmaßnahmen auch gezielt bevorratet werden. Die Ökokonto-Verordnung regelt die Möglichkeit, vorgezogene Maßnahmen bei späteren Eingriffen in Natur und Landschaft als Kompensationsmaßnahmen anrechnen zu können. Mit Hilfe des Instruments Ökokonto können vorgezogen durchgeführte Maßnahmen dokumentiert und verwaltet werden, bis sie einem Eingriff zugeordnet werden.
+Verzeichnis genehmigter und umgesetzter Maßnahmen im Bereich Ökokonto in Heidelberg
+Bauplanungsrechtliche Eingriffsregelung
+Die bauplanungsrechtliche Eingriffsregelung gilt für Bauleitpläne (Flächennutzungspläne, Bebauungspläne) sowie für Ergänzungssatzungen nach § 34 Absatz 4 Baugesetzbuch, soweit in diesen Eingriffe geplant werden (§ 18 Absatz 1 Baugesetzbuch). Sie gilt nicht für Vorhaben in Gebieten mit Bebauungsplänen nach § 33 Baugesetzbuch und im Innenbereich nach § 34 Baugesetzbuch. Im Gegensatz zur naturschutzrechtlichen Eingriffsregelung wird sie bereits auf der Planungsebene und nicht erst bei der Zulassung konkreter Bauvorhaben durchgeführt. Entsprechende Beschlüsse zu Ausgleichs- und Ersatzmaßnahmen bzw. die Ausweisung dafür vorgesehener Flächen werden im Bebauungsplan umgesetzt. Gesetzliche Bestimmungen für diesen Typ von Eingriffsregelung enthält das Baugesetzbuch. Bei Vorhaben im Innenbereich ohne gültigen Bebauungsplan ist die Eingriffregelung nicht anzuwenden (§ 18 Abs.2 Bundesnaturschutzgesetzes). Auch in der bauplanungsrechtlichen Eingriffsregelung besteht die Möglichkeit vorgezogene Ausgleichsmaßnahmen durchzuführen (§ 135a Abs. 2 S. 2 Baugesetzbuch).
+Verzeichnis Kompensationsmaßnahmen im Bereich Eingriffskompensation in Heidelberg
+Zum Seitenanfang

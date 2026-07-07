@@ -1,0 +1,16 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/Sauberes+Heidelberg.html
+MATCHED_TOPICS: [1, 2, 4]
+MATCHED_KEYWORDS: ['ort', 'sozial', 'wichtig']
+
+Sperrgut
+Recyclinghöfe
+Abfallkalender
+Kundenportal Abfallwirtschaft
+Service und Online-Anträge
+Aktuelles
+Was kann ich wo entsorgen?
+Das Abfall-ABC hilft
+Nach der Abfallvermeidung ist Abfalltrennung ein wichtiger Beitrag für die Umwelt. Unser Abfall-ABC bietet eine Übersicht, wohin ein bestimmter Abfall gehört.
+mehr dazu
+Die Stadt Heidelberg in den Sozialen Medien
+Zum Seitenanfang

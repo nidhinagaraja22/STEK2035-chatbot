@@ -1,0 +1,34 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Rathaus/Vorhabenliste.html
+MATCHED_TOPICS: [2, 4]
+MATCHED_KEYWORDS: ['stadtteil', 'wichtig', 'öffentlich']
+
+Vorhabenliste
+Aktuelle Bürgerbeteiligung
+Informativ.
+Mit einer zentralen Vorhabenliste setzt Heidelberg seit 2012 neue Standards bei der Bürgerbeteiligung.
+Transparent und übersichtlich informieren kurze Steckbriefe, welche Projekte in Heidelberg geplant und umgesetzt werden. Aktuell umfasst die Vorhabenliste in etwa 100 städtische Projekte, wie zum Beispiel den
+Masterplan Im Neuenheimer Feld
+. Die Vorhabenliste fördert den Dialog zwischen Stadt und Bürgerschaft und erleichtert die Mitgestaltung bei Projekten und Vorhaben. Seit Einführung der Vorhabenliste erweist sich diese als ein wichtiges Instrument zur frühzeitigen Information der Bürgerschaft.
+INFO
+Vorhabenliste
+Hier geht's zur digitalen Vorhabenliste.
+Frühzeitig.
+Die zentralen Überlegungen zu einem Vorhaben sollen spätestens drei Monate vor der Erstberatung in einem kommunalen Gremium öffentlich gemacht werden, um eine mitgestaltende Bürgerbeteiligung zu ermöglichen. Das bedeutet auch, dass in der Vorhabenliste Projekte aufgelistet sind, zu denen es noch viele Fragen geben kann – sei es zum Vorhaben selbst oder auch zur Form der Bürgerbeteiligung.
+Aktuell.
+Die Vorhabenliste erscheint zweimal jährlich in gedruckter Form und ist in den Heidelberger Bürgerämtern erhältlich. Neue Vorhaben und Projekte werden vierteljährlich
+in digitaler Form
+veröffentlicht und regelmäßig aktualisiert. Die Vorhaben lassen sich bequem nach Themen oder Stadtteilen filtern.
+Mobil.
+Auch in der
+App Mein Heidelberg
+sind die Vorhaben zu finden. Beim Antippen der Pins werden aktuelle Informationen zum jeweiligen Vorhaben angezeigt. So können sich Bürger auch unterwegs über Projekte der Stadt informieren.
+Weitere Infos
+Leitlinien für eine mitgestaltende Bürgerbeteiligung: Kurzversion
+(9,7
+MB
+)
+Leitlinien für eine mitgestaltende Bürgerbeteiligung: Komplettversion
+(668
+KB
+)
+Zum Seitenanfang

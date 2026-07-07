@@ -1,0 +1,8 @@
+SOURCE_FILE: AK STEK 2035_Dokumentation 1_Sitzung_09_11_23_kein.txt
+DOCUMENT_ID: AK STEK 2035_Dokumentation 1_Sitzung_09_11_23_kein
+CHUNK_ID: 7
+WORD_SPAN: 1750-1924
+MATCHED_TOPICS: [1, 2, 3]
+MATCHED_KEYWORDS: ['stadtentwicklung', 'ziel', 'diskussion', 'quelle']
+
+2020 2021 2022 Pro Kopf Flächeninanspruchnahme Quelle: Siedlungs- und Verkehrsfläche je Einwohner (ALKIS) Die Flächeninanspruchnahme pro Kopf in Heidelberg sinkt Aber: Der Wohnflächenverbrauch pro Kopf in Deutschland steigt Moderierte Perspektivgespräche Perspektivgespräche −Wir möchten gemeinsam mit Ihnen das Thema Netto-0 und Flächenverzicht + Bevölkerungs- und Wirtschaftswachstum verhandeln. −Ziel der Perspektivgespräche: unterschiedliche Wünsche und Bedarfe zu verstehen, Gegensätze und Gemeinsamkeiten zu erkennen und vielleicht auch schon erste Lösungsideen zu finden. −Dazu können Sie in Kleingruppen entweder eine Perspektive in eine Diskussion einbringen oder die Diskussion beobachten. −Sie können Ihre Perspektive einbringen oder sich von einer Persona inspirieren lassen. Personas Orientierung −Die Kleingruppen werden jeweils von einem Moderator/Moderatorin angeleitet −So finden Sie Ihre Kleingruppe: Auf Ihrem Namensschild ist farbiger Aufkleber angebracht. Suchen Sie die Sitzgruppe mit der Blume in dieser Farbe. −Sie haben ca. 90 Minuten für die Perspektivgespräche Zeit. Danke für Ihre Aufmerksamkeit und Mitarbeit Haben Sie noch Fragen oder Anmerkungen? Vielen Dank Dr. Gabriela Bloem Amt für Stadtentwicklung und Statistik Amtsleitung Stadt Heidelberg Rathaus, Marktplatz 10 69117 Heidelberg Telefon 06221 58-21500 Telefax 06221 58-4621500 Gabriela.bloem@heidelberg.de www.heidelberg.de

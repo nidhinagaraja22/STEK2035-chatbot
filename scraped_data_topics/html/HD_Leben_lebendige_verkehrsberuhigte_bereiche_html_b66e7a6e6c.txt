@@ -1,0 +1,13 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/lebendige+verkehrsberuhigte+bereiche.html
+MATCHED_TOPICS: [0, 1, 2, 4]
+MATCHED_KEYWORDS: ['bereich', 'funktion', 'gruppe', 'grün', 'kind', 'ort', 'wichtig', 'ziel']
+
+Wir machen die verkehrsberuhigten Bereiche lebendiger!
+Die verkehrsberuhigten Bereiche in Heidelberg sollen lebendiger und sicherer werden. In den Straßen soll die Aufenthaltsfunktion überwiegen. Zu Fuß Gehende, insbesondere Kinder, sollen sich in diesen Abschnitten sicher fühlen und die Straße im gesamten Abschnitt nutzen können.
+Dies ist die Zielsetzung einer städtischen Arbeitsgruppe, die das Amt für Mobilität im Frühjahr 2021 gegründet hat. Die Arbeitsgruppe hat in der Zwischenzeit ein stadtweites Konzept entwickelt, das insbesondere schnelle, kostengünstige und flexible Varianten zur rechtssicheren Umgestaltung von verkehrsberuhigten Bereichen enthalten soll. Bisher wurden ein Analysetool sowie eine Bewertungsmatrix erarbeitet. Begleitet wird die Arbeitsgruppe vom Büro bueffee, mit dem die Stadt bereits beim stadtweiten Sicherheitsaudit zusammenarbeitet.
+Ein wichtiger Baustein in diesem Konzept ist eine Bürgerbeteiligung mit betroffenen Anwohnerinnen und Anwohnern sowie eine kurze Online-Umfrage für ein erstes Stimmungsbild, die beide im September und Oktober 2021 durchgeführt wurden.
+Zum Start wurden sechs verkehrsberuhigte Bereiche in Heidelberg, durch die ein Schulweg führt, als Pilotprojekte ausgewählt. Dazu zählen Straßen auf dem Boxberg, in Rohrbach, der Weststadt, in Wieblingen, Pfaffengrund und Ziegelhausen.
+Die Ergebnisse der Arbeitsgruppe sollen noch in 2022 den politischen Gremien vorgestellt, dort diskutiert und die die daraus resultierenden Maßnahmen beschlossen werden.
+Pilotprojekt Blumenstraße
+Als Modellkommune des Landes Baden-Württemberg und in Zusammenarbeit mit dem Kompetenznetz KlimaMobil setzt die Stadt Heidelberg jetzt im Rahmen des Förderprogramms „Mutig voran beim Klimaschutz im Verkehr“ des Landes Baden-Württemberg Elemente aus dem erarbeiteten Baukastenkonzept zur Gestaltung von lebendigen verkehrsberuhigten Bereichen als Pilotprojekt in der Blumenstraße um.
+Zum Seitenanfang

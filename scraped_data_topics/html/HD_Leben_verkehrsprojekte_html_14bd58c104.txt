@@ -1,0 +1,23 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/verkehrsprojekte.html
+MATCHED_TOPICS: [0, 2]
+MATCHED_KEYWORDS: ['bahnstadt', 'wichtig', 'ziel']
+
+Heidelberger Verkehrsprojekte
+Mehr Mobilität, mehr Klimaschutz
+Heidelberg tut einiges, um die Mobilität ihrer Bürgerinnen und Bürger zu erhöhen und gleichzeitig das Klima zu schützen. Hier finden Sie eine Übersicht der aktuellen Verkehrsprojekte.
+Baustellen in Heidelberg
+Aktuelle und geplante Baustellen im Stadtgebiet, die Auswirkungen auf den Verkehr haben.
+mehr dazu
+Dossenheimer Landstraße
+Die Dossenheimer Landstraße soll umgestaltet werden. Ziel ist es, die Verkehrssituation für alle zu verbessern.
+mehr dazu
+Brückenprojekte
+Brücken werden gebaut, modernisiert und instand gesetzt.
+Mehr dazu
+Radstrategie 2030
+Die Radstrategie 2030 ist ein wichtiger Baustein der Mobilitätswende in Heidelberg.
+mehr dazu
+Eppelheimer Straße
+Alle Infos zum Umbau des Knotenpunktes Eppelheimer Straße/Da-Vinci-Straße in der Bahnstadt.
+mehr dazu
+Zum Seitenanfang

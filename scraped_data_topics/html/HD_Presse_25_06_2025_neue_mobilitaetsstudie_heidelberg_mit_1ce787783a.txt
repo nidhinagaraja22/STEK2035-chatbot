@@ -1,0 +1,34 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Presse/25_06_2025+neue+mobilitaetsstudie_+heidelberg+mit+hohem+anteil+an+rad-+und+fussverkehr.html
+MATCHED_TOPICS: [1, 2, 3, 4]
+MATCHED_KEYWORDS: ['angebot', 'anteil', 'auto', 'bereich', 'bevölkerung', 'entwicklung', 'funktion', 'gruppe', 'infrastruktur', 'mensch', 'nachhaltig', 'nutzung', 'person', 'prozent', 'teilnehmend', 'wohnung', 'ziel', 'öffentlich', 'öpnv']
+
+Neue Mobilitätsstudie: Heidelberg mit hohem Anteil an Rad- und Fußverkehr
+83 Prozent ihrer Wege legen Heidelbergerinnen und Heidelberger innerhalb des Stadtgebiets zu Fuß, mit dem Rad oder ÖPNV zurück
+Die Ergebnisse der aktuellen Studie „Mobilität in Städten – SrV 2023“ der Technischen Universität Dresden zeigen: In Heidelberg wird ein Großteil der Alltagswege zu Fuß oder mit dem Fahrrad zurückgelegt – damit hebt sich Heidelberg im Vergleich von anderen Städten ab. Insgesamt legen Heidelbergerinnen und Heidelberger innerhalb ihrer Stadt rund 83 Prozent ihrer Wege zu Fuß, mit dem Rad oder dem öffentlichen Personennahverkehr (ÖPNV) zurück – der höchste Wert aller untersuchten Städte. Der Anteil des sogenannten motorisierten Individualverkehrs (MIV) ist zugleich im Binnenverkehr innerhalb der Stadt mit 16,7 Prozent der niedrigste Anteil bundesweit. Bei allen Wegen, also auch außerhalb des Stadtgebiets, liegt Heidelberg beim MIV-Anteil deutlich unter dem Durchschnitt vieler vergleichbarer Städte. Die Daten stammen aus einer repräsentativen Haushaltsbefragung im Jahr 2023, an der in Heidelberg rund 2.500 Personen teilnahmen. Die vollständigen Ergebnisse wurden im Frühjahr 2025 veröffentlicht.
+„Die Daten helfen uns dabei, unsere Maßnahmen zur Förderung nachhaltiger Mobilität besser zu bewerten und gezielter weiterzuentwickeln“, erklärt Raoul Schmidt-Lamontain, Bürgermeister für Klimaschutz, Umwelt und Mobilität. „Die hohe Nutzung von Fuß- und Radverkehr bestärkt uns darin, weiter in sichere und attraktive Infrastrukturen zu investieren. Gleichzeitig sind wir bestrebt, das Angebot im öffentlichen Verkehr attraktiver zu gestalten.“
+Mobilitätsverhalten im Alltag
+Am Erhebungstag waren 92,4 Prozent der Heidelberger Bevölkerung mobil, also außerhalb der eigenen Wohnung unterwegs. Pro Person wurden im Durchschnitt 3,7 Wege pro Tag zurückgelegt. Bei den ausschließlich mobilen Personen waren es 4,0 Wege täglich (die 7,6 Prozent der nicht-mobilen Personen wurden hierbei herausgerechnet). Die mittlere Wegelänge betrug 5,3 Kilometer, die mittlere Dauer eines Weges 19,9 Minuten. Daraus kann über alle vier Verkehrsträger (MIV, ÖPNV, Rad, Fuß) eine mittlere Geschwindigkeit von circa 16 Kilometern pro Stunde abgeleitet werden. Diese Werte deuten auf eine kompakte Stadtstruktur mit vielen Alltagszielen in kurzer Distanz hin, welche in Heidelberg vorzufinden ist.
+Verkehrsmittelwahl: Fuß- und Radverkehr dominieren
+Die Studie unterscheidet zwischen der Mobilität der Heidelbergerinnen und Heidelberger, die sich innerhalb von Heidelberg bewegten (Binnenverkehr) und allen Wegen der Heidelbergerinnen und Heidelberger, also auch außerhalb des Stadtgebietes. Dabei zeigen sich folgende ausgewählte Erkenntnisse:
+29 Prozent aller Wege werden zu Fuß zurückgelegt, bei Betrachtung der Wege im Binnenverkehr liegt der Anteil bei 33 Prozent.
+Im Binnenverkehr beträgt der Anteil der Wege mit dem Fahrrad 38 Prozent (33 Prozent bei allen Wegen).
+Mit dem MIV (als Fahrer/in oder Mitfahrer/in) werden 22 Prozent aller Wege zurückgelegt (im Binnenverkehr sogar nur 17 Prozent.)
+14 Prozent aller Fahrten entfallen auf den öffentlichen Nahverkehr, im Binnenverkehr 12 Prozent.
+Zum Vergleich: In vielen deutschen Städten mittlerer Größe liegt der Anteil des MIV häufig über 30 Prozent, während der Fuß- und Radverkehr in der Regel darunter liegt. Heidelberg hebt sich hier durch einen hohen Anteil sogenannter aktiver Mobilitätsformen ab.
+Pkw-Verfügbarkeit und Verkehrsmittelausstattung
+36,8 Prozent der Haushalte in Heidelberg besitzen keinen Pkw – bundesweit liegt dieser Wert bei rund 23 Prozent. Im Durchschnitt sind 0,8 Autos pro Haushalt vorhanden, aber 1,9 Fahrräder. Das deutet auf eine überdurchschnittlich hohe Fahrradverfügbarkeit in Heidelberg hin. Auch der Anteil an Fahrrädern mit Elektromotor ist mit 12,4 Prozent deutlich ausgeprägt – zum Vergleich: Nur 5,8 Prozent der Pkw im Stadtgebiet sind elektrisch betrieben.
+Mobilitätsformen im Alltag
+Die Studie zeigt, dass 55 Prozent der Heidelberger Bevölkerung mindestens zwei verschiedene Verkehrsmittelarten pro Woche nutzen (multimodales Verhalten). Dies setzt unter anderem voraus, dass in Heidelberg verschiedene Verkehrsangebote gut erreichbar und kombinierbar sind.
+Verkehr nach Altersgruppen
+Menschen im erwerbsfähigen Alter (15 bis 64 Jahre) legen durchschnittlich 3,8 Wege pro Tag zurück. Auch Seniorinnen und Senioren (65 Jahre und älter) sind in Heidelberg mit 3,6 Wegen täglich vergleichsweise mobil. Das deutet auf eine gute Erreichbarkeit und Nutzbarkeit des Verkehrsangebots für verschiedene Altersgruppen hin.
+Funktionierender Umweltverbund mit weiterem Entwicklungspotential
+Die Stadt Heidelberg sieht in den Ergebnissen der Studie Hinweise auf eine funktionierende Alltagsmobilität mit breiter Nutzung des Umweltverbunds – also des Zusammenspiels von Fuß-, Rad- und öffentlichem Verkehr.
+Gleichzeitig wird deutlich, dass es in bestimmten Bereichen Entwicklungspotenzial gibt. So liegt der Anteil des öffentlichen Verkehrs mit 14 Prozent beziehungsweise im Binnenverkehr mit 12 Prozent niedrig. Auch der Anteil elektrisch betriebener Fahrzeuge im Pkw-Bestand ist ausbaufähig.
+Subjektive Einschätzungen der Verkehrssituation
+Die Befragten gaben überwiegend an, gern zu Fuß zu gehen (87 Prozent) und gern Fahrrad zu fahren (77 Prozent). Die Zustimmung zum Autofahren fällt mit 56 Prozent geringer aus. Die Bewertung der Verkehrssituation in Heidelberg ist für Fußgänger/innen und Radfahrer/innen jeweils überwiegend „gut“, während sie für den Autoverkehr „befriedigend“ ausfällt.
+Hintergrund zur Studie
+Das Forschungsprojekt „Mobilität in Städten – SrV 2023“ wurde von der Technischen Universität Dresden bundesweit in teilnehmenden Städten durchgeführt. In Heidelberg beteiligten sich 2.491 Personen an der Befragung zwischen Februar 2023 und Januar 2024. Die Datenbasis entstand durch standardisierte Telefon- und Onlineinterviews. Mehr Informationen gibt es im Internet unter
+https://tu-dresden.de/srv
+.
+(Erstellt am 25. Juni 2025)
+Alle Mitteilungen der Rubrik "Pressemitteilungen" anzeigen

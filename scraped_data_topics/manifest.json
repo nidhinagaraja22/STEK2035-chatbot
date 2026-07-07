@@ -1,0 +1,1576 @@
+[
+  {
+    "url": "https://www.heidelberg.de/95567",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\95567_e9b1e5e005.txt",
+    "relevance_score": 10,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Umwelt+und+Nachhaltigkeit.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Umwelt_und_Nachhaltigkeit_html_fb5838318d.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Natur+und+Landschaft.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Natur_und_Landschaft_html_b1db64fd41.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Wohnen.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Wohnen_html_9cb0aa48b8.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Mobilitaet.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Mobilitaet_html_0f396f9717.txt",
+    "relevance_score": 23,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/1350391.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\1350391_html_8cb239be40.txt",
+    "relevance_score": 22,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/2446886.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\2446886_html_76fb5b9c73.txt",
+    "relevance_score": 18,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Die+Stadt.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Die_Stadt_html_a2ce69f95a.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Das+Miteinander.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Das_Miteinander_html_1f8d135704.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Lernen+und+Forschen/Kinderbetreuung.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Lernen_und_Forschen_Kinderbetreuung_html_d5df4fb216.txt",
+    "relevance_score": 11,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Lernen+und+Forschen/Schulen.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Lernen_und_Forschen_Schulen_html_6cdedf53a7.txt",
+    "relevance_score": 17,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/95567#navigation",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\95567_a85403d3a2.txt",
+    "relevance_score": 10,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/95567#inhalt",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\95567_ed123d45c5.txt",
+    "relevance_score": 10,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/stadtentwicklungskonzept+2035.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_stadtentwicklungskonzept_2035_html_fcb484fd31.txt",
+    "relevance_score": 10,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/Amt+fuer+Stadtentwicklung+und+Statistik.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_Amt_fuer_Stadtentwicklung_und_Statistik_html_d3cca6a360.txt",
+    "relevance_score": 14,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/modell+raeumliche+ordnung+-+fortschreibung.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_modell_raeumliche_ordnung_fortschreibung_html_e35aafba03.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/was+ist+das+stek.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_was_ist_das_stek_html_ce1de4a801.txt",
+    "relevance_score": 11,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/7071_814050_1350391_95564_5751989.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\7071_814050_1350391_95564_5751989_html_7d57a717f4.txt",
+    "relevance_score": 12,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/clusteruebersicht.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_clusteruebersicht_html_7ab57d2746.txt",
+    "relevance_score": 12,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E-79662863/heidelberg/Objektdatenbank/61/12/PDF/STEK/12_pdf_STEK_Nachhaltigkeitsbericht_2025.pdf",
+    "type": "pdf",
+    "path": "scraped_data_topics\\pdf\\site_Heidelberg2021_get_documents_E_79662863_heidelberg_Obj_c19a56c8b8.txt",
+    "relevance_score": 59,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/prozess+und+beteiligung.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_prozess_und_beteiligung_html_d22961da2c.txt",
+    "relevance_score": 12,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/stek+in+einfacher+sprache.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_stek_in_einfacher_sprache_html_9824ef4ec4.txt",
+    "relevance_score": 8,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/7071_814050_1350391_95564_2417886.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\7071_814050_1350391_95564_2417886_html_3e70d1fc72.txt",
+    "relevance_score": 8,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E523438442/heidelberg/Objektdatenbank/61/12/PDF/STEK/12_pdf_STEK_Stadtentwicklungskonzept%202035_A3.pdf",
+    "type": "pdf",
+    "path": "scraped_data_topics\\pdf\\site_Heidelberg2021_get_documents_E523438442_heidelberg_Obj_2d1fbc2c2f.txt",
+    "relevance_score": 68,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1705361059/heidelberg/Objektdatenbank/61/12/PDF/230703_A4_Statusbericht_STEK_RZ6_web.pdf",
+    "type": "pdf",
+    "path": "scraped_data_topics\\pdf\\site_Heidelberg2021_get_documents_E1705361059_heidelberg_Ob_1ec046b7c2.txt",
+    "relevance_score": 64,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/,(anker5701108)/HD/Presse/01_07_2025+wegweiser+fuer+innovative+und+nachhaltige+stadt.html#anker5701108",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\anker5701108_HD_Presse_01_07_2025_wegweiser_fuer_innovative_a1cf989208.txt",
+    "relevance_score": 44,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E-1272728961/heidelberg/Objektdatenbank/61/12/PDF/12_pdf_Step_2015_mit_Lesezeichen_mit_Vorwort_E_Wuerzner_s.pdf",
+    "type": "pdf",
+    "path": "scraped_data_topics\\pdf\\site_Heidelberg2021_get_documents_E_1272728961_heidelberg_O_6ee4ca40dc.txt",
+    "relevance_score": 63,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/95567#pageTop",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\95567_817f186f96.txt",
+    "relevance_score": 10,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Umwelt+und+Nachhaltigkeit.html#navigation",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Umwelt_und_Nachhaltigkeit_html_397502c5d1.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Umwelt+und+Nachhaltigkeit.html#inhalt",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Umwelt_und_Nachhaltigkeit_html_2aa72f0163.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Umwelt+aktuell.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Umwelt_aktuell_html_734bc1532f.txt",
+    "relevance_score": 45,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Boden+und+Wasser.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Boden_und_Wasser_html_c4f7243ae1.txt",
+    "relevance_score": 13,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Energie+und+Klimaschutz.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Energie_und_Klimaschutz_html_8977f3f6db.txt",
+    "relevance_score": 12,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/klimawandel-anpassung.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_klimawandel_anpassung_html_5b13ecef2e.txt",
+    "relevance_score": 5,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Luft+und+Laerm.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Luft_und_Laerm_html_cca343b361.txt",
+    "relevance_score": 4,
+    "topics": [
+      0,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/nachhaltigkeit.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_nachhaltigkeit_html_0f7b7576b0.txt",
+    "relevance_score": 13,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Umwelt+Auszeichnungen.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Umwelt_Auszeichnungen_html_b1ce85b115.txt",
+    "relevance_score": 10,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Umwelt+Foerderprogramme.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Umwelt_Foerderprogramme_html_958ed19576.txt",
+    "relevance_score": 12,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Saubere+Stadt.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Saubere_Stadt_html_3969bc63c6.txt",
+    "relevance_score": 6,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/hd/-/Behoerdenwegweiser/amt-fuer-umweltschutz-gewerbeaufsicht-und-energie/oe6012412",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\hd_Behoerdenwegweiser_amt_fuer_umweltschutz_gewerbeaufsicht_c472cbd655.txt",
+    "relevance_score": 22,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/entwickeln/bahnstadt.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_entwickeln_bahnstadt_html_c022e7dcc9.txt",
+    "relevance_score": 15,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/_Passive+House+Award+2014_+fuer+die+Bahnstadt.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Passive_House_Award_2014_fuer_die_Bahnstadt_html_1f87911a9e.txt",
+    "relevance_score": 26,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Masterplan+Klimaschutz.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Masterplan_Klimaschutz_html_c60a04ae4f.txt",
+    "relevance_score": 4,
+    "topics": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/klimaschutzkonferenz+_icca2019_.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_klimaschutzkonferenz_icca2019_html_b0f2730bf5.txt",
+    "relevance_score": 10,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Artenschutzprogramme.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Artenschutzprogramme_html_273ca956af.txt",
+    "relevance_score": 9,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Biotopvernetzung+und+Biotoppflege.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Biotopvernetzung_und_Biotoppflege_html_4aca2c6938.txt",
+    "relevance_score": 15,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Lernen+und+Forschen/Zukunft+lernen.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Lernen_und_Forschen_Zukunft_lernen_html_713eff5732.txt",
+    "relevance_score": 13,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/natuerlich+heidelberg.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_natuerlich_heidelberg_html_62b9692e54.txt",
+    "relevance_score": 8,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/abfall+vermeiden.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_abfall_vermeiden_html_4c9afeeded.txt",
+    "relevance_score": 3,
+    "topics": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Abfall+und+Saubere+Stadt.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Abfall_und_Saubere_Stadt_html_b9eaffbaee.txt",
+    "relevance_score": 3,
+    "topics": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Sauberes+Heidelberg.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Sauberes_Heidelberg_html_ac25b2d954.txt",
+    "relevance_score": 3,
+    "topics": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Fruehjahrsputz.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Fruehjahrsputz_html_f1416ce32c.txt",
+    "relevance_score": 3,
+    "topics": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Bioabfall+und+Kompost.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Bioabfall_und_Kompost_html_c01b9e65fe.txt",
+    "relevance_score": 3,
+    "topics": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Umwelt+und+Nachhaltigkeit.html#pageTop",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Umwelt_und_Nachhaltigkeit_html_ac989c2000.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Natur+und+Landschaft.html#navigation",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Natur_und_Landschaft_html_3c9ada32f5.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Natur+und+Landschaft.html#inhalt",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Natur_und_Landschaft_html_f34d52008f.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Biologische+Vielfalt.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Biologische_Vielfalt_html_39211d6b13.txt",
+    "relevance_score": 11,
+    "topics": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Eingriffsregelung.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Eingriffsregelung_html_e0cdbf8585.txt",
+    "relevance_score": 9,
+    "topics": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Fliess_+und+Stillgewaesser.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Fliess_und_Stillgewaesser_html_5aaf26ccd4.txt",
+    "relevance_score": 6,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Schutzgebiete.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Schutzgebiete_html_92d84171f6.txt",
+    "relevance_score": 18,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/offenland-biotopkartierung.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_offenland_biotopkartierung_html_3cc7b1ece9.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/anleinpflicht+fuer+hunde+in+der+brut-_+setz-+und+aufzuchtzeiten.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_anleinpflicht_fuer_hunde_in_der_brut_setz_und_aufz_848a9b1ddc.txt",
+    "relevance_score": 5,
+    "topics": [
+      0,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/Landschafts_+und+Forstamt.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_Landschafts_und_Forstamt_html_fc8f5e5047.txt",
+    "relevance_score": 20,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Stadtwald.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Stadtwald_html_65514cbe09.txt",
+    "relevance_score": 11,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Freizeit+im+Gruenen.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Freizeit_im_Gruenen_html_c0f9da8960.txt",
+    "relevance_score": 13,
+    "topics": [
+      0,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/pd_15_07_06_zertifikat+_erholungswald_+fuer+heidelberger+stadtwald.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_pd_15_07_06_zertifikat_erholungswald_fuer_heidelbe_25ec333037.txt",
+    "relevance_score": 21,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E-809830029/heidelberg/Objektdatenbank/30/PDF/30_pdf_ortsr_3-16_Baumschutzsatzung.pdf",
+    "type": "pdf",
+    "path": "scraped_data_topics\\pdf\\site_Heidelberg2021_get_documents_E_809830029_heidelberg_Ob_b2db87a2a7.txt",
+    "relevance_score": 19,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Natur+und+Landschaft.html#pageTop",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Natur_und_Landschaft_html_ed7551b295.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Wohnen.html#navigation",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Wohnen_html_ca196d184b.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Wohnen.html#inhalt",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Wohnen_html_1feb199414.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/1468318.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\1468318_html_ebe8b1015e.txt",
+    "relevance_score": 7,
+    "topics": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/wohnplattform.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_wohnplattform_html_88b5eae7eb.txt",
+    "relevance_score": 6,
+    "topics": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/1350395.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\1350395_html_dc8719d4e5.txt",
+    "relevance_score": 7,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/vorhaben+im+wohnungsbau.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_vorhaben_im_wohnungsbau_html_9d5f04ba8c.txt",
+    "relevance_score": 15,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/foerderprogramme.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_foerderprogramme_html_6656a0d990.txt",
+    "relevance_score": 7,
+    "topics": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Heidelberg_Bahnstadt.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Heidelberg_Bahnstadt_html_0d879e59c9.txt",
+    "relevance_score": 19,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/OB+Wuerzner+initiiert+Buendnis+fuer+Wohnen.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_OB_Wuerzner_initiiert_Buendnis_fuer_Wohnen_html_5ce8aa3edb.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/gemeinschaftliches+wohnen.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_gemeinschaftliches_wohnen_html_0d5f4de6c1.txt",
+    "relevance_score": 8,
+    "topics": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/hd/-/Verfahrensbeschreibung/;vbid1038",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\hd_Verfahrensbeschreibung_d040a97b93.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/params_E1513001762/5556358/Fertige.%20Anzeige%20%C2%A7%205%20WiStrG.pdf",
+    "type": "pdf",
+    "path": "scraped_data_topics\\pdf\\site_Heidelberg2021_get_params_E1513001762_5556358_Fertige_9bd69d54b7.txt",
+    "relevance_score": 11,
+    "topics": [
+      0,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E671975248/heidelberg/Objektdatenbank/63/PDF/63_pdf_flyer_wohnraumfoerderung.pdf",
+    "type": "pdf",
+    "path": "scraped_data_topics\\pdf\\site_Heidelberg2021_get_documents_E671975248_heidelberg_Obj_6071b69c7b.txt",
+    "relevance_score": 16,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E171614325/heidelberg/Objektdatenbank/15/PDF/15_pdf_Neubuerger_Broschuere.pdf",
+    "type": "pdf",
+    "path": "scraped_data_topics\\pdf\\site_Heidelberg2021_get_documents_E171614325_heidelberg_Obj_e99c0a3b2e.txt",
+    "relevance_score": 50,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E2143551235/heidelberg/Objektdatenbank/15/PDF/15_pdf_Neubuerger_Brosch_engl.pdf",
+    "type": "pdf",
+    "path": "scraped_data_topics\\pdf\\site_Heidelberg2021_get_documents_E2143551235_heidelberg_Ob_e38b73536e.txt",
+    "relevance_score": 17,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/wohnanker.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_wohnanker_html_b8116926f8.txt",
+    "relevance_score": 9,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Wohnen.html#pageTop",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Wohnen_html_e021f492e4.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Mobilitaet.html#navigation",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Mobilitaet_html_954d2e88e5.txt",
+    "relevance_score": 23,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Mobilitaet.html#inhalt",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Mobilitaet_html_8baff8aa2f.txt",
+    "relevance_score": 23,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/ampelbeauftragter.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_ampelbeauftragter_html_3bdc381a4f.txt",
+    "relevance_score": 6,
+    "topics": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Barrierefreie+Mobilitaet.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Barrierefreie_Mobilitaet_html_75b651847a.txt",
+    "relevance_score": 12,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Baustellen+in+Heidelberg.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Baustellen_in_Heidelberg_html_7893e37f56.txt",
+    "relevance_score": 7,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/e-tretroller.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_e_tretroller_html_0d42e4c459.txt",
+    "relevance_score": 11,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/freie+gehwege.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_freie_gehwege_html_6ad8a665ef.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Kinderfreundliche+Verkehrsplanung.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Kinderfreundliche_Verkehrsplanung_html_3321be947a.txt",
+    "relevance_score": 12,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/lebendige+verkehrsberuhigte+bereiche.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_lebendige_verkehrsberuhigte_bereiche_html_b66e7a6e6c.txt",
+    "relevance_score": 8,
+    "topics": [
+      0,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/mobilitaetsmanagement.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_mobilitaetsmanagement_html_1268b93000.txt",
+    "relevance_score": 17,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Parken.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Parken_html_995b7f630c.txt",
+    "relevance_score": 4,
+    "topics": [
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/radstrategie+2030.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_radstrategie_2030_html_d49dbc2b49.txt",
+    "relevance_score": 31,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/sicherheitsaudit.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_sicherheitsaudit_html_6a7990a781.txt",
+    "relevance_score": 9,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Umweltfreundliche+Mobilitaet.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Umweltfreundliche_Mobilitaet_html_6cc6ae80f4.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Verkehrsplanung.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Verkehrsplanung_html_b8041f4510.txt",
+    "relevance_score": 14,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/verkehrsprojekte.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_verkehrsprojekte_html_14bd58c104.txt",
+    "relevance_score": 3,
+    "topics": [
+      0,
+      2
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/verkehrssicherheit.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_verkehrssicherheit_html_0593457195.txt",
+    "relevance_score": 8,
+    "topics": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/wirtschaftsverkehr.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_wirtschaftsverkehr_html_862000b042.txt",
+    "relevance_score": 11,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/amt+fuer+mobilitaet.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_amt_fuer_mobilitaet_html_48cee60b16.txt",
+    "relevance_score": 16,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Presse/25_06_2025+neue+mobilitaetsstudie_+heidelberg+mit+hohem+anteil+an+rad-+und+fussverkehr.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Presse_25_06_2025_neue_mobilitaetsstudie_heidelberg_mit_1ce787783a.txt",
+    "relevance_score": 19,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Fahrradfreundliches+Heidelberg.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Fahrradfreundliches_Heidelberg_html_0a5c02bb26.txt",
+    "relevance_score": 10,
+    "topics": [
+      0,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/RadKULTUR.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_RadKULTUR_html_a1c6263d51.txt",
+    "relevance_score": 3,
+    "topics": [
+      1,
+      2
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Kinderbeauftragte.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Kinderbeauftragte_html_71ff00bb22.txt",
+    "relevance_score": 17,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/mobinetz/Start/Gesamtprojekt.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\mobinetz_Start_Gesamtprojekt_html_04bb3e455f.txt",
+    "relevance_score": 11,
+    "topics": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/hd/HD/Leben/ampelbeauftragter.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\hd_HD_Leben_ampelbeauftragter_html_930d116c0e.txt",
+    "relevance_score": 6,
+    "topics": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/klimamobilitaetsplan+2035.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_klimamobilitaetsplan_2035_html_da75540f19.txt",
+    "relevance_score": 20,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/mobinetz/Start.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\mobinetz_Start_html_0c4d2f4916.txt",
+    "relevance_score": 9,
+    "topics": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E-2118183734/heidelberg/Objektdatenbank/81/PDF/81_pdf_Steckbrief%20SrV%202023.pdf",
+    "type": "pdf",
+    "path": "scraped_data_topics\\pdf\\site_Heidelberg2021_get_documents_E_2118183734_heidelberg_O_3fe38e7d08.txt",
+    "relevance_score": 18,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Leben/Mobilitaet.html#pageTop",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Leben_Mobilitaet_html_03ad6bc9c1.txt",
+    "relevance_score": 23,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/1350391.html#navigation",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\1350391_html_6d110ce4dd.txt",
+    "relevance_score": 22,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/1350391.html#inhalt",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\1350391_html_3a26383ae6.txt",
+    "relevance_score": 22,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/7071_814050_1350391_95564.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\7071_814050_1350391_95564_html_2f40018d4d.txt",
+    "relevance_score": 10,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/7071_814050_1350391_5439040.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\7071_814050_1350391_5439040_html_4ae9144e79.txt",
+    "relevance_score": 21,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/7071_814050_1350391_229043.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\7071_814050_1350391_229043_html_0aaf57b5af.txt",
+    "relevance_score": 22,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/7071_814050_1350391_2383915.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\7071_814050_1350391_2383915_html_41b2f550cc.txt",
+    "relevance_score": 9,
+    "topics": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/7071_814050_1350391_96188.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\7071_814050_1350391_96188_html_b4cb5c02a2.txt",
+    "relevance_score": 24,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/7071_814050_1350391_230955.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\7071_814050_1350391_230955_html_06868c645b.txt",
+    "relevance_score": 8,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/amt+fuer+stadtentwicklung+und+stadtplanung.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_amt_fuer_stadtentwicklung_und_stadtplanung_html_59f7bdbf65.txt",
+    "relevance_score": 8,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/7071_814050_1350391_95564_95567.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\7071_814050_1350391_95564_95567_html_7a361a6744.txt",
+    "relevance_score": 10,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/Buergerbeteiligung.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_Buergerbeteiligung_html_478e0be3e0.txt",
+    "relevance_score": 6,
+    "topics": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/Vorhabenliste.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_Vorhabenliste_html_eeed3f310a.txt",
+    "relevance_score": 3,
+    "topics": [
+      2,
+      4
+    ]
+  },
+  {
+    "url": "https://www.heidelberg.de/HD/Rathaus/Publikationen.html",
+    "type": "html",
+    "path": "scraped_data_topics\\html\\HD_Rathaus_Publikationen_html_12f13c2b04.txt",
+    "relevance_score": 28,
+    "topics": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

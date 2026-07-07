@@ -1,0 +1,6102 @@
+NACH‒
+HALTIGKEITS‒
+BERICHT
+2025
+MONITORING 
+DES STADTENTWICKLUNGS- 
+KONZEPTES 2035
+www.heidelberg.de
+Anlage 02 zur Drucksache 0160/2025/BV
+
+
+Inhaltsverzeichnis 
+I.
+Der Nachhaltigkeitsbericht 2025 ......................................................................................................... 5 
+a. Heidelberg im Kontext der Nachhaltigkeit ................................................................................................ 5 
+b. Zielsetzung und Methodik ........................................................................................................................... 6 
+c. Was ist neu? ................................................................................................................................................... 7 
+d. Definition Sozialraum und inhaltliche Ableitung ...................................................................................... 7 
+1.
+Dynamische Entwicklung + sparsame Flächennutzung .................................................................... 9 
+1.1 Wirtschaftliche Entwicklung, Bevölkerungswachstum und neues Wohnen flächensparend 
+ermöglichen ..................................................................................................................................................... 11 
+1.2    Netto Null: Flächenbilanz entwickeln ............................................................................................................ 13 
+1.3  Klimaanpassung, Flächen entsiegeln und mehr  Stadtgrün schaffen ...................................................... 14 
+1.4    Stadtbild: Qualitäten erhalten und mehr Urbanität ................................................................................... 15 
+2.
+Freiraum Nutzung + Freiraum Schutz ............................................................................................... 16 
+2.1  Natur- und Lebensräume im Flächenverbund  entwickeln ....................................................................... 18 
+2.2  Naturerlebnis, Naherholung und Begegnung – grüner Gürtel mit Grünzügen in die Stadt    
+entwickeln ......................................................................................................................................................... 19 
+2.3  Lokale und nachhaltige Landwirtschaft und Ernährung stärken .............................................................. 20 
+2.4  Nachhaltige Energieproduktion steigern und in die Landschaft integrieren ......................................... 21 
+2.5  Berghänge, Rheinebene, Neckar –  Einmaliges Heidelberger Landschaftsbild erhalten ...................... 22 
+2.6    Nachhaltige Bewirtschaftung des Waldes stärken ..................................................................................... 23 
+3.
+Inklusives und soziales Miteinander + individuell geprägte Orte ................................................. 24 
+3.1  Inklusives Zusammenleben: Chancengleichheit und sichtbare Vielfalt leben ........................................ 26 
+3.2  Vielfältigen und bezahlbaren Wohnraum in allen  Stadtteilen verfügbar machen ................................ 30 
+3.3  Starke Stadtteile mit guter Ausstattung und kurzen Wegen fördern ...................................................... 33 
+3.4  Gemeinwohlflächen: Begegnungsorte für den  Zusammenhalt der Gesellschaft bereitstellen .......... 35 
+3.5  Gute Startchancen und lebenslanges Lernen für alle  ermöglichen ........................................................ 36 
+3.6  Starkes Oberzentrum für die Region – Orte für Wirtschaft und Wissenschaft ausbauen ..................... 37 
+4.
+Energie- und Mobilitätswende +  Teilhabe an Veränderungen ...................................................... 38 
+4.1    Große Investitionen in die Energiewende tätigen ...................................................................................... 40 
+4.2    Große Investitionen in die Mobilitätswende tätigen .................................................................................. 41 
+4.3  Transformation verlässlich, transparent und gerecht gestalten und Wissen austauschen .................. 43 
+4.4  Weniger Verbrauch in allen Bereichen: Verfügbare  Ressourcen besser einsetzen .............................. 44 
+4.5    Regionale Zusammenarbeit ausbauen......................................................................................................... 46 
+5.
+International vernetzte Stadt +  lokale Bedürfnisse ....................................................................... 47 
+5.1  Offen sein: Internationale Stadt mit starker lokaler  Tradition ................................................................. 49 
+
+5.2  Wissenschaft und Forschung zum Motor der  Stadtentwicklung machen .............................................. 50 
+5.3  Attraktiv für Fachkräfte sein: Vielfältiger, weltoffener Wirtschaftsstandort mit guten 
+Arbeitsbedingungen........................................................................................................................................ 51 
+5.4  Kultur für alle zugänglich machen und dynamisch  halten ....................................................................... 53 
+5.5    Engagement und Identifikation für die Stadt stärken ................................................................................ 54 
+5.6    Tourismus nachhaltig gestalten .................................................................................................................... 56 
+5.7    Globale Verantwortung im Blick behalten ................................................................................................... 57 
+6. 
+Gesunde, resiliente und sichere Stadt + Stadt im Stress ................................................................ 58 
+6.1  Robustheit im Krisenfall: Krisensichere Infrastruktur für alle Fälle .......................................................... 60 
+6.2    Innovativer Standort mit hoher Dynamik .................................................................................................... 62 
+6.3  Digitalales Heidelberg: Smarte Lösungen und flexible Reaktionsmöglichkeiten schaffen ................... 63 
+6.4    Gesundes und sicheres Leben in der Stadt ermöglichen .......................................................................... 64 
+6.5    Demokratie und Zusammenhalt stärken ..................................................................................................... 66 
+II. 
+Sozialraummonitoring auf  Stadtviertelebene – Bezugsjahr 2023 ................................................. 68 
+III. Fazit und Ausblick ................................................................................................................................ 84 
+ 
+ 
+ 
+ 
+
+5 
+I.
+Der Nachhaltigkeitsbericht 2025
+a.
+Heidelberg im Kontext der Nachhaltigkeit
+Nachhaltigkeit in Heidelberg 
+Im Rahmen der Fortschreibung des Stadtentwicklungskonzeptes (STEK) 2035 wird ein umfassendes Be-
+richts- und Beobachtungssystem eingeführt, bestehend aus dem Nachhaltigkeitsbericht (NB) inklusive 
+Sozialraummonitoring (SRM). Dies dient dazu, die Erreichung der im STEK und den einzelnen Clustern 
+(Themenpaare) festgelegten Zielsetzungen kontinuierlich zu überwachen und zu bewerten. Dabei bilden 
+die Ziele des STEKs den inhaltlichen Rahmen des Monitorings und dessen sechs themenübergreifende 
+Cluster definieren die Struktur. 
+Die Stadt Heidelberg hat seit 2004 eine Tradition der Nachhaltigkeitsberichterstattung aufgebaut und 
+setzt diese kontinuierlich fort. Eine wichtige Orientierung geben dabei die SDG-Indikatoren für Kommu-
+nen, bereitgestellt von der Bertelsmann-Stiftung und der Berichtsrahmen Nachhaltige Kommune (BNK). 
+Die SDGs (Sustainable Development Goals) sind die definierten Ziele einer nachhaltigen Entwicklung 
+durch die UN. Wichtige Meilensteine sind dabei die Heidelberger Leitlinien einer nachhaltigen Entwick-
+lung aus dem Jahr 2016 und die Verpflichtung zu den SDGs, dokumentiert in der Musterresolution 2030 
+zur Gestaltung der Nachhaltigkeit auf kommunaler Ebene. 
+Relevante Rahmenwerke und Konzepte 
+Die Grundlage für die nachhaltige Stadtentwicklung bilden folgende Rahmenwerke und Konzepte: 
+̶ 
+UN-Nachhaltigkeitsziele (SDGs) 
+̶ 
+Europäische Nachhaltigkeitskonzeption 
+̶ 
+Agenda 2030 und die neue Leipzig-Charta 
+̶ 
+Nachhaltigkeitsstrategien des Bundes und des Landes Baden-Württemberg 
+Ziele und Zielerreichung 
+Die Zielsetzung im STEK und die Formulierungen in den dazugehörigen Clustern sind langfristig ausge-
+legt – Zielhorizont 2035. Die kontinuierliche Messung der Zielerreichung und die Bilanzierung sind essen-
+zielle Bestandteile, um die Fortschritte der nachhaltigen Stadtentwicklung festzustellen. Daher soll das 
+Monitoring regelmäßig stattfinden. Wenige Schlüsselindikatoren bilden ein aussagekräftiges Indikatoren-
+system. 
+Übersicht der 17 SDG-Kernziele 
+Im Jahr 2015 hat die Weltgemeinschaft, die Vereinten Nationen (UN), die Agenda 2030 verabschiedet. 
+Es wurden 17 globale Nachhaltigkeitsziele, die Sustainable Development Goals (SDGs), für eine sozial, 
+wirtschaftlich und ökologisch nachhaltige Entwicklung definiert. Die Agenda ist ein Fahrplan für die Zu-
+kunft, der weltweit ein menschenwürdiges Leben ermöglicht und dabei die natürlichen Lebensgrundla-
+gen dauerhaft bewahrt (Quelle: Presse- und Informationsamt der Bundesregierung). An diesen orientiert 
+sich auch die Stadt Heidelberg, im Sinne einer lokalen Umsetzung der Nachhaltigkeitsziele. 
+
+ 
+6 
+Abbildung: Die 17 globalen Nachhaltigkeitsziele 
+ 
+Quelle: Presse- und Informationsamt der Bundesregierung 
+ 
+b. 
+Zielsetzung und Methodik 
+Indikatoren ermöglichen eine kontinuierliche Kontrolle der Zielerreichung in der Stadtentwicklung. Sie 
+bieten eine transparente und nachvollziehbare Methode, um den Fortschritt sichtbar zu machen und ge-
+gebenenfalls Anpassungen vorzunehmen. Adressaten sind insbesondere Gemeinderat und Verwaltung 
+der Stadt Heidelberg und deren Gesellschaften sowie die interessierte Öffentlichkeit.  
+Indikatoren sind messbare Größen oder Kennzahlen, die als Stellvertreter für komplexe Zielsetzungen 
+dienen. Sie erlauben es, abstrakte Ziele konkret zu fassen und deren Erreichung nachvollziehbar zu ma-
+chen. Realistische und miteinander verbundene Ziele stehen im Vordergrund, die Wege dahin sind flexi-
+bel.  
+Die Messung der Zielerreichung erfolgt über quantitative Indikatoren, Messzahlen und über Kartendar-
+stellungen.  Der Indikatoren-Satz des Nachhaltigkeitsberichts ist nicht abgeschlossen, sondern ermög-
+licht eine Weiterentwicklung bei Bedarf. 
+Warum (quantitative) Indikatoren? 
+Quantitative Indikatoren machen Ziele messbar und sind von diesen abgeleitet. Sie ermöglichen einen 
+vergleichenden Überblick mit Komponenten des Benchmarkings und der Zielwertsetzung. So können Er-
+gebnisse als dynamische Entwicklung in zeitliche Reihen oder in Bezug zu anderen Städten oder Gebiets-
+körperschaften gesetzt werden. Aufgrund ihrer hohen Informationsdichte sorgen sie für eine anschauli-
+che, plakative und reduzierte Darstellung komplexer Sachverhalte. Elementar sind darüber hinaus die 
+SMART-Kriterien. Dies bedeutet, dass die Indikatoren spezifisch für Heidelberg sein sollen, Inhalte mess-
+bar gemacht werden (beispielsweise über Etappenziele), Entwicklungen aktiv von der Stadt Heidelberg 
+beeinflussbar sein sollen, die Indikatoren relevant für die Zielerreichung mit realistischer Zielsetzung und 
+der Bezug klar terminiert sind. Qualitative Komponenten sind hingegen nur schwer berücksichtigbar, au-
+ßer sie werden wie über die Heidelberg-Studie quantifizierbar gemacht. Die Verwendung quantitativer 
+Indikatoren schließt Komponenten des Benchmarkings und der Zielwertsetzung ein. Ein solcher Über-
+blick hilft dabei, Fortschritte zu messen und zu bewerten. 
+
+7 
+Daten und Zielwerte 
+Die Daten stammen aus verschiedenen Quellen und werden in eigenen Analysen (teils geobasiert) unter-
+sucht. Bei interkommunalen Vergleichen werden die amtlichen Zahlen des Statistischen Landesamtes Ba-
+den-Württemberg verwendet. Für kleinräumige Betrachtungen kommen die kommunalen Zahlen des 
+Melderegisters zum Tragen. Das Monitoring soll regelmäßig fortgeschrieben werden. Dadurch erhält das 
+Format eine hohe Aktualität. Um Entwicklungen aufzuzeigen, werden zudem Fünfjahreszeiträume (2019 - 
+2024, 2018 - 2023) ermittelt. Zusätzlich werden Vergleichswerte aus anderen Kommunen oder Gebietskör-
+perschaften herangezogen. Zielwerte wurden auch aus aktuellen Fachkonzepten der Stadt Heidelberg, 
+wie dem Einzelhandelskonzept, dem Handlungsprogramm Wohnen oder dem Masterplan 100 Prozent 
+Klimaschutz entnommen. Andere Zielwerte orientieren sich aus Vorgaben der Landes- und Regionalpla-
+nung. Dieses Vorgehen zur Messung der Zielerreichung gewährleistet, dass die integrierte Stadtentwick-
+lung über das Monitoring nachvollziehbar bleibt. 
+c.
+Was ist neu?
+Entwicklungsprozess und Projektstruktur 
+Im Rahmen des Entwicklungsprozesses für das Stadtentwicklungskonzept (STEK) und des Nachhaltig-
+keitsberichtes wurde eine ämterübergreifende Projektgruppe ins Leben gerufen. Diese Projektgruppe 
+hat in einem gemeinsamen Aushandlungsprozess die Inhalte des STEKs erarbeitet. Wichtiger Bestandteil 
+war der Einbezug von Interessensgruppen sowie Bürgerinnen und Bürgern, um die Inhalte weiter zu 
+schärfen.  
+Benchmarking 
+Ein wesentliches Merkmal des STEKs und des Nachhaltigkeitsberichtes ist das Zusammendenken von 
+Themen in einem Cluster, die sich auf den ersten Blick widersprechen. Die Loslösung von sektoralen 
+Fachzielen hin zu mehrschichtigen Zielen ist ein Qualitätsmerkmal des Nachhaltigkeitsberichtes. Dazu 
+werden praxisnahe Indikatoren herangezogen, die einen Hinweis auf Handlungsmöglichkeiten für die 
+Stadt Heidelberg aufzeigen können. 
+Besonders wichtig ist die Zuordnung der Indikatoren zu den nachhaltigen Entwicklungszielen (SDGs). Da-
+mit kann ein Abgleich zwischen der Entwicklung von Heidelberg und anderen Städten in Deutschland 
+oder international erfolgen. 
+d.
+Definition Sozialraum und inhaltliche Ableitung
+Die Betrachtung auf sozialräumlicher Ebene wurde als Auftrag des Gemeinderats formuliert. Die Inhalte 
+des Sozialraummonitorings (SRM) wurden mit den Fachämtern, insbesondere aus der Projektgruppe ab-
+gestimmt. In der Vergangenheit sind sozialräumliche Betrachtungen und allgemeine Statistiken mit un-
+terschiedlichen Referenzräumen erstellt worden. Daher wurde auf eine vergleichende Datenanalyse im 
+Rahmen des Nachhaltigkeitsberichtes verzichtet.  
+Ziel des Sozialraummonitorings ist es, Heidelberg kleinräumig zu analysieren und relevante Themen de-
+tailliert abzubilden. In der Folge sollen daraus Maßnahmen abgeleitet werden können. Adressaten dieser 
+fundierten Analyse sind Politik und Verwaltung. Mit dem aus dem SRM abgeleiteten Wissen können ziel-
+gruppenspezifische Lösungen entwickelt werden. Diese sollen den individuellen Bedürfnissen der Men-
+schen vor Ort gerecht werden und die Lebensqualität in den einzelnen Stadtteilen verbessern. 
+
+ 
+8 
+Basis für die Einteilung sozialräumlicher Einheiten ist die Ebene des Stadtviertels aus der kleinräumigen 
+Gliederung der Kommunalstatistik. Stadtviertel sind gewachsene und historisch definierte Räume, in de-
+nen die Bevölkerung eine vergleichbare soziale Struktur und weitere strukturelle Ähnlichkeiten aufwei-
+sen. Das Stadtviertel (BA-Gliederung) ist die geeignete räumliche Einheit, um personenbezogene Infor-
+mationen datenschutzkonform auswerten und differenzierte Aussagen formulieren zu können. Die Min-
+destgröße der Raumeinheiten für die Bevölkerung beträgt 1.000 Einwohner. Dies bedeutet, dass nicht 
+alle Stadtviertel einzeln ausgewertet werden können. Diese Zahlenwerte können durch qualitative Umfra-
+geergebnisse auf gesamtstädtischer Ebene aus der Bürgerumfrage (Heidelberg-Studie) bei Bedarf er-
+gänzt werden. 
+Die Inhalte für das Sozialraummonitoring werden aus dem bestehenden Indikatoren-Set des Nachhaltig-
+keitsberichts abgeleitet. Die Inhalte werden für das SRM hierfür detailliert in Form von Karten und Raum-
+bildern beschrieben. Das Sozialraummonitoring ist deskriptiv aufgebaut. Es soll in den kommenden Jah-
+ren fortgeschrieben und anlassbezogen weiterentwickelt werden. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Dynamische Entwicklung + sparsame 
+Flächennutzung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cluster 1: Dynamische Entwicklung + sparsame Flächennutzung 
+ 
+ 
+ 
+Ziel 
+Zielformulierung 
+SDG 
+ 
+ 
+ 
+1.1 
+Wirtschaftliche Entwicklung, Bevölkerungswachstum und  
+neues Wohnen flächensparend ermöglichen 
+ 
+ 
+ 
+ 
+ 
+1.2 
+Netto Null: Flächenbilanz entwickeln 
+ 
+ 
+ 
+ 
+1.3 
+Klimaanpassung, Flächen entsiegeln und mehr Stadtgrün schaffen 
+ 
+ 
+ 
+ 
+1.4 
+Stadtbild: Qualitäten erhalten und mehr Urbanität 
+ 
+ 
+
+ 
+ 
+11 
+ 
+1.1 Wirtschaftliche Entwicklung, Bevölkerungswachstum 
+und neues Wohnen flächensparend ermöglichen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Erwerbstätigenquotient: Erwerbstätige je 1.000 Personen 
+ 
+Quelle  Statistisches Landesamt Baden-Württemberg und Bundesagentur für Arbeit; Amt für Stadtentwicklung und Statistik, Stadt 
+Heidelberg 
+769
+774
+779
+822
+827
+0
+20.000
+40.000
+60.000
+80.000
+100.000
+120.000
+140.000
+160.000
+180.000
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1.000
+2019
+2020
+2021
+2022
+2023
+Zahl der Erwerbstätigen und der Einwohner
+Erwerbstätige je 1.000 Einwohner
+Erwerbstätige
+Bevölkerung
+Erwerbstätige je 1.000 Einwohner
+ 
+Das Verhältnis von Erwerbstätigen (basierend auf der Erwerbstätigenschätzung der volkswirtschaftli-
+chen Gesamtrechnung für Baden-Württemberg) zur Wohnbevölkerung (amtliche Zahlen basierend auf 
+dem Zensus 2011 und 2022) lag zuletzt bei rund 800 Erwerbstätigen je 1.000 Einwohner. Um eine für 
+das Oberzentrum Heidelberg angemessene Arbeitsplatzentwicklung zu erreichen, werden 800 Er-
+werbstätige je 1.000 Einwohner als Orientierungswert festgelegt.  
+Der „Sprung“ auf rund 820 Erwerbstätige je 1.000 Einwohner im Jahr 2022 ist durch die Veränderung 
+der Einwohnerzahlen durch den Zensus 2022 zu erklären. Durch den Zensus 2022 fällt die amtliche Be-
+völkerungszahl Heidelbergs im Vergleich zum Zensus 2011 und dessen Fortschreibung geringer aus. 
+Orientierungswert: Über 800 Erwerbstätige pro 1.000 Einwohner bis 2035 halten. 
+Indikatorbeschreibung: Verhältnis von Erwerbstätigen zur Einwohnerzahl in Heidelberg je 1.000 Per-
+sonen. 
+Kenngrößen: 827 Erwerbstätige je 1.000 Einwohner (2023) und eine Entwicklung 2019 bis 2023 von 
+rund + 7,5 Prozent. 
+
+ 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bruttoinlandsprodukt (BIP) pro Kopf für Heidelberg in Euro je Einwohner  
+ 
+Quelle  Volkswirtschaftliche Gesamtrechnung (VGR) - Statistisches Landesamt Baden-Württemberg und eigene Fortschreibung auf 
+Grundlage der VGR; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+58.892
+57.065
+59.265
+62.285
+60.281
+0
+10.000
+20.000
+30.000
+40.000
+50.000
+60.000
+70.000
+2019
+2020
+2021
+2022
+2023
+ 
+Das Bruttoinlandsprodukt (BIP) bildet die gesamte wirtschaftliche Leistung einer Volkswirtschaft ab.  
+Es umfasst die Summe aller formell produzierten Waren und Dienstleistungen abzüglich der Vorleis-
+tungen und Importe. 
+Der BIP-Wert für Heidelberg von 2022, welcher rund 62.000 Euro je Einwohner beträgt, wird als Maß-
+stab für zukünftige Entwicklungen definiert und soll nicht unterschritten werden. Basierend auf der 
+volkswirtschaftlichen Gesamtrechnung (VGR) für Baden-Württemberg wurden für das Jahr 2023 Ent-
+wicklungswerte für Heidelberg errechnet, um einen Orientierungswert für ein zu erwartendes BIP ab-
+leiten zu können, da zu diesem Zeitpunkt die amtlichen Daten des Statistischen Landesamtes Baden-
+Württemberg noch nicht vorliegen. 
+ 
+Zielwerte: BIP pro Kopf von über 62.000 Euro je Person (Wert 2022) erreichen und BIP steigern. 
+Indikatorbeschreibung: Das Bruttoinlandsprodukt ist ein Indikator für Wirtschaftskraft und materiel-
+len Wohlstand. Es definiert den Gesamtwert der wirtschaftlichen Leistung einer Volkswirtschaft. Um 
+die Dynamik der Bevölkerungsentwicklung bei der Entwicklung der Wirtschaftskraft mitzudenken, 
+wird hier das BIP pro Kopf herangezogen. 
+Kenngrößen: Für 2022 beträgt das BIP 62.285 Euro je Einwohner und hat sich 2019 bis 2022 um rund 
++ 5,8 Prozent entwickelt. 
+
+ 
+ 
+13 
+ 
+ 
+1.2 Netto Null: Flächenbilanz entwickeln 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Versiegelte Fläche im Siedlungsraum 
+ 
+Quelle  Abwasserzweckverband, Vermessungsamt Stadt Heidelberg und Nachbarschaftsverband; Amt für Stadtentwicklung und 
+Statistik, Stadt Heidelberg 
+ 
+Die versiegelte Fläche wird für den Siedlungsraum ermittelt. Dieser ist durch die Festsetzungen im Flä-
+chennutzungsplan (FNP) definiert. In diesem Kontext werden alle Flächen hinsichtlich Versiegelung un-
+tersucht. Für den Siedlungsraum werden die kleinräumig differenzierten Daten aus der anerkannten 
+Quelle des Abwasserzweckverbandes (AZV) verwendet, die zur Ermittlung der Abwassergebühren er-
+hoben werden. Für den Verkehrsraum werden Daten des Amtlichen Liegenschaftskataster-Informati-
+onssystems (ALKIS) herangezogen. Zusammengefasst bilden diese Flächen einen Indikator für die Ver-
+siegelung ab. Für den definierten Siedlungsraum beträgt die versiegelte Fläche 2024 rund 1.800 Hek-
+tar. In diesem Wert sind noch keine verschiedenen Versiegelungsgrade mit einberechnet. Die Bilanzie-
+rungsmethode der Flächenbilanz wird im Folgeprozess entwickelt. 
+Dabei ist zu klären, inwieweit Faktoren wie Versickerungsfähigkeit und Dachbegrünung sowie künftige 
+Ver- und Entsiegelungsmaßnahmen in die Bilanz mit einfließen sollen. Der neue Indikator für versie-
+gelte Flächen dient der gesamtstädtischen Bilanzierung. Der noch zu ermittelnde Wert für 2024 wird 
+dann als Benchmark gesetzt. 
+Zielwert: Flächenbilanz wird im Folgeprozess entwickelt und der Wert 2024 dann als Benchmark ge-
+setzt. 
+Beschreibung: Versiegelte Fläche aus Daten des Abwasserzweckverbandes (Siedlungsflächen) in Kom-
+bination mit dem Amtlichen Liegenschaftskataster-Indormationssystem (ALKIS) Verkehrsfläche 
+(Straßen und Wege), um die gesamte versiegelte Fläche im Stadtgebiet abzubilden. 
+
+ 
+14 
+1.3  Klimaanpassung, Flächen entsiegeln und mehr  
+Stadtgrün schaffen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anzahl öffentlicher Bäume und Bäume im Verhältnis zum Siedlungsgebiet (je Hektar) 
+ 
+Quelle Baumkataster Heidelberg, Regiebetriebe Gartenbau; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Der Indikator erfasst öffentliche Stadtbäume. Der Indikator gibt die absolute Anzahl öffentlicher Bäume 
+und die Baumdichte, als Zahl der Bäume je Hektar wieder. Die Anzahl der Bäume soll regelmäßig 
+überwacht werden. Zukünftig sollen diese Bäume gesichert (Bestandsschutz) und ihre Anzahl erhöht 
+werden.  
+Perspektivische Ausrichtung des Indikators anhand der Zielsetzungen aus der Verordnung des Europäi-
+schen Parlamentes und des Rates über die Wiederherstellung der Natur (2024/1991) von Juni 2024: „Die 
+Mitgliedstaaten stellen bis zum 31. Dezember 2030 sicher, dass in städtischen Ökosystemgebieten, die 
+gemäß Artikel 14 Absatz 4 bestimmt werden, kein Nettoverlust an der nationalen Gesamtfläche städti-
+scher Grünflächen und städtischer Baumüberschirmung gegenüber 2024 zu verzeichnen ist.“ 
+Zielwert: 50.000 Bäume bis 2035, was rund 150 neuen Bäumen pro Jahr entsprechen würde. 
+Indikatorbeschreibung: Anzahl der städtischen Bäume im Stadtgebiet und deren Zahl im Verhältnis 
+zur Siedlungsfläche (Baublöcke). Der Indikator zeigt, in welchen Stadtteilen die meisten Bäume im Sied-
+lungsraum stehen und in welchen die Baumdichte je Hektar (Baublock) am größten ist. 
+Kenngröße: Das Baumkataster beinhaltet 2023 etwa 48.450 öffentliche Bäume im Stadtgebiet, knapp 
+1.200 davon sind in privaten Bestand übergegangen. 
+
+ 
+ 
+15 
+ 
+1.4 Stadtbild: Qualitäten erhalten und mehr Urbanität 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Einwohner- und Beschäftigtendichte je Hektar (2023) 
+ 
+Quelle Bundesagentur für Arbeit; Melderegister, Stadt Heidelberg; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Für die Errechnung der Dichtewerte wird die Zahl der Einwohner des Melderegisters herangezogen. 
+Die Beschäftigten werden über die sozialversicherungspflichtigen Beschäftigten dargestellt. Diese bei-
+den Werte werden addiert und je Hektar der Raumeinheit angegeben.  
+Zu den Stadtteilen in zentralen Lagen gehören: Altstadt, Bergheim, Weststadt, Südstadt, Rohrbach, 
+Kirchheim, Handschuhsheim, Neuenheim und die Bahnstadt (Quelle: Einzelhandelskonzept der Stadt 
+Heidelberg, Seite 140). Mit Blick auf Klimaanpassungsmaßnahmen, Starkregenereignisse, Grünflächen 
+und soziale Aspekte muss das Thema Dichte sorgfältig in der Planung abgewogen werden.  
+Orientierungswert: Gesamtdichtewerte von rund 120 Personen je Hektar in zentrale Lagen für künf-
+tige Bautätigkeiten. Zielwerte für eine Bevölkerungsdichte laut Regionalplan (90) und städtischer Ziel-
+wert für Arbeitsplatzdichte in Gewerbegebieten (50) sind festgesetzt. 
+Indikatorbeschreibung: Einwohner- und Beschäftigtendichten je Hektar Baublockfläche und deren 
+Kombination (Gesamtdichte). Einwohner-Beschäftigten-Dichte ist ein Maß für die 
+Raumbeanspruchung im Tagesverlauf. 
+Kenngröße: Die durchschnittliche Einwohner-Beschäftigten-Dichte in Heidelberg 2023 liegt bei rund 
+76 Personen je Hektar Baublockfläche. 
+
+ 
+16 
+ 
+2. Freiraum Nutzung + Freiraum Schutz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cluster 2: Freiraum Nutzung + Freiraum Schutz 
+ 
+ 
+ 
+Ziel 
+Zielformulierung 
+SDG 
+ 
+ 
+ 
+2.1 
+Natur- und Lebensräume im Flächenverbund entwickeln 
+ 
+ 
+ 
+ 
+2.2 
+Naturerlebnis, Naherholung und Begegnung – grüner Gürtel mit 
+Grünzügen in die Stadt entwickeln 
+ 
+ 
+ 
+ 
+2.3 
+Lokale und nachhaltige Landwirtschaft und Ernährung stärken 
+ 
+ 
+ 
+ 
+2.4 
+Nachhaltige Energieproduktion steigern und in die Landschaft  
+integrieren 
+ 
+ 
+ 
+ 
+2.5 
+Berghänge, Rheinebene, Neckar – Einmaliges Heidelberger  
+Landschaftsbild erhalten 
+ 
+ 
+ 
+ 
+2.6 
+Nachhaltige Bewirtschaftung des Waldes stärken 
+ 
+ 
+
+ 
+18 
+2.1  Natur- und Lebensräume im Flächenverbund  
+entwickeln 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Flächenkulisse Naturschutz: Naturschutzfachlich bedeutsame Flächen 
+ 
+Quelle Amt für Umweltschutz, Gewerbeaufsicht und Energie; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Der Indikator misst naturschutzrechtlich bedeutsame Flächen mit und ohne rechtlichen Schutzstatus. 
+Die Flächen mit rechtlichem Schutzstatus enthalten Naturdenkmäler, Landschaftsschutzgebiete, Natur-
+schutzgebiete, Ausgleichsflächen und geschützte Biotope, die nach Bundesnaturschutzgesetz 
+(BNatSchG) ausgewiesen sind und einen Schutzstatus haben. FFH-Gebiete und Vogelschutzgebiete sind 
+nach EU-Recht geschützt. 
+Die Flächen ohne rechtlichen Schutzstatus enthalten Biotopvernetzungsflächen, welche durch den Ver-
+tragsnaturschutz bei der Stadt Heidelberg entstehen sowie Flächen im Besitz der Stadt Heidelberg, die 
+im Sinne des Naturschutzes gepflegt und erhalten werden. Die Kernflächen aus der Biotopverbundpla-
+nung für das Offenland sind im derzeitigen Stand enthalten und verteilen sich auf beide Flächenkulis-
+sen. Die Landesregierung hat sich verpflichtet, bis 2030 auf 15 Prozent der Offenlandfläche Baden-Würt-
+tembergs geeignete Lebensräume im Rahmen der Biotopverbundplanung zu schaffen. 
+Orientierungswerte: Flächengrößen an Gebieten ohne rechtlichen Schutzstatus (rund 106 Hektar) und 
+mit rechtlichem Schutzstatus (rund 5.240 Hektar) naturschutzfachlich bedeutsamer Flächen erhalten. 
+Indikatorbeschreibung: Flächenkulisse und Flächenanteile von naturschutzfachlich bedeutsamen 
+Flächen in Heidelberg. Beschreibung der Flächen mit und ohne rechtlichem Schutzstatus an der 
+gesamten naturschutzfachlich bedeutsamen Flächenkulisse. 
+Perspektive: Bis 2030 müssen - auf mindestens 20 Prozent der Land- und Meeresflächen der EU - Wie-
+derherstellungsmaßnahmen durchgeführt werden (EU- Verordnung 2024/1991). Für Heidelberg bedeu-
+tet das, einen guten Zustand der naturschutzfachlich bedeutsamen Flächen sicherzustellen. 
+
+ 
+ 
+19 
+ 
+2.2  Naturerlebnis, Naherholung und Begegnung – grüner 
+Gürtel mit Grünzügen in die Stadt entwickeln 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grünzüge für Heidelberg  
+ 
+Quelle Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Das noch zu erarbeitendes Freiraumkonzept für den grünen Gürtel mit Grünzügen in die Stadt legt 
+fest, wo der Natur- und Artenschutz Priorität hat und wo Freizeitnutzung stattfinden kann. Es ist be-
+sonders wichtig, Gebiete zu schaffen, in denen keine intensive Freizeitnutzung vorherrscht und ein 
+Schutzraum für seltene Arten geschaffen wird. Die dauerhaft geschützten Bereiche sind durch die ver-
+schiedenen Gesetze und Schutzgebiete definiert. Ihre Flächenkulisse bleibt erhalten und wird durch 
+den Biotopverbund gestärkt. Durch eine Lenkung und Entwicklung von Flächen für Erholung und Er-
+lebnis können Schutz- und Nutzungsansprüche räumlich differenziert in Einklang gebracht werden. 
+Im Monitoring soll künftig die Flächenkulisse des grünen Gürtels und der Grünzüge in die Stadt ein-
+fließen. Als ein Teilaspekt sollen die umgesetzten Maßnahmen im Biotopverbund beobachtet werden.  
+Ziel: Die Grünzüge sollen in ihrer Qualität und Quantität künftig ins Monitoring einfließen. 
+Indikatorbeschreibung: Rund um Heidelberg wird ein grüner Gürtel entwickelt mit Grünzügen in die 
+Stadt. Verschiedene Ansätze Richtung Naturschutz und Naherholung sind denkbar. 
+
+ 
+20 
+2.3  Lokale und nachhaltige Landwirtschaft und Ernährung 
+stärken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bodenqualität – Flurbilanz 2022 für Heidelberg  
+ 
+Quelle  Landesanstalt für Landwirtschaft, Ernährung und Ländlicher Raum; Amt für Umweltschutz, Gewerbeaufsicht und Energie, 
+Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Die Flurbilanz ist eine landwirtschaftliche Fachplanung zur landesweit einheitlichen Bewertung von 
+Flächen nach natürlichen und landwirtschaftlichen Gesichtspunkten. Neben der Ertragsfähigkeit der 
+Böden werden weitere Standardkriterien wie Hangneigung, Flächennutzung, Ökolandbau, Über-
+schwemmungsflächen, etc. berücksichtigt. (Quelle: Landesanstalt für Landwirtschaft, Ernährung und 
+Ländlicher Raum). 
+In Heidelberg sind 34 Prozent der Gemarkungsfläche nach der Flurbilanz 2022 als Vorrangflur einge-
+stuft. Die Vorrangflur umfasst besonders landbauwürdige Flächen und solche, die wegen ihrer ökono-
+mischen Standortgunst oder wegen ihrer besonderen Eignung für den Anbau von Sonderkulturen wie 
+zum Beispiel Reben, Obst, Spargel für den Landbau und die Ernährungssicherung unverzichtbar und 
+deshalb zwingend der landwirtschaftlichen Nutzung vorzubehalten sind. Die Fläche der Vorrangflure 
+in Heidelberg beträgt rund 3.700 Hektar und sollte erhalten bleiben. 
+Zielwert: Rund 3.760 Hektar (34 Prozent der Gemarkungsfläche) gute Böden (Vorrangflur und Vorbe-
+haltsflur I) erhalten. 
+Indikatorbeschreibung: Der Indikator beschreibt die Fläche und deren Anteil der Vorrangflure und 
+Vorbehaltsflure auf Heidelberger Gemarkung. 
+Kenngröße: Sicherung der Bodenqualität, die Flurbilanz dient zur einheitlichen Bewertung der Böden. 
+Darüber kann für Heidelberg die Sicherung der landwirtschaftlichen Erträge erfolgen.  
+
+ 
+ 
+21 
+ 
+2.4  Nachhaltige Energieproduktion steigern und in die 
+Landschaft integrieren 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stromerzeugung und Stromverbrauch in Heidelberg – 2022 
+ 
+Quelle IFEU Institut; Amt für Umweltschutz, Gewerbeaufsicht und Energie, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+ 
+Bis zum Jahr 2040 strebt Heidelberg eine regionale bilanzielle Autarkie sowie eine klimaneutrale Strom- 
+und Wärmeversorgung an. Dies erfordert zusätzliche Flächen für Energieproduktion und Infrastruktur 
+im Freiraum. 
+Im linken Bereich des sogenannten „Sankey-Diagramms“ ist die Stromerzeugung in Heidelberg darge-
+stellt. Im Jahr 2022 wurde durch lokale Anlagen 101 GWh erneuerbarer Strom in Heidelberg erzeugt 
+(41 GWh Biomasse, 34 GWh Photovoltaikanlagen (PV) und 26 GWh Wasserkraft). Dies entspricht 13 
+Prozent des gesamten Stromverbrauchs von Heidelberg. Die Aufteilung des Stromverbrauchs auf die 
+Bereiche „Klassische Stromanwendungen“, „Strom für Verkehr“ und „Strom für Wärme“ findet sich im 
+rechten Bereich des Sankey-Diagramms (Quelle: IFEU – CO2-Bilanzierung für die Stadt Heidelberg, 
+Seite 14).  
+Bilanzielle Energieautarkie in der Region: Der Ausbau erneuerbarer Stromerzeuger ist von zentraler 
+Bedeutung. Aktuell werden rund 13 Prozent des in Heidelberg verbrauchten Stromes regenerativ auf 
+Heidelberger Gemarkung produziert, wobei dieser Anteil bis 2035 auf etwa 40 Prozent anwachsen 
+könnte. Flächenziele aus dem Regionalplan bis 2032 für Heidelberg: 0,2 Prozent der Fläche für Freiflä-
+chen-PV und 1,8 Prozent für Windenergie. 
+Zielwert: Der Anteil des auf Heidelberger Gemarkung erneuerbar erzeugten Stromes soll bis 2035 auf 
+etwa 40 Prozent erhöht werden. 
+Indikatorbeschreibung: Stromquellen und Stromverbrauch für Heidelberg in Gigawattstunden 
+(GWh). 
+Kenngröße: Der Anteil des auf Heidelberger Gemarkung erneuerbar erzeugten Stromes betrug im 
+Jahr 2022 rund 13 Prozent erneuerbar. 
+
+ 
+22 
+2.5  Berghänge, Rheinebene, Neckar –  
+Einmaliges Heidelberger Landschaftsbild erhalten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Landschaftsbild – Aussichtspunkte Waldaussichten 
+ 
+Quelle Landschafts- und Forstamt; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Die dauerhaften Standorte werden auf eine unbestimmte Zeit als solche gepflegt. Es gibt jedoch keine 
+Garantie, dass aufgrund unbekannter Umstände eine Aussicht wieder aufgegeben werden muss. Auch 
+kann es dazu kommen, dass zukünftig weitere dauerhafte Aussichten ausgewiesen werden und in un-
+ser Konzept integriert werden (Heidelberger Waldaussichten, Seite 7). Eine ausführliche Beschreibung 
+der Aussichtspunkte und deren Pflegekonzept sind in der Veröffentlichung „Heidelberger Waldaus-
+sichten“ des Landschafts- und Forstamtes der Stadt Heidelberg aus 2023 zu finden. 
+ 
+Zielwert: Erhalt der 14 bedeutenden Aussichtspunkte Heidelbergs und deren Qualität. 
+Indikatorbeschreibung: Der Indikator erfasst die Zahl und die Lage der Aussichtspunkte auf Heidel-
+berger Gemarkung. Diese Aussichtspunkte haben eine wesentliche Funktion für die Erholenden in der 
+Stadt. Ziel ist es, die Zahl der bedeutenden Aussichtspunkte zu erhalten und dadurch deren Funktion 
+als wesentliche Elemente des Naherholungsraumes sicherzustellen. 
+
+ 
+ 
+23 
+ 
+2.6 Nachhaltige Bewirtschaftung des Waldes stärken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anteil der Bäume der Schadensklassen 2 bis 4 (in Prozent) – Neckar-Odenwald-Kreis 
+ 
+Quelle   Waldzustandsbericht, Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg; Amt für Stadtentwicklung und  
+Statistik, Stadt Heidelberg 
+19
+19
+15
+66
+81
+78
+71
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2021
+2022
+2023
+2024
+Anteil der Bäume der Schadstufe in Prozent
+Anteil Bäume bis 60 Jahre Anteil Schadstufe 2-4 in Prozent
+Anteil Bäume ab 61 Jahre Anteil Schadstufe 2-4 in Prozent
+ 
+Der Indikator beschreibt den Anteil der Bäume der Schadstufen 2 bis 4 in Prozent. Diese Klassen ent-
+sprechen den Stufen, in denen Schäden an Bäumen vorzufinden sind. Die Werte stammen aus dem 
+Waldzustandsbericht Baden-Württemberg, da es aktuell für Stadtkreise, wie Heidelberg, keine eigene 
+Erhebung gibt. Perspektivisch sollen eigene Werte für Heidelberg erfasst werden können. 
+Die Waldzustandserhebung untersucht den Kronenzustand der Waldbäume. Dazu werden auf einem 
+systematisch angelegten Stichprobennetz Probebäume ausgewählt und dauerhaft markiert (Quelle: 
+Waldzustandsbericht Baden-Württemberg 2024, Seite 6). Die Hauptkriterien zur Beurteilung des Kro-
+nenzustands sind der Nadel-/Blattverlust (NBV) sowie die Vergilbung. Diese beiden Merkmale werden 
+in Fünf-Prozent-Stufen erfasst und anschließend zu sogenannten Schadstufen klassifiziert (Quelle: 
+Waldzustandsbericht Baden-Württemberg 2024, Seite 50). Die Schadstufe 1 gilt dabei als Warnstufe, 
+die Stufe 0 als Klasse mit Bäumen in unbeschädigtem Zustand. Eine hohe Schadstufe deutet auf einen 
+schlechteren Waldzustand hin. 
+Orientierungswert: Anteil der Bäume bis 60 Jahre mit einer Schadensklasse von 2 bis 4 unter 15 Pro-
+zent senken und halten. Der Anteil der Bäume über 60 Jahre mit einer Schadensklasse von 2 bis unter 
+4 auf unter 70 Prozent senken und halten. 
+Indikatorbeschreibung: Mittlerer Nadel- und Blattverlust des Waldes gesamt. Daten des Neckar-
+Odenwald-Kreises, stellvertretend für den Heidelberger Wald herangezogen. 
+Kenngröße: Werte für 2024 liegen bei 71 beziehungsweise 15 Prozent, bei einer Reduktion der schad-
+haften Bäume der jungen Altersstufe um – 4 Prozentpunkte gegenüber 2022 und einer Erhöhung um + 
+5 Prozentpunkte in der höheren Altersstufe seit 2021. 
+
+ 
+24 
+ 
+ 
+ 
+ 
+3. Inklusives und soziales Miteinander 
++ individuell geprägte Orte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cluster 3: Inklusives und soziales Miteinander + individuell geprägte Orte 
+ 
+ 
+ 
+Ziel 
+Zielformulierung 
+SDG 
+ 
+ 
+ 
+3.1 
+Inklusives Zusammenleben: Chancengleichheit und sichtbare Vielfalt 
+leben 
+ 
+ 
+ 
+ 
+3.2 
+Vielfältigen und bezahlbaren Wohnraum in allen Stadtteilen  
+verfügbar machen 
+ 
+ 
+ 
+ 
+3.3 
+Starke Stadtteile mit guter Ausstattung und kurzen Wegen fördern 
+ 
+ 
+ 
+ 
+3.4 
+Gemeinwohlflächen: Begegnungsorte für den Zusammenhalt der  
+Gesellschaft bereitstellen 
+ 
+ 
+ 
+ 
+3.5 
+Gute Startchancen und lebenslanges Lernen für alle ermöglichen 
+ 
+ 
+ 
+ 
+3.6 
+Starkes Oberzentrum für die Region – Orte für Wirtschaft und  
+Wissenschaft ausbauen 
+ 
+ 
+
+ 
+26 
+3.1  Inklusives Zusammenleben: Chancengleichheit und 
+sichtbare Vielfalt leben 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personen in SGBII-Bedarfsgemeinschaften und Anteil Personen unter 18 Jahren 
+ 
+Quelle Bundesagentur für Arbeit; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+31,7
+30,1
+31,0
+31,8
+30,6
+0
+5
+10
+15
+20
+25
+30
+35
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+2019
+2020
+2021
+2022
+2023
+Anteil der unter 18 Jährigen in SGBII 
+Bedarfsgemeinschaften in Prozent
+Anzahl der Personen in SGBII 
+Bedarfsgemeinschaften
+SGB II Leistungen
+Anteil Kinder in SGBII Bedarfsgemeinschaften
+ 
+Der Indikator misst die Anzahl der Personen in SGBII-Bedarfsgemeinschaften sowie den Anteil der Kin-
+der in diesen Bedarfsgemeinschaften. Es wird die Entwicklung sowohl der Gesamtzahl der Personen 
+als auch des Anteils der Kinder gemessen. Im Jahr 2023 leben rund 6.900 Personen in SGBII-Bedarfsge-
+meinschaften, darunter rund 2.100 Kinder, was etwa 30 Prozent der Personen in Bedarfsgemeinschaf-
+ten entspricht. 
+ 
+Zielwert: Anteil unter 18-Jähriger in SGBII-Bedarfsgemeinschaften allgemein, sowie in jedem Stadtteil 
+auf unter 25 Prozent senken. 
+Indikatorbeschreibung: Die SGB-II-Quote bezeichnet den Anteil der Bevölkerung im erwerbsfähigen 
+Alter, der auf Leistungen der Grundsicherung angewiesen ist. Die Kinder in SGBII-Bedarfsgemein-
+schaften sind die Personen unter 18 Jahren, die in den Bedarfsgemeinschaften leben. 
+Kenngrößen: Im Jahr 2023 sind rund 2.130 Kinder in SGBII-Bedarfsgemeinschaften. Im Jahr 2023 sind 
+rund 30 Prozent der Personen in SGBII-Bedarfsgemeinschaften Kinder. Deren Entwicklung von 2019 
+bis 2023 beträgt rund + 3 Prozent. 
+
+ 
+ 
+27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Teilzeitbeschäftigung von Mann und Frau 
+Quelle Bundesagentur für Arbeit; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+22.697
+23.458
+24.070
+24.485
+24.731
+7.001
+7.399
+7.694
+8.001
+8.402
+23,6
+24,0
+24,2
+24,6
+25,4
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+5.000
+10.000
+15.000
+20.000
+25.000
+2020
+2021
+2022
+2023
+2024
+Anteil an allen Teilzeitbeschäftigten
+Zahl der Personen in Teilzeitbeschäftigung
+weiblich
+männlich
+Anteil Männer teilzeit
+Benchmark 50 Prozent
+ 
+Dieser Indikator misst die Zahl der teilzeitbeschäftigten Männer und Frauen, sowie den Anteil der 
+männlichen Teilzeitbeschäftigten an allen Teilzeitbeschäftigten am Arbeitsort Heidelberg. 
+Obwohl die Zahl der Männer in Teilzeitbeschäftigung stärker ansteigt als die der Frauen, liegt der Anteil 
+der Männer in Teilzeit derzeit bei knapp unter 25 Prozent. 
+Die Zielerreichung kann durch die Erhöhung von Vollzeitbeschäftigung für Frauen und den Ausbau der 
+temporären Teilzeit der Männer erfolgen. Das Ziel besteht darin, zu erreichen, dass die Wahrscheinlich-
+keit der Teilzeitbeschäftigung nicht mit dem Geschlecht der beschäftigten Person korreliert. 
+Ein hoher Anteil an Teilzeitbeschäftigung deutet auf eine eingeschränkte wirtschaftliche Unabhängigkeit 
+hin, was möglicherweise zu unzureichender Altersvorsorge führt (Quelle: Stadt Hamburg – SDG Dash-
+board 2025). 
+ 
+Zielwert: Angleichen der Teilzeitbeschäftigung auf 50 Prozent. 
+Indikatorbeschreibung: Entwicklung des Männeranteils in Teilzeitbeschäftigung. 
+Kenngrößen: Im Jahr 2024 sind rund 8.400 Männer in Teilzeit beschäftigt. Von 2020 bis 2024 entwickeln 
+sich die Männer in Teilzeit um rund + 20 Prozent. Der Anteil der Männer in Teilzeit an allen Teilzeitbe-
+schäftigten liegt bei rund 25 Prozent. 
+
+ 
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anzahl der ausgestellten Heidelberg-Pässe und deren Anteil an den berechtigten Personen 
+ 
+Quelle  Bürger- und Ordnungsamt, Amt für Soziales und Senioren, Amt für Schule und Bildung; Amt für Stadtentwicklung und Sta-
+tistik, Stadt Heidelberg 
+ 
+56,1
+46,6
+46,9
+57,8
+61,7
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+2019
+2020
+2021
+2022
+2023
+Anteil der Anträge an den 
+berechtigten Personen in Prozent
+Anzahl ausgestellte Heidelberg-
+Pässe
+Anträge HD-Pass
+Quote
+ 
+Der Heidelberg-Pass und der Heidelberg-Pass+ sind Vergünstigungsprogramme der Stadt Heidelberg, 
+welche die soziale Teilhabe von Menschen mit geringem Einkommen fördern. Die Berechtigungsmerk-
+male des Heidelberg-Pass+ werden in keiner zugänglichen statistischen Quelle ausgewiesen. Daher ist 
+die Beschreibung des Deckungsgrades des Heidelberg-Pass+ im statistischen Sinne nicht möglich. 
+In obenstehender Grafik ist das Verhältnis zwischen den Menschen, die den Heidelberg-Pass erhalten 
+haben und der Anzahl anspruchsberechtigter Personen in der Stadt Heidelberg dargestellt. Dieser 
+Deckungsgrad ermöglicht Aussagen zur Inanspruchnahme des Programmes.  
+Die Analyse bezieht sich auf Daten zum Stichtag 31.Dezember des Jahres. Zu den Merkmalen gehören 
+der Bezug von SGB XII und Leistungen nach AsylbLG, SGB II sowie Wohngeld. Der Kinderzuschlag wird 
+aufgrund von Datendoppelungen und geringer Fallzahlen nicht berücksichtigt. Die Analyse zeigt, dass 
+im Jahr 2023 knapp 62 Prozent der berechtigten Personen den Heidelberg-Pass beantragt haben. Eine 
+Erhöhung soll angestrebt werden.  
+ 
+Ziel: Erhöhung der Inanspruchnahme des Angebotes bis 2035. 
+Indikatorbeschreibung: Anzahl der ausgestellten Heidelberg-Pässe und der Anteil der in Anspruch 
+genommenen Heidelberg-Pässe an berechtigte Personen in Prozent. 
+Kenngröße: Im Jahr 2023 wurden rund 8.800 Heidelberg-Pässe ausgestellt. Die Entwicklung des An-
+teils der Inanspruchnahme (Quote) von 2019 bis 2023 beträgt rund + 5,6 Prozentpunkte. 
+
+ 
+ 
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anteil barrierefreie Wohnungsangebote 
+ 
+Quelle Value AG; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+12,2
+13,8
+13,9
+8,7
+8,1
+10,8
+8,3
+8,5
+7,2
+10,6
+0
+5
+10
+15
+20
+25
+1.HJ'19
+2.HJ'19
+1.HJ'20
+2.HJ'20
+1.HJ'21
+2.HJ'21
+1.HJ'22
+2.HJ'22
+1.HJ'23
+2.HJ'23
+Anteil barrierefreie Wohnungen an Angeboten
+Orientierungswert
+ 
+Dieser Indikator ist eine Annäherung an den barrierefreien Wohnungsmarkt, basierend auf den Anga-
+ben inserierter Angebote. Die Angaben werden nicht standardisiert und überprüft, die Angabe der 
+Barrierefreiheit der Angebote ist subjektiv. Die Daten stammen von Value AG, die Mietwohnungsinse-
+rate auf gängigen Portalen analysieren. Diese Daten stellen daher nur einen Auszug aus dem 
+Mietmarkt dar. 
+Durchschnittlich machen barrierefreie Angebote etwa 10 Prozent aller Angebote in Heidelberg aus. 
+Die Mietpreise für barrierefreie Wohnungen entwickeln sich ähnlich wie die Mieten aller Angebote. 
+Besonderer Fokus liegt im Neubau. Als Orientierungsgröße wurde ein Mindestanteil von 20 Prozent 
+barrierefrei inserierter Angebote festgelegt. Dieser Wert bezieht sich auf die aktuelle Landesbauord-
+nung (§ 35) für Baden-Württemberg, da es für Heidelberg keinen eigenen Orientierungswert gibt.   
+Orientierungswert: Rund 20 Prozent der Wohnungsangebote sollen barrierefrei sein. 
+Indikatorbeschreibung: Der Indikator zeigt an, wie sich das Angebot der barrierefreien Wohnungen 
+auf dem freien Wohnungsmarkt bei Wohnungsinseraten für Heidelberg darstellt. 
+Kenngröße: Im Jahr 2023 sind knapp 11 Prozent der Wohnungsangebote barrierefrei inseriert. Von 
+2018 bis 2023 entspricht dies einer Entwicklung von rund - 2 Prozent. 
+
+ 
+30 
+3.2  Vielfältigen und bezahlbaren Wohnraum in allen  
+Stadtteilen verfügbar machen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Geförderter Wohnraum und geförderte Haushalte je 1.000 Personen 
+ 
+Quelle  Statistisches Landesamt Baden-Württemberg; Amt für Baurecht und Denkmalschutz, Amt für Soziales und Senioren, Amt 
+für Stadtentwicklung und Statistik, Stadt Heidelberg 
+17
+17
+18
+18
+19
+19
+35
+34
+37
+35
+37
+42
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+2018
+2019
+2020
+2021
+2022
+2023
+Geförderte Wohnungen je 1.000 Personen
+Geförderte Haushalte je 1.000 Personen
+ 
+Die Kombination von Objekt- und Subjektförderung dient der langfristigen Sicherung bezahlbaren 
+Wohnraums sowie der kurzfristigen Unterstützung bedürftiger Haushalte anhand ihres Einkommens. 
+Daraus ergeben sich die Ziele für geförderte Wohnungen und geförderte Haushalte. Bis zum Jahr 2035 
+soll die Zahl von 20 geförderten Wohnungen je 1.000 Personen und 40 geförderten Haushalten je 1.000 
+Personen beibehalten werden. 
+ 
+ 
+Orientierungswerte: Die Zahl von rund 20 geförderten Wohnungen und 40 geförderten Haushalte je 
+1.000 Personen beibehalten. 
+Indikatorbeschreibung: Anzahl der geförderten Wohnungen sowie der geförderten Haushalte je 1.000 
+Personen. 
+Kenngrößen: Im Jahr 2023 gibt es rund 20 geförderte Wohnungen und 42 geförderte Haushalte je 1.000 
+Personen. Von 2018 bis 2023 bedeutet das eine Entwicklung von rund + 12 Prozent geförderter Wohnun-
+gen und rund + 20 Prozent Zuwachs an geförderten Haushalten je 1.000 Personen. 
+
+ 
+ 
+31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anzahl der Obdachlosen absolut und je 100.000 Personen 
+ 
+Quelle Amt für Soziales und Senioren, Melderegister, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+314
+314
+318
+318
+335
+327
+0
+100
+200
+300
+400
+500
+Juni 2022
+Dezember 2022
+Juni 2023
+Dezember 2023
+Juni 2024
+Dezember 2024
+Obdachlose
+Obdachlose je 100.000 Einwohner
+ 
+Wohnungslosigkeit ist ein komplexes Problem, für das es meist multikausale Ursachen gibt. So können 
+viele Personen, die von Wohnungs- oder Obdachlosigkeit betroffen sind, häufig mit mehreren sozia-
+len, finanziellen und gesundheitlichen Schwierigkeiten belastet sein. Der Indikator gibt Aufschluss 
+darüber, wie viele Menschen in Wohnunterkünften und anderen Einrichtungen für Wohnungslose un-
+tergebracht sind. Es wird keine Aussage über die Zahl an tatsächlich untergebrachten Wohnungslosen  
+getroffen. Die Dunkelziffer liegt vermutlich höher. 
+Zur Ermittlung der Obdachlosen im Verhältnis zur Einwohnerzahl wurden hier die Zahlen des Melde-
+registers verwendet. Für Heidelberg bedeutet dies im Betrachtungszeitraum einen Anstieg an  
+obdachlosen Personen im Verhältnis zur Einwohnerzahl von rund 4 Prozent. Die Zahl der Obdachlosen 
+steigt absolut von rund 450 auf knapp 500 Personen an, was einer Zunahme von circa 5 Prozent 
+entspricht.  
+ 
+Zielwert: Der prozentualen Anteil an Obdachlosen an der Bevölkerung soll nicht steigen.  
+Indikatorbeschreibung: Anzahl der Obdachlosen und deren Zahl je 100.000 Personen. 
+Kenngrößen: Ende 2024 sind rund 330 Obdachlose je 100.000 Personen in Heidelberg registriert. Die 
+Entwicklung von Juni 2022 bis Dezember 2024 beträgt rund + 4 Prozent. 
+
+ 
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preisentwicklung verschiedener Mietmarktsegmente – Nettokaltmiete in Euro je Quadratmeter 
+ 
+Quelle Value AG, GGH, Mietspiegel der Stadt Heidelberg; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+12,2
+12,4
+12,8
+13,4
+14,1
+9,1
+9,3
+9,4
+10,0
+10,7
+6,59
+6,82
+6,96
+7
+7,05
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2019
+2020
+2021
+2022
+2023
+Angebotsmiete (Value AG)
+Mietspiegel
+GGH-Mieten
+ 
+Die Mietspiegelmiete je Quadratmeter Wohnfläche und Monat in Euro bezieht sich auf die Überlas-
+sung des leeren Wohnraums ohne Nebenkosten (Nettokaltmiete oder Grundmiete). Für die Analyse 
+der Angebotsmieten steht ein Datenpool von rund 13.000 erfassten Inseraten im Bereich Wohnungen 
+zur Miete zur Verfügung. Die Mieten der Gesellschaft für Grund- und Hausbesitz (GGH) sind den Ge-
+schäftsberichten der letzten Jahre entnommen und beziehen sich auf das durchschnittliche Jahresmit-
+tel der Miete. 
+Die Mietentwicklung zeigt eine steigende Tendenz über alle Preissegmente hinweg. Im Betrachtungs-
+zeitraum erfahren die Mieten der GGH eine moderate Entwicklung mit einem durchschnittlichen An-
+stieg von rund 7 Prozent. Deutlich stärkere Entwicklungen verzeichnen die Mietsegmente Mietspiegel 
+und Angebotsmieten mit 17,3 Prozent beziehungsweise rund 15,6 Prozent. 
+Orientierungswerte: Keine Zielgrößen. Messung der Entwicklung. 
+Indikatorbeschreibung: Durchschnittliche Nettokaltmieten der verschiedenen Wohnungsmarktseg-
+mente in Euro je Quadratmeter. 
+Kenngrößen: Preissteigerung über alle Mietsegmenten. Entwicklung 2019 bis 2023: Mietpreise der 
+GGH rund + 7 Prozent, Mietspiegelmieten rund + 17,3 Prozent und die Angebotsmieten mit rund + 15,6 
+Prozent. 
+
+ 
+ 
+33 
+ 
+3.3  Starke Stadtteile mit guter Ausstattung und kurzen 
+Wegen fördern 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kindertagesstätten Versorgungsquote der Kinder (3 bis 6 Jahre) nach Stadtteilen 2023 
+ 
+Quelle Melderegister, Kinder- und Jugendamt, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+126
+150
+134
+94
+87
+117
+84
+99
+143
+73
+132
+59
+83
+93
+89
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Versorgungsquote 2023
+HD-Schnitt
+ 
+Ein Kriterium für die gute Ausstattung und kurze Wege starker Stadtteile ist die Versorgungsquote mit 
+Kinderbetreuungsplätzen. Hierzu wurde die Zahl der potentiell zu betreuenden Kindern den 
+vorhandenen Betreuungsplätzen gegenübergestellt. Gesamtstädtisch werden mit einem Wert von über 
+100 Prozent rechnerisch alle potentiell zu betreuuenden Kinder versorgt.  In den Stadtteilen zeigt sich 
+ein heterogenes Bild. Überdurchschnittlich hohe Versorgungsquoten weisen die Stadtteile Neuenheim, 
+Wieblingen, Bergheim, Altstadt und Schlierbach auf. In den Stadtteilen Boxberg, Handschuhsheim, 
+Kirchheim, der Südstadt und der Weststadt können nicht alle Kinder vor Ort betreut werden. 
+Das Ziel besteht darin, den gesamtstädtisch sehr guten Wert der Versorgungsquote von Kindern im 
+Kindergartenalter zu halten und allen Kindern ein Betreuungsangebot zur Verfügung zu stellen. Außer-
+dem eröffnet die Stadt als Arbeitgeberin auch außerstädtischen Kindern, deren Eltern in Heidelberg 
+arbeiten, die Möglichkeit, in Betreuung zu gehen. Die kleinräumigen Quoten bieten wertvolle Hinweise 
+auf Entwicklungspotentiale. Es ist generell wichtig, die Betreuung über alle Stadtteile hinweg sicher-
+zustellen. 
+Zielwert: Durchschnittlich rund 100 Prozent Versorgungsquote im gesamtstädtischen Mittel halten. 
+Indikatorbeschreibung: Anteil von angebotenen Einrichtungsplätzen im Verhältnis zu den Kindern 
+der jeweiligen Altersklasse im Stadtteil. Übersicht über die kleinräumige Verteilung der Versorgungs-
+quote von Kindern im Kindergartenalter im Stadtgebiet nach Stadtteilen. Aussagen über das Angebot 
+und Nachfrage im Stadtteil. 
+Kenngrößen: Im Jahr 2023 beträgt der gesamtstädtische Versorgungsgrad an Kinderbetreuungsplät-
+zen im Kindergartenalter (Alter 3 bis 6 Jahre) rund 101 Prozent.  
+
+ 
+34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Versorgungsquote strukturprägender Lebensmittelanbieter 2024 (Verkaufsfläche über 400 
+Quadratmeter) – Anteil Personen in rund 500 Metern fußläufiger Entfernung (Luftlinie) 
+ 
+Quelle  Melderegister 2024 Stadt Heidelberg, Einzelhandelskonzept für Heidelberg; Amt für Stadtentwicklung und Statistik, Stadt 
+Heidelberg 
+37
+86
+82
+89
+84
+93
+84
+88
+63
+72
+64
+0
+100
+33
+100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Versorgungsquote 2024
+Gesamtstädtisches Mittel 2024
+ 
+Ein wichtiges Element für eine gute Ausstattung und kurze Wege im Stadtteil ist die Nahversorgung. 
+Die Qualität der Nahversorgung wird definiert als die fußläufige Erreichbarkeit des nächstgelegenen 
+größeren Lebensmittelmarktes (mit einer Verkaufsfläche über 400 Quadratmeter) innerhalb von rund 
+500 Metern Luftlinie. Das entspricht einem Zeitmaß von 10 Minuten Gehzeit. Hierzu wurden die Daten 
+der strukturprägenden Lebensmittelanbieter aus dem Einzelhandelskonzept für Heidelberg mit den 
+adressscharfen Bevölkerungsdaten des Einwohnermelderegisters (Wohnbevölkerung) überlagert und 
+daraus der Versorgungsgrad errechnet. 
+Das Ziel ist, dass bis 2035 80 Prozent der Bevölkerung einen Lebensmittelmarkt fußläufig innerhalb von 
+500 Metern erreichen können. Generell soll die Situation vor allem in den weniger gut versorgten 
+Stadtteilen verbessert werden.  
+Zielwert: Gesamtstädtisches Mittel von 80 Prozent bis 2035 erreichen. 
+Indikatorbeschreibung: Anteil der Personen mit einer Erreichbarkeit von strukturprägenden Lebens-
+mittelanbietern (Lebensmittelmärkte mit Verkaufsflächen über 400 Quadratmeter) innerhalb von rund 
+500 Meter fußläufiger Entfernung.  
+Kenngrößen: Im Jahr 2024 beträgt die Nahversorgungsquote (fußläufige Erreichbarkeit des nächstge-
+legenen strukturprägenden Lebensmittelanbieters) rund 76 Prozent. Die Werte variieren dabei je nach 
+Stadtteil zwischen 0 bis 100 Prozent. 
+
+ 
+ 
+35 
+ 
+3.4  Gemeinwohlflächen: Begegnungsorte für den  
+Zusammenhalt der Gesellschaft bereitstellen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Durchschnittliche Entfernung von der Wohnadresse zur nächsten Sport- und Freizeitfläche 2024 
+ 
+Quelle Vermessungsamt, Amt für Sport und Gesundheitsförderung, Landschafts- und Forstamt, Amt für Stadtentwicklung und Sta-
+tistik, Stadt Heidelberg 
+98
+103
+104
+86
+52
+150
+121
+135
+158
+142
+105
+125
+133
+131
+148
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+durchschnittliche Entfernung zum nächsten Begegnungsort
+HD-Durchschnitt
+ 
+Sport- und Freizeitflächen als Indikator für einen Raum niederschwelliger Begegnung. Hier kann an 
+konsumfreien Orten an der frischen Luft Begegnung stattfinden. Je niedriger die durchschnittliche Ent-
+fernung zur nächstgelegenen Sport- und Freizeitflächen, desto wahrscheinlicher ist es, dass im be-
+treffenden Stadtteil Begegnung stattfinden kann, da die Wege kürzer sind. 
+Generell ist die Erreichbarkeit von Sport- und Freizeitflächen in Heidelberg mit rund 130 Meter Luft-
+liniendistanz von der Wohnadresse sehr gut. Eine sehr niedrige durchschnittliche Distanz zur nächsten 
+Sport- und Freizeitfläche zur Begegnung und damit eine gute Erreichbarkeit findet sich im Stadtteil 
+Emmertsgrund. Hier ist die Ausstattung an und die Möglichkeit zur niederschwelligen Begegnung be-
+sonders hoch. Besonders weit sind die Wege zur nächstgelegenen Sport- und Freizeitfläche in den 
+Stadtteilen Pfaffengrund, Handschuhsheim und Ziegelhausen mit durchschnittlich rund 150 Metern. 
+Gerade die unterdurchschnittlichen Stadtteile bieten Potential zur Entwicklung. Dort ist es sinnvoll, 
+Raum zur Begegnung zu schaffen, um den Zugang der Personen zu Begegnungsorten am Wohnort zu 
+ermöglichen und kurze Wege sicherzustellen. 
+Orientierungswert: Erreichbarkeit von niederschwelligen Begegnungsorten erhöhen. 
+Indikatorbeschreibung: Der Indikator misst die durchschnittliche Entfernung von der Wohnadresse 
+zur nächstgelegenen Sport- und Freizeitfläche im jeweiligen Stadtteil in Metern. 
+Kenngröße: Im Jahr 2024 liegt der nächstgelegene Begegnungsort im gesamtstädtischen Mittel 
+durchschnittlich rund 150 Meter von der eigenen Wohnadresse entfernt. 
+
+ 
+36 
+3.5  Gute Startchancen und lebenslanges Lernen für alle  
+ermöglichen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zahl der Schulabbrüche und Abbruchquote in Heidelberg 
+ 
+Quelle Statistisches Landesamt Baden-Württemberg; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+45
+34
+29
+30
+36
+3,2
+2,6
+2,3
+2,2
+2,7
+0
+0,5
+1
+1,5
+2
+2,5
+3
+3,5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+2019
+2020
+2021
+2022
+2023
+Anteil ohne Abschluss in Prozent
+Schüler ohne Abschluss
+Schüler ohne Abschluss
+Abbruch-Quote HD
+ 
+Als Schüler ohne Abschluss gelten diejenigen, die ihre Pflichtschulzeit beenden, ohne dabei einen 
+ersten allgemeinbildenden Schulabschluss erworben zu haben. Es werden keine Aussagen bezüglich 
+der Gründe für Schulabbruch getroffen. Es besteht jedoch die Möglichkeit, dass Schulabbrechende 
+nach Verlassen des Regelsystems, beispielsweise im Rahmen einer beruflichen Bildung einen Ab-
+schluss erwerben können. 
+Im betrachteten Zeitraum liegt die Abbruchquote zwischen 2,2 und 3,2 Prozent. Im Jahr 2023 sind die 
+Zahlen erstmalig im Beobachtungszeitraum leicht angestiegen. Daher wurde als perspektivisches Ziel 
+für 2035 formuliert, die Abbruchquote unter 3 Prozent zu halten. Die Schulabbruchquoten in Heidel-
+berg sind im Verhältnis zum Kreis und zum Land Baden-Württemberg gering. 
+Zielwert: Abbruchquote unter 3 Prozent halten 
+Indikatorbeschreibung: Indikator misst die Zahl der Personen, welche ihre Pflichtschulzeit vor dem 
+Erwerb eines allgemeinbildenden Schulabschlusses beenden. Die Abbruchquote ist der Anteil der Ab-
+brüche im Abschlussjahr im Verhältnis zur Gesamtzahl an Personen des Jahrgangs. 
+Kenngrößen: Im Jahr 2023 beträgt die Abbruchquote rund 2,7 Prozent. Die Entwicklung von 2018 bis 
+2023 beträgt - 0,5 Prozentpunkte. 
+
+ 
+ 
+37 
+ 
+3.6  Starkes Oberzentrum für die Region – Orte für 
+Wirtschaft und Wissenschaft ausbauen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Einzelhandelszentralität für Heidelberg 
+Quelle Grundlage GfK Geomarketing GmbH; Eigene Berechnung Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+105,5
+103,2
+99,7
+101,0
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+2018
+2019
+2021
+2023
+ 
+Ein Indikator für die Stärke eines Oberzentrums ist die Einzelhandelszentralität. Sie bildet die ökonomi-
+sche Bedeutung der Region ab und wird als Quotient aus dem Einzelhandelsumsatz und der örtlichen 
+Einzelhandelskaufkraft berechnet. Zur Darstellung der Charakteristik Heidelbergs wurde von einem 
+deutschlandweiten Vergleich abgewichen. 
+Im Jahr 2023 beträgt die Einzelhandelszentralität Heidelbergs 101 Prozent. Das bedeutet, dass in Hei-
+delberg leicht mehr Umsatz (+ 1 Prozent) generiert wurde, als Kaufkraft in Heidelberg für Einzelhandel 
+vorhanden ist, was auf einen leichten Kaufkraftzufluss hinweist. 2021 hingegen gab es mit einem Wert 
+von 99,7 Prozent einen leichten Kaufkraftabfluss. 
+Für die zukünftige Entwicklung Heidelbergs soll der Einzelhandelsumsatz stärker steigen als die örtli-
+che Einzelhandelskaufkraft. Aus dem Einzelhandelskonzept wird daher für das Jahr 2035 ein Zielwert 
+von 140 Prozent abgeleitet. Dieser Zielwert berechnet sich aus den Zielwerten für das kurzfristige und 
+das langfristige Sortiment. 
+Zielwert: Einzelhandelszentralität von 140 bis 2035 erreichen. 
+Indikatorbeschreibung: Indikator bildet den Quotienten aus Einzelhandelsumsatz zur örtlichen 
+Einzelhandelskaufkraft ab. Werte über 100 Prozent bedeuten, dass ein Kaufkraftzufluss von außerhalb 
+Heidelbergs stattfindet.  
+Kenngrößen: Im Jahr 2023 liegt die Einzelhandelszentralität bei rund 101 Prozent. Die Entwicklung 
+von 2018 bis 2023 liegt bei - 4,5 Prozentpunkten. 
+
+ 
+38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Energie- und Mobilitätswende +  
+Teilhabe an Veränderungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cluster 4: Energie- und Mobilitätswende + Teilhabe an Veränderungen 
+ 
+ 
+ 
+Ziel 
+Zielformulierung 
+SDG 
+ 
+ 
+ 
+4.1 
+Große Investitionen in die Energiewende tätigen 
+ 
+ 
+ 
+ 
+4.2 
+Große Investitionen in die Mobilitätswende tätigen 
+ 
+ 
+ 
+ 
+4.3 
+Transformation verlässlich, transparent und gerecht gestalten und 
+Wissen austauschen 
+ 
+ 
+ 
+ 
+4.4 
+Weniger Verbrauch in allen Bereichen: Verfügbare Ressourcen  
+besser einsetzen 
+ 
+ 
+ 
+ 
+4.5 
+Regionale Zusammenarbeit ausbauen 
+ 
+ 
+
+ 
+40 
+4.1 Große Investitionen in die Energiewende tätigen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Klimaneutralität: Entwicklung der Treibhausgasemissionen (BISKO CO2-Äquivalente) 
+ 
+Quelle IFEU Institut; Amt für Umweltschutz, Gewerbeaufsicht und Energie, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Heidelberg hat sich verpflichtet 2040 gesamtstädtische Klimaneutralität nach BISKO-Bilanzierung zu 
+erreichen. Die Stadtverwaltung soll bis 2030 klimaneutral sein. Ermittelt werden die CO2-Emissionen 
+durch das IFEU-Institut, welches durch die BISKO-Bilanzierung CO2-Äquivalente für alle Treibhaus-
+gasemmissionen auf Heidelberger Gemarkung errechnet. Ein Äquivalent ist ein Maß zur Vereinheitli-
+chung unterschiedlicher Typen – hier: Umrechnung aller Treibhausgase in CO2. Daraus ergibt sich, 
+dass die CO2-Emissionen der Stadt Heidelberg über alle Sektoren in den letzten Jahren rückläufig sind. 
+Aktuell sind vom Ausgangsjahr 1987 rund 29 Prozent der Emissionen reduziert worden. Weitere 71 
+Prozent sind bis 2040 notwendig, um Klimaneutralität zu erreichen. Es wurde sich hier für den Gesamt-
+index ohne Verkehr entschieden, da für den Bereich Verkehr nicht ausreichend Werte vorliegen. Die 
+beiden Indizes entwickeln sich in ähnlichem Maße. Die Daten zum Verkehr liegen aber nicht jedes Jahr 
+vor und sind daher nicht immer mit auswertbar. Der Index der CO2-Emissionen der städtischen Ge-
+bäude liegt 2023 bei 37 Prozent, es ist also bereits eine Reduktion um 63 Prozent erreicht worden. Für 
+eine vollständige Klimaneutralität bis 2030 müssen die restlichen 37 Prozent weiter abgebaut werden. 
+Ein Rückgang von CO2-Emissionen trotz steigender Bevölkerungszahlen ist möglich. Dies liegt vor al-
+lem am Energieträgerwechsel (hin zu kohlenstoffärmeren Energieträgern wie Fernwärme) und der 
+konstanten Reduktion des Stromemissionsfaktors durch den Ausbau erneuerbarer Energien.  
+Zielwert: Reduzierung der CO2-Emissionen auf unter 15 Prozent bis 2035 – Klimaneutralität bis 2040 
+erreichen. Weitestgehende Klimaneutralität der Stadtverwaltung bis 2030. 
+Indikatorbeschreibung: Index der Entwicklung der CO2-Äquivalente der Treibhausgase (nach BISKO-
+Bilanzierung) nach Sektoren seit dem Bezugsjahr 1987 in Prozent. 
+Kenngrößen: Im Jahr 2023 liegen die Treibhausgasemissionen bei rund 71 Prozent im Vergleich zu 
+1987. Dies entspricht einer Entwicklung von 1987 bis 2023 um - 29 Prozent. 
+
+ 
+ 
+41 
+ 
+4.2 Große Investitionen in die Mobilitätswende tätigen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PKW-Dichte je 1.000 Personen und Anteil der Elektrofahrzeuge in Heidelberg 
+ 
+Quelle  Kraftfahrt-Bundesamt, Statistisches Landesamt Baden-Württemberg; Amt für Stadtentwicklung und Statistik, Stadt Heidel-
+berg 
+377
+376
+388
+385
+377
+376
+1,1
+2,0
+3,5
+5,9
+8,4
+13,3
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+2019
+2020
+2021
+2022
+2023
+2024
+Anteil der zugelassenen Elektrofahrzeuge 
+(EVs) in Prozent
+Anzahl der zugelassenen PKW je 1.000 
+Personen
+PKW Dichte je 1.000 EW
+Anteil EV an PKW
+ 
+Im Jahr 2024 sind in Heidelberg rund 380 PKW je 1.000 Personen gemeldet, womit Heidelberg die nied-
+rigste PKW-Dichte in Baden-Württemberg aufweist. Die Zahlen sind im Zeitverlauf konstant geblieben. 
+Bis zum Jahr 2035 wird angestrebt, die PKW-Dichte auf unter 350 PKW je 1.000 Personen zu reduzieren. 
+Bei gleichzeitiger Steigerung des Anteils der alternativen Antriebe, wie beispielsweise den Elektrofahr-
+zeugen (EVs). 
+Zielgröße: Unter 350 Personenkraftwagen (PKW) je 1.000 Personen bis 2035 erreichen und Anteil CO2-
+armer Antriebsarten erhöhen. 
+Indikatorbeschreibung: PKW-Dichte dargestellt in der Anzahl an privat zugelassenen Personenkraft-
+wagen je 1.000 Personen. Anteil der zugelassenen Elektrofahrzeuge (EVs) in Prozent.  
+Kenngrößen: 2024 lag die PKW-Dichte für Heidelberg bei rund 376 PKW je 1.000 Personen. Von 2019 
+bis 2024 sind die Zahlen zugelassener PKW je 1.000 Personen weitestgehend konstant. Der Anteil der 
+zugelassenen EVs lag 2023 bei über 13 Prozent. 
+
+ 
+42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verkehrsaufkommen von Kraftfahrzeugen in Heidelberg – durchschnittliche tägliche Verkehrs-
+stärke (Montag bis Sonntag) – gemessen an repräsentativen Heidelberger Verkehrszählstellen 
+ 
+Quelle Amt für Mobilität, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+170.214
+138.833
+146.248
+146.634
+152.066
+0
+20.000
+40.000
+60.000
+80.000
+100.000
+120.000
+140.000
+160.000
+180.000
+2019
+2020
+2021
+2022
+2023
+ 
+Ein Indikator zur Messung der Mobilitätswende ist das Aufkommen des Kraftfahrzeugverkehrs. Hier 
+dargestellt als die durchschnittliche Verkehrsmenge in einer Woche (Montag bis Sonntag). Für das 
+Heidelberger Verkehrsaufkommen wurde der Verkehr in Heidelberg an 7 Verkehrszählstellen gemes-
+sen (siehe Trendanalyse Verkehr), welche sich über das Stadtgebiet verteilen (Anlage 03 zur Drucksa-
+che 0081/2025/KV). Ausgenommen sind die Zählstellen der Autobahn und der Zubringer zur Auto-
+bahn, da diese Verkehre nicht direkte Wirkung auf das Heidelberger Verkehrsaufkommen haben. Die 
+Zählung findet jährlich im Zuge der Landesverkehrszählung statt. 
+Im Verkehrsentwicklungsplan/Klimamobilitätsplan 2035 wurde im mittleren Regio+-Szenario eine 
+Kraftfahrzeug-Fahrleistung pro Werktag von 83 Prozent für 2035 ermittelt (Ausgangsjahr 2015). In An-
+lehnung an die Fahrleistungsreduzierung im Regio+-Szenario des Verkehrsentwicklungsplan / 
+Klimamobilitätsplan 2035 wird der Zielwert für die durchschnittliche tägliche Verkehrsmenge für 2035 
+ermittelt (Quelle: Verkehrsentwicklungsplan/ Klimamobilitätsplan Heidelberg 2035 - Werkstattbericht 
+Szenarien (Februar 2025)). Die Belastung an den Querschnitten kann nicht 1:1 ins Verhältnis mit einer 
+summierten Fahrleistung gesetzt werden. 
+Mit den Maßnahmen des Verkehrsentwicklungsplans/Klimamobilitätsplans wird der Modal Split des 
+Kraftfahrzeugverkehrs von 2015 (35 Prozent) je Szenario auf 20 bis 26 Prozent sinken. 
+Zielgröße: Durchschnittliche tägliche Verkehrsmenge der repräsentativen Verkehrszählstellen auf un-
+ter 150.000 Kraftfahrzeuge bis 2035 reduzieren. 
+Indikatorbeschreibung: Durchschnittliche tägliche Anzahl der Kraftfahrzeuge an ausgewählten 
+repräsentativen Zählstellen in Heidelberg (Verkehrsaufkommen).   
+Kenngrößen: Im Jahr 2023 wurden täglich durchschnittlich rund 150.000 Kraftfahrzeuge an Heidelber-
+ger Zählstelen erfasst. Die Entwicklung von 2019 bis 2023 liegt bei rund - 11 Prozent. 
+
+ 
+ 
+43 
+ 
+4.3  Transformation verlässlich, transparent und gerecht 
+gestalten und Wissen austauschen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indizes für Verbraucher- und Mietpreise in Baden-Württemberg sowie Kaufkraft je Person für 
+Heidelberg (Basisjahr 2018) 
+ 
+Quelle  Statistisches Landesamt Baden-Württemberg, GfK GeoMarketing GmbH; Amt für Stadtentwicklung und Statistik, Stadt Hei-
+delberg 
+111,8
+118,9
+98,6
+102,5
+107,6
+112,7
+90
+95
+100
+105
+110
+115
+120
+125
+2018
+2019
+2020
+2021
+2022
+2023
+Verbraucherpreisindex- Index=2018
+Mietenentwicklung - Index 2018
+Index (2018) Kaufkraft je EW
+ 
+Der Verbraucherpreisindex (VPI) repräsentiert die Preisentwicklung von Waren und Dienstleistungen 
+des privaten Verbrauchs für Baden-Württemberg.  
+Der Mietpreisindex bildet die Entwicklung der durchschnittlichen tatsächlich gezahlten Nettokaltmie-
+ten ab. Diese werden aus den Verbraucherpreisindizes abgeleitet. Auch dieser Wert ist ein Jahres-
+durchschnittswert für Baden-Württemberg. 
+Der Index zur Kaufkraftentwicklung bildet die Entwicklung der in Heidelberg verfügbaren Kaufkraft je 
+Person ab. Die GfK Kaufkraft ist die am Markt anerkannte Richtgröße zur Ermittlung des Konsumpo-
+tentials. Sie zeigt das verfügbare Einkommen der Bevölkerung. Sie berücksichtigt das nominal verfüg-
+bare Nettoeinkommen der Bevölkerung inklusive staatlicher Transferleistungen wie Renten, Arbeitslo-
+sen- und Kindergeld (Quelle: GfK GeoMarketing GmbH). 
+Beobachtungskriterium: Kaufkraft und Preisentwicklungen sollen sich in ausgewogenem Verhältnis 
+entwickeln. 
+Indikatorbeschreibung: Der Verbraucherpreisindex bildet die Preisentwicklung für Konsumgüter ab. 
+Die Mietpreisentwicklung ist die mittlere Preisentwicklung für Wohnraum zur Miete. Dem gegenüber 
+steht die Kaufkraft, welche die in Heidelberg durchschnittlich verfügbare Finanzkraft je Person dar-
+stellt.  
+Kenngrößen: Die Entwicklung von 2018 bis 2023 liegt zwischen 13 und 19 Prozent Preissteigerung. Die 
+Kaufkraftentwicklung von 2018 bis 2023 liegt demgegenüber bei rund 13 Prozent. 
+
+ 
+44 
+4.4  Weniger Verbrauch in allen Bereichen: Verfügbare  
+Ressourcen besser einsetzen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Belegungsdichte und Wohnfläche je Person 
+ 
+Quelle Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+39,6
+39,7
+40,7
+40,9
+40,4
+40,6
+1,94
+1,94
+1,9
+1,89
+1,91
+1,9
+1,8
+1,82
+1,84
+1,86
+1,88
+1,9
+1,92
+1,94
+1,96
+1,98
+2
+39,0
+39,2
+39,4
+39,6
+39,8
+40,0
+40,2
+40,4
+40,6
+40,8
+41,0
+2018
+2019
+2020
+2021
+2022
+2023
+Belegungsdichte in Personen je Wohneinheit
+Wohnfläche in qm je Einwohner
+Wohnfläche je EW in qm
+Belegungsdichte
+ 
+Im Jahr 2023 leben durchschnittlich 1,90 Personen in einer Heidelberger Wohnung. Von 2010 bis 2023 
+bewegte sich die Belegungsdichte in Heidelberg auf einem konstanten Niveau. In Baden-Württemberg 
+leben durchschnittlich rund 2,1 Personen je Wohneinheit. Zukünftig soll sich die Belegungsdichte in 
+Heidelberg an diesem Wert orientieren. Es soll eine Trendumkehr erreicht werden. Die Belegungs-
+dichte unterscheidet sich in den Heidelberger Stadtteilen deutlich.  
+Das Ziel, bauliche Ressourcen effizient einzusetzen, wird am besten durch die Belegung der Wohnein-
+heiten erreicht. Diese ist dynamisch und bezieht sich im Wesentlichen auf den Wohnungsbestand. 
+Ende 2023 betrug die durchschnittliche Wohnfläche pro Einwohner in Heidelberg 40,6 Quadratmeter. 
+Der Wert liegt im Bereich der Obergrenze von 41 Quadratmeter pro Person, den der Bund zur Errei-
+chung der Klimaziele des Bundes - 1,5 Grad-Ziel - formuliert hat. (Quelle: Umweltbundesamt). 
+Zielgröße: Belegungsdichte von 2,1 Personen je Wohneinheit erreichen (Landesdurchschnitt Baden-
+Württemberg), um die durchschnittliche Wohnfläche je Einwohner zu reduzieren.  
+Indikatorbeschreibung: Entwicklung der Belegungsdichte (durchschnittliche Personenzahl je 
+Wohneinheit) und der Wohnfläche in Quadratmetern je Person. 
+Kenngrößen: Bei der Belegungsdichte ist ein leichter Rückgang um - 2 Prozent festzustellen. Die 
+Wohnfläche nimmt - auch als Folge davon - leicht um 2,5 Prozent zu. 
+
+ 
+ 
+45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abfallmenge und Hausmüll für Heidelberg in Kilogramm pro Kopf 
+ 
+Quelle  Abfallwirtschaft, Stadtreinigung und Zentralwerkstätten (ASZ) Heidelberg; Statistisches Landesamt Baden-Württemberg; 
+Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+435
+450
+450
+429
+444
+350
+352
+349
+337
+343
+80
+78
+77
+79
+77
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+2020
+2021
+2022
+2023
+2024
+Anteil Hausmüll an gesamter Abfallmenge in 
+Prozent
+Jeweilige Mengen in Kilogramm je Person und 
+Jahr
+Abfallmenge je Person
+Hausmüll je Person
+Anteil Hausmüll an Abfall
+ 
+Ein geeigneter Indikator für das nachhaltige Entwicklungsziel (SDG) im Bereich des reduzierten Ver-
+brauchs von Rohstoffen ist der Abfall. Hier dargestellt die Abfallmenge und die Hausmüllmenge in Kilo-
+gramm je Person und Jahr. 
+Im Zeitverlauf von 2020 bis 2024 sind die Mengen sowohl für die Gesamtabfallmenge als auch für den 
+Hausmüll stabil. Im Jahr 2024 betrug die Abfallmenge 444 Kilogramm und die Hausmüllmenge 343 Ki-
+logramm je Person und Jahr. Gegenüber dem Vorjahr entspricht dies einer leichten Zunahme. 
+Da die amtlichen Bevölkerungszahlen für das Jahresende 2024 zum Zeitpunkt der Berichtserstellung 
+noch nicht vorliegen, wurden näherungsweise die des Stichtages 30.11.2024 verwendet. 
+Zielwert: Senken der Restabfallmenge (Teil des Hausmülls) je Kopf um mehr als 10 Prozent auf unter 
+100 Kilogramm pro Person und Senkung der Fehlwurfquote in allen Abfallarten. 
+Indikatorbeschreibung: Indikator misst die Abfallmenge und die Hausmüllmenge in Kilogramm je 
+Person und Jahr, sowie den Anteil des Hausmülls an der gesamten Abfallmenge. 
+Kenngrößen: Im Jahr 2024 wurden in Heidelberg rund 340 Kilogramm Hausmüll je Person und Jahr 
+gesammelt. Die Entwicklung von 2020 bis 2024 beträgt rund -2 Prozent. Der Anteil des Hausmülls an 
+der Abfallmenge beträgt rund 77 Prozent. 
+
+ 
+46 
+4.5 Regionale Zusammenarbeit ausbauen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Durchschnittlich in Heidelberg im ÖPNV beförderte Fahrgäste und Einsteiger SPNV 
+ 
+Quelle Rhein-Neckar-Verkehr GmbH, Nahverkehrsgesellschaft Baden-Württemberg (NVBW); Amt für Stadtentwicklung und Statistik,      
+             Stadt Heidelberg 
+132.029
+81.451
+79.470
+111.967
+129.795
+141.219
+22.225
+13.569
+11.403
+17.287
+21.151
+0
+20.000
+40.000
+60.000
+80.000
+100.000
+120.000
+140.000
+160.000
+2019
+2020
+2021
+2022
+2023
+2024
+Fahrgäste ÖPNV (Strassenbahn, Bus)
+Summe Einsteiger SPNV
+ 
+Zur Messung der Mobilitätswende und regionaler Verflechtung werden die beförderten Fahrgäste im 
+öffentlichem Personennahverkehr (ÖPNV) genutzt. Angegeben sind die an den Heidelberger Haltestel-
+len mittels automatischer Fahrgastzählgeräte registrierten Personen. Die Fahrgastzahlen beziehen 
+sich auf die Transportmittel Bus und Straßenbahn (ÖPNV). Darin enthalten ist die Linie 5, die auch re-
+gional verkehrt. Die Angaben zum Schienen-Personennahverkehr (SPNV) beziehen sich auf Einsteiger 
+und können nicht direkt mit den ÖPNV-Angaben vergleichen werden. 
+Die Zahl der im Nahverkehr (ÖPNV) beförderten Personen soll zunehmen. Im Verkehrsentwicklungs-
+plan/Klimamobilitätsplan 2035 wurde im mittleren Regio+-Szenario eine ÖPNV-Beförderungsleistung 
+von rund 120 Prozent bis 2035 ermittelt (Ausgangsjahr 2015). In Anlehnung an die Beförderungsleis-
+tung im Regio+-Szenario des Verkehrsentwicklungsplan/Klimamobilitätsplan 2035 wird der Zielwert für 
+die Fahrgäste im ÖPNV für 2035 ermittelt (Quelle: Verkehrsentwicklungsplan/ Klimamobilitätsplan Hei-
+delberg 2035 - Werkstattbericht Szenarien (Februar 2025)).  
+Zielgröße: Über 150.000 täglich beförderte Fahrgäste im ÖPNV bis 2035 ohne SPNV.  
+Indikatorbeschreibung: Anzahl der in Heidelberg täglich durchschnittlich beförderten Fahrgäste im 
+ÖPNV (Bus und Straßenbahn inklusive Linie 5) sowie SPNV (S-Bahn, Regionalexpress und Regional-
+bahn).  
+Kenngrößen: Im Jahr 2024 wurden täglich durchschnittlich über 141.000 Personen im ÖPNV beför-
+dert. Die Linie 5 hat dabei einen Anteil von 21 Prozent der Fahrgäste. Die S-Bahn kommt 2023 auf über 
+21.000 Einsteiger.  
+
+ 
+ 
+47 
+ 
+ 
+ 
+5. International vernetzte Stadt +  
+lokale Bedürfnisse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cluster 5: International vernetzte Stadt und lokale Bedürfnisse 
+ 
+ 
+ 
+Ziel 
+Zielformulierung 
+SDG 
+ 
+ 
+ 
+5.1 
+Offen sein: Internationale Stadt mit starker lokaler Tradition 
+ 
+ 
+ 
+ 
+5.2 
+Wissenschaft und Forschung zum Motor der Stadtentwicklung  
+machen 
+ 
+ 
+ 
+ 
+5.3 
+Attraktiv für Fachkräfte sein: Vielfältiger, weltoffener  
+Wirtschaftsstandort mit guten Arbeitsbedingungen 
+ 
+ 
+ 
+ 
+5.4 
+Kultur für alle zugänglich machen und dynamisch halten 
+ 
+ 
+ 
+ 
+5.5 
+Engagement und Identifikation für die Stadt stärken 
+ 
+ 
+ 
+ 
+5.6 
+Tourismus nachhaltig gestalten 
+ 
+ 
+ 
+ 
+5.7 
+Globale Verantwortung im Blick behalten 
+ 
+
+ 
+ 
+49 
+ 
+5.1  Offen sein: Internationale Stadt mit starker lokaler  
+Tradition 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wanderungsgeschehen – Zuzüge, Wegzüge und Wanderungssaldo 
+ 
+Quelle Melderegister, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+553
+-3.052
+249
+3.145
+630
+28.237
+23.944
+26.552
+35.862
+35.857
+-5.000
+0
+5.000
+10.000
+15.000
+20.000
+25.000
+30.000
+35.000
+40.000
+2019
+2020
+2021
+2022
+2023
+Saldo
+Zuzug
+Wegzug
+ 
+Im Jahr 2023 nähert sich die Anzahl der Zuzüge nach Heidelberg der Anzahl der Wegzüge aus Heidel-
+berg. Dennoch übersteigen die Zuzüge weiterhin die Wegzüge, wodurch der Wanderungssaldo positiv 
+bleibt. Dieser positive Wanderungssaldo konnte den negativen natürlichen Saldo mehr als ausglei-
+chen. Das Wanderungsplus ist auf internationale Zuzüge zurückzuführen, wobei mehr als 50 Prozent 
+des Wanderungsgeschehens auf das Patrick-Henry-Village (PHV) entfallen. Seit 2014 zeigen deutsche 
+Staatsangehörige mehrheitlich einen negativen Wanderungssaldo, während nichtdeutsche Staatsan-
+gehörige im Betrachtungszeitraum überwiegend einen positiven Wanderungssaldo aufweisen. 
+In der Darstellung sind die Auswirkungen von Reisebeschränkungen während der Hochphase der 
+Corona-Pandemie 2020 deutlich erkennbar. Da das Wachstum Heidelbergs maßgeblich auf das posi-
+tive Wanderungssaldo zurückzuführen ist, wird angenommen, dass dies auch für die künftige Entwick-
+lung maßgebend ist. Dabei spielt insbesondere der Wohnungsbau eine wichtige Rolle.  
+Zielwert: Kontinuierliches Wachstum ermöglichen. Durchschnittlich rund plus 1.200 Personen je Jahr 
+bis 2035.  
+Indikatorbeschreibung: Der Indikator Wanderungssaldo beschreibt die Differenz aus Zuzügen ab-
+züglich Wegzügen. Ein positiver Saldo entspricht einer Bevölkerungszunahme durch externe Zuzüge. 
+Kenngrößen: Im Jahr 2023 hat Heidelberg ein positives Wanderungssaldo von + 630 Personen. Die 
+Entwicklung des Saldos von 2019 bis 2023 beträgt rund + 14 Prozent. 
+
+ 
+50 
+5.2  Wissenschaft und Forschung zum Motor der  
+Stadtentwicklung machen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Studierende aller Hochschulen und Studierendenanteil an der Bevölkerung 
+ 
+Quelle Bildungseinrichtungen der Stadt Heidelberg; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+37.090
+37.470
+38.130
+38.453
+23,4
+23,5
+24,7
+24,8
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+5.000
+10.000
+15.000
+20.000
+25.000
+30.000
+35.000
+40.000
+2020
+2021
+2022
+2023
+Anteil in Prozent
+Anzahl Studierende
+Studierende aller Hochschulen
+Anteil Studierende an Bevölkerung
+ 
+Die Zahl der Studierenden in Heidelberg wächst im betrachteten Zeitraum leicht an (rund + 3,5 Prozent 
+seit 2020). Der Anteil der Studierenden, die eine Promotion in Heidelberg anstreben, bleibt konstant 
+hoch. Der Anteil der Studierenden an der Bevölkerung beträgt rund 25 Prozent. Das Ziel ist es, weiter-
+hin ein bedeutender Wissenschaftsstandort zu bleiben. Dies soll durch ein harmonisches Verhältnis 
+von Studierendenzahlen und Bevölkerungszahlen gewährleistet werden (Anteil 2023 rund 25 Prozent 
+Studierende im Verhältnis zur Einwohnerzahl). 
+Insgesamt forschen in den Wissenschaftsinstitutionen mehr als 38.000 Studierende. Mehr als 35 Pro-
+zent der Studierenden und 40 Prozent der Mitarbeitenden wohnen in Heidelberg. In Summe stehen 
+somit bis zu 22.000 Heidelbergerinnen und Heidelberger mit den Wissenschaftseinrichtungen unmit-
+telbar in Verbindung, was etwa einem Fünftel der Bevölkerung im erwerbsfähigen Alter entspricht 
+(Quelle: Stadt Heidelberg, Wissenschaft Bestandsaufnahme 2021, Seite 8). 
+Zielwert: Mindestens 25 Prozent der Studierenden aller Hochschulen an der Einwohnerzahl halten.  
+Indikatorbeschreibung: Anzahl der Studierenden aller Hochschulen sowie den Anteil der Stud-
+ierenden an der Wohnbevölkerung. 
+Kenngrößen: Im Jahr 2023 sind in Heidelberg rund 38.500 Studierende eingeschrieben. Die Entwick-
+lung der Studierendenzahlen von 2020 bis 2023 beträgt rund + 3,5 Prozent. 
+
+ 
+ 
+51 
+ 
+5.3  Attraktiv für Fachkräfte sein: Vielfältiger, weltoffener 
+Wirtschaftsstandort mit guten Arbeitsbedingungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sozialversicherungspflichtig Beschäftigte am Arbeitsort Heidelberg nach Nationalität 
+ 
+Quelle Bundesagentur für Arbeit; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+77.429
+79.522
+79.846
+81.000
+81.261
+14.005
+14.872
+16.274
+17.708
+19.134
+15,3
+15,8
+16,9
+17,9
+19,1
+0
+5
+10
+15
+20
+25
+30
+0
+10.000
+20.000
+30.000
+40.000
+50.000
+60.000
+70.000
+80.000
+90.000
+100.000
+2020
+2021
+2022
+2023
+2024
+Anteil an allen sozialversicherungspflichtig 
+Beschäftigten
+Anzahl sozialversicherungspflichtig 
+Beschäftigter
+Deutsche
+Andere Nationen
+Anteil ausländischer SvB
+ 
+Ein wichtiger Indikator für einen aufnahmefähigen und attraktiven Arbeitsmarkt sind die sozialversi-
+cherungspflichtig Beschäftigten. Hier dargestellt die sozialversicherungspflichtig Beschäftigten nach 
+Nationalität am Arbeitsort Heidelberg. 
+Am Arbeitsort Heidelberg ist ein Großteil der Entwicklungsdynamik der letzten Jahre auf Beschäftigte 
+anderer Nationalitäten zurückzuführen. Circa 20 Prozent (rund 19.100 Personen) der sozialversiche-
+rungspflichtig Beschäftigten am Arbeitsort Heidelberg sind anderer Nationalität. Dies entspricht einer 
+Zunahme von über 30 Prozent (über 5.000 Personen) gegenüber 2020. Somit ist die Entwicklung so-
+wohl prozentual als auch absolut maßgeblich auf internationale Arbeitskräfte zurückzuführen. 
+Zielwert: Anteil der internationalen sozialversicherungspflichtig Beschäftigten (SvB) an allen SvB auf 
+rund 30 Prozent erhöhen. 
+Indikatorbeschreibung: Anteil der sozialversicherungspflichtig Beschäftigten (SvB) anderer Nationen 
+im Verhältnis zu den SvB mit deutschem Pass. 
+Kenngrößen: Im Jahr 2024 arbeiten rund 19.100 sozialversicherungspflichtig Beschäftigte anderer Na-
+tionalitäten in Heidelberg. Die Entwicklung von 2020 bis 2024 beträgt rund + 36,6 Prozent. 
+
+ 
+52 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anzahl Auszubildende am Arbeitsort Heidelberg und deren Zahl je 1.000 SvB 
+ 
+Quelle  Bundesagentur für Arbeit, Statistisches Landesamt Baden-Württemberg; Amt für Stadtentwicklung und Statistik, Stadt Hei-
+delberg 
+4.263
+4.084
+4.036
+3.835
+3.855
+46,4
+44,7
+42,8
+39,9
+39,1
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+4.000
+4.500
+2019
+2020
+2021
+2022
+2023
+Anteil der Auszubildenden je 1.000 
+sozialversicherungspflichtiger 
+Beschäftigung (SvB) in Prozent
+Anzahl der Auszubildenden
+Auszubildende am Arbeitsort
+Auszubildende je 1.000 Beschäftigte HD
+ 
+Rund 70 Prozent der Schüler eines Abschlussjahres besuchen ein Gymnasium. Trotz eines vielfältigen 
+und umfassenden Angebots an Ausbildungsplätzen streben immer mehr Schülerinnen und Schüler 
+längere schulische Bildungswege mit höheren Schulabschlüssen an und stehen damit immer später 
+oder gar nicht dem dualen Ausbildungssystem zur Verfügung. Eine Trendumkehr ist notwendig. 
+Die duale Ausbildung ist ein weiterer wichtiger Baustein für den Arbeitsmarkt. Hierbei wird die Zahl 
+der sozialversicherungspflichtigen Ausbildungsverhältnisse je 1.000 sozialversicherungspflichtig be-
+schäftigter Personen gemessen. Im betrachteten Zeitraum sind in Heidelberg rückläufige Ausbil-
+dungszahlen zu verzeichnen. Ein heterogener Arbeitsmarkt ist für den zukünftigen Arbeitsstandort 
+Heidelberg von Bedeutung. Daher besteht das Ziel darin, die Zahl der Ausbildungsplätze zu erhöhen. 
+Bis 2035 sollen wieder rund 50 Ausbildungsplätze je 1.000 sozialversicherungspflichtig beschäftigter 
+Personen erreicht werden. 
+Zielwert: 50 Ausbildungsplätze je 1.000 SvB am Arbeitsort bis 2035 erreichen. Trendumkehr schaffen. 
+Zielwert anhand der Zahlen Baden-Württembergs abgeleitet. 
+Indikatorbeschreibung: Entwicklung der Ausbildungsverhältnisse absolut und deren Anteil je 1.000 
+sozialversicherungspflichtig beschäftigter Person für Heidelberg.  
+Kenngrößen: Im Jahr 2023 gibt es in Heidelberg rund 39,1 Auszubildende je 1.000 SvB. Deren Entwick-
+lung von 2020 bis 2023 beträgt rund - 7,3 Auszubildende je 1.000 SvB. 
+
+ 
+ 
+53 
+ 
+5.4  Kultur für alle zugänglich machen und dynamisch  
+halten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kulturausgaben der Stadt Heidelberg ohne Schulträgeraufgaben in Euro je Person und Jahr 
+ 
+Quelle Kämmereiamt, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+296
+353
+358
+386
+384
+150
+200
+250
+300
+350
+400
+2019
+2020
+2021
+2022
+2023
+ 
+Der Indikator beschreibt die finanziellen Zuwendungen für den Kulturbereich. Die Quelle ist der Ergeb-
+nishaushalt der Stadt Heidelberg nach Produktbereichen. Veröffentlicht vom Kämmereiamt der Stadt 
+Heidelberg. Die Kulturausgaben sind dargestellt durch die ordentlichen Aufwendungen in Euro je Per-
+son auf Grundlage der amtlichen Einwohnerzahl. Inklusive der Eigenbetriebe, Heidelberger Frühling, 
+Zoo und Theater und Orchester. Der starke Anstieg 2022 und 2023 ist hautsächlich durch die verän-
+derte amtliche Einwohnerzahl auf Basis des Zensus 2022 zurückzuführen. 
+Die Kulturausgaben sind im Betrachtungszeitraum zunehmend. Die Stadt investiert aktuell rund 380 
+Euro pro Person jährlich in den Bereich Kultur (für das Jahr 2023). Die Stadt hat somit eine zentrale 
+Rolle für die Bereitstellung des kulturellen Angebotes. Gerade unter Berücksichtigung der angespann-
+ten Haushaltslage soll die Kultur trotzdem weiter in ähnlichem Umfang gefördert werden. 
+Orientierungswert: Beibehaltung der wichtigen Rolle der Stadt Heidelberg für die Kulturförderung.  
+Indikatorbeschreibung: Kulturausgaben der Stadt in Euro je Einwohner, ohne Aufwendungen für 
+Schulträgeraufgaben. 
+Kenngrößen: Im Jahr 2023 hat die Stadt Heidelberg rund 380 Euro je Person im Bereich Kultur ausge-
+geben. Die Entwicklung der Ausgaben je Person für die Kultur ist von 2019 bis 2023 um rund 30 Pro-
+zent gestiegen. Mit berücksichtigt sind die Aufwendungen für den Zoo, den Heidelberger Frühling und 
+des Amtes für Theater und Philharmonisches Orchester im Eigenbetrieb (ETO). 
+
+ 
+54 
+5.5 Engagement und Identifikation für die Stadt stärken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engagement: Personen in Feuerwehren in Heidelberg 
+ 
+Quelle Feuerwehr, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+3,52
+3,52
+3,54
+3,52
+3,94
+0,00
+0,50
+1,00
+1,50
+2,00
+2,50
+3,00
+3,50
+4,00
+4,50
+0
+100
+200
+300
+400
+500
+600
+2018
+2019
+2020
+2021
+2022
+Faktor Freiwillige
+Anzahl Personen
+Festes Personal
+Freiwillige
+Faktor Freiwillige
+ 
+Das Aufgabenspektrum der Feuerwehr hat sich in den letzten Jahrzehnten deutlich gewandelt. Heute 
+hilft die Feuerwehr nicht nur bei Bränden, sondern auch bei Unfällen, bei denen Menschen verletzt 
+oder eingeklemmt sind, bei Austritten von Gefahrstoffen oder bei der Rettung von Natur und Tieren in 
+Gefahr. Nach Unwettern müssen Straßen freigeräumt und schützende Maßnahmen bei Hochwasser 
+ergriffen und anschließend aufgeräumt werden. 
+Einen großen Anteil an den Hilfeleistungen haben auch die Freiwilligen, die in Heidelberg eine bedeu-
+tende Rolle spielen. Im Jahr 2022 waren rund viermal so viele Personen freiwillig in den Feuerwehren 
+aktiv wie festes Personal und haben sich engagiert. 
+Das Ziel besteht darin, die Zahl der Freiwilligen weiterhin hochzuhalten, um auch in Zukunft hand-
+lungsfähig zu bleiben. Der Zielwert soll der Faktor vier aus dem Jahr 2022 sein. 
+Zielwert: Faktor 4 der Zahl der Freiwilligen im Verhältnis zum festen Personal halten. 
+Indikatorbeschreibung: Anzahl der Personen der Berufsfeuuerwehr (festes Personal), Freiwillige und 
+das Verhältnis von Freiwillgen zum festen Personal. 
+Kenngrößen: Im Jahr 2022 beträgt der Faktor der Freiwilligen knapp 4. Die Entwicklung des Faktors 
+von 2018 bis 2022 beträgt rund + 0,5. 
+
+ 
+ 
+55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vereinsarbeit: Mitgliedszahlen in Sportvereinen je 1.000 Personen 
+ 
+Quelle Sportkreis Heidelberg e.V.; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+281
+301
+297
+295
+322
+0
+50
+100
+150
+200
+250
+300
+350
+400
+2018
+2019
+2020
+2021
+2022
+Mitgliedschaften je 1.000 Personen
+Mitgliedschaften je 1.000 EW
+Benchmark 2035
+ 
+Es gibt rund 120 Sportvereine mit mehr als 50.000 Mitgliedern, davon knapp 15.000 Kinder und Jugend-
+liche. Sport und Vereinsarbeit sind wichtige ehrenamtliche und gemeinnützige Elemente. 
+Das Ziel besteht darin, dass die Zahl der Mitgliedschaften nicht unter 300 je 1.000 Personen fällt.  
+Dafür müssen das Vereinswesen und insbesondere die Sportvereine weiter unterstützt und gefördert 
+werden. Die Stadt Heidelberg leistet hierzu einen wesentlichen Beitrag. Damit die breite Palette an an-
+gebotenen Sportarten erhalten bleibt, muss in die Ausbildung von Übungsleitern, in die Neubeschaf-
+fung von Sportgeräten sowie in die Modernisierung und den Ausbau der Vereinsstätten investiert wer-
+den. Allein durch Mitgliedsbeiträge ist dies nicht zu leisten. Die wertvolle Arbeit der Sportvereine wird 
+deshalb über das Sportförderungsprogramm der Stadt Heidelberg unterstützt. 
+Zielwert: Über 300 Mitgliedschaften je 1.000 Personen bis 2035 beibehalten. 
+Indikatorbeschreibung: Personen in Sportvereinen je 1.000 Personen in Heidelberg. 
+Kenngrößen: Im Jahr 2022 sind rund 320 Personen je 1.000 Einwohner in Sportvereinen aktiv. Die Ent-
+wicklung in den Jahren 2018 bis 2022 beträgt rund + 15 Prozent. 
+
+56 
+5.6 Tourismus nachhaltig gestalten 
+ 
+ 
+Schlafgelegenheitsauslastung in Prozent und Übernachtungsdauer in Tagen 
+Quelle Statistisches Landesamt Baden-Württemberg; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg
+1,95
+1,96
+2,12
+2,14
+2,02
+2,01
+0,00
+0,50
+1,00
+1,50
+2,00
+2,50
+0
+10
+20
+30
+40
+50
+60
+2018
+2019
+2020
+2021
+2022
+2023
+Durchschnittliche Übernachtungsdauer in Tagen
+Schlafgelegenheitsauslastung in Prozent
+Schlafgelegenheitenauslastung (in Prozent)
+Übernachtungsdauer (in Tagen)
+Die Auslastung gibt den prozentualen Anteil der tatsächlichen Übernachtungen an den möglichen 
+Übernachtungen an. Bei der Berechnung der Auslastung der angebotenen Betten/Schlafgelegenhei-
+ten muss berücksichtigt werden, dass diese nicht unbedingt an jedem Tag des Berichtszeitraums zur 
+Verfügung stehen (zum Beispiel wegen Betriebsferien oder Ruhetagen). Die möglichen Übernachtun-
+gen entsprechen daher den angebotenen Betten/Schlafgelegenheiten multipliziert mit den Öffnungs-
+tagen. Die Bettenauslastung liegt, ausgenommen der Corona-Pandemie, zwischen 50 und 60 Prozent. 
+Die durchschnittliche Übernachtungsdauer liegt bei rund zwei Übernachtungstagen je Aufenthalt. Dies 
+liegt auch daran, dass Heidelberg ein beliebtes Tourismusziel für Wochenendreisen ist, bei denen in 
+der Regel zwei Übernachtungen anfallen. Darüber hinaus ist Heidelberg ein beliebter Tagungsort, was 
+die Übernachtungsdauer ebenfalls niedrig hält. 
+Zielwert: Bettenauslastung von dauerhaft mindestens 50 Prozent erreichen, Übernachtungsdauer auf 
+durchschnittlich 2,5 Tage erhöhen. 
+Indikatorbeschreibung: Schlafgelegenheitsauslastung in Prozent und durchschnittliche Übernach-
+tungsdauer je Aufenthalt in Tagen. 
+Kenngrößen: Im Jahr 2023 betrug die Übernachtungsdauer durchschnittlich 2,01 Tage und die Schlaf-
+gelegenheitsauslastung betrug 52 Prozent. Die Entwicklung der Übernachtungsdauer von 2018 bis 
+2023 beträgt rund + 3 Prozent. 
+
+ 
+ 
+57 
+ 
+5.7 Globale Verantwortung im Blick behalten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kreislaufwirtschaft - Wertstoffmenge je Person und Wertstoffquote 
+ 
+Quelle  Abfallwirtschaft, Stadtreinigung und Zentralwerkstätten (ASZ) Heidelberg; Statistisches Landesamt Baden-Württemberg; 
+Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+350
+352
+349
+337
+343
+235
+236
+230
+220
+223
+67,1
+66,8
+65,9
+65,2
+64,9
+0
+10
+20
+30
+40
+50
+60
+70
+80
+0
+50
+100
+150
+200
+250
+300
+350
+400
+2020
+2021
+2022
+2023
+2024
+Anteil der Wertstoffe am Hausmüll in Prozent
+Mengen in Kilogramm pro Person und Jahr
+Hausmüll je Person
+Wertstoffmenge je Person
+Wertstoffquote
+ 
+Heidelberg übernimmt globale Verantwortung durch den Umgang mit Rohstoffen. Der Rohstoffkon-
+sum soll reduziert und die Wiederverwertung gesteigert werden. Die Abfallmenge und der daraus re-
+sultierende Entsorgungsbedarf in einer Stadt können von jedem Einzelnen unmittelbar durch individu-
+elle Konsumentscheidungen beeinflusst werden. Anhand der entsorgten Abfallmenge je Person lässt 
+sich im Zeitverlauf die Dringlichkeit und der Umfang der Abfallvermeidung nachvollziehen. Grundsätz-
+lich gilt die Berücksichtigung der fünfstufigen Abfallhierarchie aus dem Kreislaufwirtschaftsgesetz, die 
+Prioritäten wie folgt setzt: Vermeidung (höchste Priorität), Vorbereitung zur Wiederverwendung, Re-
+cycling, energetische Verwertung und Beseitigung.  
+Das Ziel besteht darin, die Hausmüllmenge zu reduzieren und die Recyclingquote (Anteil der Wert-
+stoffe am Hausmüll) auf über 65 Prozent zu erhöhen. 
+Da die amtlichen Bevölkerungszahlen für das Jahresende 2024 zum Zeitpunkt der Berichtserstellung 
+noch nicht vorliegen, wurden näherungsweise die des Stichtages 30.11.2024 verwendet. 
+Zielwert: Durchschnittliche Wertstoffquote von über 65 Prozent bis 2035 erreichen. 
+Indikatorbeschreibung: Menge des Hausmülls und der Wertstoffe in Kilogramm je Person. Die Wert-
+stoffquote ist die Menge an Wertstoffen im Verhältnis zum Hausmüll in Prozent. 
+Kenngrößen: Im Jahr 2024 wurden rund 223 Kilogramm Wertstoffe je Person gesammelt, was einer 
+Wertstoffquote von knapp 65 Prozent an der Hausmüllmenge entspricht. Die Entwicklung der Wert-
+stoffquote von 2020 bis 2024 beträgt rund – 2,2 Prozentpunkte. Jedoch hat sich die Hausmüll- und 
+Wertstoffmenge insgesamt in diesem Zeitraum reduziert. 
+
+ 
+58 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Gesunde, resiliente und sichere Stadt 
++ Stadt im Stress 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cluster 6: Gesunde, resiliente und sichere Stadt + Stadt im Stress 
+ 
+ 
+ 
+Ziel 
+Zielformulierung 
+SDG 
+ 
+ 
+ 
+6.1 
+Robust im Krisenfall: krisensichere Infrastruktur für alle Fälle 
+ 
+ 
+ 
+ 
+6.2 
+Innovativer Standort mit hoher Dynamik 
+ 
+ 
+ 
+ 
+6.3 
+Digitales Heidelberg: Smarte Lösungen und flexible  
+Reaktionsmöglichkeiten schaffen 
+ 
+ 
+ 
+ 
+6.4 
+Gesundes und sicheres Leben in der Stadt ermöglichen 
+ 
+ 
+ 
+ 
+6.5 
+Demokratie und Zusammenhalt stärken 
+ 
+ 
+
+ 
+60 
+ 
+6.1  Robustheit im Krisenfall: Krisensichere Infrastruktur 
+für alle Fälle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bewertungsmatrix für ein krisensicheres Heidelberg 
+ 
+Quelle Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+Veränderung
+Wert Berichtsjahr
+Wert Vorjahr
+Indikator
+Cluster
+Stressszenario
+- 5 ; +- 0 %
+(2023) 35.857
+(2022) 35.862  
+Wanderungsgeschehen - Ankunftsstadt
+5
+Außenzuwanderung
++ 1,27 Euro ; + 13,5 
+%
+(2023) 10,67 Euro
+(2021) 9,4 Euro
+Mietpreisentwicklung - Mietspiegel
+5
+Schwarmstadt
+- 129.385.492 ; - 1,3%
+9.823.344.666
+(2024)
+9.952.730.158
+(2023)
+BIP in Euro - Wirtschaftsentwicklung
+1 & 3
+Unternehmensverlust
+- 0,1 Jahr ; - 0,25 %
+39,9 Jahre (2023)
+40 Jahre (2022)
+Bevölkerungsstruktur -
+Durchschnittsalter
+3
+Gesellschaftliche 
+Polarisierung
+- 63 mm ; - 8,5 %
+(2022) 675 mm
+(2021) 738 mm
+Niederschlagsmengen
+6
+Starkregen
+- 1 ; - 8 %
+11 (2024)
+12 (2023)
+Anzahl der „Tropischen Nächte“
+1
+Thermische Belastung
+(2022) 13 Prozent
+-
+Erneuerbare Stromerzeugung
+4
+Krise der 
+Energieversorgung
+-
+2 (2023)
+2 (2022)
+Anzahl Störfallbetriebe
+6
+Industrieunfall
+- 15; - 7,5 %
+(2023) 185,83
+(2022)  200,83
+Fälle vorzeitiger Sterblichkeit je 1.000 
+Personen
+6
+Epidemie / Pandemie
+NN
+NN
+Digitale Infrastruktur/Breitband
+6
+Cyber-Angriffe
+ 
+Das Ziel dieser Matrix besteht darin, Indikatoren für die Kernfunktionen der Stadt abzubilden, die als 
+Deskriptoren für Krisenfestigkeit verwendet werden können und somit die künftige kommunale Hand-
+lungsfähigkeit beschreiben. Eine im Städtevergleich möglichst vorteilhafte Kombination dieser Ausprä-
+gungen führt zu einer besonders hohen Resilienz gegenüber äußeren Einflüssen. Dabei können die 
+Resilienz-Ergebnisse einer Stadt innerhalb der einzelnen Stressszenarien deutlich variieren. Eine hohe 
+Resilienz gegenüber dem Stress einer gesellschaftlichen Polarisierung lässt zum Beispiel nicht auf eine 
+gleichzeitig hohe Resilienz gegenüber dem Stress klimatischer Veränderungen schließen. Die Ausprä-
+gungen der Deskriptoren sind mittels Indikatoren messbar und können als Vergleichsmaß für die Resi-
+lienz einer Stadt in Krisensituationen interpretiert werden. 
+Mittelfristig ist es der Wunsch, die Heidelberger Indikatoren für Krisenfestigkeit auf Grundlage des 
+Modells des Bundesinstituts für Bau-, Stadt- und Raumforschung (BBSR) mit Schwellen- und Grenzwer-
+ten einzuordnen und eine Vergleichbarkeit mit anderen Kommunen herzustellen. Dadurch soll ein 
+Austausch über hilfreiche Maßnahmen zur Steigerung der Krisenfestigkeit ermöglicht werden. Die 
+Zielwerte für 2035 müssen für Heidelberg noch definiert werden. Hierzu bedarf es weiterer Erfah-
+rungswerte im fortlaufenden Projekt des BBSR. 
+Zielwerte: Werte für 2035 müssen noch definiert und formuliert werden. 
+Indikatorbeschreibung: Indikator Resilienzmatrix aus verschiedenen Deskriptoren der Stressszenar-
+ien für Städte des BBSR (Bundesinstitut für Bau-, Stadt-, und Raumforschung) für Heidelberg. Künftig 
+soll eine Einordnung der Daten der verschiedenen Deskriptoren im Kontext anderer Städte erfolgen. 
+
+ 
+ 
+61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trinkwasserverbrauch in Litern pro Kopf und Niederschlagsmenge in Millimetern 
+ 
+Quelle Stadtwerke Heidelberg, Deutscher Wetterdienst; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+122
+132
+130
+127
+128
+724
+651
+738
+675
+773
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+0
+20
+40
+60
+80
+100
+120
+140
+2019
+2020
+2021
+2022
+2023
+Jahresniederschlag in mm
+Liter je Person und Tag
+Wasserverbrauch (Liter je EW)
+Zielwert Wasserverbrauch 2035
+Jahresniederschlag
+ 
+Trinkwasser ist eine lebenswichtige Ressource, die täglich vom Menschen benötigt wird. Angesichts 
+zunehmender Dürreperioden und Hitzesommer zählt Trinkwasser zu den kostbarsten Ressourcen. Der 
+Trinkwasserverbrauch pro Kopf wird im Kontext des durchschnittlichen Niederschlags betrachtet, wo-
+bei der Zusammenhang zwischen Wasserverbrauch und Trockenheit berücksichtigt wird. Grundsätz-
+lich ist Deutschland ein wasserreiches Land und der direkte Verbrauch blieb über die letzten Jahre 
+überwiegend konstant. Auch in Heidelberg ist grundsätzlich ausreichend Trinkwasser vorhanden. 
+Der tägliche Trinkwasserverbrauch privater Haushalte in Heidelberg lag zuletzt (2023) bei knapp 130 
+Litern pro Person und Tag. Die Abgabemengen bewegen sich im Betrachtungszeitraum circa zwischen 
+120 und 130 Litern pro Tag und Person. 
+Orientierungswert: Dauerhaft unter 120 Liter pro Kopf bis 2035 für Heidelberg (orientiert am durch-
+schnittlichen Verbrauch für Deutschland 2023 – Quelle: Wasseratlas 2025, Seite 11). 
+Indikatorbeschreibung: Abgegebene Trinkwassermenge an Privathaushalte in Liter pro Kopf und 
+Tag sowie die durchschnittliche Menge des Jahresniederschlags in Millimeter je Quadratmeter. 
+Kenngrößen: Im Jahr 2023 hat jede Person rund 128 Liter Trinkwasserverbrauch am Tag verbraucht. 
+Der durchschnittliche Jahresniederschlag 2023 betrug 773 Millimeter, was 773 Litern je Quadratmeter 
+im Jahr entspricht. Die Entwicklung des Trinkwasserverbrauchs pro Person und Tag von 2019 bis 2023 
+beträgt rund + 5 Prozent. 
+
+ 
+62 
+6.2 Innovativer Standort mit hoher Dynamik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Innovationsindex Baden-Württemberg 
+ 
+Quelle Statistisches Landesamt Baden-Württemberg; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+58,9
+58,2
+60,1
+58,7
+30
+35
+40
+45
+50
+55
+60
+65
+2018
+2020
+2022
+2024
+Stuttgart (SKR)
+Karlsruhe (SKR)
+Heidelberg (SKR)
+Mannheim (SKR)
+Freiburg im Breisgau (SKR)
+ 
+In hoch entwickelten Volkswirtschaften gelten Innovationen als entscheidende Grundlage für Wachs-
+tum und Beschäftigung. Der Indikator setzt sich aus den Teilindizes »Niveau« und »Dynamik« zusam-
+men. In den Niveauindex gehen die jeweils aktuellen Werte folgender sechs Einzelindikatoren ein: 
+̶ 
+Forschungs- und Entwicklungsausgaben bezogen auf das Bruttoinlandsprodukt 
+̶ 
+Personal in Forschung und Entwicklung bezogen auf die Erwerbspersonen insgesamt 
+̶ 
+Erwerbstätige in industriellen Hochtechnologiebranchen bezogen auf alle Erwerbstätigen  
+̶ 
+Erwerbstätige in wissensintensiven Dienstleistungen bezogen auf die Erwerbstätigen gesamt 
+̶ 
+Erwerbstätige in wissenschaftlich-technischen Berufen bezogen auf alle Erwerbstätigen  
+̶ 
+Patentanmeldungen beim Europäischen Patentamt je eine Million Einwohner 
+Der Dynamikindex umfasst die jahresdurchschnittlichen Veränderungsraten dieser sechs Indikatorrei-
+hen. Die Werte der Reihen wurden standardisiert. Der höchste Indikatorwert erhält den Wert 100, der 
+kleinste Wert den Wert 0. Alle Indikatoren gehen mit dem gleichen Gewicht in die Teilindizes »Niveau« 
+und »Dynamik« ein, die abschließend im Verhältnis 3:1 zum Innovationsindex zusammengefasst wer-
+den (Quelle: Statistisches Landesamt Baden-Württemberg). 
+Zielwert: Mindestens 60 Prozent bis 2035 und Spitzenposition in Baden-Württemberg erreichen.  
+Indikatorbeschreibung: Der Innovationsindex ist ein Indikator für die Innovationskraft einer Region. 
+Kenngrößen: Im Jahr 2023 betrug der Innovationsindex für Heidelberg 58,7 Prozent. Eine Entwicklung 
+von 2018 bis 2024 ist kaum vorhanden. 
+
+ 
+ 
+63 
+ 
+6.3  Digitalales Heidelberg: Smarte Lösungen und flexible 
+Reaktionsmöglichkeiten schaffen  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deutscher Smart City Index (der BITKOM) für Heidelberg  
+ 
+Quelle BITKOM; Amt für Digitales und Informationsverarbeitung, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+63
+68
+76
+79
+50
+55
+60
+65
+70
+75
+80
+85
+2021
+2022
+2023
+2024
+Deutscher Smart City Index - Gesamtindex
+ 
+Der Smart City Index gilt als Digitalranking für deutsche Großstädte. Er informiert jährlich über den 
+Status quo, Entwicklungen und Trends im Bereich der Digitalisierung. Städten und Gemeinden werden 
+dadurch Orientierungshilfen und Anreize zur zügigen und umfassenden Digitalisierung des öffentli-
+chen Sektors geboten. 
+Für den Smart City Index 2024 wurden 82 Städte mit mindestens 100.000 Einwohnern in den fünf The-
+menbereichen Verwaltung, Informationstechnologie (IT) und Kommunikation, Energie und Umwelt, 
+Mobilität sowie Gesellschaft und Bildung analysiert und bewertet. Diese fünf Bereiche fächern sich in 
+37 Indikatoren auf, die wiederum aus insgesamt 162 Parametern bestehen – von Online-Bürger-Ser-
+vices über Sharing-Angebote für Mobilität und intelligente Ampeln bis zur Breitbandverfügbarkeit. Die 
+Indikatoren sind normiert und auf eine Skala von 0 bis 100 übersetzt. Zudem werden in jedem The-
+menbereich innovative Projekte außerhalb der betrachteten Indikatoren erfasst und mit maximal fünf 
+Prozent der erreichbaren Gesamtpunktzahl je Themenbereich gewertet (Quelle: BITKOM). 
+ 
+Zielwert: Mehr als 80 Prozent im Gesamtindex bis 2035 erreichen. 
+Indikatorbeschreibung: Gesamtindex des Digitalisierungsgrades, welcher sich aus fünf Digitalisier-
+ungsbereichen zusammensetzt. 
+Kenngrößen: Im Jahr 2024 beträgt der Smart City Index der BITKOM für Heidelberg rund 78,9 Prozent. 
+Die Entwicklung von 2021 bis 2024 beträgt rund + 16 Prozentpunkte. 
+
+ 
+64 
+6.4 Gesundes und sicheres Leben in der Stadt ermöglichen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vorzeitige Sterblichkeit – Todesfälle von Personen unter 70 Jahren je 100.000 Personen 
+ 
+Quelle Melderegister, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+137
+105
+113
+136
+126
+214
+256
+256
+270
+249
+0
+50
+100
+150
+200
+250
+300
+2019
+2020
+2021
+2022
+2023
+weiblich
+männlich
+Benchmark 2030
+ 
+Der Indikator vorzeitige Sterblichkeit umfasst die Todesfälle der weiblichen und männlichen unter 70-
+Jährigen Bevölkerung, bezogen auf 100.000 Einwohnerinnen und Einwohner unter 70 Jahren. Hier 
+wurde aus datenanalytischen Gründen auf die Einwohnerzahlen des Melderegisters der Stadt Heidel-
+berg zurückgegriffen. Die Sterbefälle wurden anhand der Sterbefälle des Melderegisters ermittelt. 
+Im Themenbereich »Gesundheit und Wohlergehen« der deutschen Nachhaltigkeitsstrategie wird als 
+Ziel definiert, dass die altersstandardisierte Zahl der vorzeitigen Sterbefälle bis zum Jahr 2030 für Män-
+ner auf 190 beziehungsweise für Frauen auf 100 Sterbefälle je 100.000 der gleichaltrigen Bevölkerung 
+zurückgehen soll. Baden-Württemberg lag 2017 mit 232 beziehungsweise 128 vorzeitigen Sterbefällen 
+je 100 000 deutlich niedriger als im Bundesdurchschnitt (Quelle: Statistisches Landesamt Baden-Würt-
+temberg). Daraus sind die Orientierungswerte für die Stadt Heidelberg abgeleitet. 
+ 
+Orientierungswert: Für beide Geschlechter soll die vorzeitige Sterblichkeit auf unter 100 Fälle je 
+100.000 Personen gesenkt werden. 
+Indikatorbeschreibung: Anzahl der Fälle vorzeitiger Sterblichkeit (Todesfälle von Personen unter 70 
+Jahren) je 100.000 Personen der gleichen Altersklasse und des gleichen Geschlechts. 
+Kenngrößen: Im Jahr 2023 traten je 100.000 Personen derselben Klasse 249 vorzeitige Todesfälle bei 
+Männern und 126 vorzeitige Todesfälle bei Frauen auf. Die Entwicklung der vorzeitigen Sterblichkeit 
+von 2019 bis 2023 beträgt rund - 8 Prozent bei Frauen und rund + 16 Prozent bei Männern. 
+
+ 
+ 
+65 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jährliche Straftaten je 100.000 Personen und Aufklärungsquote 
+ 
+Quelle Polizeipräsidium Mannheim für das Stadtgebiet Heidelberg; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+8.445
+7.004
+8.007
+8.249
+9.032
+65
+81
+55
+59
+62
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+10.000
+2019
+2020
+2021
+2022
+2023
+Aufklärungsquote in Prozent
+Straftaten je 100.000 Personen
+Straftaten je 100.000 EW
+Aufklärungsquote
+ 
+Eine aussagekräftige Kenngröße für die persönliche Sicherheit ist die Zahl der polizeilich bekannt ge-
+wordenen Straftaten. Der Indikator beschreibt die Anzahl der Straftaten je 100.000 Personen und Jahr, 
+die der Polizei angezeigt und in der polizeilichen Kriminalstatistik erfasst werden. Damit gibt der Indi-
+kator Hinweise auf die Kriminalitätsbelastung der Bevölkerung. Nicht berücksichtigt sind Ordnungs-
+widrigkeiten, politisch motivierte Straftaten, Verkehrsdelikte und Auslandsstraftaten. Veränderungen 
+in der polizeilichen Kriminalstatistik können beispielsweise auf Änderungen im Anzeigeverhalten, in 
+der Verfolgungsintensität der Polizei oder auf Änderungen des Strafrechts zurückzuführen sein. Die 
+Aufklärungsquote zeigt den Anteil in Prozent der aufgeklärten Fälle an den bekannt gewordenen 
+Straftaten. Sicherheit bildet einen wichtigen Aspekt der Lebensqualität ab. Ein Umfeld, in dem Perso-
+nen ohne Angst und Kriminalität leben können, ist eine wesentliche Voraussetzung für das Funktionie-
+ren sozialer Systeme und für gesellschaftlichen Zusammenhalt (Quelle: Nachhaltigkeitsbericht Baden-
+Württemberg). 
+Zielwert: Bis 2035 unter 7.000 Straftaten je 100.000 Personen erreichen und 70 Prozent Aufklärungs-
+quote erreichen. 
+Indikatorbeschreibung: Straftaten je 100.000 Personen und Aufklärungsquote in Prozent, welche 
+den Anteil der aufgeklärten Straftaten an allen Straftaten entspricht. 
+Kenngroßen: Im Jahr 2023 wurden in Heidelberg in Heidelberg rund 9.000 Straftagen je 100.000 Per-
+sonen erfasst, die Aufklärungsquote liegt bei 62 Prozent. Die Entwicklung der Straftaten je 100.000 
+Personen von 2019 bis 2023 liegt bei rund plus 7 Prozent. 
+
+ 
+66 
+6.5 Demokratie und Zusammenhalt stärken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wahlbeteiligung in Heidelberg für die letzten Wahlen in Prozent 
+ 
+Quelle Wahldienststelle der Stadt Heidelberg; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+67,3
+44,1
+70,4
+66,0
+85,5
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2021 Landtagswahl
+2022 OB-Wahl
+2024 Europawahl
+2024 Kommunalwahl
+2025 Bundestagswahl
+ 
+Die Wahlbeteiligung gibt den Anteil der wahlberechtigten Bürgerinnen und Bürger wider, die bei der 
+entsprechenden Wahl von ihrem Wahlrecht Gebrauch gemacht haben. In die Wahlbeteiligung fließen 
+sowohl gültige als auch ungültige Stimmen mit ein. 
+Die Höhe der Wahlbeteiligung gilt als Maß für Demokratiebewusstsein und demokratisches Engage-
+ment. Eine geringe Wahlbeteiligung kann aus mangelndem politischem Interesse resultieren, ein Aus-
+druck von Protest unzufriedener Bürgerinnen und Bürger sein oder ein Zeichen dafür, dass die Wahl 
+als nicht wichtig angesehen wird (Low-Interest-Wahlen). Eine hohe Wahlbeteiligung gilt als wün-
+schenswert, weil sie der Legitimation der Gewählten und des demokratischen Staates dient. Eine gute 
+Einbindung der Bürgerinnen und Bürger, insbesondere auf kommunaler Ebene stärkt die repräsenta-
+tive Demokratie und damit das Wahlverhalten. (Quelle: Nachhaltigkeitsbericht Baden-Württemberg) 
+Heidelberg hat sich zum Ziel gesetzt, eine hohe Wahlbeteiligung über alle Wahlarten zu erreichen – 
+weiterhin durchschnittlich knapp 70 Prozent. Darüber hinaus soll in jedem Stadtteil die Wahlbeteili-
+gung mindestens 40 Prozent betragen, um über das gesamte Stadtgebiet eine hohe Legitimation der 
+politischen Aufgaben zu erreichen. 
+Zielwert: Die durchschnittliche Wahlbeteiligung soll weiter rund 70 Prozent betragen. 
+Indikatorbeschreibung: Anzahl der Wählenden, die ihre Stimme abgegeben haben, im Verhältnis zu 
+den wahlberechtigten Personen. 
+Kenngrößen: Im Jahr 2025 lag die Wahlbeteiligung bei der Bundestagswahl bei rund 85,5 Prozent für 
+Heidelberg.  2024 lag die Wahlbeteiligung bei 70,4 Prozent bei den Europawahlen und 66 Prozent bei 
+den Kommunalwahlen. Durchschnittlich kann für Heidelberg rund 66 Prozent Wahlbeteiligung über 
+den Betrachtungszeitraum festgestellt werden. 
+
+ 
+ 
+67 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kommunale Handlungsfähigkeit - Kommunaler Schuldenstand in Euro je Person 
+ 
+Quelle Statistisches Landesamt Baden-Württemberg; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+2.264
+2.667
+2.589
+2.569
+2.855
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+2019
+2020
+2021
+2022
+2023
+ Schulden Kernhaushalt
+ Schulden Eigenbetriebe
+Schulden Kernhaushalt und Eigenbetriebe
+ 
+Für Heidelberg ist es daher elementar, seine Schulden im Blick zu behalten. Um die finanzielle Situa-
+tion der Stadt Heidelberg abzubilden, wird die statistische Verschuldung der Stadt herangezogen. 
+Diese beinhaltet nur diejenigen Schulden, die zum Stichtag valutiert sind, also aufgrund derer der 
+Stadt tatsächlich Gelder zugeflossen sind. Sie beziehen sich auf den Kernhaushalt der Stadt Heidel-
+berg. Um den interkommunalen Vergleich zu ermöglichen, wird der Schuldenstand in Euro pro Person 
+dargestellt. Der Schuldenstand gibt ein Gesamtbild der Belastung der Kommune, die von künftigen 
+Generationen zu tragen ist. 
+Eine nachhaltige und generationengerechte Finanzpolitik ist elementar. Nicht zuletzt vor dem Hinter-
+grund der Schuldenbremse nach Artikel 109 Absatz 3 Grundgesetz und Artikel 84 Absatz 1 Verfassung 
+des Landes Baden-Württemberg gilt es, den Schuldenstand nicht unbegrenzt anwachsen zu lassen. 
+Die Verschuldung gibt zusätzlich Hinweise auf finanzielle Einschränkungen des Gestaltungsspielraums 
+bei der Aufgabenerfüllung der Kommune aufgrund des zu leistenden Schuldendienstes (Quelle: Nach-
+haltigkeitsbericht Baden-Württemberg). 
+ 
+Orientierungswert: Verschuldung gering halten. 
+Indikatorbeschreibung: Schuldenstand der Kommune in Euro je Person. 
+Kenngrößen: Im Jahr 2023 lag die kommunale Verschuldung bei über 2.800 Euro je Person. Die Stei-
+gerung der kommunalen Schulden von 2019 bis 2023 beträgt rund + 26 Prozent. 
+
+ 
+68 
+II. Sozialraummonitoring auf  
+Stadtviertelebene – Bezugsjahr 2023 
+Empfehlungen für ein zukünftiges Sozialraummonitoring aus dem Bericht zur Sozialen Lage 2018: 
+Europäische Großstädte stehen vor großen sozialen Herausforderungen aufgrund veränderter Lebens-
+stile, sozialräumlicher und gesellschaftlicher Polarisierung sowie wachsender Armut. Zur Armutspräven-
+tion und um gefährdete Stadtteile zu erkennen, werden seit längerem spezifische Daten auf Teilraum-
+ebene gesammelt und ausgewertet. Ein Sozialraummonitoring (SRM) hat das Ziel, demografische und 
+sozio-ökonomische Entwicklungen regelmäßig und systematisch darzustellen. Dabei werden sowohl ob-
+jektive als auch subjektive Daten verwendet. Das Sozialraummonitoring Heidelberg soll leicht verständli-
+che Informationen über bedeutende Parameter der Stadtteile liefern und mögliche Polarisierungs- und 
+Segregationsprozesse aufzeigen. Es dient als Frühwarnsystem für Politik, Verwaltung und Bürger, um ge-
+zielte Stadtentwicklungsmaßnahmen zu ermöglichen. 
+Unter anderem soll das Sozialraummonitoring laut der Empfehlung 2018 folgende Funktionen erfüllen: 
+̶ 
+Darstellung von demografischen Entwicklungen 
+̶ 
+Aufzeigen von sozialen Problemlagen 
+̶ 
+Vergleich der Stadträume mit dem Heidelberger Durchschnitt 
+̶ 
+Mittel- bis langfristig eventuell auch Vergleich mit anderen Städten 
+̶ 
+Aufzeigen von Stärken und Schwächen der Stadtteile/ Stadtviertel 
+̶ 
+Anknüpfungspunkte für Handlungsansätze 
+ 
+Um ein effektives Sozialraummonitoring zu erreichen, sollen aussagekräftige Indikatoren entwickelt wer-
+den, die sich an den Sustainable Development Goals (SDG's) und dem Stadtentwicklungskonzept orien-
+tieren. 
+Als Themenfelder werden folgende Einzelbereiche empfohlen: 
+̶ 
+Bevölkerung 
+̶ 
+Wohnen 
+̶ 
+Erwerbssituation 
+̶ 
+Partizipation/Teilhabe 
+̶ 
+Gesundheit 
+̶ 
+Besonders von Armut bedrohte Gruppen 
+̶ 
+Integration 
+ 
+Einzelne Indikatoren können stichtagsgenau (statisch) oder im Zeitreihenvergleich (dynamisch) abgebil-
+det werden. Je nach Thema wird gegebenenfalls nach Alter oder Geschlecht differenziert. Langfristig 
+sollte zudem darüber nachgedacht werden, bereits existierende Berichte und Statistiken über das Sozial-
+raummonitoring zusammenzuführen beziehungsweise zu vereinheitlichen. 
+ 
+ 
+ 
+ 
+ 
+
+69 
+Ableitung der Indikatoren aus dem Nachhaltigkeitsbericht: 
+Der Nachhaltigkeitsbericht lässt Aussagen im gesamtstädtischen Kontext zu. Ein Berichtswesen, das sich 
+ausschließlich auf Entwicklungen auf gesamtstädtischer Ebene konzentriert, kann aber wichtige kleinräu-
+mige Trends übersehen. Daher ist es notwendig, ein Berichtssystem zu implementieren, das rechtzeitig 
+Entwicklungen in den Stadtteilen und Quartieren erkennt und über Tendenzen sozialer Polarisierung und 
+räumlicher Segregation informiert. 
+Hierfür erfolgt die Auswahl der Indikatoren auf Basis der kleinräumigen Datenverfügbarkeit anhand des 
+Indikatoren-Sets des Nachhaltigkeitsberichtes. Durch die kleinräumige Darstellung der Daten in Form 
+von Karten können detaillierte Raumbeschreibungen vorgenommen werden, die sich am gesamtstädti-
+schen Mittel zur Einordnung orientieren. 
+Thematische Gliederung: 
+Um die Themen für den Sozialraum besser greifbar zu machen, wurden die Daten, die im Nachhaltig-
+keitsbericht auch schon Verwendung fanden, um weitere Aussagen ergänzt. Ferner wurden thematische 
+Blöcke gebildet. Die thematischen Blöcke sollen sich an den Themen der Empfehlung aus dem Bericht zur 
+Sozialen Lage 2018 orientieren. Dabei fällt auf, dass rund die Hälfte der Themen mit diesem Vorgehen 
+adressiert werden kann. Die andere Hälfte wird anhand dieses Vorgehens nicht thematisiert. 
+Die thematischen Blöcke wurden in Arbeitsrunden abgestimmt, eine Auswahl getroffen und mit den 
+Fachämtern der ämterübergreifenden Projektgruppe synchronisiert. 
+Die thematische Raumbewertung ermöglicht eine differenzierte Analyse der einzelnen Sozialraumeinhei-
+ten. Dabei können Schwerpunktthemen identifiziert und eine Gesamtbewertung der räumlichen Entwick-
+lungen vorgenommen werden. Diese Bewertungen tragen dazu bei, die Themen über das gesamte Stadt-
+gebiet mit räumlichen Schwerpunkten einzuordnen und Handlungsräume für spezifische Fachplanungen 
+abzuleiten. 
+Entwicklungsdynamik: 
+Aufgrund der offenen Themen, wie im vorherigen Abschnitt beschrieben, empfiehlt sich, künftig stark an 
+der Integration dieser Inhalte zu arbeiten. Dies ist möglich, da der Bericht in regelmäßigem Turnus und 
+additiv aufgesetzt ist. Themen können also jederzeit ergänzt oder ausgetauscht werden. Ein dynamisches 
+Format des Sozialraummonitorings ermöglicht eine kontinuierliche Erweiterung der Themen, basierend 
+auf den Impulsen von Fachplanung, Verwaltung und Politik. Ein wichtiges Kriterium der Erweiterung und 
+Anpassung ist die Verfügbarkeit von Daten auf Stadtviertel-Ebene, die auf Bundesagentur für Arbeit (BA)-
+Gliederungsebene aggregiert werden können.  
+Ziele des Sozialraummonitorings: 
+Das Sozialraummonitoring ist ein essenzielles Instrument zur Beobachtung und Analyse sozialer und de-
+mografischer Entwicklungen in räumlich definierten Einheiten. Es dient zur Beschreibung der Sozialstruk-
+tur. Ziel der sozialräumlichen Betrachtung ist es, Handlungsräume für eine objektive Entscheidungs-
+grundlage für Verwaltung, Politik und Stadtspitze abzuleiten und örtliche Spezifikationen für fachplaneri-
+sche Entscheidungen abzuleiten. Die Notwendigkeit dieser Berichterstattung geht auch aus dem Auftrag 
+des Gemeinderates von 2018 hervor. 
+
+ 
+70 
+Das Resultat der vorab beschriebenen Herleitung der Indikatoren, die in diesem Sozialraummonitoring 
+analysiert werden, ist in nachfolgender Übersicht aufgelistet:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Übersicht Indikatoren Sozialraum – Daten 2023 (Bezugsjahr) 
+Indikator 
+Gesamtstädtisches 
+Mittel (durchschnittlich) 
+Beschreibung 
+ 
+ 
+ 
+Bevölkerung 
+ 
+ 
+Bevölkerungsverteilung 
+4.000 
+Einwohner mit Hauptwohnsitz 
+ 
+Unter 18-Jährige 
+151 
+Unter 18-jährige Personen je 1.000 
+Personen 
+ 
+18- bis 64-Jährige 
+682 
+Personen zwischen 18 und 64 Jahren 
+je 1.000 Personen 
+ 
+Über 64-Jährige 
+167 
+Über 64-Jährige je 1.000 Personen 
+ 
+Bevölkerungsdichte 
+53 
+Personen je Hektar Siedlungsfläche 
+ 
+ 
+ 
+ 
+Integration 
+ 
+ 
+SGBII gesamt 
+49 
+Personen in SGBII Bedarfsgemein-
+schaften je 1.000 Personen 
+ 
+SGBII unter 18 Jahren 
+30 
+Prozent unter 18-Jährige in SGBII Be-
+darfsgemeinschaften  
+ 
+Kindertagesstätten Versor-
+gungsquote 
+ 
+101 
+Prozent Versorgungsgrad 
+Geförderte Wohnungen 
+81 
+Geförderte Wohnungen 
+ 
+ 
+ 
+ 
+Erwerbssituation 
+ 
+ 
+Sozialversicherungspflichtig 
+Beschäftigte (SvB) 
+376 
+Sozialversicherungspflichtig Beschäf-
+tigte Person je 1.000 Personen 
+ 
+Internationale SvB 
+24 
+Prozent ausländische sozialversiche-
+rungspflichtig Beschäftigte 
+ 
+SvB nach Geschlecht 
+49 
+Prozent weibliche sozialversiche-
+rungspflichtig Beschäftigte 
+ 
+ 
+Quelle Amt für Stadtentwicklung und Statistik 2025 
+ 
+
+ 
+ 
+71 
+ 
+Raumeinheiten - 37 Sozialräume in Heidelberg 
+ 
+ 
+Quelle Amt für Stadtentwicklung und Statistik 2025 
+ 
+Sozialraumeinheiten sind in Heidelberg statistisch gebildete Räume, die historisch gewachsen und raum-
+strukturell gliederbar sind. Die Grundlage der Kriterien können die statistischen Raumeinheiten herange-
+zogen werden. Diese bilden die historisch gewachsenen sozial verflochtenen Einheiten der Stadt Heidel-
+berg ab. 
+Besonders eignen sich strukturell die 46 Stadtviertel, sind aber zu kleinteilig und lassen an vielen Stellen 
+keine datenschutzkonforme Berichterstattung zu. Daher werden die Viertel aggregiert, um Raumeinhei-
+ten zu bilden, die datenschutzkonforme Analysen ermöglichen. Stadtviertel, die eine geringere Bevölke-
+rungszahl haben, werden mit benachbarten Vierteln zusammengefasst, um die Mindestanforderung von 
+1.000 Personen zu erfüllen. Insgesamt entstehen dabei 37 Raumeinheiten, die für die sozialräumliche 
+Gliederung herangezogen werden. Die Benennung der Raumeinheiten orientiert sich an den Namen der 
+Stadtviertel. Werden mehrere Stadtviertel zusammengefasst wird einer der Stadtviertelnamen stellvertre-
+tend verwendet. Die Raumeinheiten werden kartographisch visualisiert, um die Spezifika der sozialräum-
+lichen Gliederung aufzuzeigen und Raumbilder darzustellen. 
+Für den vorliegenden Bericht wird überwiegend auf kommunalstatistische Daten der Stadt Heidelberg 
+sowie auf kleinräumige Auswertungen des Amtes für Soziales und Senioren und der Bundesagentur für 
+Arbeit zurückgegriffen. Bezugsjahr ist das Jahr 2023, sofern nicht anders dargestellt. 
+Zur Darstellung der Bevölkerungszahlen werden Einwohnerdaten verwendet, die die Kommunale Statis-
+tikstelle der Stadt Heidelberg auf Grundlage des städtischen Einwohnermelderegisters ermittelt hat. Zur 
+amtlichen Bundes- und Landesstatistik gibt es traditionell Abweichungen. Die kommunalstatistischen Da-
+ten ermöglichen im Gegensatz zur amtlichen Bevölkerungszahl eine kleinräumigere Betrachtung. 
+
+ 
+72 
+Bevölkerung 
+ 
+Bevölkerungsverteilung: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Melderegister, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Indikatorbeschreibung: Anzahl der Personen mit Hauptwohnsitz und deren Verteilung nach So-
+zialraumeinheiten. 
+ 
+Kontextinformation: Die Wohnbevölkerung beträgt 2023 rund 150.000 Personen. 
+
+ 
+ 
+73 
+ 
+Bevölkerung 
+ 
+Unter 18-jährige Personen: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Melderegister, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+Indikatorbeschreibung: Unter 18-jährige Personen je 1.000 Personen der Bevölkerung der Sozial-
+raumeinheit. 
+ 
+Kontextinformation: Im Jahr 2023 leben rund 22.500 unter 18-Jährige in Heidelberg. 
+
+ 
+74 
+Bevölkerung 
+ 
+18- bis 64-jährige Personen: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Melderegister, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Indikatorbeschreibung: Anzahl der 18- bis 64-Jährigen absolut und deren Verhältnis je 1.000 Per-
+sonen der Sozialraumeinheit. 
+ 
+Kontextinformation: 2023 leben rund 101.000 Personen zwischen 18 und 64 Jahren in Heidelberg. 
+
+ 
+ 
+75 
+ 
+Bevölkerung 
+ 
+über 64-jährige Personen: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Melderegister, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Indikatorbeschreibung: Anzahl der Personen über 64 Jahren absolut und deren Verhältnis je 
+1.000 Personen im Sozialraum. 
+ 
+Kontextinformation: Im Jahr 2023 leben rund 25.500 Personen über 64 Jahren in Heidelberg. 
+
+ 
+76 
+Bevölkerung 
+ 
+Bevölkerungsdichte: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Melderegister, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Indikatorbeschreibung: Durchschnittliche Zahl der Personen je Hektar Siedlungsfläche der 
+Raumeinheit des Sozialraums. 
+ 
+Kontextinformation: Die durchschnittliche Bevölkerungsdichte 2023 in Heidelberg liegt bei rund 
+53 Personen je Hektar Siedlungsfläche. 
+
+ 
+ 
+77 
+ 
+Soziales 
+ 
+ Personen in SGBII-Bedarfsgemeinschaften: 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Bundesagentur für Arbeit; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Indikatorbeschreibung: Anzahl der Personen in SGBII-Bedarfsgemeinschaften absolut und de-
+ren Verhältnis je 1.000 Personen der Sozialraumeinheit. 
+ 
+Kontextinformation: In Heidelberg leben 2023 insgesamt knapp 7.000 Personen in SGBII-Be-
+darfsgemeinschaften. 
+
+ 
+78 
+Soziales 
+ 
+ Personen unter 18 Jahren in SGBII-Bedarfsgemeinschaften: 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Bundesagentur für Arbeit; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+Indikatorbeschreibung: Zahl der Kinder in SGBII-Bedarfsgemeinschaften und deren Anteil der 
+Kinder in SGBII-Bedarfsgemeinschaften an den Personen in SGBII-Bedarfsgemeinschaften je So-
+zialraumeinheit. 
+ 
+Kontextinformation: Im Jahr 2023 leben rund 2.100 Personen unter 18 Jahren in SGBII-Bedarfsge-
+meinschaften, was rund 31 Prozent der Personen sind. 
+
+ 
+ 
+79 
+ 
+Soziales 
+ 
+ Kinderbetreuung – Kindertagesstätten Versorgungsquote 2023: 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Melderegister, Kinder- und Jugendamt, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+Indikatorbeschreibung: Verhältnis der Kinder im Kindergartenalter (3 bis 6 Jahre) im Verhältnis 
+zu den Betreuungsplätze im Kindergartenalter je Sozialraumeinheit. 
+ 
+Kontextinformation: Es sind im Jahr 2023 in Heidelberg rund 4.900 Betreuungsplätze im Kinder-
+gartenalter und circa 4.900 Kinder im Kindergartenalter, was einer gesamtstädtischen Betreu-
+ungsquote von durchschnittlich rund 100 Prozent entspricht. 
+
+ 
+80 
+Soziales 
+ 
+ Geförderte Wohnungen - Objektförderung: 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Amt für Baurecht und Denkmalschutz, Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Indikatorbeschreibung: Anzahl der geförderten Wohnungen je Sozialraumeinheit. 
+ 
+Kontextinformation: In Heidelberg gibt es 2023 insgesamt knapp 3.000 geförderte Wohnungen, 
+welche der Objektförderung zuzurechnen sind. 
+ 
+
+ 
+ 
+81 
+ 
+Wirtschaft 
+ 
+ Sozialversicherungspflichtig Beschäftigte:  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Bundesagentur für Arbeit; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+Indikatorbeschreibung: Anzahl und Anteil der sozialversicherungspflichtig Beschäftigten mit 
+Wohnort Heidelberg je 1.000 Personen des Sozialraums. 
+ 
+Kontextinformation: In Heidelberg gibt es 2023 rund 57.500 sozialversicherungspflichtig Be-
+schäftigte (SvB), die hier auch leben. 
+
+ 
+82 
+Wirtschaft 
+ 
+ Internationale sozialversicherungspflichtig Beschäftigte:  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Bundesagentur für Arbeit; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+Indikatorbeschreibung: Zahl und Anteil der internationalen sozialversicherungspflichtig Be-
+schäftigten an allen SvBs je Sozialraumeinheit. 
+ 
+Kontextinformation: In Heidelberg gibt es 2023 knapp 13.000 internationale sozialversiche-
+rungspflichtig Beschäftigte, was einem Anteil von rund 23 Prozent an allen SvBs entspricht. 
+
+ 
+ 
+83 
+ 
+Wirtschaft 
+ 
+ Sozialversicherungspflichtig Beschäftigte nach Geschlecht:  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quelle Bundesagentur für Arbeit; Amt für Stadtentwicklung und Statistik, Stadt Heidelberg 
+ 
+Indikatorbeschreibung: Anzahl und Anteil der weiblichen sozialversicherungspflichtig Beschäf-
+tigten an allen SvBs je Sozialraumeinheit. 
+ 
+Kontextinformation: In Heidelberg gibt es 2023 rund 28.000 weibliche sozialversicherungspflich-
+tig Beschäftigte, was einem Anteil von circa 49 Prozent an allen SvBs entspricht. 
+
+ 
+84 
+III. 
+Fazit und Ausblick 
+Der Nachhaltigkeitsbericht spiegelt die Cluster und Ziele des Stadtentwicklungskonzepts (STEK) wider. Im 
+Gegensatz zum STEK ist der Nachhaltigkeitsbericht flexibel in der Anwendung. Änderungen an Indikato-
+ren oder Benchmarks sind möglich. Dies macht den Nachhaltigkeitsbericht zu einem interessanten und 
+handlungsorientierten Berichts- und Steuerungsinstrument für Politik und Verwaltung. Künftige Berichte 
+können Zielerreichung sowie Dynamik des Fortschritts dokumentieren, wodurch Aussagen zur Realitäts-
+nähe der gesetzten Ziele möglich sind. Im Fokus bleibt dabei weiterhin die Einordnung der Entwicklung in 
+Heidelberg im Kontext des Landes Baden-Württemberg, bundesweiter oder europäischer Entwicklungen. 
+Der Nachhaltigkeitsbericht stellt detaillierte Auswertungen zu unterschiedlichen und miteinander verbun-
+denen Teilentwicklungen bereit, die den Fachämtern und der Politik Argumente für einen Handlungsbe-
+darf in spezifischen Bereichen liefern. Die Entwicklung von geeigneten Handlungsansätzen und Einzel-
+maßnahmen obliegt den entsprechenden Verantwortlichen; der Bericht selbst gibt keine Empfehlungen 
+zu konkreten Maßnahmen. Im Sozialraummonitoring steht die deskriptive Analyse im Vordergrund. Der 
+vorliegende Erstentwurf des Sozialraummonitorings basiert auf Indikatoren aus dem Nachhaltigkeitsbe-
+richt, gliedert sie kleinräumig und markiert den Start einer sozialräumlichen thematischen Integration ins 
+Berichtswesen der Stadt, welche in den kommenden Jahren weiter verfeinert und ausgebaut werden soll. 
+Dieser erste Nachhaltigkeitsbericht mit integriertem Sozialraummonitoring weist noch Lücken auf, die in 
+den kommenden Jahren beseitigt werden müssen. Inhaltlich sind einige Bereiche wenig abgebildet, was 
+die Notwendigkeit zeigt, weitere Daten zu erschließen und nutzbar zu machen. Entwicklungsbedarf ist 
+erkennbar besonders in den Themenfeldern: 
+̶ 
+Partizipation und Teilhabe 
+̶ 
+Gesundheit 
+̶ 
+Integration/Inklusion 
+̶ 
+Bildung für nachhaltige Entwicklung (BNE) 
+ 
+Aktuell wird die Erhebung von Gesundheitsdaten, insbesondere im Rahmen der Einschulungsuntersu-
+chung in Zusammenarbeit mit dem Gesundheitsamt Rhein-Neckar-Kreis vorangetrieben. Weitere Ansätze 
+umfassen die stärkere Profilierung der bestehenden Inhalte, wie die Bereitstellung kleinräumiger Daten 
+oder Analysen mit regionalem Bezug (beispielsweise der Heidelberg-Pässe). Auch die Integration der Hei-
+delberg-Studie in das Monitoring kann ein künftiger Schwerpunkt sein. Außerdem ist Heidelberg Modell-
+kommune für die BNE und verfügt daher über eine zentrale, verwaltungsinterne Systematisierung und 
+Dokumentation aller Maßnahmen zur Umsetzung der SDGs, die angelehnt sind an die Nachhaltigkeitsbe-
+richterstattung des Stadtentwicklungskonzeptes (STEK). Die Stadt Heidelberg integriert die Agenda 2030 
+und die Sustainable Development Goals (SDGs) systematisch in die Verwaltungsprozesse, um nachhalti-
+ges Handeln ämterübergreifend zu verankern und den Beitrag der Stadt zur globalen Nachhaltigkeitsa-
+genda sichtbar zu machen und unterstützt somit die operative Umsetzung des STEKs. Dadurch kann es 
+gelingen, Transparenz, Wissenstransfer und strategische Entscheidungsfindung zu fördern. Verwaltung 
+und politische Entscheidungsträgerinnen und Entscheidungsträger sind über die Nachhaltigkeitsziele in-
+formiert und können deren Umsetzung aktiv steuern. 
+Die Vielfalt der bereitgestellten Daten im Netz wächst mit den Möglichkeiten der Fernanalyse und der 
+Zahl der Daten in Open-Data-Plattformen. Damit ergeben sich auch für den Nachhaltigkeitsbericht mit 
+Sozialraummonitoring weiterhin neue Möglichkeiten, um die Berichte künftig noch aktueller und präziser 
+auf den Bedarf zuzuschneiden. 
+ 
+ 
+
+
+Amt für Stadtentwicklung 
+und Statistik
+Stadt Heidelberg 
+Gaisbergstrasse 11
+69115 Heidelberg
+Telefon  06221 58-21500 
+Telefax 06221 58-4621500
+stadtentwicklung@heidelberg.de 
+www.heidelberg.de

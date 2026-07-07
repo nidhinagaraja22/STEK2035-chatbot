@@ -1,0 +1,21 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/Parken.html
+MATCHED_TOPICS: [2, 4]
+MATCHED_KEYWORDS: ['innenstadt', 'park', 'platz', 'ziel']
+
+Parken
+Gesucht – gefunden
+Parken in der City.
+Insgesamt stehen in der Heidelberger Innenstadt 7.000 Parkplätze zur Verfügung. 15 Parkhäuser bieten insgesamt 5.000 Plätze, dazu kommen rund 2.000 weitere Parkplätze.
+Schnell zum Parkplatz.
+Ein Hinweissystem leitet Besucherinnen und Besucher Heidelbergs sicher und zuverlässig zu einem freien Parkplatz. Ein dynamisches
+Parkleitsystem
+zeigt an, wie viele Parkplätze in welchem Parkhaus frei sind.
+Parken für E-Fahrzeuge.
+Entgegen der Angaben auf den Seiten von
+Service BW
+gibt es in Heidelberg keine kostenfreien Parkplätze speziell für E-Fahrzeuge.
+Weitere Infos
+Parkhäuser der Stadtwerke Heidelberg
+Ladezonen in Heidelberg
+Heidelberg Marketing GmbH: Informationen zu Parkplätzen für Reisebusse
+Zum Seitenanfang
