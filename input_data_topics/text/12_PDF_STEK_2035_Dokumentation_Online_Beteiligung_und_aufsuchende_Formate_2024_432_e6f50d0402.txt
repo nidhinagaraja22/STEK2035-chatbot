@@ -1,0 +1,8 @@
+SOURCE_FILE: 12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt
+DOCUMENT_ID: 12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024
+CHUNK_ID: 432
+WORD_SPAN: 108000-108110
+MATCHED_TOPICS: [0, 2]
+MATCHED_KEYWORDS: ['grün', 'natur', 'wichtig']
+
+Wünschenswert wären auch andere kostenlose Beratungsangebote. OB Weniger Autoverkehr, mehr Aufenthaltsqualität in der Stadt. Derzeit ist die halbe Stadt ein (viel zu günstiger) Parkplatz. OB Mehr Begrünung und weniger Autoverkehr; Mehr konsumfreie Begegnungsstätten; OB Auch hier fördert viel Grün (Parks, Bäume in Straßen etc.) das Wohlbefinden, auch Wasserflächen und Wasserläufe helfen. Auch gemeinsame Freiräume helfen. Sport und auch viele Strecken mit dem Rad zurückzulegen und die entsprechende Radwegeinfrastruktur sind da sehr wichtig. Und ja eine positive Umgebung ist essentiell. OB Lärm verringern. Nachbarn respektieren. Zuhören. OB Treffen gegen Einsamkeit für jung und alt OB Mehr Natur!! Und wer keinen Bock auf Natur hat, soll nach Hause gehen und Fortnite zocken OB

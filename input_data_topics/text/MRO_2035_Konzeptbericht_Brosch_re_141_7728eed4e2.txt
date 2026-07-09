@@ -1,0 +1,8 @@
+SOURCE_FILE: MRO 2035+_Konzeptbericht_Broschüre.txt
+DOCUMENT_ID: MRO 2035+_Konzeptbericht_Broschüre
+CHUNK_ID: 141
+WORD_SPAN: 35250-35343
+MATCHED_TOPICS: [0, 3]
+MATCHED_KEYWORDS: ['neckar', 'mro']
+
+Flächennutzungsplan Neckar (ATKIS) Stillgewässer (AWGN) 5 5 5 5 Verdolung, Mühlbach Impressum Stadt Heidelberg Marktplatz 10 69117 Heidelberg Telefon 06221 58-23000 stadtplanungsamt@heidelberg.de www.heidelberg.de Bearbeitung und Koordination Stadtplanungsamt Christian Plöhn, Julia Bier Martina Dettweiler, Annette Friedrich, Johanna Häuser, Ulrike Lohe, Harald Müller in Zusammenarbeit mit Urban Catalyst GmbH, Berlin Hamburg Wuppertal Prof. Klaus Overmeyer, Nils Kaltenpoth, Paul Konrad, Bärbel Offergeld www.urbancatalyst.de spengler wiescholek Architektur // Stadtplanung PartGmbB Ingrid Spengler, Manfred Wischolek, Markus Siegert, Anastasija Dukić www.spengler-wiescholek.de Weitere Informationen www.heidelberg.de/mro Heidelberg im Mai 2025 Stadtplanungsamt Stadt Heidelberg Marktplatz 10 69117 Heidelberg Telefon 06221 58-23000 stadtplanungsamt@heidelberg.de www.heidelberg.de

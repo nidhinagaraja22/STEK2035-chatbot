@@ -1,0 +1,78 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/radstrategie+2030.html
+MATCHED_TOPICS: [0, 1, 2, 3, 4]
+MATCHED_KEYWORDS: ['anteil', 'auto', 'bahnstadt', 'bestehend', 'entwicklung', 'fläche', 'fokus', 'funktion', 'gruppe', 'hoch', 'infrastruktur', 'innenstadt', 'international', 'kind', 'nachhaltig', 'neckar', 'ort', 'park', 'person', 'planung', 'prozent', 'regional', 'sozial', 'stadtentwicklung', 'stadtteil', 'teilhabe', 'umsetzung', 'verwaltung', 'wichtig', 'ziel', 'öffentlich']
+
+Radstrategie 2030
+Heidelberg - eine Fahrradstadt
+Knapp 40 Prozent aller Heidelberger Bürgerinnen und Bürger nutzen das Fahrrad innerhalb der Stadt. Bei Strecken zwischen einem und fünf Kilometer ist das Rad sogar Hauptverkehrsmittel, so das Ergebnis der
+Studie "Mobilität in Städten"
+. 2024 wurde Heidelberg von der Arbeitsgemeinschaft Fahrrad- und Fußgängerfreundlicher Kommunen in Baden-Württemberg e. V. (AGFK-BW)
+mit der Qualitätsstufe für den Fuß- und Radverkehr ausgezeichnet
+.
+Was ist die Radstrategie 2030?
+Die Radstrategie 2030 ist Heidelbergs fachliches Konzept zur systematischen Weiterentwicklung des Radverkehrs - und damit ein integrierter Baustein der gesamtstädtischen Mobilitäts- und Klimastrategie. Ziel ist ein sicheres, durchgängig befahrbares und attraktives Radnetz, das alle Stadtteile erschließt und eine gute Anbindung an die Region gewährleistet. Der Fahrradverkehr soll weiter gestärkt und Verkehrswege in der Stadt und der Region Heidelberg deutlich verlagert werden - insbesondere vom motorisierten Individualverkehr hin zum Fahrrad. Der Anteil des Radverkehrs an den täglichen Wegen soll weiter zunehmen.
+Die Strategie wurde vom niederländischen Planungsbüro Mobycon erarbeitet, das auf Radverkehrsplanung spezialisiert ist und internationale Erfahrungen aus Vorreiterstädten einbringt. Begleitet wurde der Prozess von einem Expertenrat aus Vertretenden der Gemeinderatsfraktionen, von Radverkehrsorganisationen und Verwaltung sowie einer öffentlichen Online-Beteiligung, an der sich knapp 4.000 Heidelbergerinnen und Heidelberger beteiligten.
+Im April 2025 hat der Gemeinderat die Radstrategie mit großer Mehrheit beschlossen. Sie umfasst ein hierarchisch gegliedertes Zielnetz, verbindliche Infrastrukturstandards sowie einen Maßnahmenkatalog mit 112 priorisierten Projekten im gesamten Stadtgebiet. Die Umsetzung erfolgt schrittweise in Arbeitsprogrammen - in Abhängigkeit von verfügbaren Personal- und Haushaltsmitteln.
+Das künftige Radnetz
+Das Zielnetz der Radstrategie ist hierarchisch gegliedert. Jede Ebene hat eine eigene Funktion und eigene Qualitätsanforderungen:
+Plusnetz -
+Die Hauptschlagadern
+Das Plusnetz bildet die durchgängigen Nord-Süd- und Ost-West-Achsen und erschließt die meisten wichtigen Ziele in der Stadt. Hier sind die meisten Radfahrenden unterwegs – entsprechend hoch sind die Qualitätsanforderungen. Die regionalen Radschnellverbindungen nach Mannheim und Schwetzingen sind Teil des Plusnetzes.
+Hauptnetz -
+Stadtteile mit der Innenstadt verbinden
+Das Hauptnetz verbindet alle Stadtteile mit der Innenstadt und untereinander. Es ist engmaschig genug, dass man von fast überall schnell ins Netz einsteigen kann.
+Grundnetz -
+Flächendeckend überall
+Das Grundnetz umfasst alle übrigen Straßen, auf denen Radfahren erlaubt ist. Es sorgt dafür, dass wirklich jeder Winkel der Stadt mit dem Rad erreichbar ist.
+Was die Standards sicherstellen sollen
+Die festgelegten Standards definieren, wie Radinfrastruktur in Heidelberg künftig aussehen soll - differenziert nach Netzebene. Dabei gilt: Je höher die Netzebene, desto höher die Anforderungen an Breite, Komfort und Trennung vom übrigen Verkehr.
+Welche Führungsform konkret zum Einsatz kommt - ob ein eigener Radweg, ein Radfahrstreifen, eine Fahrradstraße oder gemeinsamer Mischverkehr - hängt in erster Linie von der umgebenden Verkehrssituation ab: von der zulässigen Geschwindigkeit und dem Kfz-Aufkommen auf der jeweiligen Straße. Auf einer ruhigen Nebenstraße mit wenig Durchgangsverkehr und Tempo 30 ist Mischverkehr vertretbar. Auf einer Hauptstraße mit 50 km/h oder mehr ist eine physische Trennung vom Autoverkehr hingegen zwingend - unabhängig davon, welcher Netzebene die Straße angehört.
+Die Breitenanforderungen steigen mit der Netzebene: Im Grundnetz soll einfaches Überholen möglich sein. Im Hauptnetz soll auch das komfortable Überholen durch oder von breiteren Fahrrädern - etwa Lastenräder oder Fahrräder mit Kinderanhänger - möglich sein. Im Plusnetz soll schließlich komfortables Nebeneinanderfahren und Überholen gleichzeitig möglich sein. Die Breite der Radinfrastruktur ist dabei nicht nur eine Frage des Komforts - zu enge Radwege sind eine häufige Ursache für Unfälle.
+Die Maßnahmen und ihre Priorisierung
+Für die Umsetzung des Zielnetzes wurden 112 Projekte ermittelt - von Einzelmaßnahmen bis hin zu größeren Maßnahmenbündeln. Jedes Projekt erhält eine Punktebewertung von 1 (niedrigste) bis 5 (höchste Priorität), die sich aus zwei Kriterien zusammensetzt:
+Verkehrssicherheit - gewichtet mit 60 %
+Nutzen/Kosten - gewichtet mit 40 %.
+In die Sicherheitsbewertung fließen sowohl die Qualität der bestehenden Infrastruktur als auch das tatsächliche Unfallgeschehen ein. Der Nutzen bemisst sich anhand von Radverkehrsaufkommen, Netzhierarchie und der Verfügbarkeit von Alternativrouten. Ergänzend wurden Synergien mit anderen laufenden Bauvorhaben sowie bereits begonnene Projekte berücksichtigt.
+Alle Projekte sind mit einer Kostenprognose hinterlegt, die als Orientierung für die Einordnung der Maßnahmen dient. Belastbare Kostenangaben können erst im Zuge der jeweiligen Einzelplanung ermittelt werden, da die Machbarkeit jeder Maßnahme noch geprüft werden muss.
+Anlagen
+Karte des Zielnetzes der Radstrategie 2030
+(3,3
+MB
+)
+Endbericht
+(8,5
+MB
+)
+Projektliste
+(70
+KB
+)
+Arbeitsprogramm 2025-26
+(27
+KB
+)
+Beschlussvorlage Radstrategie 2030 im Bürgerinformationssystem der Stadt Heidelberg
+Häufig gestellte Fragen und Antworten (FAQs)
+Was ist die Radstrategie 2030 und warum gibt es sie?
+Heidelberg hat bereits einen der höchsten Radverkehrsanteile in Deutschland - doch eine systematische Bestandsaufnahme hat gezeigt, dass es trotzdem erhebliche Lücken gibt: schmale Radwege, fehlende Querungsmöglichkeiten, Konflikte zwischen Rad- und Fußverkehr. Die Radstrategie setzt dort an: Sie legt Ziele, Infrastrukturstandards und ein hierarchisch gegliedertes Zielnetz fest und bündelt 112 priorisierte Maßnahmen im gesamten Stadtgebiet. Der Radverkehrsanteil soll weiter steigen, Unfallhäufungsstellen beseitigt und das Netz sicherer und durchgängiger werden.
+Wie fügt sich die Radstrategie in die übrige Stadtplanung ein?
+Inhaltlich schlägt die Radstrategie die Brücke zwischen Klimaschutz und Alltagsmobilität: Der Verkehrssektor soll seinen CO₂-Ausstoß bis 2030 um 50 % senken - der Radverkehr ist dabei einer der wirksamsten Hebel. Gleichzeitig ist die Stärkung des Radverkehrs eine Frage der Lebensqualität, der Gesundheit und der sozialen Teilhabe. Diese Querschnittsdimension macht die Radstrategie zu einem Kernelement der nachhaltigen Stadtentwicklung Heidelbergs. Sie wurde eng mit dem Verkehrsentwicklungsplan/ Klimamobilitätsplan 2035 abgestimmt, der voraussichtlich im Laufe des Jahres 2026 beschlossen wird. Größere Radprojekte, die Eingriffe ins Gesamtstraßennetz erfordern oder einen erheblichen finanziellen und personellen Aufwand bedeuten, werden im Rahmen dieses Plans priorisiert und weiterentwickelt.
+Wie wurde die Radstrategie erarbeitet? – und wie geht es weiter?
+Das niederländische Planungsbüro Mobycon erarbeitete die Strategie fachlich, begleitet von einem Expertenrat aus Vertretenden der Gemeinderatsfraktionen, von IG Rad, Radentscheid, VCD, ADFC und Verwaltung.
+Ein Expertenrat aus Vertreterinnen und Vertretern der Gemeinderatsfraktionen, von IG Rad, Radentscheid, VCD, ADFC und Verwaltung begleitete den gesamten Erarbeitungsprozess. Im Oktober 2023 brachten sich knapp 4.000 Bürger:innen in einer Online-Umfrage ein; im Kartendialog gingen rund 10.000 Eingaben ein. Die Ergebnisse flossen direkt in Zielnetz und Maßnahmenkatalog ein - die Auswertung der Eingaben ist in Kapitel 4.1.7 des Endberichts nachvollziehbar dokumentiert.
+Zur Begleitung der Umsetzung wurde ein breit aufgestellter Begleitkreis eingerichtet, dem Vertreterinnen und Vertreter relevanter Interessengruppen sowie Zufallsbürger:innen angehören.
+Für größere Verkehrs- und Infrastrukturprojekte wie die Radschnellverbindungen oder neue Brückenbauwerke sind eigene Beteiligungsformate vorgesehen.
+Was steht im Maßnahmenkatalog und was wird zuerst angegangen?
+112 Projekte im gesamten Stadtgebiet - von der Beseitigung gefährlicher Kreuzungen über den Ausbau fehlender Radwege bis hin zu neuen Fahrradstraßen und Querungsmöglichkeiten. Jedes Projekt ist mit einer Punktebewertung von 1 (niedrigste) bis 5 (höchste Priorität) und einer Kostenprognose hinterlegt. Verkehrssicherheit wird dabei mit 60 % gewichtet, Nutzen und Kosten mit 40 %. Höchste Priorität haben Maßnahmen an Unfallhäufungsstellen, bereits laufende Großprojekte wie die neue Radachse Bahnstadt - Neuenheimer Feld mit den beiden Brücken-Neubauten (Da-Vinci-Brücke & Rad- und Fußwegverbindung über B37 und Neckar), das Fahrradparkhaus Nord am Hauptbahnhof und die Radschnellverbindungen sowie Maßnahmen, die sich mit anderen Bauvorhaben kombinieren lassen.
+Wie ist die Umsetzung der Radstrategie vorgesehen?
+Maßnahmen, die keine größeren Eingriffe ins Hauptstraßennetz erfordern, werden bereits jetzt gemäß der Priorisierung der Radstrategie vorangetrieben. Aufgrund der aktuellen Haushaltslage liegt der Fokus dabei zunächst auf Projekten mit der höchsten Sicherheitswirkung - insbesondere der Beseitigung qualifiziert nachgewiesener Sicherheitsdefizite und gesetzlich vorgeschriebener Maßnahmen an Unfallhäufungsstellen. Größere Projekte entlang des Hauptstraßennetzes hängen von der Priorisierung im Verkehrsentwicklungsplan/ Klimamobilitätsplan 2035 ab, der voraussichtlich im Laufe des Jahres 2026 beschlossen wird.
+Pressemitteilungen
+Heidelberger Gemeinderat hat Radstrategie 2030 beschlossen
+(Pressemitteilung vom 10. April 2025)
+Stadt Heidelberg stellt Radstrategie 2030 fertig
+(Pressemitteilung vom 18. März 2025)
+Radstrategie 2030: Stadt Heidelberg informiert über aktuellen Planungsstand
+(Pressemitteilung vom 12. April 2024)
+Radstrategie 2030: Start der Online-Beteiligung am 9. Oktober
+(Pressemitteilung vom 6. Oktober 2023)
+Zum Seitenanfang

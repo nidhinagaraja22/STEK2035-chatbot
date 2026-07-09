@@ -1,0 +1,533 @@
+SOURCE_URL: https://www.heidelberg.de/site/Heidelberg2021/get/documents_E-2118183734/heidelberg/Objektdatenbank/81/PDF/81_pdf_Steckbrief%20SrV%202023.pdf
+MATCHED_TOPICS: [1, 2, 3, 4]
+MATCHED_KEYWORDS: ['anteil', 'auto', 'bevölkerung', 'fokus', 'gruppe', 'kind', 'nutzung', 'ort', 'person', 'planung', 'platz', 'prozent', 'raum', 'schule', 'verwaltung', 'wohnung', 'öffentlich', 'öpnv']
+
+Dresden, im Dezember 2024
+https://tu-dresden.de/srv
+MOBILITÄTSSTECKBRIEF FÜR
+Stefan Hubrich, Sebastian Wittig, Frank Ließke,
+Rico Wittwer, Regine Gerike
+HEIDELBERG
+Fakultät
+ Verkehrswissenschaften „Friedrich List“ 
+Professur für Mobilitätssystemplanung
+
+
+Mobilität in Zahlen
+92,4
+Prozent aller Personen sind an einem 
+mittleren Werktag außer Haus unterwegs.
+Prozent der Berufstätigen sind ganztägig im Homeoffice 
+und haben an diesem Tag keine Arbeitswege.16,6
+Pkw gibt es 
+pro Haushalt.0,8
+Kilometer beträgt die 
+mittlere Länge eines Weges.5,3
+Minuten beträgt die mittlere 
+Dauer eines Weges.19,9
+1,9
+Fahrräder gibt es 
+pro Haushalt.
+36,8
+Prozent der Haushalte haben 
+keinen Pkw.
+Personen sitzen pro Fahrt 
+in einem Pkw.1,3
+Prozent dieser Fahrräder haben einen 
+Elektroantrieb.12,4
+Prozent dieser Pkw haben einen 
+Elektroantrieb.5,8
+55,0
+Prozent der Personen sind in einer Woche multimodal, 
+also mit mehreren Verkehrsmitteln, unterwegs.
+4,0
+Wege absolviert eine mobile 
+Person dabei pro Tag.
+Wege pro Person am Tag sind es 
+bezogen auf alle Personen am Tag.3,7
+ Mobilitätssteckbrief SrV 2023 für Heidelberg | 06.12.2024 | Seite 2
+TU Dresden | Professur für Mobilitätssystemplanung | Mobilität in Städten – SrV 2023
+
+Verfügbarkeit von Verkehrsmitteln und ÖV-Zeitkarte am Stichtag
+nach Erwerbstätigkeit der Altersgruppe 15 bis unter 65 Jahre
+Mobilität der Personen
+Wegehäufigkeit
+ausgewählter Personengruppen
+Wegehäufigkeit
+nach Alter
+Verfügbarkeit von Verkehrsmitteln und ÖV-Zeitkarte am Stichtag nach Geschlecht
+3,7
+3,5
+4,0
+012345
+Alle Personen
+        Alle Personen
+          mit Mobilitäts-
+         einschränkung
+  Personen
+  mit Wegen
+Wege pro Person und Tag
+92 %
+100 %
+7 %
+3,1
+3,8
+3,6
+01234
+ 0 bis unter
+   15 Jahre
+15 bis unter
+ 65 Jahre
+   65 Jahre
+  und älter
+Wege pro Person und Tag
+13 %
+71 %
+17 %
+36 %
+70 %
+83 % 81 %
+12 %
+18 %
+55 %
+36 %
+0 %
+25 %
+50 %
+75 %
+100 %
+Nicht
+erwerbstätig
+Erwerbstätig Nicht
+erwerbstätig
+Erwerbstätig Nicht
+erwerbstätig
+Erwerbstätig Nicht
+erwerbstätig
+Erwerbstätig
+Pkw Konventionelles Fahrrad Elektrofahrrad ÖV-Zeitkarte
+Anteil an Personen
+Verfügbar Nicht verfügbar oder im Haushalt nicht vorhanden
+Hinweis: Summen können rundungsbedingt von 100 % abweichen.
+63 % 59 %
+81 % 73 %
+18 % 13 %
+40 % 48 %
+0 %
+25 %
+50 %
+75 %
+100 %
+Männlich Weiblich Männlich Weiblich Männlich Weiblich Männlich Weiblich
+Pkw Konventionelles Fahrrad Elektrofahrrad ÖV-Zeitkarte
+Anteil an Personen
+Verfügbar Nicht verfügbar oder im Haushalt nicht vorhanden
+ Mobilitätssteckbrief SrV 2023 für Heidelberg | 06.12.2024 | Seite 3
+TU Dresden | Professur für Mobilitätssystemplanung | Mobilität in Städten – SrV 2023
+
+Weganteil Zweck 18 % 26 % 33 % 18 % 5 %
+Mittlere Weglänge 11,5  km 2,8  km 4,4  km 2,8  km 10,2  km
+Weganteil Entfernung 33 % 29 % 16 % 11 % 11 %
+Verkehrsmittelwahl nach Entfernungsklassen 
+Fokus Verkehrsmittelwahl
+Verkehrsmittelwahl nach 
+Verkehrsaufkommen
+Verkehrsmittelwahl nach 
+Verkehrsleistung
+Verkehrsmittelwahl und Weglänge nach Wegzweck*
+*Hinweis: Wegen zur eigenen Wohnung wurde der Zweck der vorangegangenen Aktivität zugeordnet.
+33 % 23 % 22 % 13 %
+40 %
+18 %
+12 % 11 % 18 %
+15 %
+38 %
+27 % 30 % 46 %
+25 %
+11 %
+37 % 37 % 23 % 20 %
+0 %
+20 %
+40 %
+60 %
+80 %
+100 %
+Eigener
+Arbeitsplatz
+Einkauf/
+Dienstleistung
+Freizeit Kita/Schule/
+Ausbildung
+Anderer Zweck
+Anteil an allen Wegen
+17 %
+30 %
+43 %
+65 %
+6 %
+11 %
+20 %
+26 %
+29 %
+29 %
+46 %
+45 %
+29 %
+6 %
+64 %
+25 %
+5 % 2 %
+0 %
+20 %
+40 %
+60 %
+80 %
+100 %
+Bis 1 km Über 1 bis 3 km Über 3 bis 5 km Über 5 bis 10 km Über 10 km
+Anteil an allen Wegen
+17 % 24 %
+12 %
+14 %
+38 %
+33 %
+33 %
+29 %
+0
+1
+2
+3
+4
+Binnenverkehr:
+84 % aller Wege
+Alle Wege
+Wege pro Person und Tag
+Zu Fuß
+Fahrrad
+ÖV
+MIV
+3,1 3,7
+50 %
+26 %
+19 %
+6 %
+0
+5
+10
+15
+20
+Alle Wege
+Kilometer pro Person und Tag
+19,1
+Hinweis: Summen können rundungsbedingt von 100 % abweichen.
+ Mobilitätssteckbrief SrV 2023 für Heidelberg | 06.12.2024 | Seite 4
+TU Dresden | Professur für Mobilitätssystemplanung | Mobilität in Städten – SrV 2023
+
+Pkw-Ausstattung nach Haushaltstypen
+Pkw pro
+Haushalt
+0,8
+1,2
+1,2
+0,4
+,6
+Üblicher Pkw-Stellplatz an der Wohnung
+Führerscheinbesitz nach Alter und Geschlecht
+Fahrzeuge pro Haushalt
+und Anteil Elektroantrieb
+Haushalt, Fahrzeug und Führerschein
+39 %
+59 %
+17 %
+15 %
+37 %
+61 %
+39 %
+51 %
+55 %
+49 %
+32 %
+30 %
+15 %
+0 % 20 % 40 % 60 % 80 % 100 %
+ Einpersonen-Haushalte
+  ab 65 Jahre
+ Einpersonen-Haushalte
+ unter 65 Jahre
+Mehrpersonen-Haushalte
+ ohne Kinder
+Mehrpersonen-Haushalte
+  mit Kindern
+Alle Haushalte
+0 Pkw 1 Pkw 2 Pkw oder mehr
+60 %
+35 %
+5 %Garage, Carport,
+privater Stellplatz
+Öffentlicher
+Straßenraum
+Unterschiedlich
+Hinweis: Summen können rundungsbedingt von 100 % abweichen.
+53 %
+51 %
+57 %
+47 %
+49 %
+43 %
+-65 % 0 %
+17 bis unter 45 Jahre
+45 bis unter 65 Jahre
+65 Jahre und älter
+83 %
+93 %
+85 %
+87 %
+95 %
+91 %
+0,72
+0,08 0,07
+1,95
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+Privat-Pkw Dienst-Pkw Mot.
+Zweirad
+Fahrrad
+Fahrzeuge/Haushalt
+Ohne Elektroantrieb
+Mit Elektroantrieb
+2,6 % 12,4 %Anteil
+Elektroantrieb 10,4 %30,6 %
+ Anteil Frauen/Männer an allen Personen der Altersgruppe
+ Anteil Personen mit Führerschein in der jeweiligen Gruppe
+ Mobilitätssteckbrief SrV 2023 für Heidelberg | 06.12.2024 | Seite 5
+TU Dresden | Professur für Mobilitätssystemplanung | Mobilität in Städten – SrV 2023
+Frauen aue  Männer
+
+         Verkehrsmittelnutzung
+         in den letzten 12 Monaten
+Anteile mono- und multimodaler
+Personengruppen*
+Mobilität nach Zweck
+Wege nach Zweck* und 
+Geschlecht
+Wege nach Zweck* und 
+Hauptverkehrsmittelgruppe
+*Hinweis: Wegen zur eigenen Wohnung wurde der Zweck der vorangegangenen Aktivität zugeordnet.
+Allgemeine Verkehrsmittelnutzung
+17 % 20 %
+5 % 5 %12 % 14 %
+28 % 25 %
+34 % 31 %
+5 % 6 %
+0 %
+20 %
+40 %
+60 %
+80 %
+100 %
+Weibliche
+Personen
+Männliche
+Personen
+Anteil an allen Wegen
+Anderer Zweck
+Freizeit
+Einkauf/Dienstlstg.
+Schule/Ausbildung
+Kita
+Eigener Arbeitsplatz
+11%
+14%
+9%
+22%
+9%
+17%
+16%
+3%
+ÖV + Rad 
++ MIV
+ÖV + 
+Rad
+ÖV + MIV
+Rad +
+MIV
+ÖV
+Rad
+MIV
+Sonstige
+Multimodal Monomodal
+25 % 23 %
+5 % 1 %
+5 % 21 %
+26 %
+23 %
+30 % 27 %
+8 % 5 %
+MIV-Wege ÖV-Wege
+0 %
+20 %
+40 %
+60 %
+80 %
+100 %
+Anteil an allen Wegen
+Hinweis: Summen können rundungsbedingt von 100 % abweichen.
+Bezugszeitraum: Eine Woche
+44 %
+39 %
+14 %
+16 %
+21 %
+12 %18 %
+26 %
+17 %13 %11 %13 %
+4 %4 %9 %8 %
+25 %23 % 4 %3 %3 %4 %
+13 %8 %
+7 %6 %6 %4 %5 %
+12 %
+5 %
+86 %85 %86 %
+3 %
+19 %
+7 %
+8 %
+ An 1 bis 3 Tagen pro Monat
+ An 1 bis 2 Tagen pro Quartal
+ Seltener
+ Nie
+ Täglich oder fast täglich
+ An 1 bis 2 Tagen pro Woche
+ An 3 bis 4 Tagen pro Woche
+Pkw*     ÖPNV     Fahrrad     Fuß  Car- Bike Leih-E-
+sharing*  sharing    Scooter
+* als Fahrer/-in oder Mitfahrer/-in
+ Mobilitätssteckbrief SrV 2023 für Heidelberg | 06.12.2024 | Seite 6
+TU Dresden | Professur für Mobilitätssystemplanung | Mobilität in Städten – SrV 2023
+3 %
+
+Wahrnehmung, Einstellung und Fahrkartenart
+Bewertung der allgemeinen Verkehrssituation vor Ort*
+Einstellung zu Verkehrsmitteln im Alltag*
+Art der normalerweise genutzten Fahrkarte nach Alter*
+18 %
+10 %
+44 %
+36 %
+38 %
+44 %
+33 %
+51 %
+28 %
+34 %
+16 %
+12 %
+16 %
+13 %
+7 %
+1 %
+0 % 20 % 40 % 60 % 80 % 100 %
+Ich fahre gern Auto.
+Ich fahre gern mit dem ÖPNV.
+Ich fahre gern mit dem Fahrrad
+Ich gehe gern zu Fuß
+Ich stimme voll und ganz zu. Ich stimme zu. Ich stimme nicht zu. Ich stimme überhaupt nicht zu.
+* Hinweis: Die Frage wurde an Personen ab 14 Jahren gestellt.
+49 %
+41 %
+24 %
+22 %
+31 %
+39 %
+16 %
+13 %
+29 %
+57 %
+12 %
+44 %
+63 %
+50 %
+12 %
+0 % 20 % 40 % 60 % 80 % 100 %
+65 Jahre und älter
+45 bis unter 65 Jahre
+25 bis unter 45 Jahre
+15 bis unter 25 Jahre
+6 bis unter 15 Jahre
+Fahrkarte aus Papier Plastikkarte Smartphone-App
+* Hinweis: Die Frage wurde an Personen ab 6 Jahren gestellt.
+5%
+9% 9%
+22%22%
+40% 40%
+53%
+35% 32%
+27%
+17%19%
+10% 12%
+5%
+13%
+6% 9%
+3%5% 2% 3% 1%
+0 %
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+Für das Auto Für den ÖPNV Für das Fahrrad Für das Zufußgehen
+Sehr gut Gut Befriedigend Ausreichend Mangelhaft Ungenügend
+* Hinweis: Die Frage wurde an Personen ab 14 Jahren gestellt.
+Hinweis: Summen können rundungsbedingt von 100 % abweichen.
+ Mobilitätssteckbrief SrV 2023 für Heidelberg | 06.12.2024 | Seite 7
+TU Dresden | Professur für Mobilitätssystemplanung | Mobilität in Städten – SrV 2023
+
+Abgrenzung des erhobenen Verkehrs
+Alle Personen der ausgewählten Haushalte
+2.491 befragte Personen
+Hinweis
+Einwohnerverkehr der Personen mit Haupt- und 
+Nebenwohnsitz
+Randbedingungen der Erhebung
+Untersuchungsraum 134 Untersuchungsräume in 493 deutschen Städten, 
+Gemeinden und Verwaltungsgemeinschaften
+Grundgesamtheit Wohnbevölkerung des jeweiligen Untersuchungsraums
+Grundlage für Stichprobenziehung Einwohnermelderegister ohne Einschränkungen
+Ziehungsverfahren Geschichtete Zufallsauswahl
+Befragte Personen
+Umfang der hier ausgewerteten Stichprobe
+Erfasste Wege Alle Wege am Stichtag
+Wegedefinition Ein Zweck, mehrere Verkehrsmittel
+Hauptverkehrsmittel eines Weges Verkehrsmittelhierarchie auf Basis der entfernungs-
+bezogenen Leistungsfähigkeit von Verkehrsmitteln
+Stichtag Mittlerer Werktag
+Feldzeit Haupterhebung: Februar 2023 bis Januar 2024
+außerhalb von Ferien und Feiertagen
+Infolge geringer Fallzahlen wird bei der Differenzierung 
+nach Geschlecht auf die Darstellung von Kennziffern für 
+Personen mit diversem Geschlecht und Personen ohne 
+Geschlechtseintrag verzichtet.
+Weitere Ergebnisse und Berichte https://tu-dresden.de/srv
+Methodik Haushaltsbefragung auf Basis von Telefoninterviews
+und Onlinebefragungen, jeweils mit schriftlicher
+Ankündigung sowie telefonischen und schriftlichen
+Erinnerungsstufen
+Gewichtung Soziodemografisch nach Alter, Geschlecht, 
+Haushaltsgröße, Teilraum und Quartal
+Ergebnisse Städte bzw. Landkreise oder Regionen, 
+Stadtgruppen, Städtevergleich
+ Mobilitätssteckbrief SrV 2023 für Heidelberg | 06.12.2024 | Seite 8
+TU Dresden | Professur für Mobilitätssystemplanung | Mobilität in Städten – SrV 2023
+
+Untersuchungsräume I
+ Mobilitätssteckbrief SrV 2023 für Heidelberg | 06.12.2024 | Seite 9
+TU Dresden | Professur für Mobilitätssystemplanung | Mobilität in Städten – SrV 2023
+
+Untersuchungsräume II
+ Mobilitätssteckbrief SrV 2023 für Heidelberg | 06.12.2024 | Seite 10
+TU Dresden | Professur für Mobilitätssystemplanung | Mobilität in Städten – SrV 2023

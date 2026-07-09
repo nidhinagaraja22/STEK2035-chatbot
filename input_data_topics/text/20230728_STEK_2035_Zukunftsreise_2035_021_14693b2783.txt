@@ -1,0 +1,8 @@
+SOURCE_FILE: 20230728_STEK 2035_Zukunftsreise 2035.txt
+DOCUMENT_ID: 20230728_STEK 2035_Zukunftsreise 2035
+CHUNK_ID: 21
+WORD_SPAN: 5250-5450
+MATCHED_TOPICS: [0, 1, 2, 3, 4]
+MATCHED_KEYWORDS: ['gebäude', 'landwirtschaft', 'entsiegelung', 'bevölkerung', 'stadtentwicklung', 'entwicklung', 'umsetzung', 'fokus', 'öffentlich']
+
+sanktionieren Wie kann Artenschutz und Biodiversität in den Fokus rücken? - Mehr Begrünung! Weniger Autos! - Autonomes Fahren – Elektro? - Massive Umweltbildung enger Kontakt zw. Ämtern  Maßnahmen, Forschung und Bevölkerung - Biologische Landwirtschaft fördern, konventionelle Landwirtschaft einschränken / Hürden aufbauen - Existierende Streuobstwiesen / Biotopschutzflächen schützen, indem mehr kontrolliert wird gg. Parker + Obstdiebe - Existierende Player im Naturschutz stärken NaBu, BUND, ZOO. Umweltbildung an alle bringen mit ZooAkademie, VHS etc. Nicht nur an die Kinder denken – bis die groß sind ist es zu spät! Wie gelingt Stadtentwicklung ohne Flächenverbrauch? - BürgerInnen haben gute Ideen, es mangelt an der Umsetzung - Der Bezug auf 10 J. alten Masterplan = OBSOLET. Das Klima schafft neue Fakten! - Versiegelung nur bei gleichzeitiger Entsiegelung im Stadtgebiet (Gesamt- Netto = 0) - Stadtentwicklung ist nicht gleich Versiegelung / Bauen etc. Entwicklung aus der Perspektive von Qualität / De-Growth / Erhalt der natürlichen Lebensgrundlagen denken. - Ansprüche runterschrauben – Braucht jede Familie einen Garten? Mehr öffentlich begrünen - Höhere freistehende Gebäude mit Fahrstühlen und Begrünung - Verbot von Umwandlung von Acker-, Forst- und Grünflächen in Bauland - Weniger Geschäfte am Stadtrand! Wir haben genug! - Windkraft + Solar nicht auf Kosten der Biodiversität

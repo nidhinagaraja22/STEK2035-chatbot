@@ -1,0 +1,29 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/Freizeit+im+Gruenen.html
+MATCHED_TOPICS: [0, 2, 3, 4]
+MATCHED_KEYWORDS: ['altstadt', 'fläche', 'grün', 'grünfläch', 'kind', 'landschaft', 'nachhaltig', 'natur', 'neckar', 'ort', 'park', 'wald', 'ziel']
+
+Freizeit im Grünen
+Heidelberg begeistert Naturfreunde
+Bewaldete Hänge prägen das Landschaftsbild Heidelbergs: Der 330 Meter hohe Heiligenberg und der 576,8 Meter hohe Königstuhl bilden den grünen Rahmen der malerischen, pulsierenden Altstadt. Wer eine Auszeit vom lebhaften Treiben sucht, findet sie wenige Gehminuten entfernt im Heidelberger Stadtwald. Waldbesucherinnen und -besucher werden dort über dicht vernetzte Themen- und Erlebnispfade auf eine spannende Reise mitgenommen. Die Strecke "Via Naturae" beispielsweise gibt Auskunft über ökologische Besonderheiten des Waldes, und auch den liebevoll gestalteten Walderlebnispfad sollte man sich - vor allem wenn man Kinder hat - nicht entgehen lassen. Für sportliche Radlerinnen und Radler gibt es ein rund 300 Kilometer ausgewiesenes Mountainbike-Streckennetz, darunter sechs Rundtouren, die die Highlights des Odenwalds verbinden.
+Ausflugsziele
+Ob mit Mountain-Bike oder auf Erlebnispfaden: In Heidelberg gibt es zahlreiche Möglichkeiten die Freizeit zu gestalten.
+mehr dazu
+Grillhütten
+Einen gemütlichen Abend am Lagerfeuer verbringen? Die Grillhütten im Heidelberger Wald bieten optimale Voraussetzungen.
+mehr dazu
+Natürlich Heidelberg
+Kräuterwanderung, Pilzkunde, Survival-guide: Mit Exkursionen lockt "Natürlich Heidelberg" ins Grüne.
+mehr dazu
+Geo-Naturpark
+Zwischen Granit und Sandstein: Der UNESCO Geo-Naturpark Bergstraße-Odenwald.
+mehr dazu
+Naturpark
+Die Stadt Heidelberg ist Mitglied im Trägerverein "Naturpark Neckartal-Odenwald e.V."
+mehr dazu
+Stadtwald
+Nachhaltig bewirtschaftet, bietet der Heidelberger Stadtwald Ausgleich vom städtischen Trubel.
+mehr dazu
+Weitere Infos
+Wo sind attraktive Grünflächen in Heidelberg? Wie kann ich sie nutzen? Und wie komme ich möglichst umweltbewusst dorthin? Antworten auf diese und weitere Fragen gibt die kostenlose „meinGrün“-WebApp:
+www.meingruen.org
+Zum Seitenanfang

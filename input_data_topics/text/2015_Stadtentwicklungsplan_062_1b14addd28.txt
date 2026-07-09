@@ -1,0 +1,8 @@
+SOURCE_FILE: 2015_Stadtentwicklungsplan.txt
+DOCUMENT_ID: 2015_Stadtentwicklungsplan
+CHUNK_ID: 62
+WORD_SPAN: 15500-15605
+MATCHED_TOPICS: [1]
+MATCHED_KEYWORDS: ['stadtentwicklung']
+
+Vorbereitung) Veröffentlichungen Bildnachweis Akademie für Ältere: Seite 32 Peter Dorn: Titel oben rechts, Seite 2 rechts außen, Seite 31 rechts, 36 rechts, 37 rechts Heidelberger- Kongress- und Tourismus GmbH (HKT): Seite 6, 16, 43 Klaus-Tschira-Stiftung: Titel oben links, Philipp Rothe: Seite 30 rechts Franz Schlechter: Seite 33 Universitätsklinikum Heidelberg – Zentrale Fotoabteilung: Seite 18 Max-Planck-Institut für Astronomie: Alle übrigen: Stadt Heidelberg Gestaltung komplus Heidelberg März 2007 Impressum Herausgeber Der Oberbürgermeister der Stadt Heidelberg Bearbeitung und Koordination Amt für Stadtentwicklung und Statistik Postfach 10 55 20 69045 Heidelberg Tel.: 06221 - 5821500 Amt für Stadtentwicklung und Statistik Postfach 10 55 20 69045 Heidelberg Tel.: 06221 - 5821500

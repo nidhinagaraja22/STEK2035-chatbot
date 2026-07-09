@@ -1,0 +1,19 @@
+SOURCE_URL: https://www.heidelberg.de/7071_814050_1350391_95564_5751989.html
+MATCHED_TOPICS: [0, 1, 2, 3, 4]
+MATCHED_KEYWORDS: ['entwicklung', 'fläche', 'freiraum', 'international', 'nutzung', 'ort', 'raum', 'sozial', 'stadtentwicklung', 'stadtentwicklungskonzept', 'teilhabe', 'ziel']
+
+Das Stadtentwicklungskonzept besteht aus 6 Clustern
+In den Clustern werden die Ziele der Stadtentwicklung dargestellt
+Cluster 1: Dynamische Flächenentwicklung + Sparsame Flächennutzung
+Mehr dazu
+Cluster 2: Freiraum Nutzung + Freiraum Schutz
+Mehr dazu
+Cluster 3: Inklusives und soziales Miteinander + Individuell geprägte Orte
+Mehr dazu
+Cluster 4: Energie- und Mobilitätswende + Teilhabe an Veränderung
+Mehr dazu
+Cluster 5: International Vernetzte Stadt + Lokale Bedürfnisse
+Mehr dazu
+Cluster 6: Gesunde, resiliente und sichere Stadt + Stadt im Stress
+Mehr dazu
+Zum Seitenanfang

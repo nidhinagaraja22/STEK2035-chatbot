@@ -1,0 +1,35 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/e-tretroller.html
+MATCHED_TOPICS: [0, 1, 2, 3, 4]
+MATCHED_KEYWORDS: ['altstadt', 'fläche', 'neckar', 'nutzung', 'ort', 'platz', 'raum', 'standort', 'umsetzung', 'verwaltung', 'öffentlich']
+
+Auf zwei Rollen durch die Stadt
+E-Tretroller in Heidelberg
+Am 15. Juni 2019 ist die bundesweit gültige Elektrokleinstfahrzeuge-Verordnung (eKFV) in Kraft getreten, welche die Rechtsgrundlage für den Betrieb von privaten und gewerblichen E-Tretrollern, auch E-Scooter genannt, bildet. E-Tretroller dürfen seitdem im gesamten Stadtgebiet gefahren werden.
+Dieses Verkehrsmittel ist eine weitere Mobilitätsform, die sich den Verkehrsraum mit den bisherigen Nutzern teilt. Das kann insbesondere beim Abstellen der E-Tretroller auf den Fuß- und Radwegen zu Konflikten führen. Der Gesetzgeber hat bislang die rechtlichen Möglichkeiten der Kommunen an diese neuen Herausforderungen nicht angepasst.
+Was genau sind E-Tretroller? Es handelt sich um elektronisch angetriebene Kraftfahrzeuge, die zum Großteil für kurze Strecken genutzt werden. Die Mietfahrzeuge stehen Interessierten, nach Anmeldung, rund um die Uhr zur Verfügung. Informationen z.B. zur Nutzung von E-Tretrollern werden vom
+Bundesministerium für Digitales und Verkehr
+beantwortet.
+E-Tretroller werden im öffentlichen Raum verwendet, was insbesondere beim Abstellen auf Fuß- und Radwegen zu Konflikten führen kann. Die Stadtverwaltung Heidelberg arbeitet derzeit mit Priorität an der Umsetzung einer Konzeption, die trotz der gesetzlichen Rahmenbedingungen die Situation rund um E-Tretroller langfristig verbessern soll, z.B. durch das Einrichten von Abstellflächen.
+Bis die Stadt Heidelberg eine ausreichend große Anzahl an Abstellflächen eingerichtet hat, bittet Sie alle Nutzenden, E-Tretroller so abzustellen, dass Dritte weder behindert noch gefährdet werden.
+Aktuell hat die Verwaltung bereits für die Altstadt feste Abstellflächen für Verleih-E-Tretroller eingerichtet. Sie befinden sich an den folgenden Standorten:
+Neckarstaden
+Marstallstraße
+Karlstor
+Akademiestraße
+Grabengasse
+Seminarstraße
+Krahnenplatz
+Obere Neckarstraße
+Sollten Sie Beeinträchtigungen durch E-Tretroller wahrnehmen, bitten wir Sie um eine Mitteilung an
+nahmobilitaet@heidelberg.de
+.
+Alternativ können Sie den direkten Kontakt zu den Anbietenden für E-Tretroller mittels der folgenden Email-Adressen aufnehmen:
+Bolt:
+heidelberg-micromobility@bolt.eu
+Lime:
+heidelberg@li.me
+Tier/Dott:
+heidelberg@ridedott.com
+Zeus:
+support@zeusscooters.com
+Zum Seitenanfang

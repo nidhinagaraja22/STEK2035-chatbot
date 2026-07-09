@@ -1,0 +1,30 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/vorhaben+im+wohnungsbau.html
+MATCHED_TOPICS: [0, 1, 2, 3, 4]
+MATCHED_KEYWORDS: ['altstadt', 'angebot', 'bahnstadt', 'entwicklung', 'fläche', 'international', 'kultur', 'ort', 'prozent', 'raum', 'stadtteil', 'wohnen', 'wohnraum', 'wohnung', 'ziel']
+
+Aktuelle Vorhaben im Wohnungsbau
+Die Schaffung von Wohnraum für alle ist ein zentraler Aspekt des
+Handlungsprogramms Wohnen
+sowie der
+10-Punkte Wohnen
+. Deswegen ist dort eine jährliche Zielgröße von durchschnittlich 800 neuen Wohnungen verankert. Die Zielsetzung ist durch die Bahnstadt, die Konversionsflächen sowie weitere Potenziale im Siedlungsbestand gedeckt. Das
+Baulandprogramm Wohnen
+nimmt als Steuerungsinstrument die Wohnbaulandentwicklung in 5-Jahres-Schritten in den Blick.
+MTV & Campbell Barracks
+Auf den Campbell Barracks und dem Mark-Twain-Village entstehen 1.400 Wohnungen sowie Freizeit- und Kultureinrichtungen. 70 Prozent davon werden als preiswerter Wohnraum angeboten.
+Mehr dazu
+Bahnstadt
+In zentraler Lage von Heidelberg entsteht derzeit mit der Bahnstadt auf dem Gelände des früheren Güterbahnhofs ein neuer Stadtteil, der mit 116 Hektar größer ist als die Heidelberger Altstadt.
+Mehr dazu
+US Hospital
+Auf der Fläche des US Hospital werden 600 Wohnungen in unterschiedlichen Preissegmenten entstehen. 50 Prozent davon werden nach einem neuartigen Konzept vergeben.
+Mehr dazu
+Patrick-Henry-Village
+Die Entwicklung von Patrick-Henry-Village ist ein Leuchtturmprojekt der Internationalen Bauausstellung (IBA) Heidelberg. Die Vision: Eine "Wissensstadt der Zukunft".
+Mehr dazu
+Weitere Infos
+Bautätigkeitsbericht
+(1,5
+MB
+)
+Zum Seitenanfang

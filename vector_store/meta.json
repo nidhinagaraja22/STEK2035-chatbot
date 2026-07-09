@@ -1,0 +1,7 @@
+{
+  "model": "intfloat/multilingual-e5-base",
+  "dim": 768,
+  "count": 1307,
+  "normalized": true,
+  "chunks_file": "vector_store\\chunks.jsonl"
+}

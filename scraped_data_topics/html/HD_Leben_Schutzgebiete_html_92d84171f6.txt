@@ -1,0 +1,107 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/Schutzgebiete.html
+MATCHED_TOPICS: [0, 1, 2, 3, 4]
+MATCHED_KEYWORDS: ['altstadt', 'anteil', 'baulich', 'baum', 'bereich', 'fläche', 'grün', 'landschaft', 'mensch', 'natur', 'neckar', 'park', 'platz', 'prozent', 'raum', 'regional', 'wald', 'wichtig']
+
+Schutzgebiete
+Das Amt für Umweltschutz, Gewerbeaufsicht und Energie ist für die Ausweisung von Schutzgebieten ("Landschaftsschutzgebieten" und "Naturdenkmale"), den Erhalt, die Pflege und die Kontrolle (auch der "Naturschutzgebiete") zuständig.
+Streuobstwiese (Foto: Rothe)
+Auch "Geschützte Biotope" und "Geschützte Grünbestände" werden vom Amt für Umweltschutz, Gewerbeaufsicht und Energie registriert und kontrolliert um ihren Erhalt sicherzustellen.
+Landschaftsschutzgebiete
+In Heidelberg gibt es zwei Landschaftsschutzgebiete. Nahezu die Hälfte, nämlich 45 Prozent, der Heidelberger Gemarkung ist als Landschaftsschutzgebiet ausgewiesen. Fast der gesamte Heidelberger Stadtwald liegt innerhalb des Landschaftsschutzgebiets "Bergstraße Mitte".
+Bergstraße Mitte
+, circa 6.000 Hektar, Verordnung vom 15.01.1973
+Unterer Neckar
+, circa 48 Hektar, Verordnung vom 17.12.1986
+Über die Lage der Landschaftsschutzgebiete können Sie sich
+hier
+informieren.
+Naturschutzgebiete
+Felsenmeer
+Das Schutzgebiet liegt im Heidelberger Stadtwald, südlich des Wolfsbrunnens in Schlierbach. Es handelt sich um eine nordwestexponierte Buntsandsteinblockhalde, eine besondere eiszeitliche Formation mit interessanten Vegetationstypen und beachtlichem Moos- und Flechtenreichtum.
+Größe: 4,95 Hektar
+Verordnung: 19.05.1956
+Russenstein
+Das Naturschutzgebiet umfasst einen südexponierten Hang mit artenreichem Laubmischwald aus Hainbuche, Eiche, Kastanie, Hasel, Weißdorn, Feldahorn und Birke mit oftmals sehr dichten Clematis-Vorhängen. In der Krautschicht sind Hainsimsen und Einblütiges Perlgras zu finden. Felsige Bereiche und zahlreiche kleinere Geröllfelder sind vorhanden.
+Größe: 3,5 Hektar
+Verordnung: 19.05.1956
+Michelsbrunnen
+Das Gebiet liegt im Heidelberger Stadtwald östlich des Kohlhofs. Es handelt sich um einen meist mehrstufigen, artenreichen Laubwald im Bereich kleinerer Fließgewässer und Buntsandstein-Blockhalden mit gut ausgebildeter Krautschicht und Totholz. Das Gebiet ist ein günstiger Salamanderlaichplatz. Die alten Bäume im Blockhaldenbereich bieten gute Nistmöglichkeiten für Höhlenbrüter.
+Größe: 1,4 Hektar
+Verordnung: 19.05.1956
+Altneckar Heidelberg-Wieblingen und Altneckar Wörth-Weidenstücker
+Die Naturschutzgebiete sind Teil des Natur- und Landschaftsschutzgebietes "Unterer Neckar", das insgesamt sechs Naturschutzgebiete und fünf Landschaftsschutzgebiete umfasst. Diese erstrecken sich entlang des Unterlaufs des Neckars auf den Gemarkungen der Städte Heidelberg, Ladenburg und Mannheim sowie der Gemeinden Dossenheim, Edingen-Neckarhausen und Ilvesheim. Auf Heidelberger Gemarkung liegen die Naturschutzgebiete "Altneckar Heidelberg-Wieblingen" und "Altneckar Wörth-Weidenstücker" mit einer Gesamtgröße von rund 64,2 Hektar. Der Schutzzweck ist die Erhaltung der naturnahen Flussabschnitte mit Wildflusscharakter und der den Fluss begleitenden Auen mit ihren typischen Tier- und Pflanzengesellschaften. Das Schutzgebiet dient zudem wandernden Tierarten, insbesondere Vogelarten, als wichtiges Brut-, Rast und Überwinterungsgebiet.
+Größe: 45,2 Hektar und 19 Hektar
+Verordnungen: 17.12.1986
+Ehemaliger Buntsandsteinbruch an der Neckarhalde
+Das Schutzgebiet liegt im Wald südöstlich Ziegelhausen Richtung Kleingemünd. Schutzgegenstand ist ein Anfang des 20. Jahrhunderts aufgelassener Steinbruch im mittleren Buntsandstein mit seinen Randbereichen. Von besonderem Wert für den Naturschutz sind die Felswände mit ihren Nischen und Spalten, die vorgelagerten Felsblöcke und Schutthalden mit einer seltenen Moos- und Flechtenvegetation. Schützenswert sind auch die teilweise stark vom Menschen geprägten Wald- und Geländeformen, die daraus hervorgegangenen Vorwaldgesellschaften mit Resten eines Buchen-Eichen-Waldes. Diese unterscheiden sich sowohl in ihrer ökologischen Struktur als auch durch ihren Tier- und Pflanzenreichtum deutlich von der Umgebung.
+Größe: 12 Hektar
+Verordnung: 31.12.1992
+Steinbruch Leimen
+Das Naturschutzgebiet liegt an der südlichen Gemarkungsgrenze Heidelbergs. Der größte Flächenanteil des Schutzgebietes befindet sich auf Leimener Gemarkung. Es handelt sich um einen ehemaligen Steinbruch im Muschelkalk. Zeitweise bis dauernd wasserführende stehende Gewässer sind Lebensraum für bedrohte Amphibienarten wie die Wechselkröte und die Gelbbauchunke. Das noch vorhandene Stollensystem ist ein regional bedeutender Schlafplatz für mehrere Fledermausarten, die hier in großer Individuenzahl überwintern. Es ist ein einzigartiges Mosaik unterschiedlicher, sich ergänzender und vernetzter Lebensräume auf kleiner Fläche, insbesondere von Felswänden, Trocken- und Magerrasen, Säumen und Gebüschen - ein Rückzugsgebiet für zahlreiche seltene Tier- und Pflanzenarten.
+Größe: 21 Hektar
+Verordnung: 10.10.1995
+Über die Lage der Naturschutzgebiete können Sie sich
+hier
+informieren.
+Geschützte Biotope
+Seit dem 01. Januar 1992 ist in Baden-Württemberg das Biotopschutzgesetz in Kraft. Hierdurch wurden die besonders wertvollen und gefährdeten Biotope in Baden-Württemberg unter gesetzlichen Schutz gestellt.
+In Heidelberg wurden 533 gesetzlich geschützte Biotope registriert, die sich wiederum aus 922 unterschiedlichen Biotoptypen zusammensetzen. Sie besitzen eine Gesamtfläche von circa 175 Hektar. Die häufigsten Biotoptypen sind
+Trockenmauern
+,
+Feldhecken und Feldgehölze
+. Typisch, jedoch weniger zahlreich sind Steinriegel,
+Hohlwege
+, Felsbildungen und Röhrichte. Zu den seltenen Biotoptypen zählen in Heidelberg
+Nasswiesen
+, Höhlen, Quellfluren oder Bruchwälder.
+Über die Lage der Biotope können Sie sich
+hier
+informieren.
+Naturdenkmale und geschützte Grünbestände
+In Heidelberg sind zur Zeit 28 Einzelbildungen als Naturdenkmale geschützt. Oftmals handelt es sich hierbei um Einzelbäume, die durch ihr hohes Alter oder ihren Wuchs besonders auffallen. Darunter sind aber auch geologische Besonderheiten wie der
+Riesenstein
+(Sandsteinblöcke oberhalb der Altstadt), die
+Dolinen
+(Erdfälle) im Emmertsgrund oder das
+Meutersloch
+(Höhlenbildung) in Ziegelhausen.
+Als flächenhafte Naturdenkmale sind 12 Gebiete ausgewiesen:
+Felsenmeer "Jägerfelsen"
+(Sandsteinblockhalde), Ziegelhausen;
+Wilckensfels
+(Granitfelsbildung), Neuenheim;
+Teufelskanzel
+(Granitfelsbildung), Schlierbach;
+Mausbachwiese
+(Waldwiese mit seltenen Pflanzen), Ziegelhausen;
+Steppenheideflora
+(heute nicht mehr vorhanden, da bewaldet), Handschuhsheim;
+Vogelschutzgehölz
+(Waldrand mit verwilderten Hecken, heute nicht mehr vorhanden, da bewaldet), Handschuhsheim;
+Waldteil, Arboretum II
+(Parkanlage mit nicht einheimischen Laub- und Nadelbäumen), Stadtwald nähe Speyerer Hof;
+Weiher am Schweinsbächel
+(durch Aufstauung entstandenes Amphibienlaichgewässer), Neuenheim;
+Kroddeweiher
+(permanentes Stillgewässer, ehemalige Lehmgrube), Handschuhsheim;
+Steinberg
+(stark terrassierter Hang mit zahlreichen Trockenmauern, ehemaliger Weinberg), Handschuhsheim;
+Trockenmauer
+am Wingertsberg (ehemalige Weinbergstrockenmauer), Ziegelhausen.
+In Heidelberg existieren zur Zeit 3 geschützte Grünbestände:
+Lindenbaumreihe in Kirchheim
+, Bürgerstraße 1-22;
+Bergstraße 29a
+(verschiedene Bäume), Neuenheim;
+Parkanlage Rombachweg
+, Gästehaus der Universität, Schlierbach.
+Über die Lage der Naturdenkmale und Grünbestände können Sie sich
+hier
+informieren.
+Bauliche Anlagen im Außenbereich
+Gerätehütten, Zäune, Wohnwagen. Erst informieren, dann bauen!
+Mehr dazu
+(981
+KB
+)
+Zum Seitenanfang

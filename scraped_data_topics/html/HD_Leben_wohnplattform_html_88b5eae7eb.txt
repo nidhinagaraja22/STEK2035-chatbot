@@ -1,0 +1,27 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/wohnplattform.html
+MATCHED_TOPICS: [1, 3, 4]
+MATCHED_KEYWORDS: ['mensch', 'ort', 'raum', 'wohnen', 'wohnraum', 'wohnung']
+
+Wohnplattform Heidelberg
+Die Wohnplattform bietet eine Wohnbörse sowie Infos zu gemeinschaftlichen Wohnprojekten und zur Strategischen Wohnungspolitik der Stadt. Verschiedene
+Wohnbaugesellschaften
+arbeiten für die Schaffung von Wohnraum mit der Stadt Heidelberg zusammen.
+Wohnbörse
+Die Wohnbörse Heidelberg ist ein Portal für Wohnungstausch, gemeinschaftliche Wohnprojekte und Wohnen für Hilfe.
+Mehr dazu
+Gemeinsam Wohnen
+Gemeinschaftliche Wohnprojekte bieten eine andere Form des Zusammenlebens. Hier finden Interessierte eine erste Anlaufstelle.
+Mehr dazu
+Strategie
+Mit einer strategischen Wohnungspolitik der Stadt soll den aktuellen Herausforderungen am Wohnungsmarkt aktiv begegnet werden.
+Mehr dazu
+Tipps zur Zimmersuche
+Heidelberg ist eine begehrte Stadt für junge Menschen. Hier gibt's Tipps zur Zimmersuche für Auszubildende und Studierende.
+Mehr dazu
+Familienfreundlich wohnen
+Heidelberg ist als Wohnort sehr begehrt. Die Stadt unterstützt Familien, z. B. mit Förderprogrammen oder familienfreundlichen Wohnungen.
+Mehr dazu
+Wohnen für Senioren
+Die meisten Menschen wollen auch im Alter in ihrer Wohnung und im vertrauten Umfeld bleiben. In Heidelberg ist dies – auch mit städtischer Unterstützung – häufig möglich
+Mehr dazu
+Zum Seitenanfang

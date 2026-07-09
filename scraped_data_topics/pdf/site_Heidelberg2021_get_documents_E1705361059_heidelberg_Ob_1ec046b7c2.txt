@@ -1,0 +1,1971 @@
+SOURCE_URL: https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1705361059/heidelberg/Objektdatenbank/61/12/PDF/230703_A4_Statusbericht_STEK_RZ6_web.pdf
+MATCHED_TOPICS: [0, 1, 2, 3, 4]
+MATCHED_KEYWORDS: ['angebot', 'anteil', 'auto', 'baulich', 'baum', 'bereich', 'bestehend', 'bevölkerung', 'diskussion', 'engagement', 'entsiegelung', 'entwicklung', 'fläche', 'fokus', 'freiraum', 'funktion', 'gebäude', 'gruppe', 'grün', 'grünfläch', 'hoch', 'infrastruktur', 'innenstadt', 'international', 'kind', 'kultur', 'landschaft', 'landwirtschaft', 'mensch', 'mro', 'nachhaltig', 'natur', 'neckar', 'nutzung', 'nutzunge', 'ort', 'park', 'person', 'planung', 'platz', 'prozent', 'quelle', 'raum', 'regional', 'ressource', 'räumlich', 'schule', 'sozial', 'stadtentwicklung', 'stadtentwicklungskonzept', 'stadtteil', 'standort', 'teilhabe', 'teilnehmend', 'umsetzung', 'verwaltung', 'wald', 'wichtig', 'wohnen', 'wohnraum', 'wohnung', 'ziel', 'öffentlich', 'öpnv']
+
+STATUSBERICHT  
+STADTENTWICKLUNGS­
+KONZEPT 2035
+www.heidelberg.de
+
+Wie leben wir 2035 in Heidelberg? Welche Auswirkungen hatten die 
+Krisen und Ereignisse der vergangenen Jahre auf die Stadtentwick -
+lung? Der Statusbericht widmet sich diesen grundlegenden Fragen 
+und ist ein Teil des Stadtentwicklungskonzepts (STEK) 2035. Das STEK 
+ist ein Wegweiser für eine nachhaltige Entwicklung Heidelbergs. 
+Orientierung hierfür bieten die Nachhaltigkeitsziele der Vereinten 
+Nationen, die sogenannten SDGs –Sustainable Development Goals 1.
+Basis für den Statusbericht ist die Analyse zentraler Dokumente zur 
+strategischen Planung der Stadt Heidelberg. In einem breit ange -
+legten Beteiligungsprozess wurden gemeinsam mit der Stadtver -
+waltung, lokalen Fachleuten und interessierten Bürgerinnen und 
+Bürgern die drängendsten Fragen und Themenschwerpunkte her -
+ausgearbeitet: Von Wohnen und Arbeiten über Umwelt- und Natur-
+schutz, Klima und Energie bis hin zu Soziales und Zusammenleben 
+werden die zentralen Zukunftsfragen dargestellt und die Heraus -
+forderungen beschrieben. Wie schaffen und erhalten wir bezahlbaren 
+und bedarfsgerechten Wohnraum für alle? Wie kann die Strom- und 
+Wärmeversorgung klimaneutral werden? Welche Potentiale stecken 
+in Digitalisierung und Innovation oder wie stärken wir Vielfalt in der 
+Stadt? Dabei wurden die Trends der „Stadt von übermorgen“
+2 als 
+Grundlage verwendet und auf Heidelberg zugeschnitten. Die Themen 
+der Stadtentwicklung hängen eng zusammen. Die Entwicklung eines 
+Themas führt meistens zu Konsequenzen in anderen Fragestellungen, 
+was sowohl SynergienG als auch Konflikte hervorrufen kann. Aufgabe 
+des STEK ist es, die Herausforderungen für die Zukunft Heidelbergs 
+integriert zu betrachten und Prioritäten für die Stadtentwicklung zu 
+setzen.
+Wir bedanken uns für all die zahlreichen Anmerkungen, wertvollen 
+Beiträge, Anstöße und die Mitwirkung in den Beteiligungsformaten. 
+Und wir freuen uns, dass ein vielfältiges Bild für Heidelberg ent -
+standen ist. Wir sind sehr gespannt darauf, im nächsten Schritt an -
+hand dieser Schwerpunkte die Ziele und Handlungsmöglichkeiten 
+der Stadtentwicklung im Hinblick auf das Jahr 2035 mit Beteiligung 
+der gesamten Stadtgesellschaft zu erarbeiten.
+Prof. Dr. Eckart Würzner J ürgen Odszuck
+Oberbürgermeister  E rster Bürgermeister
+G Erläuterungen im Glossar
+Prof. Dr. Eckart Würzner
+Oberbürgermeister
+Jürgen Odszuck
+Erster Bürgermeister
+
+
+INHALT
+EINLEITUNG ������������������������������������������������������������������������������������������������8
+DATEN UND FAKTEN �����������������������������������������������������������������������������������18
+TRENDWELT ����������������������������������������������������������������������������������������������20
+STEKBRIEFE �����������������������������������������������������������������������������������������������22
+KONFLIKTE UND SYNERGIEN ���������������������������������������������������������������������44
+AUSBLICK ��������������������������������������������������������������������������������������������������46
+GLOSSAR ��������������������������������������������������������������������������������������������������48
+QUELLENVERZEICHNIS UND IMPRESSUM ���������������������������������������������������50
+
+ZUKUNFTSFÄHIGE STADTENTWICKLUNG
+Das Stadtentwicklungskonzept (STEK) versteht sich als Wegweiser und lokale Agenda 
+für eine nachhaltige Entwicklung Heidelbergs. Damit knüpft es direkt an den bestehenden 
+Stadtentwicklungsplan 3 aus dem Jahr 1997 an, der bereits unter dem Zeichen der 
+Nachhaltigkeit  stand. Heidelberg richtet den Blick in die Zukunft. Mit dem Jahr 2035 vor 
+Augen soll eine neue, umfassende Strategie für die Stadtentwicklung  entstehen. Der 
+hiermit vorliegende Statusbericht ist der erste Schritt bei der Erstellung des STEK. In 
+ihm sind die wichtigen Themen zusammengefasst, die für die Entwicklung von Heidelberg 
+bis 2035 betrachtet werden sollen. 
+Seit 1997 haben sich viele Rahmenbedingungen verändert: So ist zum Beispiel der Klima-
+wandel überall in der Stadt zu spüren. In der wachsenden Region Rhein-Neckar
+G werden 
+Flächen  immer knapper. Die Gesellschaft  wird immer vielfältiger und internationaler. 
+Globale Krisen wie zum Beispiel die Corona-Pandemie oder auch der Krieg in der Ukraine 
+haben einen Einfluss auf das lokale Leben in Heidelberg. Wie vor diesem Hintergrund 
+die Stadtentwicklung resilient und krisenfest aufgestellt werden kann, sind wichtige 
+Fragen für das STEK 2035. 
+Zentral dabei ist, alle Themen der Stadtentwicklung im Blick zu behalten. So legt das 
+STEK ein besonderes Augenmerk darauf, ökologische, soziale und wirtschaftliche Ent -
+wicklungen  gleichermaßen zu betrachten und die vielfältigen Themen zusammen zu 
+denken. Ein wichtiger Faktor dieses integrierten Ansatzes ist es, von Anfang an Akteurinnen 
+und Akteure aus allen Bereichen sowie der gesamten Verwaltung und der Öffentlichkeit 
+eng einzubinden und an der Entwicklung des STEK zu beteiligen. Das Projektteam für 
+das STEK setzt sich interdisziplinär aus dem Amt für Stadtentwicklung und Statistik, 
+dem Amt für Umweltschutz, Gewerbeaufsicht und Energie, dem Amt für Soziales und 
+Senioren und dem Kinder- und Jugendamt zusammen. 
+GRUNDLAGEN 
+Wo steht Heidelberg im Jahr 2023 in Fragen der nachhaltigen Stadtentwick -
+lung? Wo ist die Stadt schon stark, was muss noch näher betrachtet werden? 
+Als inhaltlicher Orientierungsrahmen für das STEK dienen neben der Leipzig 
+Charta 2.0
+4 die Nachhaltigkeitsziele der Vereinten Nationen, die sogenannten 
+Sustainable Development Goals (SDGs) 5, zu denen sich die Stadt Heidelberg 
+bekennt. Bereits im Vorfeld dieses Statusberichtes wurde daher der beste -
+hende Stadtentwicklungsplan mit den SDGs abgeglichen. Zentrale Dokumente 
+der Stadt Heidelberg  mit gesamtstädtischer Bedeutung, wie zum Beispiel 
+das Modell Räumliche Ordnung (MRO), die Heidelberg-Studien und der Nach-
+haltigkeitsbericht, aber auch thematische Konzepte wie 10-Punkte-Programm 
+Wohnen, der Klimamobilitätsplan, der Masterplan 100 % Klimaschutz, das 
+Stadtklimagutachten, der Bericht zur sozialen Lage, der Bericht Schule und 
+Bildung oder der Bericht Kreativkraft Heidelberg wurden in die Bearbeitung 
+einbezogen.
+Prozess zur Erstellung des STEK
+AB HERBST 2023  
+BÜRGERBETEILIGUNG ZU  
+ZIELEN UND HAND-
+LUNGSMÖGLICHKEITEN
+ENDE 2024  
+ABSCHLUSS STADT-  
+ENTWICKLUNGSKONZEPT
+JANUAR BIS MÄRZ 2023
+5 WORKSHOPS MIT INTERESSENS -
+VERTRETUNGEN UND 1 WORKSHOP   
+MIT ZUFÄLLIG AUSGEWÄHLTEN  
+BÜRGERINNEN UND BÜRGERN
+OKTOBER 2022
+VERWALTUNGSRUNDENMÄRZ 2023  
+VERANSTALTUNG: ZUKUNFTS  - 
+REISE 2035 – DEINE FRAGEN  
+FÜR HEIDELBERG
+SOMMER 2023  
+STATUSBERICHT MIT ANALYSE,  
+WESENTLICHE ZUKUNFTSFRAGEN,  
+SYNERGIEN UND KONFLIKTE  
+DER STADTENTWICKLUNG
+EINLEITUNG
+Einleitung  | 76 | Einleitung
+
+VERWALTUNGSRUNDEN 
+ 
+Der Statusbericht baut auf der Expertise der Stadtverwaltung  auf: In Verwal -
+tungsrunden mit Vertreterinnen und Vertretern aus Ämtern und Gesellschaften 
+der Stadt wurde ermittelt, welchen zentralen Fragen sich das STEK stellen 
+muss. Viele Fragen und Diskussionen drehten sich dabei um die Erreichung 
+bereits gesteckter Ziele wie zum Beispiel der Klimaneutralität. Es wurde deutlich, 
+dass Innenentwicklung Vorzug vor der Außenentwicklung gegeben wird, zu -
+gleich jedoch in vielen Bereichen Bedarf nach Flächen für zukünftige Entwick -
+lungen gesehen wird. Im Sinne des integrierten Ansatzes wurde auch in den 
+Verwaltungsrunden besonders auf Schnittstellen zwischen den Themen ge -
+achtet. Ein Feld mit viel Potential, sowohl für Synergien wie Konflikte ist die 
+bereits zuvor angesprochene Flächennutzung. Andere Schnittstellen finden 
+sich im Bereich der Bildung G für nachhaltige Entwicklung, aber auch in der 
+Schaffung eines gesünderen Lebensumfeldes durch Maßnahmen der Klima -
+anpassung oder der Mobilitätswende, um nur wenige Beispiele zu nennen. 
+WORKSHOPS
+Wie möchten wir in Zukunft in Heidelberg leben? Wie sieht unser Alltag im 
+Jahr 2035 aus? Wie können wir heute Maßnahmen in Angriff nehmen, damit 
+die Probleme uns später nicht über den Kopf wachsen? Diese und andere 
+Fragen wurden im Frühjahr 2023 in fünf Workshops umfassend mit lokalen 
+Fachleuten und Interessenvertretungen  diskutiert. Die Workshops waren 
+thematisch strukturiert: „Arbeit, Wirtschaft, Wissenschaft und Kultur“, „Klima 
+und Energie“, „Umwelt- und Naturschutz“, „Wohnen“, „Soziales und Zusammen-
+leben & Bildung“. Eingeladen waren zum Beispiel Vereine und Initiativen, soziale 
+Träger, die Wohnungswirtschaft, Vertreterinnen und Vertreter der Region, 
+aber auch Mitglieder des Gemeinderates, Akteurinnen und Akteure aus dem 
+Naturschutz oder wichtigen Branchen wie der Wirtschaft oder Wissenschaft. 
+Arbeit an den  
+Themen der  
+Zukunft in den 
+Workshops
+DIE THEMEN DES STEK
+ARBEIT, WIRTSCHAFT UND WISSENSCHAFT
+BILDUNG
+KLIMA UND ENERGIE
+KULTUR
+MOBILITÄT
+REGIONALE KOOPERATION  
+UND GLOBALE VERANTWORTUNG
+SOZIALES UND ZUSAMMENLEBEN
+UMWELT- UND NATURSCHUTZ
+WOHNEN
+BLICK AUF GLOBALE ZUKUNFTSTRENDS  
+ 
+Um den Blick in Richtung Zukunft zu öffnen und allgemeine Entwicklungen in 
+die Betrachtung einzubeziehen, wurden neben den SDGs die Trends der 
+„Stadt von übermorgen“6 ausgewertet. Es wurde den Fragen nachgegangen: 
+Welche Trends bringen die stärksten Veränderungen in Heidelberg mit sich 
+und welche Themen entwickeln sich besonders dynamisch? 
+8 | Einleitung Einleitung  | 9
+
+Neben den fachlich geprägten Workshops wurde ein Workshop 
+mit zufällig ausgewählten Bürgerinnen und Bürgern durchgeführt. 
+Anonym aus dem Einwohnmelderegister gelost, kamen bei dieser 
+Veranstaltung sehr verschiedene Menschen aus Heidelberg  zu -
+sammen – vom Schüler bis zur Seniorin, von der Bewohnerin eines 
+Wohnprojektes bis hin zur Unternehmerin. Entsprechend vielfältig 
+waren die Hinweise für die zukünftige Stadtentwicklung. Wichtige 
+Punkte für die Bürgerinnen und Bürger waren vor allem sozialer 
+Zusammenhalt
+G und TeilhabeG am gesellschaftlichen Leben für alle, 
+(bezahlbare) Räume für Begegnung, Kunst, Kultur und Freizeit, Klima-
+anpassung, KlimaneutralitätG und nachhaltige Mobilität sowie Natur 
+im und der Erhalt von Grünflächen. Nicht zuletzt wurde auch auf 
+die Bedeutung von PartizipationG auf Augenhöhe hingewiesen, auch 
+mit Blick auf die weitere Entwicklung des STEK. Innovative und offene 
+Beteiligungsformate
+G sind gewünscht, und die Bürgerinnen und 
+Bürger sind motiviert, sich aktiv einzubringen. 
+Bild oben
+Hohes Engagement und viele Ideen beim Workshop „Soziales und Zusammenleben
+& Bildung“ im Haus am Harbigweg des Stadtjugendrings 
+Bild rechte Seite oben
+Gutes Arbeitsklima beim Workshop „Wohnen“ im Bürgerhaus Emmertsgrund
+Bild rechte Seite Mitte links
+Ein Beitrag im Workshop
+Bild rechte Seite Mitte rechts
+Die Workshop-Teilnehmenden arbeiten intensiv an Themen der Zukunft
+Bild rechte Seite unten
+Arbeitsgruppen tauschen sich zu den Themen der Zukunft aus
+Einleitung  | 1110 | Einleitung
+
+Bunt gemischte Arbeitsgruppen  
+lernen die Sichtweisen der Anderen kennen
+ZUKUNFTSREISE
+Im Neuen Karlstorbahnhof konnte sich Ende März 2023 auch die breite Öffentlichkeit 
+einbringen. An thematischen Stationen nutzten die Bürgerinnen und Bürger die Gelegen-
+heit, mit Mitarbeitenden der Stadtverwaltung ins Gespräch zu kommen und ihre Fragen, 
+Anregungen, Ideen, Forderungen und Kritik einzubringen. Rund 400 Besucherinnen 
+und Besucher diskutierten mit. Herzstück der Veranstaltung bildeten von den Bürgerinnen 
+und Bürgern formulierte Zukunftsfragen – auch hier standen Themen wie Klima, Wohnen, 
+Mobilität und sozialer ZusammenhaltG im Fokus. Fragen waren beispielsweise: Wie kann 
+sich Heidelberg dem Klimawandel und seinen Folgen entgegenstellen? Wie können be -
+zahlbares Wohnen und attraktive Arbeitsplätze geschaffen und gleichzeitig Freiflächen 
+erhalten bleiben? Wie kann die Mobilitätswende G gelingen? Wie kann Heidelberg eine 
+soziale Stadt bleiben? Auch rund um das Thema Wachstum und Flächenverbrauch wurde 
+umfassend diskutiert: Während einerseits Chancen und Notwendigkeiten in weiterem 
+Wachstum gesehen werden, wurden auf der anderen Seite Fragen nach den Grenzen 
+des Wachstums und des Flächenverbrauchs gestellt. 
+Alle Rückmeldungen aus den Beteiligungsformaten sind sehr wertvoll und werden im 
+nächsten Schritt bei der Erstellung des STEK berücksichtigt.
+ZUKUNFTSFRAGEN ALS AUFGABEN 
+FÜR STADTENTWICKLUNG
+Bewusst wurde in dieser vorbereitenden Phase des STEK auf die Formulierung 
+von konkreten Zielen und Maßnahmen verzichtet. Es galt zunächst, einen 
+Überblick über den Status Quo der Stadtentwicklung zu erhalten. Wo steht 
+Heidelberg heute und welche Herausforderungen und Fragen sollen in den 
+kommenden Jahren adressiert werden? Die Zukunftsfragen formulieren Auf -
+gaben an die Stadtentwicklung, die im nächsten Schritt angegangen werden. 
+Bild oben
+Ankommen – sich informieren –  
+erste Gespräche zum Workshop  
+im Gesellschaftshaus Pfaffengrund
+Bild rechts
+Spielerisch in die Zukunft  
+mit dem Glücksrad
+Einleitung  | 1312 | Einleitung
+
+Das große Interesse  
+der Bürgerinnen und Bürger   
+begeistert auch die städtischen  
+Vertreterinnen und Vertreter,  
+das Kommunikations  büro Kokonsult  
+und das Planungsbüro urbanista.
+
+Auf der Zukunftswand  
+werden  Fragen  
+der Bürgerinnen und Bürger an  
+die Zukunft gesammelt. 
+
+HEIDELBERG WÄCHST
+Quelle: Statistisches Landesamt Baden-Württemberg 2023.
+ENTWICKLUNG IN BILDUNG UND BETREUUNG
+Quelle: Stadt Heidelberg, Amt für Stadtentwicklung und Statistik 2023.
+FLÄCHENSPARENDES WACHSTUM
+Quelle: Stadt Heidelberg, Amt für Stadtentwicklung und Statistik 2023, Vermessungsamt.
+HEIDELBERG AUF DEM WEG ZUR KLIMANEUTRALITÄT
+Quelle: Stadt Heidelberg, Amt für Umweltschutz, Gewerbeaufsicht und Energie, sowie das Amt für Stadtentwicklung und Statistik 2023.
+ENTWICKLUNG DES WOHNUNGSMARKTES
+Quelle: Stadt Heidelberg, Amt für Stadtentwicklung und Statistik 2023.
+ENTWICKLUNG DER WIRTSCHAFT
+Quelle: Stadt Heidelberg, Amt für Stadtentwicklung und Statistik 2023.
+159.250 EINWOHNER 
+(2021)
+CA. 6%
+ZUWACHS 
++ 8.900 PERSONEN
+(seit 2012)
+26.800  
+AUSPENDLER 
++ 49 % (2012–2022)
+123.200  
+BESCHÄFTIGTE  
+IN HEIDELBERG 
++ 6 % (2012–2021)
+65.100  
+EINPENDLER 
++ 13 % (2012–2022)
+       Beschäftigte der 
+KULTUR- UND KREATIV-
+WIRTSCHAFT  
+                sind von 2012 bis 2019 
+um über 25% gestiegen.
+2019 waren rund 5.900 PERSONEN 
+in der Kultur­  und Kreativwirtschaft tätig.
+Die CO2-EMISSIONEN
+sind von 1987 bis 2020 um rund  29% 
+ZURÜCKGEGANGEN
+HOHER ANTEIL AN FERNWÄRME    
+in Heidelberg. Die Fernwärmeabgabe 
+an Haushalte hat sich von 2012 bis 2020  
+      um  9,7 % auf  49 % gesteigert.   
+DIE SIEDLUNGS- UND 
+VERKEHRSFLÄCHE in Hektar
+je 1.000 Einwohner ist von
+22,3 HEKTAR (2004) auf
+20,8 HEKTAR (2021)
+zurückgegangen, da die  
+Bevölkerung deutlich stärker  
+als die Siedlungs ­  und  
+Verkehrsfläche angestiegen ist. 
+Kontinuierliche ZU NAHME 
+DER WOHNFLÄCHE  
+pro Person seit 2000
+35 m2 
+(2000)
+40,9 m2 
+(2021)
+ + 11%
+STEIGERUNG  
+DER MIETSPIEGEL - 
+PREISE (2016 auf 2021)
+auf durchschnittlich  
+9,40 Euro (2021)
+Zwischen 2016 und 2021 steigt der
+WOHNUNGSBESTAND um
+über 2.200 WOHNUNGEN 
+auf 78.700.
++ 2,9 %
+49 %
+Fernwärme
+2 %
+Strom
+39 %
+Erdgas
+2 % 
+Sonstiges
+7 %
+Heizöl
+2 %
+Wärmepumpe
+KINDERBETREUUNGSPLÄTZE 
+seit 2012 um circa 21 % gestiegen,
+auf rund 9.300 in 2021 
+4.100
+Auszubildende
+38.100
+Studierende
+42.200 
+Personen 
+ in Ausbildung 
+und Studium
+(2022)
+So heizt 
+Heidelberg
+(2020)
+-9 ha
+-117 ha
++ 106 ha
+Siedlungs- und 
+Verkehrsfläche
+ Siedlungsfläche       Wald      
+  Landwirtschaft       Sonstige       Schutzgebiete
+Legende
+Gewässer
+Siedlungsflächen
+Wald
+Flächen zur Landschaftsentwicklung
+Grünräume und Freizeitflächen
+Landwirtschaft
+Sonderflächen
+DATEN
+UND 
+FAKTEN
+Daten und Fakten | 1918 | Daten und Fakten
+
+Welche Zukunftstrends  sind für Heidelberg besonders relevant und 
+welche müssen bei der Entwicklung des STEK im Blick behalten 
+werden? Diesen Fragen widmet sich die Trendwelt. Neben dem Blick 
+auf die SDGs G als globales Zielgerüst und der Analyse des Status 
+Quo in Form von aktuellen Entwicklungen, Statistiken und lokalen 
+Strategien und Konzepten wirft der Statusbericht Fragen für die 
+Zukunft auf. Grundlage hierfür waren die Trends der „Stadt von 
+übermorgen“7. 
+Die Trends beschreiben mögliche zukünftige Entwicklungen . Sie 
+zeigen Entwicklungsrichtungen und Tendenzen der Stadtentwicklung 
+auf und helfen so, die lokale Heidelberger Agenda zu schärfen. Die 
+Auswahl der Trends entstand in einem mehrstufigen Verfahren. 
+Die wichtigen und einflussstarken Trends wurden sowohl in den 
+Verwaltungsrunden als auch in den Workshops diskutiert.
+Die folgende Trendwelt zeigt themenübergreifend die als hoch wirk-
+sam bewerteten Trends für Heidelberg. Dabei gibt die Stärke der 
+Ringe einen Hinweis darauf, ob der Trend als besonderes wichtig 
+erachtet wurde. Die farblichen Kreise zeigen welche Trends zu welchen 
+Themen insbesondere diskutiert wurden.
+TRENDWELT
+Fachkräftemangel
+Kinderarmut
+BILDUNG
+    KLIMA UND 
+ENERGIE
+MOBILITÄT
+UMWELT- UND 
+    NATURSCHUTZ
+KULTUR
+SOZIALES UND 
+     ZUSAMMENLEBEN
+WOHNEN
+     ARBEIT, WIRTSCHAFT  
+UND WISSENSCHAFT
+Wetterextreme
+Steigende 
+Bedeutung 
+urbaner grüner 
+Infrastruktur
+Artensterben 
+und Stadt als 
+Habitat 
+Anstieg  
+des Anteils
+erneuerbarer
+Energien
+Neue 
+Antriebe
+Umwelt-
+belastungen
+Dynamische 
+Steuerung von 
+Informations- und
+ Stoffströmen
+Rückkehr  
+der urbanen  
+Produktion
+Demografischer 
+Wandel
+Neues Prekariat –
+Arm trotz Arbeit
+Altersarmut
+Flucht vor 
+Gewalt, Krieg, 
+klimabedingten 
+Katastrophen
+und Armut
+Auflösung fester 
+Berufsstrukturen
+Entgrenzung von
+Arbeit und Freizeit
+Virtualisierung 
+der Kultur und
+Medien
+Digitale Arbeits- 
+und Lebenswelten
+Lebenslanges 
+Lernen
+Ernährungs-
+sicherheit und 
+nachhaltige 
+Landwirtschaft
+Neue  
+Technologien
+in Wirtschaft 
+und Gewerbe
+Ressourcen-  
+und Rohstoff-  
+knappheit
+Kulturelle 
+Pluralisierung  
+der Stadt
+Zunehmende
+Polarisierung
+zwischen Arm und 
+Reich und zwischen 
+Stadtteilen
+Wohnungsmangel
+Steigende 
+Anforderungen an 
+Energieeffizienz
+Klimaanpassung
+Mobilitätswende
+Einforderung von 
+Beteiligungs- und 
+Gestaltungs-
+möglichkeiten
+Steigende 
+Sicherheits-
+anforderungen
+Gesunde 
+Stadt
+Veränderungs-  
+angst und „Not in  
+my backyard“
+-Bewegungen 
+Vielfalt städtischer
+Lebensstile
+Flächenknappheit 
+und effiziente
+Flächennutzung
+Intensivierte 
+Kreislauf- und 
+Recycling-  
+wirtschaft
+Nachhaltige 
+Lebensweise 
+und Konsum
+Bedeutungs- 
+gewinn von flexiblen
+Anpassungs-
+strategien
+Klimaneutralität
+Klimaschutz
+Trendwelt | 2120 | Trendwelt 
+
+Im Zentrum dieses Statusberichtes stehen die STEKbriefe zu Themen 
+der Stadtentwicklung. Dazu werden  Zukunftsfragen dargestellt 
+und deren Herausforderungen formuliert. Sie geben keine Antworten 
+auf die Fragen. Auch die jeweils wichtigen SDGs G sind in den STEK -
+briefen dargestellt. 
+Die STEKbriefe sind:
+Die beiden wichtigen Querschnittsthemen Digitalisierung 
+und Gesundheit wurden in allen STEKbriefen mitdiskutiert. 
+Zu manchen STEKbriefen wurden in den Beteiligungs -
+prozessen über 100 Zukunftsfragen formuliert – für diesen 
+Statusbericht wurden die Fragen gebündelt, zusammen -
+gefasst und die relevantesten Aspekte herausgearbeitet. 
+Die neun STEKbriefe bilden das Fazit des umfangreichen 
+Diskussionsprozesses.
+       REGIONALE KOOPERATION UND 
+   GLOBALE VERANTWORTUNG 
+STEKBRIEFE
+BILDUNG     KLIMA UND 
+ENERGIE
+MOBILITÄT
+UMWELT- UND 
+    NATURSCHUTZ
+KULTUR
+SOZIALES UND 
+     ZUSAMMENLEBEN
+WOHNEN
+     ARBEIT, WIRTSCHAFT  
+UND WISSENSCHAFT
+STEKbriefe  | 2322 | STEKbriefe
+
+Die wachsende Bevölkerung fragt zusätzliche Wohnungen nach �  Den 
+81�5 00 Haushalten, die in Heidelberg leben, stehen 78 �7 00 Wohnungen 
+zur Verfügung�  Jede Einwohnerin und jeder Einwohner hat 40,9 Quadratmeter 
+Wohnfläche durchschnittlich zur Verfügung�  Dieser Wert liegt unter dem 
+Landesdurchschnitt�  Dennoch ist der Wohnflächenverbrauch in Heidelberg 
+von 2012 bis 2021 um 3,5 Prozent von 39,5 Quadratmeter auf 40,9 Quadrat-
+meter je wohnberechtigter Person gestiegen8� 
+Das Thema Wohnen beschäftigt die Menschen in Heidelberg �  So werden 
+die Situation am Wohnungsmarkt und die Mieten von den Bürgerinnen und 
+Bürgern in den Heidelberg-Studien9 regelmäßig als wichtiges Problem be-
+nannt�  Im Jahr 2021 hat sich die Stadt mit dem Programm „10-Punkte-
+Programm Wohnen“10 eine Strategie zur Umsetzung ihres Handlungspro -
+gramms Wohnen11 gegeben� 
+Als sicherer Rückzugsort ist die Wohnung Voraussetzung für ein men -
+schenwürdiges Leben und Ausgangspunkt für gesellschaftliche Teilhabe G� 
+Heidelbergs Gesellschaft ist international und mobil, entsprechend verändern 
+sich die Wohnbedürfnisse�  
+Prägen wird das Wohnen in Zukunft auch die Knappheit von Ressourcen: 
+Begrenzte Flächen erschweren den Wohnungsbau, Materialkosten verteuern 
+das Bauen, fehlende Fachkräfte verzögern den klimagerechten Umbau der 
+Bestände und Energiekosten verstärken den Sanierungsdruck �  Eine welt-
+weite Herausforderung ist die noch weit entfernte Klimaneutralität G beim 
+Bau und Betrieb von Wohnungen �  Eine spezifische Herausforderung in 
+Heidelberg ist dagegen der Umstieg vom komfortablen Flächenrecycling 
+der ehemaligen Flächen des US-Militärs, hin zu einer zukünftig deutlich 
+kleinteiligeren InnenentwicklungG in bestehenden Quartieren�
+Wie schaffen und erhalten wir bezahlbaren 
+und bedarfsgerechten Wohnraum für alle? 
+Heidelbergs Bevölkerung wächst. Bezahlbaren Wohn -
+raum zur Verfügung zu stellen und Verdrängung zu ver -
+hindern, bleibt daher eine große Herausforderung. Durch 
+verschiedene Wohnungsangebote in der ganzen Stadt 
+fördert Heidelberg durchmischte QuartiereG. Zielgruppen 
+mit besonderen Bedarfen sollte das STEK im Blick behalten: 
+Starterhaushalte von Studierenden und Auszubildenden, 
+Geflüchtete, Familien, Ältere mit Unterstützungsbedarf 
+und Menschen mit Behinderung benötigen bedarfsge -
+rechten Wohnraum. Der Schaffung von sozial gebundenem 
+Wohnraum kommt hierbei eine besondere Bedeutung zu. 
+Wie kann der Wohnungsbestand CO2-neutralG 
+und an den Klimawandel angepasst werden?
+Der Gebäudesektor hat auch in Heidelberg noch einen 
+langen Weg zur KlimaneutralitätG vor sich. Das STEK muss 
+thematisieren, wie die Wärme- und Stromversorgung  
+schnell CO2-neutral G gestaltet und Verbräuche reduziert 
+werden können, sowohl durch Energieeffizienz und ener -
+getische Sanierung wie auch durch SuffizienzG. Ein wichti-
+ger Aspekt sind Ansätze auf der Ebene des Quartiers: 
+Zum Beispiel bei der gemeinsamen Wärmeversorgung 
+für ganze Nachbarschaften, dem Ausbau erneuerbarer 
+Energien oder der Mobilität. 
+Wie schaffen wir Innovationen 
+im Um- und Neubau?
+Der Wohnungsbau der Zukunft wird verstärkt im Bestand 
+stattfinden. Bestehende Strukturen zu transformieren 
+und andere Materialien zu nutzen, ist dabei eine wichtige 
+Herausforderung. Wie kann der Bausektor seinen CO 2-
+Vebrauch reduzieren. Neben technischen Neuerungen 
+stellt sich auch die Frage nach sozialer Innovation: Potentiale 
+zur Schaffung nachhaltig bezahlbarer Wohnungen sind 
+gemeinwohlorientierte Ansätze wie Genossenschaften, 
+gemeinschaftliche Bauprojekten, aber auch Betriebliches 
+Wohnen. 
+Wie gestalten wir lebenswerte Wohnumfelder 
+im Quartier? 
+Wohnquartiere mit kurzen Wegen G, klimanagepassten 
+Grünräumen sowie vernetzten Nachbarschaften sind nicht 
+nur lebenswerte Orte, sondern wichtige Krisenvorsorge 
+bei der Schaffung resilienterG Stadtstrukturen. Treffpunk -
+ten für die Nachbarschaft kommt eine zentrale Bedeutung 
+zu: Nicht nur im öffentlichen Raum, auch halböffentlicheG, 
+möglichst flexible Räume für gemeinschaftliche Nutzungen 
+sind von hoher Bedeutung. 
+Netto-Null G: Wie gestalten wir Bevölkerungs-
+wachstum in Zeiten knapper Flächen?
+Flächen werden knapper, zugleich muss ein Umgang mit 
+der Nachfrage nach Wohnraum und und dem Bedarf an 
+Grün- und Erholungsflächen gefunden werden. Neben 
+der Frage nach dem Management knapper Flächen wird 
+das STEK Potentiale für zukünftige Innenentwicklung G in 
+den Blick nehmen müssen. Die Herausforderung wird sein, 
+Entwicklungen einerseits zu ermöglichen und anderer -
+seits keine weiteren Flächenversiegelungen zu schaffen. 
+Bei der Gestaltung des Neubaus werden städtische Liegen-
+schaften und die Gesellschaft für Grund- und Hausbesitz 
+mbH Heidelberg (GGH) eine zentrale Rolle spielen. Welches 
+Potential steckt in kompakten Bauweisen, flexiblen Grund-
+rissen und gemeinschaftlich genutzten Räumen? Kann 
+eine Reduktion von überdimensionierten Verkehrsflächen 
+Raum für Entwicklung schaffen?
+WOHNEN
+STEKbriefe  | 2524 | STEKbriefe
+
+Die Lage am Übergang des Neckars vom Odenwald in die Rheinebene 
+prägt das Landschaftsbild Heidelbergs �  Den Osten der Stadt dominieren 
+die bewaldeten Hänge, der Westen ist geprägt durch die Landwirtschaft �  
+Durch den Wald, die Hanglagen G und die Neckar-Rhein-Ebene verfügt 
+Heidelberg über eine große Lebensraumvielfalt �  Schutzgebiete machen 
+circa 57 Prozent der Gemarkung aus�  
+Umwelt- und Naturschutz umfasst den Schutz der BiodiversitätG und weiterer 
+natürlicher Ressourcen und Lebensgrundlagen wie Rohstoffe, Gewässer, 
+Boden und Luft �  Klimawandel bedingtes Artensterben bedroht die Biodi -
+versitätG – sie zu schützen und zu erhalten ist eine der großen Herausfor -
+derungen für die Zukunft�  Umso mehr gewinnt der Umstieg auf eine nach-
+haltige Lebensweise an Bedeutung �  Nachhaltige Landwirtschaft und die 
+Vermeidung von Umweltbelastungen sind dabei zentrale Aspekte�  
+Heidelberg verfügt über vielfältige Landschaften mit hohem Waldanteil 
+(41 Prozent der Gemarkung) �  Innerhalb des bebauten Gebiets befinden 
+sich jedoch wenige Grünflächen�  Im Zuge von Verdichtung und klimatischen 
+Veränderungen gewinnen ÖkosystemdienstleistungenG und der urbane Raum 
+als Habitat für Tiere und Pflanzen, wie auch als Erholungs- und Schutzraum 
+für die Menschen zunehmend an Bedeutung�  Damit einher gehen Nutzungs-
+konflikte, die auch im STEK thematisiert werden müssen�  Wie ökologische, 
+ökonomische, soziale und kulturelle Grundsätze zukünftig vereint werden 
+können und in welches Verhältnis wir Menschen die gebaute Stadt mit der 
+Natur setzen, ist ein wichtiges Themenfeld für die zukünftige Entwicklung 
+der Stadt Heidelberg
+Wie gelingt Stadtentwicklung 
+ohne Flächenverbrauch?
+Das Land Baden-Württemberg hat sich das Ziel gesteckt 
+den Flächenverbrauch bis 2035 auf null zu reduzieren. 
+Die Erreichung der „Netto-Null“ G stellt Heidelberg vor 
+eine große Herausforderung, die das STEK adressieren 
+muss. Es stellt sich die Frage nach den Grenzen des Wachs-
+tums, insbesondere nach der Reduktion des weiteren 
+Flächenverbrauchs, um Flächen für die Landwirtschaft, 
+den Forst sowie den Naturschutz zu erhalten. Der Druck 
+auf die Freiflächen steigt und die Innenentwicklung
+G wird 
+noch mehr in den Fokus rücken. 
+Wie können Artenschutz und Biodiversität in 
+der Stadtentwicklung in den Fokus rücken?
+Um Biodiversität und Artenschutz in den urbanen Berei -
+chen mitzudenken, benötigt es ein Umdenken bei Planung 
+und Bau. Es braucht städtische Lebensräume, aber auch 
+ausreichend für den Naturschutz gesicherte Flächen in 
+Siedlungsbereichen, Offenland, Hanglagen und Wald. Mit 
+Blick auf die gesamte Stadt werden viele Herausforderun-
+gen, wie zum Beispiel die Biotopvernetzung G auch im re-
+gionalen Verbund zu lösen sein. Ein MonitoringG der Natur 
+und darauf basierend ein gutes Management der Maß -
+nahmen sind hier die wichtigsten Faktoren. 
+Wie schaffen wir Verständnis für Umwelt-  
+und Naturschutz?
+Nur eine sensibilisierte Stadtgesellschaft geht achtsam mit 
+ihrer Umwelt um, gleiches gilt für Ämter und Entschei -
+dungstragende. Immer wieder kommt es in Heidelberg 
+zum Beispiel zu Konflikten mit Freizeitnutzungen in Natur-
+schutzflächen. Große Bedeutung hat also die Sensibilisie -
+rung
+G für Umwelt- und Naturschutz auf allen Ebenen. 
+Dazu gehören nachhaltiger Konsum G und die Sichtbar -
+machung von Auswirkungen menschlichen Handelns auf 
+die Umwelt. Es geht um Aufklärung, Kommunikation und 
+Dialog und darum, zu lernen Zielkonflikte zu erkennen 
+und Lösungen zu entwickeln. Bildung für nachhaltige Ent-
+wicklung G für alle Altersgruppen an formellen und infor -
+mellen Bildungsorten kommt hier eine Schlüsselrolle zu. 
+Wie gelingt es, Landwirtschaft, Forst, natur b e-
+lassene Flächen und bebauten Raum nachhaltig, 
+klimaresilient und angepasst zu entwickeln?
+Angesichts des Klimawandels kommen auf alle Flächen, 
+bebaut wie unbebaut, neue Herausforderungen zu. So 
+wird in den urbanen Bereichen zum Beispiel über die An -
+passung an sommerliche Hitze nachgedacht, im Wald die 
+Frage nach resilienten
+G Baumarten gestellt und in der 
+Landwirtschaft muss mit Wassermangel umgegangen 
+werden. Dabei stellt sich auch die Frage nach Mehrfach -
+nutzungen G – die Versorgung der Bevölkerung, Natur -
+schutz und Erholung sind dabei nur einige Aspekte von 
+vielen. Darüber hinaus muss in Betracht gezogen werden, 
+wie ökologische Mehrwerte
+G in der Land- und Forstwirt -
+schaft geschaffen und erhalten werden können. Die Land-
+wirtschaft spielt in Heidelberg eine wichtige Rolle und 
+regionale Versorgung muss weiterhin gewährleistet und 
+wirtschaftlich bleiben.  
+Wie lassen sich Umweltbelastungen vermeiden 
+und natürliche Ressourcen schonen – 
+ insbesondere angesichts von Wachstum und 
+Innenentwicklung?G
+Wachstum und Innenentwicklung G verbrauchen nicht 
+nur Ressourcen, sondern üben zugleich Druck auf die 
+Heidelberger Umwelt aus. Wie natürliche Ressourcen zu -
+künftig besser geschützt werden können, ist eine wichtige 
+Frage für das STEK. Hervorzuheben ist einerseits der 
+Umgang mit Fläche, andererseits die Ressource Wasser: 
+Nachhaltiges Wassermanagement
+G von Grundwasser, Ge-
+wässern und Regenwasser wird immer wichtiger. Zum 
+Schutz der Umwelt und der menschlichen Gesundheit 
+spielt die Vermeidung von Lärm und Schadstoffbelastung
+G 
+weiterhin eine wichtige Rolle.
+UMWELT- UND 
+    NATURSCHUTZ
+STEKbriefe  | 2726 | STEKbriefe
+
+Heidelberg hat bereits im Jahr 1992 als eine der ersten deutschen Groß -
+städte ein kommunales Klimaschutzkonzept verabschiedet und konnte seine 
+CO2-Emissionen über alle Sektoren seit 1987 bereits um 29 Prozent bis 
+2020 senken� Die Stadtverwaltung, insbesondere die kommunalen Liegen-
+schaften sollen bis 2030 weitestgehend klimaneutral werden� Für eine voll-
+ständige KlimaneutralitätG hat sich die Stadt das Jahr 2040 als Ziel gesteckt� 
+Wichtige Aufgaben sind der Umstieg auf erneuerbare Energien und eine 
+unabhängige und dezentrale Energieversorgung� Um die CO2-Emissionen 
+weiter zu senken, wird es aber auch zukünftig um EffizienzG und Einsparung 
+gehen, insbesondere im Bereich Bauen und Sanieren� Der Klimaschutz ist 
+eine Gemeinschaftsaufgabe� Industrie, Haushalte, Gewerbe, Handel, Dienst-
+leistungen und der Verkehr – alle Sektoren und Akteure – öffentlich wie 
+privat müssen einen Beitrag leisten, um die gesteckten Ziele zu erreichen� 
+Neben dem Klimaschutz steht die Klimaanpassung G im Fokus zukünftiger 
+Stadtentwicklung� Auch Heidelberg spürt die Folgen des Klimawandels wie 
+Hitze, Starkregen, Hochwasser, Dürre und Niedrigwasser� Welche Prioritäten 
+gesetzt werden müssen und wie KlimaanpassungG in allen Bereichen und in 
+allen Stadtteilen gelingen kann, ist eine der zentralen Zukunftsaufgaben 
+der kommenden Jahre�
+Wie kann die Strom- und Wärmeversorgung 
+ klimaneutral werden?
+Der Ausbau der erneuerbaren Energien wird auch in 
+Heidelberg in Zukunft einen noch höheren Stellenwert 
+haben. Dabei ist das Thema vielfältig und reicht vom Aus -
+schluss fossiler Energieträger bis hin zur Nutzung von 
+Wind, Solar, Geothermie, Abwärme, Flusswärme G und in 
+Einzelfällen neuen Technologien wie Wasserstoff. Sie alle 
+bringen auch Flächenbedarfe mit sich, die im Konflikt mit 
+bestehenden Nutzungen stehen. Die kommunale Wärme-
+planungG mit dekarbonisierter G Fernwärme und dezent -
+raler Wärmeversorgung ist richtungsweisend. Neben der 
+klimaneutralen Energiegewinnung ist die Reduktion des 
+Energieverbrauchs durch Effizienz G und Suffizienz G der 
+andere große Hebel auf dem Weg in eine nachhaltige Zu-
+kunft. 
+Wie kann die Stadtgesellschaft in ihrer gesamten 
+VielfaltG erreicht und aktiv in die Umsetzung der 
+KlimazieleG eingebunden werden?
+Der Klimawandel wirft viele Fragen der sozialen Gerech -
+tigkeit auf: Die Bezahlbarkeit des Energieverbrauchs aber 
+auch Betroffenheiten, zum Beispiel von älteren oder jünge-
+ren Menschen in der Stadt spielen dabei eine Rolle. Einen 
+wichtigen Beitrag bei der Einbindung der gesamten Ge -
+sellschaft kann die Bildung G leisten. Ziel ist es, die Men -
+schen in die Lage zu versetzen zukunftsfähige Entschei -
+dungen zu treffen – indem durch Bildung für nachhaltige 
+Entwicklung G Handlungsoptionen aufgezeigt werden. Die 
+Stadtverwaltung hat in vielerlei Hinsicht eine Vorbild -
+funktion, zum Beispiel bei Gebäuden, Verpflegung oder -
+dem eigenen Fuhrpark. 
+Wie kann KreislaufwirtschaftG für einen  
+nachhaltigen Umgang mit Ressourcen realisiert 
+werden?
+Eine nachhaltige Wirtschaft reduziert den Konsum und 
+hält Rohstoffe in regionalen und möglichst kleinen Kreis -
+läufen. Wie Heidelberg den Weg zu einer Kreislaufwirt -
+schaft und einem Konsum mit Recycling, Teilen, Reparatur 
+und wenig Müll findet, ist eine wichtige Frage für das 
+STEK. Dabei gilt es auch, Abfallstoffe sinnvoll als Ressource 
+zu nutzen. Ein Fokus liegt hierbei auch auf der Bauwirt -
+schaft. Baustoffe im Kreislauf zu halten und graue EnergieG 
+zu berücksichtigen, birgt das Potential, den Ressourcen -
+verbrauch nennenswert zu reduzieren.
+Wie kann die Anpassung an den Klimawandel 
+gelingen und Heidelberg resilienterG werden – 
+insbesondere angesichts von Wachstum und 
+ InnenentwicklungG?
+Das sich verändernde Klima fordert Anpassungsmaßnah -
+men in allen Bereichen des Stadtraumes und der Stadt -
+gesellschaft zum Schutz vor Wetterextremen wie sommer-
+licher Hitze oder Starkregen. Die Schaffung und der Erhalt 
+von Grünstrukturen G muss die Stadtentwicklung der Zu -
+kunft prägen, gerade im Hinblick auf Trockenperioden. 
+Die Gesundheit der Stadtgesellschaft ist bedroht, beson -
+ders vulnerable Gruppen G sind betroffen und bedürfen 
+besonderer Unterstützung zum Beispiel in Form von küh-
+len Räumen, Trinkbrunnen oder Beschattung im Sommer. 
+Für ein nachhaltiges Wassermanagement G ist der Schutz 
+von Grundwasser und der Gewässer unerlässlich, wobei 
+auch die naturnahe Behandlung von Regenwasser be -
+achtet werden muss. Die Klimaanpassung G bringt neue 
+Anforderungen und Bedarfe an Personal und Ressourcen 
+mit sich. Gesundes Leben in der Stadt kann nur gelingen, 
+wenn im Rahmen von Wachstum und Verdichtung auch 
+ökologische Mehrwerte G geschaffen werden.
+    KLIMA UND 
+ENERGIE
+STEKbriefe  | 2928 | STEKbriefe
+
+Aktuell arbeitet die Stadt Heidelberg an einem Klimamobilitätsplan �  Das 
+Thema Mobilität wird im STEK aufgeführt, lehnt sich dabei aber eng an die 
+Inhalte des Klimamobilitätsplans an�  Wichtig ist für das STEK vor allem, die 
+vielfältigen Schnittstellen zu den anderen Themen der Stadtentwicklung 
+nicht aus dem Blick zu verlieren�  
+Die erforderlichen Veränderungen zu weniger Umweltbelastung und hoher 
+Erschließungsqualität setzen zweierlei voraus: Eine Wende hin zu klima -
+neutralen Antrieben sowie Veränderungen im Mobilitätsverhalten, hin zu 
+weniger motorisiertem Individualverkehr G und mehr öffentlichem Nahver -
+kehr, Fuß- und Radverkehr�  Das Mobilitätsverhalten verändert sich, verschie-
+dene Verkehrsmittel werden für unterschiedliche Wege genutzt, Sharing-
+Angebote spielen eine immer wichtigere Rolle�  Digitale Technologien bringen 
+neue Möglichkeiten bei der Steuerung und Organisation von Verkehr mit 
+sich und können so zu Effizienz
+G- wie Komfortgewinnen gleichermaßen 
+führen� 
+Insbesondere bei der Mobilität wird deutlich: Große Veränderungen können 
+am besten gemeinsam mit den benachbarten Kommunen gestaltet werden, 
+sei es der Ausbau des öffentlichen Personennahverkehrs
+G oder der Aufbau 
+einer regionalen Radwegeinfrastruktur�  Auch die gesellschaftlichen Aspekte 
+von Mobilität, wie zum Beispiel die Bedarfe jüngerer, älterer, ärmerer oder 
+eingeschränkter Menschen sind ein wichtiges Thema�  Verkehrsbelastungen 
+zu reduzieren und alle Stadtteile gut zu erschließen, sind weitere zentrale 
+Herausforderungen�
+Ein Großteil der öffentlichen Räume sind Mobilitätsräume: Straßen, Wege, 
+Stellplätze, Bahnhöfe �  Sie klimaangepasst und mit Aufenthaltsqualität zu 
+gestalten, ist eine der wichtigen Zukunftsaufgaben für die Stadtentwicklung 
+in Heidelberg�  
+Vision ZeroG: Wie können wir körperliche 
+Unversehrtheit für alle sicherstellen?
+Für die systematische Verbesserung der Verkehrssicher -
+heit für alle rücken verschiedene Ansätze in den Blick: 
+Verkehrliche Regelungen, die Umgestaltung von Unfall -
+schwerpunkten und die gestalterische Unterstreichung 
+von verkehrsberuhigten Bereichen. Daneben stehen The-
+men, wie die systematische Arbeit der UnfallkommissionG, 
+Kontrollen und Verkehrsüberwachung, Information und 
+Kampagnen, aber auch die grundsätzliche Frage nach 
+Entschleunigung und stadtgerechter Geschwindigkeit auf 
+der Agenda. 
+MobilitätswendeG: Wie können Schadstoff-  
+und LärmbelastungenG sowie CO2-Emissionen 
+reduziert und der UmweltverbundG gestärkt 
+werden?
+Der Anteil des Umweltverbundes G ist ein wichtiger Hebel 
+bei der Reduktion von Emissionen. Daneben wird die An -
+triebswende G hin zu Elektromobilität und beispielsweise 
+Wasserstoff im Busverkehr einiges viel bewirken. Besonders 
+mit Blick auf die Innenstadt wird ein Ausgleich zwischen 
+guter Erreichbarkeit und Verkehrsbelastung eine Zukunfts-
+aufgabe. Emissionsarme Bauweisen und die Sicherung 
+der Infrastruktur sind weitere Herausforderungen.
+Wie kann die Mobilität funktional und effizient 
+gestaltet und die Erreichbarkeit aller Stadtteile 
+sichergestellt werden? 
+Täglich pendeln circa 65.000 Menschen in die Stadt und 
+27.000 Menschen aus der Stadt hinaus13. Der Ausbau des 
+Schienenpersonenverkehrs (Fern-, Regional-, S- und Stra -
+ßenbahn) und die regelmäßige Taktung sind daher eine 
+wichtige Aufgabe. Als Stadt mit oberzentraler Funktion 
+spielt neben Pendelverkehr auch Tourismus-, Wirtschafts-
+verkehr und Logistik eine große Rolle – die spezifischen 
+Bedarfe im Blick zu behalten und sie umweltfreundlich zu 
+gestalten, bleibt eine Herausforderung für den Klimamo -
+bilitätsplan. Auch die Steuerung von Verkehren und ein 
+effektives Verkehrssystemmanagement sind wichtig: Kom-
+munales und betriebliches Mobilitätsmanagement sowie 
+die Nutzung innovativer Lösungen der Digitalisierung, 
+flexible Bedienformen und autonomes Fahren können 
+zukünftig Beiträge leisten. Nicht zuletzt kommt auch dem 
+Radwegenetz eine immer bedeutendere Rolle zu: Regionale 
+Vernetzung und Lückenschlüsse sind hier zentrale Aspekte. 
+Wie stärken wir die Stadt der kurzen WegeG 
+und gestalten Mobilität umweltverträglich?
+Die Quartiere vorrangig mit leistungsfähigem öffentlichen 
+PersonennahverkehrG (hohe Erschließungsdichte und Takt-
+folge) zu gewährleisten, stellt besonders in den Stadtent -
+wicklungsgebieten wie dem Neuenheimer Feld, dem ge -
+planten neuen Stadtteil Patrick-Henry-Village (PHV) oder 
+in den Bergstadtteilen Boxberg und Emmertsgrund eine 
+Herausforderung dar. Auf kleinräumiger Ebene steht die 
+Überwindung von Barrieren, wie etwa Bahnstrecken, dem 
+Neckar oder Hauptverkehrsstraßen sowie steiler Lagen 
+im Fokus. Kann Stadtentwicklung, zum Beispiel durch 
+nahräumliche Daseinsvorsorge und Nutzungsmischung
+G 
+dazu beitragen Verkehr zu vermeiden?
+Wie kann die Mobilität barrierefrei, zugänglich 
+und sozial gestaltet werden? 
+Ein wichtiger Schritt hin zu leistbarer Mobilität für alle 
+Menschen in Heidelberg ist Erreichbarkeit unabhängig 
+der Verfügbarkeit eines privaten Personenkraftwagens. 
+Daneben spielen bedarfsgerechte und barrierefreie An -
+gebote sowie Tarifstrukturen eine Rolle. Sowohl in Bezug 
+auf Verkehrsanlagen, Fahrzeuge und Freiräume als auch 
+im Hinblick auf Informationen und Buchungssysteme. 
+Die Erhöhung der Aufenthaltsqualität und Sicherheit von 
+Mobilitätsräumen stellt eine Herausforderung dar; hier -
+bei stehen Fragen der Neuordnung von Straßenräumen 
+im Fokus. 
+MOBILITÄT
+STEKbriefe  | 3130 | STEKbriefe
+
+Gutes Zusammenleben und soziales Miteinander machen eine Stadt lebens-
+wert�  Das soziale Miteinander ist das Herzstück der Stadtgesellschaft, das 
+es ebenso zu pflegen gilt wie die demokratischen Grundwerte�  Heidelberg 
+investiert daher sehr viel in seine soziale Infrastruktur, zahlreiche Fachkräfte 
+und Ehrenamtliche setzen sich dafür ein �  Auch mit Blick auf den soziode -
+mografischen Wandel G gilt es, diese soziale Infrastruktur G zukunftsfähig 
+aufzustellen und bei der Entwicklung von Quartieren mit im Blick zu behalten� 
+Gesundheit und Sicherheit sollten dabei immer mitgedacht werden�  
+Neben den kommunalen Pflichtaufgaben bietet die Stadt Heidelberg zahl-
+reiche freiwillige Leistungen und hat sich für die Zukunft weitere Ziele ge-
+steckt, um ein Lebensort des sozialen Ausgleichs zu sein und um Grund- 
+und Menschenrechte zu sichern �  Dieses Engagement und die zentralen 
+Errungenschaften auch zukünftig aufrechtzuerhalten, ist wichtiger Teil des 
+Selbstverständnisses unserer Stadt�
+Heidelberg ist eine junge, internationale und diverse Stadt �  Die Stadt ist 
+durch eine vielfältige Gesellschaft geprägt �  Zukunftsaufgabe ist es, das 
+gleichberechtigte Zusammenleben in VielfaltG zu stärken�  Für ein friedliches 
+Zusammenleben in dieser VielfaltG ist aktives Handeln für ein inklusives Wir 
+von besonderer Bedeutung�  Heidelberg will eine Stadt sein, in der die in-
+dividuellen Selbstbestimmungs- und Freiheitsrechte wie auch die Rechte 
+auf körperliche Unversehrtheit praktisch anerkannt, alle Menschen wertge-
+schätzt werden und Chancen erhalten, ihr Potenzial zu entfalten �  Sie will 
+außerdem soziale Durchlässigkeit, Kooperationsfähigkeit und Zusammen -
+halt ermöglichen, wie auch Extremismus, Diskriminierung und Gewalt er -
+folgreich begegnen�
+Um uns als Stadt zukunftsfähig und sicher aufzustellen, gilt es auszuloten, 
+wie wir zukünftig die Weichen für ein soziales Miteinander stellen wollen�  
+Wo befinden sich Stellhebel, die eine Kommune erfolgreich beeinflussen 
+kann? Welche Veränderungen sind notwendig und welche Maßnahmen 
+müssen kurz-, mittel- und langfristig entwickelt werden? Dabei ist die Pers-
+pektive aller einzubeziehen – von Zivilgesellschaft G, Wirtschaft, Akteuren 
+der sozialen Infrastruktur, Politik und Verwaltung gleichermaßen�
+Was brauchen wir, um die soziale   
+InfrastrukturG flexibel an zukünftige 
+Anforderungen anzu passen?
+Heidelberg ist im Bereich der sozialen Infrastruktur G be-
+reits vielfältig aufgestellt. Die Bedürfnisse der Menschen in 
+einer Stadt verändern sich jedoch – es ist daher erforder -
+lich, die soziale Infrastruktur kontinuierlich weiterzuent -
+wickeln. 
+Zukünftige Handlungsfelder sind insbesondere der sozio-
+demografische Wandel G, der Fachkräftemangel, sowie 
+die Konkurrenz um Flächen. Herausfordernd ist es außer-
+dem, genau die Menschen zu erreichen, die Unterstüt -
+zungsbedarfe haben. Was braucht es, dass passende An -
+gebote niedrigschwellig zugänglich sind und die Menschen 
+individuell unterstützend durch die Angebotslandschaft 
+gelotst werden? Darauf gilt es Antworten zu finden. Offen-
+heit für innovative Ideen ist ein zentraler Faktor für ein 
+gutes Gelingen.
+Die Erhöhung der Attraktivität sozialer Berufe und die 
+Stärkung des bürgerschaftlichen Engagements sind wich-
+tige Einflussfaktoren. Wie kann zum Beispiel das Ehren -
+amt gezielt und wirksam gefördert werden und was kann 
+es leisten? Ansätze liegen in einem gemeinsamen strate -
+gischen Vorgehen der verschiedenen Akteure, im Einsatz 
+von Quereinsteigerinnen und Quereinsteigern oder einer 
+vielfältigen Nutzung von Räumen und Gemeinwohlflächen. 
+Eine wichtige Rolle kommt zudem der Sensibilisierung
+G 
+für Diskriminierung G und Diversität G zu; hierzu bedarf es 
+interkultureller Kompetenz sowie Mittlern zwischen viel -
+fältigen Gruppierungen.
+Wie stärken wir VielfaltG in der Stadt und eine 
+gute Durchmischung in allen Stadtteilen?
+In Heidelberg sollen Menschen unabhängig von Ge -
+schlecht, Herkunft, rassistischen Gründen, Alter, Einschrän-
+kungen, Gesundheitsstatus, Berufsgruppe, finanzieller 
+Ressourcen, Religion oder Weltanschauung oder sexueller 
+Orientierung gut, gleichberechtigt und diskriminierungs -
+frei leben können. 
+Mit Blick auf die Zukunft stellen sich folgende Fragen: 
+Wie kann das gleichberechtigte Zusammenleben in Viel -
+falt
+G in der Stadt gezielt gefördert werden? Wie müssen 
+die Angebote angepasst werden, sodass sie den unter -
+schiedlichen Bedürfnissen ihrer Bürgerinnen und Bürger 
+in der Stadt gerecht werden? 
+Einen positiven Einfluss auf eine vielfältige Gesellschaft 
+könnte das Vorhandensein von Begegnungsorten für 
+alle haben. Dabei gilt es zum Beispiel, Aspekte der Erreich-
+barkeit, der Barrierefreiheit, der Konsumfreiheit, von Fa -
+milienfreundlichkeit und Interkulturalität zu beachten. So 
+können mehr gemeinsamer Austausch, ein voneinander 
+Lernen wie auch eine tragfähige Vernetzung in der Stadt 
+entstehen. Digitale Formate spielen hierbei auch eine Rolle. 
+Ein Stellhebel im Hinblick auf eine gute soziale Mischung 
+in den Stadtteilen sind die Angebote vor Ort. Hierzu zählen 
+vor allem die Verfügbarkeit von Bildungsorten, Betreu -
+ungs- und Pflegeangeboten, Sport, Kultur, öffentlicher 
+Personennahverkehr
+G, bezahlbarem Wohnraum, aber auch 
+Einzelhandel.
+Unter Berücksichtigung verfügbarer Ressourcen bleibt zu 
+diskutieren, welche Angebote darüber hinaus zwingend 
+wohnortnah und welche gesamtstädtisch vorzuhalten sind.
+SOZIALES UND 
+     ZUSAMMENLEBEN
+STEKbriefe  | 3332 | STEKbriefe
+
+In Zukunft könnten für die Kriminalprävention auch le -
+bendige öffentliche Räume ein förderlicher Aspekt sein 
+sowie die Verfügbarkeit von Schutzräumen, zum Beispiel 
+vor geschlechtsspezifischer, häuslicher, queerfeindlicher 
+oder rassistischer Gewalt. Gruppenspezifische Angebote 
+mit niedrigschwelliger Zugänglichkeit werden zum Schutz 
+oder zur Prävention von Gewalt als sinnvoll angesehen.
+Auch die kontinuierliche Prävention gegen Korruption ist 
+eine Zukunftsaufgabe.
+Wie fördern wir ChancengleichheitG und gleich-
+berechtigte TeilhabeG für alle Menschen – auf 
+Stadtteilebene und gesamtstädtisch?
+Heidelberg ist von einer hohen sozialen Vielfalt geprägt 
+und als internationaler Studien- und Forschungsstandort 
+wird sich dies verstärken. Deswegen ist ein konsequenter 
+Schutz vor Diskriminierung und ChancengleichheitG Pflicht-
+aufgabe für die Sicherung unserer Attraktivität und Le -
+bensqualität. Die Stadt ist hierfür zahlreiche Selbstver -
+pflichtungen wie beispielsweise die Unterzeichnung der 
+Europäischen Charta für die Gleichstellung von Frauen 
+und Männern auf lokaler Ebene, der Charta der Vielfalt, 
+der Europäischen Städtekoalition gegen Rassismus und 
+dem Rainbow City Network eingegangen.
+Gleiche Chancen und gleiche Rechte für alle Bürgerinnen 
+und Bürger – Heidelberg steht dafür ein, dies in allen Be -
+reichen zu realisieren: Vom Arbeitsmarkt über Bildung G 
+zu Medizin, Sport, öffentlichem Nahverkehr, Freizeit- und 
+Kulturangeboten und vielem mehr. Wo ChancengleichheitG 
+noch nicht gegeben ist, braucht es Maßnahmen, um gleich-
+berechtige TeilhabeG zu ermöglichen. Denn in Heidelberg 
+sollen alle Menschen am öffentlichen, kulturellen, politi -
+schen und zivilgesellschaftlichen G Leben teilnehmen kön-
+nen, unabhängig von Einkommen, Geschlecht, Religion 
+oder Weltanschauung, Behinderung, Alter, ethnischer 
+Herkunft, rassistischer Gründe oder sexueller Identität. 
+Ebenso sind Geschlechtergerechtigkeit und Vereinbar -
+keitsthemen (Ausbildung, Beruf, Familie, Pflege, Ehrenamt 
+et cetera) für die Stadt zentral. Dies findet Niederschlag 
+in einer sehr gut ausgebauten Struktur von Bildungs- 
+und Beratungseinrichtungen, in der Menschen niedrig -
+schwellig Unterstützung finden können. Zugänge in die 
+jeweiligen Bereiche zu sichern, strukturelle Diskriminie -
+rung G abzubauen und individuelle Entfaltungsmöglich -
+keiten zu gewährleisten stellt eine Zukunftsaufgabe dar.
+Wie können wir den sozialen ZusammenhaltG 
+stärken und den sozialen FriedenG erhalten?
+Die Akzeptanz und Wertschätzung von Unterschiedlichkeit 
+und vielfältiger Lebensentwürfe sind Grundvoraussetzung 
+für ein gutes und friedvolles Zusammenleben. Gegen -
+seitiges Verständnis und Solidarität entstehen durch Kom-
+munikation, Aufklärung, den Abbau von Vorurteilen und 
+insbesondere durch Räume zum Begegnen und Kennen -
+lernen. 
+In Zukunft ist die Frage relevant, welche Werte unser Zu -
+sammenleben in Heidelberg prägen sollen. Interessante 
+Aspekte dabei sind: Was verstehen wir unter einem sozia-
+len Miteinander und was erwarten wir voneinander? Wie 
+ermöglichen wir in Heidelberg ein gutes Ankommen und 
+gleichberechtigte Teilhabe? Und wo und vor allem mit 
+wem diskutieren wir diese wichtigen Fragen?
+Da bürgerschaftliches Engagement einen positiven Ein -
+fluss auf den Zusammenhalt und den sozialen Frieden G 
+verspricht, muss diskutiert werden, wie wir bei allen Ge -
+nerationen die Lust am bürgerschaftlichen Engagement 
+wecken und es gezielt fördern können. 
+Wie können wir Gesundheit für alle Menschen 
+in ihrer VielfaltG sicherstellen?
+Körperliche und psychische Gesundheit sowie das Wohlbe-
+finden sind von zentraler Bedeutung auch für die Men -
+schen in Heidelberg. Die Stadt hat ein umfassendes und 
+international renommiertes Angebot an Gesundheits -
+leistungen.
+Eine zukünftige Herausforderung ist es, niedrigschwelligeG 
+Zugänge in das Gesundheitssystem für alle Menschen 
+sicherzustellen, Übergänge zwischen den Einrichtungen 
+gut zu gestalten und Gesundheitsprävention und -förde -
+rung bei der Stadtentwicklung immer mitzudenken. Fragen 
+sind hierbei: Wie können die Bürgerinnen und Bürger in 
+allen Lebensphasen präventiv gut unterstützt werden? 
+Was trägt zum Wohlbefinden der Bürgerschaft bei? Wie 
+kann die Vernetzung aller Akteure in der Stadt gewähr -
+leistet werden, um Bedarfe frühzeitig erkennen zu können? 
+Eine Aufgabe der Zukunft wird die Stärkung der mentalen 
+Eine Herangehensweise in diesem Kontext könnte die 
+Analyse von Barrieren und diskriminierenden Strukturen 
+sein, die eine gleichberechtigte Teilhabe G verhindern, au-
+ßerdem die Ermittlung von Erfolgsfaktoren von echter 
+Teilhabe. 
+Wie stärken wir das Bewusstsein und das 
+ Eintreten für demokratische Werte?
+Die Beteiligung G der Bürgerinnen und Bürger an städti -
+schen Entscheidungsprozessen ist ein zentrales Gut un -
+serer demokratischen Grundordnung. 
+Wie können Menschen erreicht werden, die sich bisher 
+noch nicht engagiert haben? Wie kann die Beteiligung G 
+der Bürgerschaft in Entscheidungsprozessen in Zukunft 
+inklusiv und unabhängig von finanziellen Möglichkeiten 
+oder Bildungsniveau gestaltet werden? Und welche Rolle 
+kommt den Interessensvertretungen in den jeweiligen 
+Stadtteilen zu?
+Wie ermutigen wir dazu, aktiv an der Gestaltung des 
+eigenen Lebensumfeldes mitzuwirken? Wie machen wir 
+demokratische Mitbestimmung attraktiv und wie motivie -
+ren wir dazu, auch überregional oder global Verantwor -
+tung zu übernehmen? 
+Niedrigschwellige Beteiligungsformen werden künftig wich-
+tig, insbesondere aufsuchende und zielgruppenspezi -
+fische Formate. Die Möglichkeiten der Digitalisierung 
+werden eine große Rolle spielen.
+In Zukunft wird es auch Raum brauchen, um über das 
+Eintreten für demokratische Werte, über die Spielregeln 
+und Konflikte in der Gesellschaft und über Faktoren, die 
+für das Gelingen unseres Miteinanders notwendig sind, 
+in einen kontinuierlichen Austausch zu kommen. 
+und sexuellen Gesundheit sowie die Sensibilisierung G für 
+Tabus wie Einsamkeit oder stigmatisierende ErkrankungenG 
+sein. Lebendige öffentliche Räume können Bewegung und 
+Wohlbefinden fördern. Flexible Sport- und Bewegungs -
+angebote können insbesondere die Menschen erreichen, 
+die vorhaben, nur einen begrenzten Lebensabschnitt in 
+Heidelberg zu verbringen. Daneben könnten institutionelle 
+Sportangebote (zum Beispiel von Sportvereinen in Sport- 
+und Bewegungsstätten sowie Schwimmbädern) eine noch 
+größere Rolle spielen als bisher, da sie als soziale Treff -
+punkte unterschiedlicher Menschen fungieren. 
+Mit Blick auf den Klimawandel werden Anpassungsmaß -
+nahmen an das Klima eine zunehmende Bedeutung be -
+kommen. Es braucht mehr Schutz vor Extremwetter wie 
+Hitze für eine gute Aufenthaltsqualität in der Stadt. Vul -
+nerable Gruppen G wie zum Beispiel Wohnungslose oder 
+ältere Menschen sind dabei besonders schutzbedürftig. 
+Wie können wir Sicherheit für alle Menschen 
+ sicherstellen?
+Schutz vor Kriminalität gehört mit zu den wichtigsten 
+Grundbedürfnissen der Bürgerinnen und Bürger. Die Stadt 
+gewährleistet durch gut ausgebaute Strukturen des Ge -
+waltschutzes und der Prävention von Gewalt und Diskri -
+minierung, dass Menschen in Heidelberg sich sicher und 
+wohl fühlen. Die kontinuierliche Prävention ist eine wichtige 
+Zukunftsaufgabe. 
+Für die städtebauliche Kriminalprävention hat die Art, 
+wie Gebäude, öffentliche und private Räume gestaltet, 
+einander zugeordnet und instandgehalten sind, Einfluss 
+auf die tatsächliche Sicherheit ebenso wie auf das Sicher -
+heitsgefühl der Menschen, die diese Gebäude und Räume 
+nutzen. Durch angepasste städtebauliche und architek -
+tonische Gestaltung werden Stadträume, Quartiere und 
+die direkte Wohn- und Arbeitsumgebung von Menschen 
+als sicherer empfunden. 
+Ein weiterer wichtiger Aspekt für das Sicherheitsgefühl der 
+Bewohnerinnen und Bewohner ist die (schnelle) Identifi -
+kation mit dem Stadtteil / dem Wohn- oder Arbeitsumfeld. 
+Hier muss die Stadt die verschiedenen Bedürfnisse der 
+einzelnen Personengruppen (zum Beispiel junge Familien, 
+nur vorübergehend in Heidelberg lebende Menschen, 
+Singles) im Blick haben und das Gemeinschaftsgefühl 
+der Stadtteile stärken, so dass aus der jeweiligen Gesell -
+schaft heraus geeignete Angebote wachsen. 
+STEKbriefe  | 3534 | STEKbriefe
+
+  
+Heidelberg ist eine Wissenschaftsstadt und bedeutsamer Bildungsstand -
+ort� Die Angebote der frühkindlichen und der schulischen Bildung in der 
+Stadt haben eine hohe Qualität� Die Universität aber auch Weiterbildungs-
+angebote sind international bekannt und bringen jedes Jahr Menschen aus 
+der ganzen Welt nach Heidelberg� 
+Neben den Angeboten und Institutionen sind vor allem die Möglichkeiten 
+der individuellen Entfaltung von Bedeutung – inklusiv und für alle Men -
+schen, unabhängig vom Alter, finanziellen Möglichkeiten, Wohnort, Ge -
+schlecht oder kulturellem Hintergrund� Welchen Beitrag die Stadtentwick-
+lung leisten kann, um Entfaltung und individuelle BildungG weiter zu stärken 
+ist eine wichtige Frage für das STEK� 
+Zugleich wird die Gesellschaft immer diverser – mit dieser Hypervielfalt 
+umzugehen und bedarfsgerechte Angebote zu machen fordert Institution 
+und Akteure heraus� BildungG kommt eine Schlüsselrolle für die aktive und 
+selbstbestimmte TeilhabeG aller Menschen in Heidelberg zu und setzt wichtige 
+Akzente für eine nachhaltige Entwicklung� 
+Wie können alle Menschen Zugang zu BildungG 
+bekommen und ihre individuellen Potenziale 
+entfalten?
+Chancengleichheit G und ein Zugang zu Bildung G unab -
+hängig von Herkunft, geschlechtlicher oder sexueller 
+Identität, Ethnie, Behinderung(en), Religion, Weltanschau-
+ung oder Alter stellt eine wichtige Voraussetzung für die 
+gleichberechtige TeilhabeG aller Menschen dar. InklusionG 
+und Barrierefreiheit in allen Bereichen der Bildung G zu 
+leben und strukturell zu verankern ist eine wichtige Auf -
+gabe. Es stellt sich die Frage, wie zukünftig Lern- und Bil -
+dungsorte in allen Stadtteilen, aber besonders für Men -
+schen in beengten Wohnverhältnissen zu Verfügung ge-  
+stellt werden können. Es braucht zielgruppenspezifische 
+Angebote, niedrigschwelligeG Zugänge und Bildungsräume 
+die zugleich als Begegnungsorte Menschen zusammen -
+bringen. 
+Wie sichern wir BildungG und Betreuung für 
+ Kinder und Jugendliche?
+Frühkindlicher und schulischer Bildung kommt hierbei eine 
+zentrale Rolle zu. Dabei ist jedes Kind und jede Familie 
+individuell und hat unterschiedliche Ressourcen und Be -
+darfe, zum Beispiel gesundheitliche Einschränkungen oder 
+Fluchterfahrungen. Sensibilität für Rassismus und Diver -
+sitätG stellt eine zentrale und dauerhafte Herausforderung 
+für Bildungseinrichtungen dar. Zukunftsthemen fließen 
+in Bildung ein, politische und soziale Bildung aber auch 
+Bildung für nachhaltige EntwicklungG prägen das Handeln 
+kommender Generationen. Neben Kindertagesstätten und 
+Schule stellt sich die Frage, ob und wie weitere Bildungs -
+orte dezentral in den Quartieren verankert oder mit lokalen 
+Einrichtungen verzahnt werden können. Vereinbarkeit 
+von Beruf und Familie erfordert Betreuung, diese muss 
+weiterhin sichergestellt und ausgebaut werden. Dabei ist 
+der Fachkräftemangel eine Herausforderung.
+Wie gestalten wir lebenslanges Lernen?G
+BildungG ist an den Lebenslagen auszurichten – dement -
+sprechend hat Bildung G alle Lebensphasen und Formen 
+des Lernens (formal, non-formal und informell) G im Blick. 
+Herausforderungen der Zukunft sind insbesondere der 
+Umgang mit dem demografischen Wandel, das Profitieren 
+von digitalen Ansätzen und internetbasiertem Lernen, 
+aber auch die Stärkung von Bildung für nachhaltige Ent -
+wicklung G. Weitere wichtige Zukunftsfragen sind, wie der 
+Wert unkonventioneller und informeller BildungG gestärkt 
+werden kann sowie auch ausländische Abschlüsse besser 
+anerkannt werden können. In „dritten Orten“G, aber auch 
+der Verzahnung des lebenslangen Lernens mit formalen 
+Bildungsorten wird dabei großes Potential gesehen. Die 
+Frage nach der Vereinbarkeit von Familie / Pflege / Beruf /   
+Ehrenamt und Bildung G, aber auch die Zugänglichkeit, 
+zum Beispiel für Menschen mit Behinderung sowie die 
+Bezahlbarkeit von Bildungsangeboten wird als Heraus -
+forderung benannt.
+BILDUNG
+STEKbriefe  | 3736 | STEKbriefe
+
+Vom mittelalterlichen Minnesang, der Heidelberger Romantik und von der 
+Bibliotheca Palatina bis zu Hip-Hop und Deutschrap – die Heidelberger 
+Kulturlandschaft ist einzigartig und international vernetzt �  Das kulturelle 
+Angebot der Stadt strahlt mit vielen, teilweise überregional bekannten Ein-
+richtungen in die ganze Metropolregion G aus�  Diese kulturelle Bedeutung 
+prägt Erscheinungsbild und Stadtgesellschaft nachhaltig �  Ausgehend von 
+dieser starken Ausgangsposition stellt sich die Frage, wie auch zukünftig 
+die Bedürfnisse und die Finanzierung der Kultureinrichtungen, der Kunst -
+produktion aber auch der Kultur- und Kreativwirtschaft G gesichert werden 
+können�  In Heidelberg gibt es traditionell ein starkes privates Engagement 
+zur Unterstützung des Kulturbetriebs�  
+Bezahlbare (Frei)räume für Kunstproduktion, Innovation und Experimente 
+werden knapp� K önnen MischnutzungenG und räumliche Synergien G, zum 
+Beispiel zwischen Kultur und Gewerbe oder der Wissenschaft einen wich-
+tigen Beitrag leisten? Die Kunstproduktion ist ein integraler Teil einer wirt-
+schaftlich und sozial erfolgreichen Stadt�  In diesem Sinne soll Kultur in die 
+Stadtentwicklung integriert sein: In allen Bereichen der Stadt, in allen Funk-
+tionen (zum Beispiel Wohngebieten, Gewerbeflächen, Zentren) und allen 
+Bevölkerungsgruppen�  Welche Voraussetzungen sind wichtig für Zugang 
+und Verfügbarkeit von Kunst und Kultur – für alle Menschen und an allen 
+Orten in Heidelberg? 
+Wie schaffen wir nicht-kommerzielle (Frei)räume 
+für vielfältiges kulturelles Leben? 
+Kunst und Kultur stellen wichtige Bausteine einer gemisch-
+ten Stadt dar. Kulturelles Leben und Kunstproduktion 
+brauchen Platz und Schutz vor Verdrängung. Nötig sind 
+neben etablierten Kulturorten vor allem bezahlbare oder 
+sogar unentgeltliche, flexible und unprogrammierte Flä -
+chen mit Raum für Experimente und Innovation. Es bedarf 
+nicht kommerzieller Räume und freier Kulturveranstaltun-
+gen, draußen wie drinnen, besonders für junge Akteurinnen 
+und Akteure. Herausfordernd ist vor allem die Sicherung 
+der Produktionsbedingungen für raumintensive Kunst 
+wie einige bildende Künste, darstellende Künste und die 
+Musik. Daneben zählen für die Künstlerinnen und Künstler 
+Heidelbergs auch der einfache Zugang zu Förderungen, 
+Genehmigungen und privaten Geldern. 
+Wie kann die Kunstproduktion enger mit den 
+anderen Funktionen der Stadt verzahnt werden?
+In gemischten Nutzungen und hybriden Konzepten sowie 
+Kooperationen zwischen Wirtschaft, Wissenschaft und 
+Kultur liegt viel Potential. Die Herausforderung ist, die 
+Ansiedlung kultureller Nutzungen alle Bereichen der Stadt 
+zu ermöglichen. Lokale Kunstproduktion kann Wohn -
+quartiere wie Gewerbegebiete gleichermaßen beleben 
+und als urbane Produktion
+G einen wichtigen Beitrag zur 
+Aktivierung von Zentren leisten. Die Bürgerschaft wie auch 
+die Wirtschaft werden als Partner der Kultur gesehen, die 
+sowohl bei der Finanzierung wie auch der Gewinnung von 
+Ressourcen und Räumen einen wichtigen Beitrag leisten 
+können. Bewegung, Sport, Spiel, Gesundheit und Bildung 
+können mit Kultur eng zusammengedacht und bei der 
+Gestaltung von Kulturorten integriert werden. 
+Wie kann Zugang zu Kultur für alle und überall 
+gesichert werden? 
+TeilhabeG am kulturellen Leben setzt Zugänglichkeit und 
+Verfügbarkeit voraus – idealerweise in Form von vielfältigen 
+Angeboten in allen Stadtteilen. Heidelberg braucht kul -
+turelle Orte, die TeilhabeG und ChancengleichheitG fördern. 
+Es zählen besonders Erreichbarkeit (vor allem mit dem 
+öffentlichen Personennahverkehr, zu Fuß und dem Fahr -
+rad) und niedrigschwellige
+G, kostengünstige und kosten -
+freie Angebote. Wichtig ist die Bedeutung von Begegnun-
+gen für den Zusammenhalt der Gesellschaft. Ein zentraler 
+Beitrag können hierbei offene Begegnungsorte für alle 
+Menschen im Zeichen der Kultur sein. Alle Menschen sollen 
+zudem die Möglichkeit haben als Kultur- und Kunstschaf -
+fende aufzutreten. 
+Wie wird Heidelbergs kulturelles Erbe erlebbar?
+Heidelbergs kulturelles Erbe ist einzigartig, vielfältig und 
+in der Stadt an vielen Orten ablesbar. Neben der Zugäng-
+lichkeit stellt sich im STEK vor allem die Frage wie das 
+baukulturelle Erbe aller Epochen gewürdigt und sichtbar 
+gemacht werden kann. Heidelberg ist eine kulturell reiche 
+Stadt. Die Vielfalt und das wertvolle Erbe stiften nicht nur 
+Identität, sondern bieten großes Potential für zukünftige 
+Entwicklungen. Die Digitalisierung verändert die Kultur 
+in Heidelberg: Kunstproduktion findet zukünftig auch 
+virtuell statt, Kunst und Kultur wird anders und auch 
+ortsunabhängig rezipiert.
+KULTUR
+STEKbriefe  | 3938 | STEKbriefe
+
+Leben und Arbeiten sind geprägt durch die Wissenschaft und wissens -
+intensive Betriebe wie in kaum einer anderen deutschen Stadt� Als hochka-
+rätige „Knowledge Pearl“14 ist Heidelberg international sichtbar und ver -
+netzt – entsprechend vielfältig und mehrsprachig sind Bevölkerung und 
+Arbeitsmarkt� Die Wissenschaft ist ein bedeutender Arbeitgeber und bringt 
+Folgenutzungen wie private Bildungseinrichtungen, forschungs- und bildungs-
+nahe Dienstleistungen, Forschungs- und Entwicklungsabteilungen von Unter-
+nehmen und Stiftungen mit sich� Von 2012 bis 2022 hat die IBA Heidelberg 
+zu dem Motto »Wissen | schafft | Stadt« städtebauliche und architektonische 
+Projekten für die Wissensgesellschaft initiiert�
+Heidelberg verfügt über einen vielfältigen und diversifizierten Unternehmens-
+besatz, der die Stadt zu einem bedeutenden Wirtschaftsstandort weit über 
+die Stadtgrenzen hinaus macht � Heidelberg ist Ort zum Leben, Arbeiten 
+und Lernen� Viele Menschen pendeln aus der ganzen MetropolregionG ein� 
+Aus der ganzen Welt gibt es internationale Zuwanderung� Ein gutes Angebot 
+an guten Arbeitsplätzen, bezahlbarem Wohnraum, Bildungs-, Kultur-, Freizeit- 
+und Erholungsmöglichkeiten – kurz gesagt die lebenswerte Stadt – sind 
+auch zukünftig als zentraler Wettbewerbsfaktor für den Wirtschafts- und 
+Wissenschaftsstandort wichtig� 
+Schnell wird deutlich, dass viele Ansätze nicht nur innerhalb der Kommune 
+umsetzbar sind – regionales Denken und interkommunale ZusammenarbeitG 
+gewinnen an Bedeutung, vor allem bei regionalen Produktionskreisläufen 
+und der Verteilung von Flächen für Wirtschaft und Industrie und der Fach-
+kräftegewinnung�
+Die Zukunft bringt im Bereich Arbeit, Wirtschaft und Wissenschaft weitrei-
+chende Veränderungen mit sich: Berufsstrukturen passen sich an, digitales 
+Arbeiten, Künstliche Intelligenz und Homeoffice verändern die Arbeits -
+welt und den Stadtraum � Berufsbiografien werden brüchiger, aber auch 
+vielfältiger� Branchen- wie Ortswechsel sind keine Seltenheit mehr und Arbeits-
+kräfte sind international mobil� 
+Wie können Wissenschaft und Forschung als 
+Motor der Stadtentwicklung gestärkt werden? 
+Die Wissenschaft und wissensintensive Betriebe können 
+die Stadtentwicklung vielfältig unterstützen, zum Beispiel 
+mit Blick auf die anstehenden Herausforderungen in Klima-
+wandel, Gesundheit, Life Sciences und Künstlicher Intelli -
+genz. Viel Potential steckt im Austausch zwischen Wissen-
+schaft und anderen Bereichen. Wie kann der Austausch 
+gefördert werden? Wie kann Wissenschaft anwendungs -
+bezogen werden und vor allem auf Zukunftsbranchen 
+setzen?
+Wie kann Wirtschaft und Wissenschaft trotz 
+knapper Flächen Raum zur Entwicklung gege-
+ben werden? 
+Für fast alle Wirtschaftsunternehmen ist die Verfügbarkeit 
+von geeigneten Flächen ein zentraler Faktor für Ihre Ent -
+wicklung. Über ihre Flächen und dort arbeitende Menschen 
+werden Unternehmen für Stadt gesellschaftlich erlebbar 
+und fiskalisch greifbar. Kreislaufwirtschaftsansätze G wie 
+lokale Produktion und Recycling benötigen ebenso Platz 
+wie die erneuerbare Energiewirtschaft. Auch die Wissen -
+schaft braucht Raum zur Weiterentwicklung. Der Trans -
+formationsdruck auf bestehende Gewerbenutzungen steigt 
+und Verdrängung kann zu Monostrukturen führen und 
+damit zum Problem werden. Auch auf Industrie- und Ge -
+werbegebiete kommen Fragen der Verdichtung, Mehr -
+fachnutzung G von Flächen und der Klimaneutralität G. 
+Gleichzeitig sind Klimaanpassung und die Verbesserung 
+der Aufenthaltsqualität wichtige Themen.
+Wie können Fachkräfte gewonnen und gehalten 
+werden? 
+Als international ausgerichtete Wissenschaftsstadt steht 
+Heidelberg im Wettstreit um die besten Köpfe. Doch auch 
+in anderen Bereichen, zum Beispiel dem Handwerk oder 
+sozialen Berufen werden Fachkräfte benötigt. Große He -
+rausforderungen für die Gewinnung von Arbeitskräften 
+sind die Verfügbarkeit von bezahlbarem Wohnraum, faire 
+Bezahlung und Arbeitsverträge, die Vereinbarkeit von 
+Familie und Beruf sowie Geschlechtergerechtigkeit. Wie 
+kann Heidelberg in Zukunft bei rückläufiger Zahl der Men-
+schen im erwerbsfähigen Alter Nachwuchs für Jobs sichern? 
+Wie kann ein international offener Arbeitsmarkt gestaltet 
+und Integration G gefördert werden?
+Wie können die Bedingungen für Gewerbe-
+betriebe verbessert und zeitgleich nachhaltig 
+gewirtschaftet werden? 
+Die wirtschaftliche Entwicklung ist ein wichtiger Teil der 
+Zukunft Heidelbergs. Für eine nachhaltige Wirtschaft ist 
+die lokale Produktion ein wichtiger Faktor. Eine große He-
+rausforderung ist dabei die Wirtschaft kreislaufgerecht und 
+klimaneutral umzustellen – eine Veränderung, die durch 
+kleine Kreisläufe und kurze Wege G zugleich die ResilienzG 
+und Unabhängigkeit der Stadt stärken kann. Wie kann 
+zukünftig nachhaltig und wenig Müll produziert werden? 
+Wie können die Zentren und der Einzelhandel, 
+allem voran die Innenstadt gestärkt werden? 
+Der Handel hat sich durch Onlinehandel und Corona-
+Pandemie verändert. Eine wichtige Herausforderung wird 
+sein, die Zentren der Stadt zu stärken und lebendig zu 
+halten. Wie kann die Innenstadt ein starkes regionales 
+Oberzentrum G bleiben? Wie sollen sich Einzelhandel und 
+Gastronomie entwickeln und welche Nutzungen und Kon-
+zepte prägen die Innenstadt in Zukunft? 
+Welche Potentiale stecken in Digitalisierung  
+und Innovation? 
+Auch Heidelberg wird reagieren auf eine sich durch Digi -
+talisierung und Innovation verändernde Arbeitswelt. Vir -
+tuelle Arbeitsumgebungen, Homeoffice, Künstliche In -
+telligenz oder Co-Working sind nur einige Entwicklungen. 
+Diese Veränderungen werden sich auf die Arbeit, den 
+Wohnraum, das Wohnumfeld, das Einkaufverhalten oder 
+auch Verkehrsströme auswirken. Doch auch Produktions-
+prozesse ändern sich: Zum Beispiel mit Robotik und 3D-
+Druck drängen neue Technologien in die Betriebe. Der 
+Einsatz künstlicher Intelligenz und digitaler Steuerung 
+der realen Welt werden auch Heidelberg verändern. In 
+Heidelberg gibt es Unternehmen und wichtiges Know-
+How für diese Zukunftsbranchen. Was braucht es, damit 
+Heidelberg von diesen Entwicklungen profitieren kann?
+Wie kann der Tourismus attraktiv bleiben  
+und nachhaltiger werden? 
+Heidelberg ist weltweit bekannt und international sichtbar. 
+Die Stadt profitiert wirtschaftlich durch seine Anziehungs-
+kraft als bedeutende Tourismusdestination. Nachhaltig -
+keitG ist dabei die zentrale Grundlage der strategischen 
+Tourismusplanung. Der Mensch steht an erster Stelle: Als 
+Gast, als Gastgeberin und Gastgeber, Akteurin und Akteur 
+in der Verwaltung oder im Bereich Kultur. Eine Heraus -
+forderung ist wie die Stadt für verschiedene Anspruchs -
+gruppen erlebbar gemacht werden kann. Eine Heraus -
+forderung ist wie die Stadt für verschiedene Anspruchs-  
+gruppen erlebbar gemacht werden kann.
+     ARBEIT, WIRTSCHAFT  
+UND WISSENSCHAFT
+STEKbriefe  | 4140 | STEKbriefe
+
+Wie kann Heidelberg globale Herausforderungen 
+im Blick behalten und einen positiven Beitrag 
+leisten?
+Heidelberg ist durch die Universität und den ehemaligen 
+US-Militärstützpunkt eine international vernetzte Stadt. 
+Geschichte, Wissenschaft und Kulturangebot sind welt -
+weit sichtbar, die Stadt ist Ziel für internationale Forschung 
+und Tourismus. Das Ankommen in Heidelberg zu erleich -
+tern und Migration zu ermöglichen, ist eine wichtige He -
+rausforderung. Eine andere Aufgabe besteht darin, das 
+Netzwerk aus internationalen Partnerschaften und Koope-
+rationen zu stärken und den internationalen Wissens -
+transfer für die Stadtentwicklung zu nutzen. Dabei ist 
+beispielweise an Naturschutzkooperationen und globale 
+Verantwortung durch Bildung
+G zu denken.
+Daneben stellt sich die Frage, wie die Stadt Heidelberg 
+ihre internationale Verantwortung, zum Beispiel bei Liefer-
+ketten, Kreislaufwirtschaft G und Recycling, Vermeidung 
+von Plastikmüll oder im Natur- und Artenschutz zukünftig 
+wahrnehmen kann. 
+In welchen Bereichen können Heidelberg und 
+seine Nachbarn von regionalen Kooperationen 
+profitieren?
+Themen der überörtlichen Entwicklung sind: 
+– Mobilität (Ausbau Nah- und Fernverkehr, regionales
+Radwegenetz, Pendelverkehre)
+– Ausbau erneuerbarer Energiequellen
+(Energiegewinnung)
+– Siedlungsflächenentwicklung
+(insbesondere Wohnen und Gewerbe)
+– Freiraumverbund und Natur/Artenschutz
+– Einzelhandel
+– Tourismus, Kongresse
+– Ver- und Entsorgung, Kreislauf- und
+Recyclingwirtschaft G
+– Bedarfsplanung sozialer Infrastruktur G
+– Gewinnung von Fachkräften
+Wie kann eine verstärkte Kooperation 
+in der Region organisiert werden?
+Heidelberg ist Oberzentrum G – in dieser Rolle kommt der 
+Stadt eine besondere Rolle für die Zusammenarbeit in 
+der Region zu. Der Rhein-Neckar-Kreis, die Kommunen 
+der ganzen MetropolregionG und insbesondere die große 
+Nachbarin Mannheim sind und bleiben Heidelbergs wich-
+tigste Partner für eine Kooperation auf Augenhöhe. Be -
+stehende Partnerschaften zu vertiefen und neue aufzu -
+bauen, ist eine wichtige Aufgabe, um die oben genannten 
+Herausforderungen anzugehen und auch mit entspre -
+chendem Gewicht auf Landes- und Bundesebene für die 
+eigenen Belange eintreten zu können. Dabei stellt sich 
+auch die Frage nach Zuständigkeiten, gemeinsamen Finan-
+zierungsmodellen und gegenseitigem Ausgleich für über-
+nommene Leistungen, Angebote und Interessen. 
+Heidelberg liegt in einem attraktiven Landschaftsraum und ist OberzentrumG 
+der MetropolregionG Rhein-Neckar und eng verbunden mit den Nachbar -
+kommunen�  
+Die Stadt Heidelberg und die MetropolregionG bekennen sich zur Leitidee 
+nachhaltiger Entwicklung�  Sie verstehen die globale Verantwortung so, dass 
+die Entwicklung vor Ort die Auswirkungen auf die Welt berücksichtigen 
+soll und negative Folgen an anderer Stelle möglichst vermieden werden�
+Als Wirtschafts- und Wissenschaftsstandort, Wohn- und Bildungsort und 
+Tourismusmagnet stärkt Heidelberg die MetropolregionG� Die enge regionale 
+Verflechtung zeigt sich in den hohen Pendlerzahlen aus der Region �  Von 
+rund 96�0 00 Beschäftigten kommen nur rund ca �  31�0 00 aus Heidelberg�  
+Gleichzeitig pendeln täglich etwa 65 �0 00 Personen nach Heidelberg � 
+Heidelberg ist als Oberzentrum G ein wichtiger Einkaufsort �  In den Jahren 
+2019 bis 2021 ist der Anteil der regionalen Kaufkraft, die in Heidelberg 
+ausgegeben wurde um 1,4 Prozent rückläufig �  Die Folgen der Pandemie 
+haben den Einzelhandel mit Umsatzrückgängen und Ladenschließungen 
+getroffen�
+Vor der Pandemie kamen jährlich rund 842�0 00 Touristinnen und Touristen 
+nach Heidelberg, durchschnittlich für zwei Nächte�  Hotel und Gaststätten -
+gewerbe profitieren über die Stadtgrenzen hinaus von der Anziehungs -
+kraft der Stadt�  
+Die Nachfrage auf dem Wohnungsmarkt spiegelt die wirtschaftliche Stärke 
+der Metropolregion
+G wider�  Heidelberg allein kann die regionale Nachfrage 
+nach Wohnraum nicht decken�  Das gleiche gilt für die Nachfrage nach Ge-
+werbeflächen, Flächen für die technische und soziale Infrastruktur oder die 
+Schaffung von Verkehrsinfrastruktur�  
+Die gemeinsame Entwicklung mit Metropolregion G und den Nachbarkom -
+munen wird mit dem Verband Region Rhein-Neckar (VRRN) und dem Nach-
+barschaftsverband Heidelberg-Mannheim auch künftig aktiv gestaltet �  Da-
+bei wird das STEK mit dem Flächennutzungsplan15 und dem Regionalplan16 
+abgestimmt�
+       REGIONALE KOOPERATION UND 
+   GLOBALE VERANTWORTUNG 
+STEKbriefe  | 4342 | STEKbriefe
+
+Im Zuge der Beteiligung G für diesen Statusbericht wurde auch die Frage nach Konflikten und 
+Synergien G gestellt. Wo sehen die Verwaltung, Interessensvertretungen der Zivilgesellschaft und 
+die Heidelbergerinnen und Heidelberger zukünftige Konflikte? Welche Themen der Stadtentwicklung 
+könnten miteinander kollidieren oder stehen sich bisher im Weg? Und im Gegenzug: Welche Themen 
+könnten einander stärken, ergänzen und positive Wechselwirkungen  entfalten? Die Konflikte und 
+Synergien G zeigen einerseits, welche Themen besonders sensibel betrachtet werden müssen 
+und andererseits in welchen Bereichen sich Maßnahmen besonders wirksam ergänzen könnten. 
+Strategische Entscheidungen der Stadt Heidelberg haben Auswirkungen auf andere Themen. Die 
+Entscheidungen in Politik und Verwaltung führen zu Konsequenzen in anderen Bereichen. Diese 
+gilt es zu beachten und in den Abwägungsprozess mit einzubeziehen. 
+Flächenbedarfe durch verschiedene Nutzungen ist ein wichtiges Thema und weist Konfliktpotential 
+auf. In vielen Bereichen wird Bedarf an Flächen formuliert. Dem gegenüber steht der Anspruch, 
+möglichst keine unbebauten Flächen, beziehungsweise Grünflächen zu erschließen und wertvolle 
+Flächen zu schützen. Vor allem sind hier landwirtschaftliche und naturbedeutsame Flächen zu 
+nennen. Die Herausforderung für das STEK ist also einerseits, die verschiedenen Ansprüche mit -
+einander in Einklang zu bringen und Prioritäten zu setzen und andererseits Schutzansprüche mit 
+notwendigem Raum für Entwicklung abzuwägen.
+Wenngleich Innenentwicklung und Nachverdichtung G zunächst als Synergien G und mögliche Lö -
+sungen angeführt werden, stecken in ihnen auch Konflikte, wie zum Beispiel der steigende Be -
+darf an Infrastruktur und Erschließung, erhöhter Verkehr, Nutzungsdruck in Naherholungsgebieten 
+oder im öffentlichen Raum sowie der Verlust innerstädtischer Lebensräume für Tiere und Pflanzen 
+und Freiflächen. Eine mögliche Synergie G ist die Mehrfachnutzung G von Flächen. Dahinter steckt 
+die Idee einer kompakten und kleinteilig durchmischten Stadt, in der verschiedene Nutzungen 
+Raum und Infrastruktur gemeinsam und effizient nutzen. Als Beispiele werden verschiedene 
+Nutzungen zu verschiedenen Zeiten, die „Stapelung“ von Nutzungen oder auch die Nutzung von 
+Dächern und Fassaden als Grünflächen genannt. Besonders zu erwähnen, ist hier die doppelte 
+Innenentwicklung G, welcher großes Potential beigemessen wird, Verdichtung und den Schutz der 
+Natur und Biodiversität G in Einklang zu bringen. Auch in der Stadt der kurzen WegeG werden viele 
+mögliche Synergien G gesehen – sei es die Reduktion von Verkehren durch fußläufig erreichbare 
+Arbeitsplätze in der Nähe der Wohnorte oder die Stärkung von TeilhabeG durch Kultur- und Bildungs-
+angebote vor Ort in den Quartieren. 
+Als konfliktträchtig, beziehungsweise als Hemmnis erachtet werden Auflagen und unflexible Regel-
+werke. Zum Beispiel bei der Umsetzung einer Nutzungsmischung G und der Beachtung des Bau -
+ordnungsrechts G und der Baunutzungsverordnung G. Oder auch in der Mobilitätsplanung bei der 
+Umsetzung von Tempo 30 Zonen auf Hauptverkehrsstraßen.
+Folgen von Wetterextremen  wie Hitze oder Starkregen stellen eine Gefahr, vor allem mit Blick auf 
+vulnerable GruppenG dar. Durch Klimaanpassungsmaßnahmen werden SynergienG und Chancen für 
+eine grünere, ökologisch aufgewertete und gesunde Stadt mit hoher Aufenthaltsqualität gesehen. 
+Die Mobilitätswende und damit die Förderung umweltfreundlicher Verkehrsmittel (Fuß, Rad, öffent-
+licher Personennahverkehr) bringt viele Synergien G mit sich, beispielsweise in Bezug auf gesund -
+heitliches Wohlergehen  durch eine reduzierte Lärm- und Luftbelastung. Durch eine Umgestaltung 
+der Verkehrsräume lassen sich Aspekte der klimaökologischen Gestaltung oder der Sicherheit 
+mit umsetzen.
+Mit Blick auf Zusammenleben und Vielfalt G der Gesellschaft stellt die Verteuerung von Wohnraum 
+und Energie ein ungelöstes Problem dar und könnte Ursache für Verdrängungsprozesse  sein. 
+Rollstuhlgerechte und barrierefreie Wohnungen entstehen meist in eher teuren Neubauten. 
+Menschen mit Behinderungen verfügen jedoch im Schnitt nur über etwa 80 Prozent des durch -
+schnittlichen Einkommens und sind daher besonders auf bezahlbaren Wohnraum angewiesen. 
+Mischnutzungen von Wohnen und sozialer Infrastruktur (zum Beispiel Sportanlagen, Kindertages-
+einrichtungen) sind von Bedeutung und vielfältige Wohnformen und -typologien befördern 
+sozial durchmischte Quartiere.
+Eine weitere Herausforderung ist die Zugänglichkeit , zum Beispiel von sozialer Infrastruktur G, 
+Kultur oder auch dem Arbeitsmarkt. Hier scheinen hilfreiche Synergien G in Sicht, zum Beispiel 
+durch dezentrale, kostengünstige und niedrigschwellige G Angebote, konsequente Barrierefreiheit 
+im öffentlichen Raum oder flexible Arbeitszeitmodelle. 
+Auch der Konflikt mit Anwohnerinnen und Anwohnern und möglicher Protest, zum Beispiel ange-
+sichts von Nachverdichtung G, dem Bau neuer Infrastrukturen oder Straßenbaumaßnahmen ist 
+eine Herausforderung mit zunehmender Brisanz. Umso wichtiger erscheint gute und transparente 
+Kommunikation sowie eine Konfliktkultur. Eine große Synergie G steckt im Bereich der Bildung für 
+nachhaltige Entwicklung G und der Sensibilisierung G und Aktivierung der Bevölkerung für den 
+Umwelt- und Naturschutz, den Klimaschutz, die Mobilitäts- und Energiewende G, energetische 
+Sanierung und Klimaanpassung G. Bildung ist ebenfalls eine wichtige Synergie G zum Beispiel im 
+Bereich der Armuts-, Konflikt- und Kriminalprävention.  
+Konflikte und Synergien G gibt es auch bei Themen der regionalen Kooperation und globalen Ver -
+antwortung.  Nutzen, Lasten und Kosten der Entwicklung müssen gerecht verteilt werden. Das 
+erfordert Rücksichtnahme auf die Interessen der Nachbarn, Abstimmung gemeinsamer Interessen 
+und gerechte Verteilung von Lasten , wie zum Beispiel Kosten für den öffentlichen Personennah -
+verkehrs oder Standorte für Energieerzeugung mit Eingriffen in Natur und Landschaft.
+KONFLIKTE
+UND SYNERGIEN
+Konflikte und Synergien  | 4544 | Konflikte und Synergien
+
+Dieser Statusbericht gibt einen Überblick zum Status Quo  und bildet den ersten Teil des neuen 
+STEK. Dabei ziehen sich einige zentrale Herausforderungen wie ein roter Faden durch die ver -
+schiedenen im Statusbericht betrachteten Themen.
+Über allen Herausforderungen der Stadtentwicklung steht die Frage nach Flächen: Zielvorgaben 
+wie Netto-Null G Flächenverbrauch bis 2035 fordern zukünftig einen noch stärkeren Fokus auf die 
+Innenentwicklung G, andererseits fordert auch die Stadtgesellschaft einen anderen Umgang mit 
+Wachstum und Versiegelung ein. Durch vielfältige Bedarfe und das absehbare Ende der Konver -
+sionsmöglichkeiten erhöht sich der Druck, Flächen multicodiert G und effizient zu nutzen und zu -
+künftig stärker dezentral im Bestand zu transformieren. Die Heidelberger Klimaziele G sind klar: 
+Die städtischen Einrichtungen sollen im Jahr 2030 weitestgehend klimaneutral sein und die Gesamt-
+stadt bis 2040. Aufgabe des STEK ist also auch, den Beitrag der Stadtentwicklung zur Erreichung 
+der Klimaneutralität  zu beschleunigen. Anpassung an sich verändernde Umweltbedingungen ist 
+eine weitere wichtige Aufgabe. Sowohl der Schutz von Natur und BiodiversitätG wie auch das gesunde 
+und sichere  Leben in der Stadt stehen hier im Fokus. In vielen Themenbereichen offenbart sich 
+das Quartier als zentrale Handlungsebene, sei es bei der Energieversorgung, der MobilitätswendeG, 
+Treffpunkten für die Gesellschaft oder bedarfsgerechter sozialer Infrastruktur G. Wie Heidelberg 
+als Wohnort bezahlbar bleiben kann und wie Treffpunkte und Freiräume für alle gesichert werden 
+können, sind wichtige soziale Aspekte für das STEK. Das Leitbild der Stadt der kurzen Wege G be-
+schreibt Heidelberg schon heute in weiten Teilen treffend; auch zukünftig auf kurze Wege und 
+Nutzungsmischung zu setzen, liegt daher nahe. Mit Blick auf begrenzte Ressourcen kommen auf 
+die Wirtschaft, aber auch das Bauwesen große Herausforderungen zu. Lokale Kreisläufe, ein anderer 
+Umgang mit grauer EnergieG und Kreislaufwirtschaft G fordern beide Bereiche heraus. Die Zukunft 
+fordert von den Städten Flexibilität und Anpassungsfähigkeit . Es ist klar, dass viele der zentralen 
+Herausforderungen nur auf regionaler Ebene, also in Kooperation mit den benachbarten Kommunen 
+oder in der MetropolregionG adressiert werden können. Welche Rolle interkommunaleG aber auch 
+globale Zusammenarbeit in Zukunft einnehmen soll, ist daher eine der Fragen, der das STEK große 
+Aufmerksamkeit schenken wird. Dieser Statusbericht macht deutlich, dass sich die meisten Her -
+ausforderungen gegenseitig bedingen – also vor allem integriert gedachte Zielsetzungen und 
+Maßnahmen Wirksamkeit und Effektivität versprechen. Die Stadt hat viele Einflussmöglichkeiten. 
+An dieser Stelle wird aber auch darauf hingewiesen, dass in vielen Themenbereichen die Verant -
+wortung und Entscheidungshoheit an anderer Stelle, zum Beispiel bei Bund und Land verortet sind. 
+Zentral für die nächsten Schritte  sind die im Kapitel STEKbriefe formulierten Zukunftsfragen. Sie 
+aufzugreifen und Ziele zu erarbeiten ist Aufgabe der nun anknüpfenden weiteren Arbeit im Rahmen 
+des STEK. Die Ziele gilt es messbar zu machen, also möglichst mit aussagekräftigen Indikatoren  
+zu hinterlegen. Daran anschließend werden Handlungsmöglichkeiten  aufgezeigt, welche die ge -
+steckten Ziele umsetzen sollen. Dazu können Bürgerinnen und Bürger im Beteiligungsprozess 
+ihre Anregungen und Ideen zu Zielen und Handlungsmöglichkeiten einbringen. Es ist geplant, 
+das STEK bis Ende des Jahres 2024 fertigzustellen.
+46 | Ausblick
+AUSBLICK
+
+GLOSSAR
+Das Glossar dient als Lesehilfe, insbesondere für die in den STEK -
+briefen behandelten Themen. Basierend auf etablierten Begriffs -
+definitionen, zum Beispiel seitens Bundesministerien, werden im 
+Folgenden zentrale Begriffe für den Statusbericht erläutert.
+Antriebswende  Ersatz von fossilen Treibstoffen durch klimaneutrale 
+Antriebe, Reduktion der Emissionen im Verkehr. 
+Bauordnungsrecht Regelt die Anforderungen an die Errichtung und 
+Genehmigung baulicher Anlagen. 
+Baunutzungsverordnung  Regelt die bauliche Nutzbarkeit von Grund 
+und Boden durch Festsetzungen zur Art und zum Maß der baulichen 
+Nutzung. Wichtige Instrumente sind der Flächennutzungsplan und Be -
+bauungsplan. 
+Bergstadtteile  Die im Wald gelegene Stadtteile Emmertsgrund und 
+Boxberg werden als Bergstadtteile bezeichnet. 
+Beteiligung/Partizipation Teilhabe und Mitbestimmung der Bürgerinnen 
+und Bürger an Prozessen der Stadtentwicklung. Demokratie setzt die 
+Partizipation bzw. Teilhabe aller an der politischen Willensbildung voraus. 
+Bildung Ist Persönlichkeitsentwicklung, Wissenserwerb und Erziehung 
+zugleich. Bildung zielt einerseits ergebnisoffen auf die persönliche Ent -
+faltung und ein erfülltes Leben des Individuums. Anderseits zielt Bildung 
+auf ökonomische Verwertung, zum Beispiel um durch Ausbildung Fach -
+kräfte zu qualifizieren.
+Bildung für nachhaltige Entwicklung  Eine Bildung, die Menschen be -
+fähigt aktiv Entscheidungen für die Zukunft zu treffen und dabei abzu -
+schätzen, wie sich ihr eigenes Handeln auf künftige Generationen oder 
+das Leben in anderen Weltregionen auswirkt.
+Biodiversität Vielfalt aller lebenden Organismen, Lebensräume und Öko-
+systeme auf dem Land, im Süßwasser, in den Ozeanen sowie in der Luft.
+Biotopvernetzung/Biotopverbund Schaffung eines Netzes von Lebens-
+räumen, die z. B. über Trittsteinbiotope miteinander verbunden werden, 
+um einen Austausch und Wanderungsmöglichkeiten wiederherzustellen 
+und das Überleben von Tier- und Pflanzenarten zu sichern.
+Chancengleichheit  Gleiche Zugangsbedingungen, zum Beispiel zu Bil -
+dung, unabhängig von Geschlecht, Herkunft, rassistischen Gründen, Alter, 
+Religion oder Weltanschauung, Behinderung und sexueller Orientierung.
+CO2-Neutralität  Auch Treibhausgasneutralität; Zustand, bei dem Aus -
+stoß von CO2 und die Bindung von CO 2 im Gleichgewicht stehen.
+Dekarbonisierung Umstellung auf CO2-neutrale Produktion und Prozesse 
+(zum Beispiel in der Industrie oder dem Bauwesen) und CO 2-neutralen 
+Betrieb, (zum Beispiel bei der Wärme oder im Verkehr). 
+Diskriminierung Ungerechtfertigte Ungleichbehandlung aufgrund von 
+ethnischer Herkunft, Geschlecht, Religion, Weltanschauung, Behinderung, 
+Alter oder sexueller Orientierung.
+Diversität/Vielfalt Beachtung und Wertschätzung der Unterschied -
+lichkeit der Menschen und Berücksichtigung besonderer Bedürfnisse. 
+Dritte Orte Orte der Gemeinschaft, die einen Ausgleich zwischen Familie 
+und Beruf bieten und Begegnung ermöglichen, ohne den Zwang zu kon -
+sumieren. 
+Doppelte Innenentwicklung  Leitbild bei der Nachverdichtung und 
+Innenentwicklung zugleich auch urbanes Grün zu entwickeln, qualitativ 
+aufzuwerten und zu vernetzen. 
+Lernformen (formal, non-formal und informell) Formales Lernen 
+findet im staatlichen Bildungssystem von der Kita über die Schule bis zur 
+Universität statt. Non-formale Lernformen umfasst zum Beispiel Weiter -
+bildungen während der Arbeit oder im Ehrenamt. Informelles Lernen ist 
+selbstgesteuert und folgt individuellen Interessen und Präferenz. 
+Mehrfachnutzung  / Multicodierung Überlagerung und Verknüpfung 
+von Funktionen und Nutzungen auf einer Fläche oder in einem Gebäude, 
+räumlich wie zeitlich durch z. B. unterschiedliche Nutzungen zu verschie -
+denen Zeiten. 
+Metropolregion  Verdichtete Region mit einer oder mehreren Groß -
+städten und internationaler Bedeutung. Heidelberg ist Teil der Metropol -
+region Rhein-Neckar, die in Form verschiedener Organisationen Regio -
+nalentwicklungsarbeit leistet. 
+Motorisierter Individualverkehr  kurz MIV meint private Personen -
+kraftwagen 
+Mobilitätswende Reduktion des Autoverkehrs (MIV), Umstieg auf den 
+Umweltverbund (Fuß, Rad, ÖPNV), messbar anhand des Modal Split. 
+Modal Split Bezeichnet in der Verkehrsstatistik die Verteilung der Ver -
+kehrsleistungen auf verschiedene Verkehrsmittel, zum Beispiel Anteil 
+der Wege die zu Fuß, mit dem Rad, dem ÖPNV oder dem MIV zurückge -
+legt werden. Wird in Prozent gemessen. 
+Monitoring Langfristige, regelmäßig wiederholte und zielgerichtete 
+Erhebung eines Vorgangs oder Prozesses im Sinne einer Dauerbeob -
+achtung zur Erfassung des Zustands und von Veränderungen (zum Bei -
+spiel der Natur und Landschaft).
+Nachhaltigkeit Bedeutet, die Bedürfnisse der Gegenwart so zu befrie -
+digen, dass die Möglichkeiten zukünftiger Generationen nicht einge -
+schränkt werden. Es werden drei Dimensionen der Nachhaltigkeit be -
+trachtet: Die Ökologie, die Ökonomie und Soziales. 
+Nachhaltiges Wassermanagement  Erhalt und Verbesserung aller 
+Wasserressourcen.
+„Netto-Null“ Flächenziel Reduktion des Flächenverbrauchs für Sied -
+lungen oder Verkehr, sodass Versiegelung und Entsiegelung im Gleich -
+gewicht zueinanderstehen. „Netto-Null“ schließt Neubau nicht aus, setzt 
+aber Entsiegelung an anderer Stelle voraus. 
+Niedrigschwellig Nutzbarkeit oder Zugänglichkeit eines Angebotes oder 
+einer Institution mit möglichst geringem Aufwand. 
+Nutzungsmischung/Mischnutzung Vereinigung verschiedener Nut -
+zungs typen, wie zum Beispiel Gewerbe, Wohnen und Kultur in einem 
+Raum, Gegenteil von Funktionstrennung.  
+Oberzentrum Begriff der Regionalplanung, zentraler Ort der höchsten 
+Zentralitätsstufe, der auch hochspezialisierte Waren und Dienste bietet 
+und eine Versorgungsfunktion für das Umland übernimmt. 
+Ökologische Mehrwerte  Zuwachs an ökologischen Werten wie zum Bei-
+spiel erhöhte Artenvielfalt oder die Reduktion von Emissionen.
+Ökosystemdienstleistung  Leistungen oder Beiträge, die Ökosysteme 
+für das menschliche Wohlbefinden liefern.
+ÖPNV Öffentlicher Personennahverkehr, meint öffentliche Verkehrsmittel 
+wie zum Beispiel S-Bahnen, Straßenbahnen, Busse. 
+Prävention Vorbeugung und Verringerung von Risiken, zum Beispiel Ver-
+meidung von Erkrankungen oder Straftaten durch präventives Handeln. 
+Resilienz  Auch Widerstandsfähigkeit; Fähigkeit von Personen, Gemein -
+schaften oder der Gesellschaft, schwierige Situationen wie Krisen oder 
+Katastrophen ohne dauerhafte Beeinträchtigung zu überstehen. Nicht 
+resiliente Menschen und Gesellschaften werden häufig als vulnerabel 
+bezeichnet.
+Effizienz  Ergiebigere Nutzung von Rohstoffen und Ressourcen, häufig 
+durch technische Innovationen.
+Energiewende  Umstellung der Energieversorgung weg von fossilen hin 
+zu erneuerbaren Energieträgern. 
+Flusswärme Form der Erneuerbaren Energie; Nutzung des Wärmepo -
+tentials eines Flusses zur Produktion von Wärme mithilfe einer Wärme -
+pumpe.
+Graue Energie Primärenergiebedarf für die Herstellung und Entsorgung 
+von Stoffen und Materialien, geläufiger Begriff im Bauwesen.
+Grünstrukturen  Unversiegelte Freiflächen wie z. B. Parks, Gärten, Stadt -
+wälder, Ackerflächen, Wiesen, Grün entlang von Flüssen und Straßen, 
+kleine Grünflächen in Wohngebieten sowie spontane Vegetation auf 
+Brachflächen.
+Halböffentlich  Beschreibt Räume, die zwar formell privat sind, jedoch 
+gemeinsam genutzt werden können, wie zum Beispiel ein der Nachbar -
+schaft zugänglicher Innenhof. 
+Inklusion Alle Menschen sollen in ihrer Unterschiedlichkeit z. B. mit oder 
+ohne Behinderungen von der Gesellschaft akzeptiert werden. Alle sollen 
+gleichermaßen die Möglichkeit haben, am Leben in der Gesellschaft teil -
+zunehmen. Niemand soll weder in der Schule, bei der Arbeit noch in der 
+Freizeit benachteiligt werden.
+Innenentwicklung/Nachverdichtung  Strategie, den zukünftigen Flä -
+chenbedarf durch die Nutzung von innerörtlichen, bereits erschlossenen 
+Flächen zu decken und auf die Ausweisung von Flächen im Außenbereich 
+weitgehend zu verzichten.
+Integration Bezeichnet den Prozess des Zusammenwachsens und der 
+Eingliederung in ein größeres Ganzes. Ein Beispiel ist die Eingliederung 
+zugezogener Menschen in die Gesellschaft.
+Interkommunale Zusammenarbeit  Verwaltungskooperation zur ge -
+meinsamen Erledigung kommunaler Aufgaben und zur Koordination des 
+Verwaltungshandelns über kommunale Grenzen hinaus. 
+Klimaanpassung  Initiativen und Maßnahmen, um die Verletzbarkeit 
+natürlicher und menschlicher Systeme gegenüber tatsächlichen oder 
+erwarteten Auswirkungen des Klimawandels zu verringern. 
+Klimaneutralität Zustand, bei dem menschliche Aktivitäten im Ergebnis 
+keine Nettoeffekte auf das Klima haben. 
+Klimaschutz  Auch Mitigation; bezeichnet alle Maßnahmen zur Begren -
+zung der globalen Erwärmung.
+Klimaziel  Ein Ziel der Klimapolitik; Reduktion der Emissionen im Ver -
+gleich zu einem Bezugspunkt und bis zu einem bestimmten Zeitpunkt.
+Kommunale Wärmeplanung Prozess zur Planung einer klimaneutralen 
+kommunalen Wärmeversorgung bis zum Jahr 2040.
+Kreislaufwirtschaft  Modell regenerativer Produktion und Verbrauchs, 
+bei dem bestehende Materialien und Produkte so lange wie möglich ver -
+wendet, repariert und aufgearbeitet oder recycelt und in Form ihrer 
+Ausgangsstoffe wiederverwertet werden.
+Kultur- und Kreativwirtschaft Dazu zählen Musikwirtschaft, Buchmarkt, 
+Kunstmarkt, Filmwirtschaft, Rundfunkwirtschaft, Markt für darstellende 
+Künste, Architekturmarkt, Designwirtschaft, Pressemarkt, Werbemarkt 
+und die Software-Games-Industrie.
+Lebenslanges Lernen  Auch lebensbegleitendes Lernen, persönliche 
+Bereitschaft, sich verändernden Bedingungen zu stellen. Befähigung 
+der Menschen sich ein Leben lang weiterzuentwickeln und so das per -
+sönliche und gesellschaftliche Umfeld aktiv mitzugestalten. 
+Schadstoffbelastung  Belastung eines Ökosystems durch physikalische 
+oder chemische Verschmutzung, die durch den Menschen oder auf na -
+türlichem Wege in ein Ökosystem gelangt.
+Sensibilisierung  Menschen dazu befähigen zum Beispiel Probleme, aber 
+auch Lösungsmöglichkeiten zu erkennen, um gesellschaftliche Akzeptanz 
+für notwendige Maßnahmen zu erreichen. 
+SDGs „Sustainable Development Goals“ der UN, auf Deutsch „Nachhaltig-
+keitsziele“ der Vereinten Nationen. Internationales und global anerkanntes 
+Zielgerüst für eine nachhaltige Entwicklung der Menschheit. 
+Sozialer Frieden Verhältnis großer gesellschaftlicher Gruppen aus un -
+terschiedlichen sozialen Lagen, Verständnis der Bürgerinnen und Bürger 
+gleichberechtigtes Mitglied der Gesellschaft zu sein. 
+Soziale Infrastruktur  Gesamtheit der Einrichtungen und Dienste zur 
+sozialen Versorgung. Sie reicht von Betreuungsangeboten und Bildungs -
+einrichtungen über Gesundheitsversorgung und die Beratungs- und 
+Angebotslandschaft bis hin zu Aufenthaltsmöglichkeiten wie Bänken im 
+öffentlichen Raum.
+Sozialer Zusammenhalt Zusammenhalt der Gesellschaft auf Basis eines 
+Grundkonsens, zeichnet sich aus durch belastbare soziale Beziehungen, 
+positive emotionale Verbundenheit und Gemeinwohlorientierung. 
+Soziodemografischer Wandel Die Zusammensetzung der Bevölkerung 
+in den nächsten Jahrzehnten wird sich verändern. Dazu tragen die Zu -
+wanderung und Abwanderung von Menschen, die Geburtenzahlen und 
+die Zahl der Todesfälle bei.
+Stadt der kurzen Wege  Konzept, die Wege zwischen Wohnort, Arbeits -
+ort, Bildungsort und Einrichtungen des täglichen Bedarfs (wie Nahver -
+sorgern oder Arztpraxen) möglichst kurz zu halten, um eine bequeme 
+Erreichbarkeit zu Fuß oder mit dem Rad zu ermöglichen. 
+Stigmatisierende Erkrankungen  Krankheiten, die mit Vorurteilen ver -
+bunden sind, wodurch Betroffene Gefahr laufen, diskriminiert zu werden. 
+Beispiele sind Depression, Sucht oder HIV.
+Suffizienz Reduktion des Verbrauchs von Ressourcen wie Energie und 
+Material durch einen reduzierten Konsum. 
+Synergie Positive Effekte durch geschicktes Zusammenwirken verschie -
+dener Akteure oder durch die Kombination unterschiedlicher Aktivitäten. 
+Teilhabe Einbezogen und selbstwirksam sein, zum Beispiel in sozialen, 
+beruflichen oder kulturellen Situationen. 
+Umweltverbund Öffentliche Verkehrsmittel (ÖPNV), nichtmotorisierter 
+Verkehr wie Rad- und Fußverkehr und Sharingangebote. 
+Urbane Produktion Herstellung und Verarbeitung von materiellen Gütern 
+in zentraler Lage in der Stadt
+Virtuelle Realität In Echtzeit computergenerierte (scheinbare) Wirklich -
+keit, wahrnehmbar durch Bild und Ton. 
+Vision Zero Keine Toten im Straßenverkehr, Ziel Unfälle, Verletzungen 
+und Erkrankungen zu verhindern. 
+Vulnerable Gruppe Personengruppen, die besonders zum Beispielvon 
+den Effekten des Klimawandels betroffen sind. Darunter fallen unter an -
+derem ältere Menschen, Kleinkinder und chronisch Erkrankte. 
+Zivilgesellschaft Engagement der Bürgerinnen und Bürger in ihrer Ge -
+samtheit, Teilbereich der Öffentlichkeit, strebt nicht nach politischer Macht 
+oder wirtschaftlichem Profit.
+Glossar  | 4948 | Glossar
+
+Impressum
+Stadt Heidelberg
+Marktplatz 10
+69117 Heidelberg
+Telefon 0 6221 58 ­ 1 0580
+Telefax 0 6221 58 ­ 1 0900
+stadt@heidelberg.de
+www.heidelberg.de
+Bearbeitung und Koordination 
+Amt für Stadtentwicklung und Statistik, 
+Kinder­  u nd Jugendamt,
+Amt für Soziales und Senioren,
+Amt für Umweltschutz, Gewerbeaufsicht und Energie
+Helen Dorn, Dominikus Fischer,  
+Freyja Hauke ­ E isenhauer, Franz Meißner,  
+Tobias Schäfer (Projektleitung), Christiane Schulze, 
+Sabine Wacker, Simon Wassenhoven
+In Zusammenarbeit mit 
+urbanista GmbH & Co. KG
+Björge Köhler, Doris Sibum, Patricia Da Costa
+KOKONSULT by Kristina Oldenburg
+Kristina Oldenburg, Katharina Lampe
+Gestaltung 
+Stadt Heidelberg, Markenkommunikation
+Fotos 
+Seite 6, 10, 12, 13 Bild rechte Seite oben, 14:  
+Julian Beekmann
+Seite 13 Bild rechte Seite Mitte links, Bild rechte Seite 
+Mitte rechts und Bild rechte Seite unten,  
+15 alle, 16, 17: Sabine Arndt
+Seite 47: Klaus Venus
+Copyright © 2022 Stadt Heidelberg.  
+Alle Rechte vorbehalten. 
+Abdruck (auch auszugsweise) 
+nur mit ausdrücklicher Genehmigung 
+der Stadt Heidelberg.
+Auflage
+Juni 2023, 1. Auflage
+QUELLENVERZEICHNIS
+1 https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/die-un-nachhaltigkeitsziele-  
+1553514
+2 https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/sonderveroeffentlichungen/2022/stadt- 
+vonuebermorgen.html
+3 https://www.heidelberg.de/hd/HD/Rathaus/Publikationen.html
+4 https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/DE/Initiative/Leipzig-Charta/Neue-Leipzig-
+Charta-2020/neue-leipzig-charta-2020_node.html
+5 https://sdg-portal.de/de/ueber-das-projekt/?gclid=CjwKCAjwl6OiBhA2EiwAuUwWZdbh4KU0hwJjuEmfLPF3
+o7U4w8i0VheTvysCMKpyDoVhSTmHsNIPSRoC9TkQAvD_BwE
+6 https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/sonderveroeffentlichungen/2022/stadt-von- 
+uebermorgen.html
+7 https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/sonderveroeffentlichungen/2022/stadt-von- 
+uebermorgen.html
+8 Quelle: Amt für Stadtentwicklung und Statistik. Statistisches Landesamt Baden-Württemberg. 2023.
+9 https://www.heidelberg.de/hd/HD/Rathaus/Umfragen_Befragungen.html
+10 https://www.heidelberg.de/hd/HD/Leben/10-punkte-programm+wohnen.html
+11 https://www.heidelberg.de/hd/HD/Leben/handlungsprogramm+wohnen.html
+12 https://www.lubw.baden-wuerttemberg.de/boden/flaecheninanspruchnahme
+13 Quelle: Amt für Stadtentwicklung und Statistik. 2023.
+14 https://iba.heidelberg.de/en/publications/essays/iba_logbuch-n1-matthiesen-ulf-heidelberg-und-seine-iba
+15 http://www.nachbarschaftsverband.de/fnp/fnp.html
+16 https://www.m-r-n.com/was-wir-tun/themen-und-projekte/projekte/einheitlicher-regionalplan
+50 | Quellenverzeichnis
+
+Amt für Stadtentwicklung 
+und Statistik
+Stadt Heidelberg
+Gaisbergstrasse 11
+69115 Heidelberg
+Telefon 06221 58­ 38310 
+Telefax 06221 58­ 38311 
+stadtentwicklung@heidelberg.de
+www.heidelberg.de

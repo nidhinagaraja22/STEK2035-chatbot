@@ -1,0 +1,79 @@
+SOURCE_URL: https://www.heidelberg.de/hd/-/Verfahrensbeschreibung/;vbid1038
+MATCHED_TOPICS: [0, 1, 2, 3, 4]
+MATCHED_KEYWORDS: ['altstadt', 'angebot', 'bahnstadt', 'bereich', 'entwicklung', 'gruppe', 'kind', 'ort', 'person', 'raum', 'sozial', 'verwaltung', 'wohnen', 'wohnraum', 'wohnung', 'ziel']
+
+Leistungen
+Wohnberechtigungsschein beantragen
+Einen Wohnberechtigungsschein benötigen Sie, um eine geförderte und gebundene Sozialmietwohnung beziehen zu können. Sie müssen ihn dem Vermieter oder der Vermieterin übergeben, wenn Sie in eine Sozialmietwohnung einziehen. Der Wohnberechtigungsschein gilt auch für Ihre Haushaltsangehörigen.
+Der Wohnberechtigungsschein bietet nur die Möglichkeit, einen Mietvertrag für eine Sozialmietwohnung abzuschließen. Einen Anspruch auf eine Sozialmietwohnung haben Sie damit nicht.
+Onlineantrag und Formulare
+Termine online vereinbaren - Bürgerdienste
+Wohnberechtigungsschein
+Antrag auf Erteilung eines Wohnberechtigungsscheins nach § 15 Landeswohnraumförderungsgesetz Baden-Württemberg
+Antrag auf Erteilung eines Wohnberechtigungsscheins - mit Einkommenserklärung (PDF-Formular)
+Einkommensnachweise (Bruttojahresverdienst), in Einzelfällen auch Schwerbehindertenausweis, Steuerbescheid, Mutterpass - bitte dem Antrag beifügen
+Zuständige Stelle
+die Gemeinde-/Stadtverwaltung des Ortes, in dem Sie sich gewöhnlich aufhalten.
+wenn Sie sich gewöhnlich nicht in Baden-Württemberg aufhalten: die Gemeinde, in der Sie wohnen wollen
+Bürgeramt Altstadt [Stadt Heidelberg]
+Bürgeramt Boxberg/Emmertsgrund [Stadt Heidelberg]
+Bürgeramt Handschuhsheim [Stadt Heidelberg]
+Bürgeramt Kirchheim [Stadt Heidelberg]
+Bürgeramt Mitte (Bahnstadt, Bergheim, Südstadt, Weststadt) [Stadt Heidelberg]
+Bürgeramt Neuenheim [Stadt Heidelberg]
+Bürgeramt Pfaffengrund [Stadt Heidelberg]
+Bürgeramt Rohrbach [Stadt Heidelberg]
+Bürgeramt Wieblingen [Stadt Heidelberg]
+Bürgeramt Ziegelhausen/Schlierbach [Stadt Heidelberg]
+Leistungsdetails
+Voraussetzungen
+Sie sind wohnungssuchend.
+Sie und Ihre Haushaltsangehörigen überschreiten die maßgebliche Einkommensgrenze nicht.
+Das Jahreseinkommen wird für jede zum Haushalt gehörende Person gesondert berechnet.
+Zum Jahreseinkommen gehören, egal ob diese Einkünfte zu versteuern oder steuerfrei sind:
+bei nicht selbständiger Arbeit der Bruttojahresverdienst abzüglich der steuerlich anerkannten Werbungskosten
+bei selbständiger Tätigkeit, auch in der Land- und Forstwirtschaft oder in einem Gewerbebetrieb, der steuerlich anerkannte Gewinn
+bei Vermietung und Verpachtung sowie Kapitalvermögen der Überschuss der Einnahmen über die steuerlich anerkannten Werbungskosten
+Bezüge aus Renten und Pensionen abzüglich der steuerlich anerkannten Werbungskosten
+steuerfreie Einkünfte zum Beispiel Arbeitslosengeld, Kurzarbeitergeld, Übergangsgeld, Insolvenzgeld, Eingliederungshilfe und Leistungen zur Sicherung des Lebensunterhalts des Sozialgesetzbuchs, Zweites Buch - Bürgergeld, Grundsicherung für Arbeitsuchende -
+Bei Alleinerziehenden ist das Jahreseinkommen um den steuerlichen Entlastungsbetrag zu mindern, wenn zu ihrem Haushalt mindestens ein Kind gehört, für das ihnen ein Freibetrag oder Kindergeld zusteht.
+Achtung: Im Fall gesetzlicher Unterhaltsverpflichtungen, sind Trennungs- oder Scheidungsunterhalt, sowie Kindesunterhalt:
+beim Unterhaltsempfänger als Einkommen jeweils in voller Höhe
+beim Unterhaltspflichtigen der Kindesunterhalt bis zu EUR 3000 jährlich je Kind und der Trennungs- oder Scheidungsunterhalt bis zu EUR 6000 jährlich
+zu berücksichtigen.
+Für das Gesamteinkommen des Haushalts werden die Jahreseinkommen der einzelnen Haushaltsangehörigen zusammengerechnet.
+Verfahrensablauf
+Den Wohnberechtigungsschein müssen Sie bei der zuständigen Gemeinde beantragen.
+Bitte
+v
+erwenden Sie das vorgeschriebene Formular. Dieses erhalten Sie bei der Gemeinde. Je nach deren Angebot können Sie es auch im Internet herunterladen oder den Antrag online stellen.
+Tipp: Am besten beantragen Sie den Wohnberechtigungsschein persönlich. So können Sie auch direkt klären, welche Unterlagen Sie in Ihrem Fall vorlegen müssen.
+Fristen
+Keine
+Erforderliche Unterlagen
+Je nach Einzelfall unterschiedlich, vor allem:
+Personalausweis
+Einkommensnachweise aller Personen, die in die Wohnung einziehen möchten, zum Beispiel
+Gehaltsabrechnung(en) einschließlich Nachweis über Sonderzuwendungen
+letzter Einkommensteuerbescheid oder letzte Einkommensteuererklärung
+bei Selbständigen: letzte Einnahmen-Überschussrechnung
+Kosten
+je nach kommunaler Verwaltungsgebührensatzung
+Hinweise
+Keine
+Vertiefende Informationen
+Einkommensgrenzen des Förderprogramms Wohnungsbau BW 2022
+Rechtsgrundlage
+Landeswohnraumförderungsgesetz (LWoFG)
+:
+§ 1
+Anwendungsbereich, Zweck und Zielgruppen
+§ 12 Einkommen
+§ 15 Überlassung von Mietwohnraum
+Einkommensteuergesetz (EStG)
+:
+§ 3 Nummer 2 Steuerfreie Einnahmen
+§ 24 b Entlastungsbetrag für Alleinerziehende
+§ 32 Absatz 6 Kinder, Freibeträge für Kinder
+Freigabevermerk
+10.04.2026 Ministerium für Landesentwicklung und Wohnen Baden-Württemberg

@@ -1,0 +1,21 @@
+SOURCE_URL: https://www.heidelberg.de/HD/Leben/Kinderfreundliche+Verkehrsplanung.html
+MATCHED_TOPICS: [0, 1, 2, 3, 4]
+MATCHED_KEYWORDS: ['angebot', 'gruppe', 'grün', 'kind', 'ort', 'planung', 'platz', 'schule', 'stadtteil', 'wichtig', 'ziel', 'öffentlich']
+
+Kinderfreundliche Verkehrsplanung
+Sicher unterwegs
+Sicher.
+Die Förderung der selbstständigen Mobilität von Kindern ist ein wichtiges Ziel der Stadt- und Verkehrsplanung. Um die Gefahren für kleine Kinder so gering wie möglich zu halten, hat die Stadt verbindliche Leitlinien für eine kinderfreundliche Verkehrsplanung entwickelt. Damit die Verkehrswege für Kinder sicher sind, investiert die Stadt in den Ausbau von Radwegen, verlängert die Grün-Phasen an Ampeln oder baut den Öffentlichen Nahverkehr aus. Im Rahmen eines Sicherheitsaudits werden alle Schul- und Kinderwege in der Stadt durch einen externen Experten überprüft.
+Mit Plan.
+Damit Kinder gemeinsam mit ihren Eltern den Schulweg oder den Weg zum Sportplatz oder zu Freunden üben können, hat die Stadt Heidelberg gemeinsam mit den Kinderbeauftragten
+Kinderwegepläne
+entwickelt. Bisher gibt es die Pläne in PDF-Format für folgende Stadtteil: Bergheim, Boxberg/Emmertsgrund, Handschuhsheim, Kirchheim, Neuenheim, Pfaffengrund, Südstadt, Weststadt und Wieblingen.
+Um das Angebot noch zu verbessern und auszuweiten, digitalisiert das Amt für Mobilität seit dem Start des neuen Schuljahres 2022/2023 in enger Kooperation mit den Kinderbeauftragten, Elternvertretungen und den Schulen die bisherigen Kinderwegepläne. Dabei werden diese zugleich überarbeitet, indem die Erkenntnisse aus dem Sicherheitsaudit einfließen. Zusätzlich werden parallel Kinderwegepläne für die restlichen Stadtteile erstellt.
+Neu ist, dass die Pläne künftig kontinuierlich fortgeschrieben werden und auch tagesaktuelle Ereignisse wie beispielsweise Baustellen eingepflegt werden können.
+Die Überarbeitung startet bei den Hauptwegen. Für die kleineren Straßen und Nebenwege setzt die Stadt auf die wertvolle Mithilfe der Fachleute vor Ort: Denn in den Stadtteilen sind es die Eltern, Kinderbeauftragte und Beschäftigte von Schulen und Kitas, die die besten Tipps geben können.
+Im Anschluss an gemeinsame Workshops werden die digitalisierten Kinderwegepläne mit einem Feedback-Button versehen, über den in Anlehnung an einen in den Workshops gemeinsam erarbeiteten Leitfaden Anregungen gemeldet werden können.
+Unterwegs.
+Ein weiteres Projekt, um Grundschulkindern den Schulweg vertrauter zu machen, ist der
+laufende Schulbus
+. Dabei gehen die Kinder in Gruppen zu Fuß in die Schule und werden von Erwachsenen, dem "Busfahrer" oder der "Busfahrerin" begleitet. Der "Laufende Schulbus" läuft genau wie ein Linienbus zu bestimmten Zeiten feste Haltestellen auf dem Weg zur Schule an. Hier können andere Schülerinnen und Schüler "ein- und aussteigen". Der "Laufende Schulbus" wurde bereits erfolgreich in anderen Städten erprobt.
+Zum Seitenanfang
