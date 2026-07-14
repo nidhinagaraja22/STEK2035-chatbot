@@ -1,3 +1,10 @@
+# 1. Ignore the entire pdfs folder
+pdfs/
+
+# 2. Prevent git from ignoring this one specific python file inside that folder
+!pdfs/stek_explore.py
+!pdfs/stek_output
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
