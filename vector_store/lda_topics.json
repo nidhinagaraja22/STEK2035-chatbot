@@ -1,0 +1,154 @@
+[
+  {
+    "id": 0,
+    "label": "Bildung, Wohnen & Alltag",
+    "top_words": [
+      "the",
+      "and",
+      "for",
+      "with",
+      "umsetzung",
+      "the_city",
+      "veränderung",
+      "klimaschutz",
+      "new",
+      "grundlage",
+      "urban",
+      "and_the"
+    ],
+    "chunk_count": 78
+  },
+  {
+    "id": 1,
+    "label": "Flaechennutzung & fachliche Grundlagen",
+    "top_words": [
+      "ziel",
+      "stadtentwicklung",
+      "international",
+      "wichtig",
+      "gemeinderat",
+      "fachliche_vertiefung",
+      "seitenanfang",
+      "märz",
+      "mai",
+      "bereich",
+      "zusammenarbeit",
+      "veranstaltung"
+    ],
+    "chunk_count": 206
+  },
+  {
+    "id": 2,
+    "label": "Stadtgesellschaft & Wirtschaft",
+    "top_words": [
+      "mobilität",
+      "weg",
+      "nutzung",
+      "stadtentwicklungskonzept",
+      "ausbau",
+      "ziel",
+      "hoch",
+      "unternehmen",
+      "nachhaltig",
+      "verkehr",
+      "verkehrsplanung",
+      "fläche"
+    ],
+    "chunk_count": 73
+  },
+  {
+    "id": 3,
+    "label": "Ziele, Ressourcen & Region",
+    "top_words": [
+      "mensch",
+      "angebot",
+      "stadtteil",
+      "information",
+      "projekt",
+      "bürgerin_bürger",
+      "teilnehmend",
+      "zukunft",
+      "gruppe",
+      "ort",
+      "sozial",
+      "bürgerbeteiligung"
+    ],
+    "chunk_count": 185
+  },
+  {
+    "id": 4,
+    "label": "Stadtentwicklung & Klima",
+    "top_words": [
+      "person",
+      "wohnraum",
+      "wohnung",
+      "wohnen",
+      "mensch",
+      "familie",
+      "hoch",
+      "fläche",
+      "haushalt",
+      "räumlich",
+      "alt",
+      "rahmen"
+    ],
+    "chunk_count": 139
+  },
+  {
+    "id": 5,
+    "label": "Gruenflaechen & Natur",
+    "top_words": [
+      "stadtteil",
+      "straße",
+      "kind",
+      "auto",
+      "öpnv",
+      "erstellt",
+      "mensch",
+      "platz",
+      "ort",
+      "innenstadt",
+      "schule",
+      "fahrrad"
+    ],
+    "chunk_count": 331
+  },
+  {
+    "id": 6,
+    "label": "Kultur, Vielfalt & Quartier",
+    "top_words": [
+      "fläche",
+      "wald",
+      "city",
+      "neckar",
+      "natur",
+      "grünfläch",
+      "baum",
+      "grün",
+      "landwirtschaft",
+      "landschaft",
+      "bahnstadt",
+      "schutz"
+    ],
+    "chunk_count": 217
+  },
+  {
+    "id": 7,
+    "label": "Bevoelkerung & Wohnraum-Statistik",
+    "top_words": [
+      "entwicklung",
+      "prozent",
+      "region",
+      "anteil",
+      "ziel",
+      "regional",
+      "mro",
+      "wirtschaft",
+      "februar",
+      "ergebnis",
+      "quelle",
+      "kommunal"
+    ],
+    "chunk_count": 78
+  }
+]

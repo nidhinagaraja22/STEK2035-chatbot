@@ -1,194 +1,187 @@
-# STEK 2035 — NLP Topic Modelling Pipeline
+# STEK 2035 — Heidelberg Chatbot & Topic Modelling
 
-Computational analysis of the **Stadtentwicklungskonzept Heidelberg 2035** document corpus.
-The pipeline extracts, cleans, and chunks the source PDFs, then runs **LDA** and **LSA** topic models in parallel, evaluates them with c_v coherence, and writes a quantitative comparison report.
+A German-language RAG chatbot over the **Stadtentwicklungskonzept Heidelberg
+2035** (STEK 2035) document corpus, plus the NLP pipeline that analyzes the
+same corpus with LDA/LSA topic modelling. This repo is the data + backend
+half of the project; the chat UI lives in a separate Next.js repo
+(`stek-chatbot`).
+
+---
+
+## Architecture
+
+Three tiers, plus an offline data/modelling pipeline that feeds them:
+
+```
+Browser (Next.js UI, separate repo "stek-chatbot")
+       │  POST /api/chat   { message, topic? }
+       ▼
+Next.js API route (app/api/chat/route.ts)
+       │  proxies to
+       ▼
+FastAPI RAG backend — backend/rag_server.py  (localhost:8000)
+       │
+       ├─ GET  /health   sanity check
+       ├─ GET  /topics   list the 8 LDA topics (id, label, top words)
+       └─ POST /chat
+             ├─ 1. Embed the question (intfloat/multilingual-e5-base)
+             ├─ 2. If `topic` given, restrict candidates to that topic's chunks
+             ├─ 3. Cosine-similarity search over vector_store/embeddings.npy
+             ├─ 4. Build a German prompt from the top-k chunks
+             └─ 5. POST to Ollama (local LLM) → answer + source chunks
+                        │
+                        ▼
+                 Ollama (localhost:11434) — e.g. qwen2.5:1.5b
+```
+
+The backend is stateless per request — everything it needs (chunks,
+embeddings, topic assignments) is loaded once at startup from
+`vector_store/`.
+
+---
+
+## Whole flow
+
+### A. Offline: turning PDFs into a servable, topic-tagged corpus
+
+```
+pdfs/*.pdf  (12 source documents)
+     │  stek_explore.py  (PyMuPDF extraction)
+     ▼
+stek_output/texts/*.txt
+     │
+     ├─────────────────────────────┐
+     ▼                              ▼
+stek_pipeline_v2.py            merge_and_embedding/*.ipynb
+(research pipeline:            (serving pipeline: sentence-aware
+ LDA + LSA sweep, k=5..20,     chunking + intfloat/multilingual-e5-base
+ config.yaml)                   embeddings)
+     │                              │
+     ▼                              ▼
+stek_output/texts/stek_results/   vector_store/
+ - coherence_sweep.csv              chunks.jsonl      ← live RAG corpus (1307 chunks)
+ - lda_topics_k8.txt (best, c_v=0.46)  embeddings.npy  ← their 768-dim vectors
+ - lsa_topics_k5.txt                 meta.json         ← embedding model name/dim
+ - comparison_report.txt
+```
+
+Each chunk in `chunks.jsonl` already carries a `"topics"` / `"relevance_score"`
+field from `input_topic_tagging_extraction.ipynb` — a **keyword heuristic**
+(does the chunk contain any top word from the k=5 LDA topic list?), not real
+model inference. `rag_server.py` does not use it.
+
+### B. Assigning real LDA topics to the live corpus
+
+```
+vector_store/chunks.jsonl (1307 chunks)
+     │  assign_lda_topics.py
+     │  spaCy (de_core_news_sm) lemmatize + POS-filter + bigrams
+     │  → Gensim LdaModel(num_topics=8), same hyperparams as config.yaml
+     ▼
+chunks.jsonl            + "lda_topic": <0-7>   (real posterior inference,
+                                                 one dominant topic per chunk)
+vector_store/lda_topics.json    topic id → label, top words, chunk count
+vector_store/lda_model/         persisted model + dictionary + phraser
+```
+
+Run this once (or whenever the chunk corpus changes) — `rag_server.py` just
+reads its output, it never runs spaCy/Gensim itself at serve time.
+
+### C. Runtime: answering a question
+
+1. User types a question in the browser, optionally picks a topic.
+2. `Browser → Next.js /api/chat → FastAPI /chat`.
+3. `rag_server.py` embeds the question with the `"query: "` prefix (chunks
+   were embedded with `"passage: "` — required by `multilingual-e5-base`).
+4. If a `topic` was given, retrieval is restricted to that topic's chunk
+   indices before ranking; otherwise all 1307 chunks are candidates.
+5. Top-k chunks (cosine similarity, dot product — embeddings are
+   pre-normalized) go into a German prompt template.
+6. The prompt is sent to Ollama's `/api/generate`; the answer is returned
+   together with the source chunks (origin file, chunk id, score).
 
 ---
 
 ## Repository structure
 
 ```
-stek-2035/
-├── stek_pipeline.py          # v1 — baseline pipeline
-├── stek_pipeline_v2.py       # v2 — adds inline_patterns + lemma_corrections
-├── config.yaml               # all runtime parameters (paths, model settings)
+STEK2035-chatbot/
+├── pdfs/                        12 source PDFs only (gitignored, kept locally)
+├── stek_explore.py              PDF → text extraction
 ├── stek_output/
-│   └── texts/                # input: extracted .txt files (one per PDF)
-└── stek_results/             # output: all generated files (auto-created)
-    ├── chunks_stats.json
-    ├── coherence_sweep.csv
-    ├── lda_topics_k{K}.txt
-    ├── lsa_topics_k{K}.txt
-    ├── doc_topic_examples.txt
-    └── comparison_report.txt
+│   ├── exploration_report.txt
+│   └── texts/                   extracted *.txt (input to both pipelines below)
+│       ├── config.yaml, config_v2.yaml
+│       ├── stek_pipeline.py, stek_pipeline_v2.py    (LDA/LSA research pipeline)
+│       ├── bert_topic_stek.py
+│       └── stek_results/        coherence sweep, topic tables, comparison report
+├── merge_and_embedding/         notebooks that built vector_store/ (serving pipeline)
+├── input_topic_tagging_extraction.ipynb   builds the keyword-heuristic "topics" field
+├── input_data_topics/           manifest + text used by the notebook above
+├── Input text files/            extracted text (duplicate of stek_output/texts, kept for the keyword-tagging notebook)
+├── Output_Clusters/              topic clusters from citizen-participation comments
+│                                  — a different dataset from the 12 STEK PDFs
+├── scraped_data_topics/         scraped heidelberg.de pages, folded into chunks.jsonl
+├── assign_lda_topics.py         trains the real LDA model used for topic filtering (see B above)
+├── vector_store/
+│   ├── chunks.jsonl             live RAG corpus — origin, text, embeddings index, lda_topic
+│   ├── chunks_v2.jsonl          experimental re-chunking, never embedded — not used
+│   ├── embeddings.npy           (1307, 768) float32, L2-normalized
+│   ├── meta.json                embedding model name/dim/count
+│   ├── lda_topics.json          topic id → label/top_words/chunk_count
+│   └── lda_model/                persisted Gensim LDA model + dictionary + phraser
+└── backend/
+    ├── rag_server.py            FastAPI app — the only thing that runs at request time
+    ├── requirements.txt
+    └── SETUP_GUIDE.md           step-by-step local setup (Ollama + backend + frontend)
 ```
 
 ---
 
-## Pipeline overview
+## API reference (`backend/rag_server.py`)
 
-```
-config.yaml + *.txt files
-        │
-        ▼
-  clean_raw()          ← remove footers, fix hyphens, normalize whitespace
-        │
-        ▼
-  chunk_document()     ← split each doc into ~N-word pseudo-documents
-        │
-        ▼
-  preprocess_chunks()  ← spaCy lemmatize, POS filter, stopwords, bigrams
-        │
-        ▼
-  Dictionary + corpus_bow   ← Gensim vocab, filter extremes
-        │
-       / \
-      /   \
-run_lda() run_lsa()    ← both models run for each k in topic_counts
-      \   /
-       \ /
-        │
-  coherence sweep      ← c_v coherence, diversity, Jaccard per k
-        │
-        ▼
-  refit best k models
-        │
-        ▼
-  output files         ← topic tables, comparison report, examples
-```
+| Endpoint | Method | Body / params | Returns |
+|---|---|---|---|
+| `/health` | GET | — | `{status, chunks_loaded, ollama_model}` |
+| `/topics` | GET | — | `[{id, label, top_words, chunk_count}, ...]` (8 topics) |
+| `/chat` | POST | `{message: str, top_k?: int, topic?: int}` | `{reply: str, sources: [{origin, chunk_id, text, score}]}` |
+
+`topic` is the LDA topic id from `/topics`; omit it to search the whole
+corpus.
 
 ---
 
-## Installation
+## Setup & running
+
+See **[backend/SETUP_GUIDE.md](backend/SETUP_GUIDE.md)** for the full
+step-by-step (Ollama, Python env, Next.js). Short version:
 
 ```bash
-pip install pymupdf gensim scikit-learn spacy pyyaml pandas numpy
-python -m spacy download de_core_news_lg
+# 1. Ollama (separate install): ollama pull qwen2.5:1.5b
+
+# 2. Python backend — run from the repo ROOT, not backend/, since
+#    rag_server.py uses paths relative to vector_store/
+python -m venv venv && venv\Scripts\activate
+pip install -r backend/requirements.txt
+uvicorn backend.rag_server:app --port 8000
+
+# 3. (One-time / when the corpus changes) regenerate LDA topic assignments
+pip install gensim spacy pyyaml pandas
+python -m spacy download de_core_news_sm
+python assign_lda_topics.py
+
+# 4. Frontend (separate repo)
+cd ../stek-chatbot && npm run dev
 ```
 
-> Python 3.10+ required (uses `list[str] | None` type hints).
+Open **http://localhost:3000**.
 
 ---
 
-## Usage
+## Topic modelling pipeline reference (`stek_output/texts/`)
 
-```bash
-# run with default config
-python stek_pipeline_v2.py --config config.yaml
-
-# run v1 (no inline_patterns / lemma_corrections)
-python stek_pipeline.py --config config.yaml
-```
-
-The script reads all `*.txt` files from `paths.text_dir`, processes them, and writes all results to `paths.results_dir`.
-
----
-
-## config.yaml reference
-
-```yaml
-paths:
-  text_dir: stek_output/texts      # folder containing extracted .txt files
-  results_dir: stek_results        # output folder (created automatically)
-
-cleaning:
-  footer_patterns:                 # regex patterns matched against whole lines
-    - '^\s*\d+\s*$'               # standalone page numbers
-    - 'Stadtentwicklungskonzept'   # running header example
-  inline_patterns:                 # (v2 only) regex removed anywhere in text
-    - '\bSTEK\s*2035\b'
-
-chunking:
-  target_tokens: 300               # words per chunk
-  min_tokens: 50                   # chunks shorter than this are dropped
-
-preprocessing:
-  spacy_model: de_core_news_lg
-  keep_pos: [NOUN, VERB, ADJ]      # only these POS tags survive
-  min_token_len: 3
-  custom_stopwords: [stadt, heidelberg, jahr]
-  lemma_corrections:               # (v2 only) fix spaCy lemma errors
-    wohnungen: wohnung
-  bigrams:
-    enabled: true
-    min_count: 5
-    threshold: 10.0
-
-dictionary:
-  no_below: 3                      # drop words appearing in fewer than N chunks
-  no_above: 0.8                    # drop words appearing in more than 80% chunks
-
-models:
-  topic_counts: [5, 7, 10, 12, 15] # k values to sweep
-  random_seed: 42
-  seeds_stability: [1, 7, 21]      # (v2 only) seeds for LDA stability check
-  lda:
-    passes: 10
-    iterations: 400
-    alpha: auto
-    eta: auto
-    chunksize: 100
-  lsa:
-    use_tfidf: true                # false = raw counts
-
-evaluation:
-  coherence_metric: c_v
-  top_n_words: 10
-```
-
----
-
-## Function reference
-
-### `clean_raw(text, footer_patterns, inline_patterns=None)`
-Structural cleaning **before** any NLP. Three steps in order:
-1. Splits text into lines, drops any line matching a `footer_patterns` regex (page numbers, running headers).
-2. *(v2 only)* Applies `inline_patterns` as `re.sub` anywhere in the text — catches footers that PDF extraction merged into body paragraphs.
-3. Rejoins words hyphenated across line breaks (`"gemes-\nsen"` → `"gemessen"`), then collapses all whitespace to single spaces.
-
-### `chunk_document(text, target_tokens)`
-Splits a cleaned document into fixed-size word windows of `target_tokens` words each. Needed because one STEK document accounts for ~46% of the total corpus — without chunking the topic model would be dominated by it. Each chunk becomes one pseudo-document for LDA/LSA.
-
-### `preprocess_chunks(chunks, cfg)`
-Full NLP preprocessing using spaCy's German model:
-- loads `de_core_news_lg` with parser and NER disabled (speed)
-- keeps only tokens whose POS tag is in `keep_pos`
-- removes spaCy built-in stopwords and `custom_stopwords`
-- lowercases and lemmatizes each token (`t.lemma_`)
-- *(v2 only)* applies `lemma_corrections` dict to fix known spaCy errors
-- optionally detects bigrams with Gensim `Phrases` (e.g. `bezahlbarer_wohnraum`)
-
-### `run_lda(docs, dictionary, corpus_bow, k, cfg)`
-Wraps Gensim `LdaModel`. Probabilistic model — each topic is a distribution over words, each chunk is a mixture of topics. Parameters (`passes`, `iterations`, `alpha`, `eta`) come from config.
-
-### `run_lsa(texts_joined, k, cfg, top_n)`
-Implements LSA as `TfidfVectorizer` + `TruncatedSVD`. Algebraic approach — topics are principal components (directions of maximum variance in the TF-IDF matrix). Applies sign correction so each component points toward its dominant positive direction. Returns topics, the fitted SVD object, doc-topic matrix, and the TF-IDF matrix.
-
-### `coherence(topics, docs, dictionary, metric)`
-Wraps Gensim `CoherenceModel`. Measures how often the top words of each topic co-occur in the corpus. Higher c_v = more coherent, interpretable topics.
-
-### `topic_diversity(topics)`
-Fraction of unique words across all topics' top-N words. Value of 1.0 means no word appears in more than one topic. Higher is better.
-
-### `mean_pairwise_jaccard(topics)`
-Mean Jaccard overlap between every pair of topics. Lower is better — topics with low Jaccard are well-separated from each other.
-
----
-
-## Output files
-
-| File | Description |
-|---|---|
-| `chunks_stats.json` | Number of chunks, chunks per document, dictionary size, mean tokens per chunk |
-| `coherence_sweep.csv` | c_v coherence, diversity, Jaccard for every k for both LDA and LSA |
-| `lda_topics_k{K}.txt` | Top 15 words per topic at best LDA k |
-| `lsa_topics_k{K}.txt` | Top 15 words per topic at best LSA k, with explained variance ratio |
-| `doc_topic_examples.txt` | 10 random chunks with their dominant LDA topic and probability (sanity check) |
-| `comparison_report.txt` | Full quantitative LDA vs LSA summary — the main deliverable |
-
----
-
-## v1 vs v2 differences
+The research pipeline that found k=8 as the best-coherence LDA topic count
+(used to configure `assign_lda_topics.py` above). Two versions:
 
 | Feature | v1 `stek_pipeline.py` | v2 `stek_pipeline_v2.py` |
 |---|---|---|
@@ -196,7 +189,29 @@ Mean Jaccard overlap between every pair of topics. Lower is better — topics wi
 | Lemma fixes | None | `lemma_corrections` dict in config |
 | LDA stability | Not implemented | Multi-seed Jaccard stability check |
 
-Use **v2** for all new runs. v1 is kept for reproducibility of earlier results.
+Use v2 for new runs; v1 is kept for reproducibility of earlier results.
+
+```bash
+pip install pymupdf gensim scikit-learn spacy pyyaml pandas
+python -m spacy download de_core_news_lg
+cd stek_output/texts
+python stek_pipeline_v2.py --config config.yaml
+```
+
+**Pipeline stages:** `clean_raw()` (strip footers/headers, fix hyphenation)
+→ `chunk_document()` (~150-token pseudo-documents) → `preprocess_chunks()`
+(spaCy lemmatize, POS-filter to NOUN/PROPN/ADJ, stopwords, bigrams) →
+Gensim `Dictionary` → `run_lda()` / `run_lsa()` swept over
+`k = [5, 6, 8, 10, 12, 15, 18, 20]` → c_v coherence, topic diversity,
+Jaccard overlap → best-k topic tables + `comparison_report.txt`.
+
+**Interpreting results:** c_v above 0.5 is coherent (0.4–0.55 typical for
+small German corpora); topic diversity above 0.7 is good; Jaccard overlap
+below 0.1 means topics are well-separated. LDA (best c_v = 0.4585 at k=8)
+outperformed LSA on interpretability for this corpus; LSA had higher raw
+coherence (0.635 at k=5) but topics are harder to label — see
+`stek_output/texts/stek_results/comparison_report.txt` for the full
+quantitative comparison.
 
 ---
 
@@ -204,24 +219,13 @@ Use **v2** for all new runs. v1 is kept for reproducibility of earlier results.
 
 | Library | Role |
 |---|---|
-| `spacy` + `de_core_news_lg` | German lemmatization and POS tagging |
+| `fastapi` + `uvicorn` | RAG backend server |
+| `sentence-transformers` | Query/chunk embeddings (`multilingual-e5-base`) |
+| `spacy` + `de_core_news_sm`/`_lg` | German lemmatization and POS tagging |
 | `gensim` | LDA model, bigram detection, coherence scoring |
 | `scikit-learn` | TF-IDF vectorizer, TruncatedSVD (LSA) |
-| `numpy` / `pandas` | Numerical ops, results tabulation |
-| `pyyaml` | Config loading |
-| `pathlib` | Cross-platform file handling |
-
----
-
-## Interpreting results
-
-**Coherence (c_v):** Values above 0.5 indicate coherent topics. For small German-language corpora, 0.4–0.55 is typical.
-
-**Topic diversity:** Above 0.7 is good. Below 0.5 suggests topics are overlapping and k may be too high.
-
-**Jaccard overlap:** Below 0.1 means topics are well-separated. Above 0.2 suggests redundant topics.
-
-**LDA vs LSA:** LDA tends to produce more interpretable topics on short text. LSA captures more global variance but topics can be harder to label. The `comparison_report.txt` gives the quantitative verdict.
+| Next.js (separate repo) | Chat UI |
+| Ollama | Local LLM inference |
 
 ---
 

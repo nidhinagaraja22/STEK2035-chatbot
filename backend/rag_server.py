@@ -30,6 +30,7 @@ VECTOR_STORE_DIR = Path("vector_store")
 CHUNKS_PATH = VECTOR_STORE_DIR / "chunks.jsonl"
 EMB_PATH = VECTOR_STORE_DIR / "embeddings.npy"
 META_PATH = VECTOR_STORE_DIR / "meta.json"
+LDA_TOPICS_PATH = VECTOR_STORE_DIR / "lda_topics.json"
 
 TOP_K = 5
 OLLAMA_URL = "http://localhost:11434/api/generate"
@@ -46,6 +47,13 @@ chunks = [json.loads(line) for line in CHUNKS_PATH.read_text(encoding="utf-8").s
 embeddings = np.load(EMB_PATH)  # shape (N, 768), L2-normalized
 
 print(f"Loaded {len(chunks)} chunks, embeddings shape {embeddings.shape}")
+
+# LDA topics (see assign_lda_topics.py) — each chunk carries a "lda_topic" id.
+lda_topics = json.loads(LDA_TOPICS_PATH.read_text(encoding="utf-8"))
+topic_chunk_indices: dict[int, list[int]] = {t["id"]: [] for t in lda_topics}
+for i, c in enumerate(chunks):
+    topic_chunk_indices.setdefault(c.get("lda_topic", -1), []).append(i)
+print(f"Loaded {len(lda_topics)} LDA topics")
 
 print(f"Loading embedding model: {EMB_MODEL_NAME} (first run downloads ~1GB)...")
 embed_model = SentenceTransformer(EMB_MODEL_NAME)
@@ -67,6 +75,14 @@ app.add_middleware(
 class ChatRequest(BaseModel):
     message: str
     top_k: int | None = None
+    topic: int | None = None  # restrict retrieval to this LDA topic id, if set
+
+
+class Topic(BaseModel):
+    id: int
+    label: str
+    top_words: list[str]
+    chunk_count: int
 
 
 class Source(BaseModel):
@@ -81,20 +97,26 @@ class ChatResponse(BaseModel):
     sources: list[Source]
 
 
-def retrieve(query: str, k: int) -> list[dict]:
-    """Embed the query and return the top-k most similar chunks."""
+def retrieve(query: str, k: int, topic: int | None = None) -> list[dict]:
+    """Embed the query and return the top-k most similar chunks.
+
+    If `topic` is given, only chunks whose dominant LDA topic matches are
+    considered.
+    """
     query_vec = embed_model.encode(f"query: {query}", normalize_embeddings=True).astype("float32")
+    candidate_idx = np.array(topic_chunk_indices.get(topic, [])) if topic is not None else np.arange(len(chunks))
     # embeddings are L2-normalized -> cosine similarity is a plain dot product
-    scores = embeddings @ query_vec
-    top_idx = np.argsort(-scores)[:k]
+    scores = embeddings[candidate_idx] @ query_vec
+    ranked = np.argsort(-scores)[:k]
     results = []
-    for i in top_idx:
+    for r in ranked:
+        i = int(candidate_idx[r])
         c = chunks[i]
         results.append({
             "origin": c.get("origin", "unknown"),
             "chunk_id": c.get("chunk_id", -1),
             "text": c.get("text", ""),
-            "score": float(scores[i]),
+            "score": float(scores[r]),
         })
     return results
 
@@ -136,10 +158,15 @@ def health():
     return {"status": "ok", "chunks_loaded": len(chunks), "ollama_model": OLLAMA_MODEL}
 
 
+@app.get("/topics", response_model=list[Topic])
+def topics():
+    return lda_topics
+
+
 @app.post("/chat", response_model=ChatResponse)
 def chat(req: ChatRequest):
     k = req.top_k or TOP_K
-    contexts = retrieve(req.message, k)
+    contexts = retrieve(req.message, k, topic=req.topic)
     prompt = build_prompt(req.message, contexts)
     reply = ask_ollama(prompt)
     return ChatResponse(
