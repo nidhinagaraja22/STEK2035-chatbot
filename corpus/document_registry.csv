@@ -1,0 +1,14 @@
+document_id,document_title,filename,source_url,publication_date,doc_type,authority_level,is_participation,notes
+stek_a3_strategy,STEK Stadtentwicklungskonzept 2035 (A3),STEK_Stadtentwicklungskonzept 2035_A3.txt,,2024,official_strategy,1,FALSE,The core approved STEK 2035 strategy document
+mro_konzeptbericht,MRO 2035+ Konzeptbericht Broschüre,MRO 2035+_Konzeptbericht_Broschüre.txt,,2025-05,planning_concept,2,FALSE,Modell Räumliche Ordnung - official planning framework
+mro_konzeptkarten,MRO 2035+ Konzeptkarten,MRO 2035+_Konzeptkarten.txt,,2025-05,planning_material,3,FALSE,Concept maps / background planning material
+nachhaltigkeitsbericht_2025,STEK Nachhaltigkeitsbericht 2025,12_pdf_STEK_Nachhaltigkeitsbericht_2025.txt,,2025,official_report,2,FALSE,Official city sustainability report
+stadtentwicklungsplan_2015,Stadtentwicklungsplan 2015,2015_Stadtentwicklungsplan.txt,,2015,official_report,2,FALSE,Predecessor city development plan (older, background)
+zukunftsreise_2035,STEK 2035 Zukunftsreise 2035,20230728_STEK 2035_Zukunftsreise 2035.txt,,2023-07-28,background,3,FALSE,Vision / scenario background material
+online_beteiligung_2024,STEK 2035 Dokumentation Online-Beteiligung und aufsuchende Formate 2024,12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024.txt,,2024,participation_summary,4,TRUE,Contains verbatim CITIZEN OPINIONS - largest doc (433 chunks)
+zukunft_gestalten_2024,STEK 2035 Dokumentation Zukunft gestalten,12_pdf_STEK 2035_Dokumentation_Zukunft gestalten_25_06_24.txt,,2024-06-25,participation_summary,4,TRUE,Workshop / participation documentation
+wege_zu_den_zielen_2024,STEK 2035 Dokumentation Wege zu den Zielen,STEK 2035_Dokumentation_Wege zu den Zielen_11_12_24.txt,,2024-12-11,participation_summary,4,TRUE,Workshop / participation documentation
+arbeitstreffen_2024,STEK 2035 Arbeitstreffen 17_06_24 Dokumentation,STEK 2035_Arbeitstreffen_17_06_24_Dokumentation.txt,,2024-06-17,participation_summary,4,TRUE,Working meeting documentation
+ak_sitzung_1_2023,AK STEK 2035 Dokumentation 1 Sitzung 09_11_23,AK STEK 2035_Dokumentation 1_Sitzung_09_11_23_kein.txt,,2023-11-09,participation_summary,4,TRUE,Arbeitskreis (working group) meeting minutes
+ak_sitzung_2_2024,AK STEK 2035 Dokumentation 2 Sitzung 25_01_24,AK STEK 2035_Dokumentation 2_Sitzung_25_01_24.txt,,2024-01-25,participation_summary,4,TRUE,Arbeitskreis (working group) meeting minutes
+website_official,Heidelberg.de official city web pages,,https://www.heidelberg.de/,,official_webpage,2,FALSE,RULE: all website_html/website_pdf chunks whose origin is a heidelberg.de URL - assign by this row

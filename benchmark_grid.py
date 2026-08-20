@@ -35,7 +35,7 @@ import requests
 from sentence_transformers import SentenceTransformer
 
 # ---------------------------------------------------------------------------
-CHUNKS_PATH = Path("vector_store/chunks.jsonl")
+CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks.jsonl")   # Corpus 2 (deduped + metadata + authority)
 OLLAMA_URL = "http://localhost:11434/api/generate"
 TOP_K = 5
 OLLAMA_TIMEOUT = 600  # seconds per generation - generous margin in case this instance
