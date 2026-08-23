@@ -1,5 +1,5 @@
 # Corpus 2 - changelog
-Built: 2026-08-20
+Built: 2026-08-24
 
 ## Provenance
 - Corpus 1 (original): vector_store/chunks.jsonl - LEFT UNTOUCHED
@@ -16,7 +16,7 @@ Built: 2026-08-20
 
 ## Authority-level distribution (chunks)
 - Level 1: 116 chunks
-- Level 2: 553 chunks
-- Level 3: 25 chunks
+- Level 2: 481 chunks
+- Level 3: 97 chunks
 - Level 4: 572 chunks
 - Citizen-opinion chunks (is_citizen_opinion=TRUE): 572

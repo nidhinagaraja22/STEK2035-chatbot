@@ -38,6 +38,16 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 NEAR_DUP_THRESHOLD = 0.97   # cosine >= this = near-duplicate (chunks are non-overlapping)
 
+# Single source of truth: authority_label is derived from authority_level, so the
+# number (for reranking) and the label (for prompts/citations) can never disagree.
+AUTHORITY_LABELS = {
+    1: "Official STEK strategy (approved policy)",
+    2: "Official city report / administrative document",
+    3: "Planning / background material",
+    4: "Citizen participation summary",
+    5: "Individual citizen opinion",
+}
+
 
 # --------------------------------------------------------------------------- #
 # 1. Load the document registry
@@ -46,9 +56,16 @@ def _norm_name(s: str) -> str:
     return unicodedata.normalize("NFC", s.strip())
 
 rows = list(csv.DictReader(REGISTRY.open(encoding="utf-8-sig")))
-docs_by_filename = {_norm_name(r["filename"]): r for r in rows if r["filename"].strip()}
-website_rule = next((r for r in rows if r["document_id"] == "website_official"), None)
-print(f"Registry: {len(docs_by_filename)} documents + website rule={'yes' if website_rule else 'no'}")
+# the 12 core documents, matched by exact filename
+doc_rows = [r for r in rows if r["filename"].strip()
+            and not r["document_id"].startswith("web_pdf_")
+            and r["document_id"] != "website_html"]
+docs_by_filename = {_norm_name(r["filename"]): r for r in doc_rows}
+# explicit website-PDF rows, matched by a distinctive filename substring in the URL
+website_pdf_rows = [r for r in rows if r["document_id"].startswith("web_pdf_")]
+website_html_rule = next((r for r in rows if r["document_id"] == "website_html"), None)
+print(f"Registry: {len(docs_by_filename)} documents + {len(website_pdf_rows)} website PDFs + "
+      f"html rule={'yes' if website_html_rule else 'no'}")
 
 
 def registry_for(chunk):
@@ -57,8 +74,14 @@ def registry_for(chunk):
     if src == "document":
         row = docs_by_filename.get(_norm_name(origin))
         return (row, row["source_url"] if row else None)
-    if website_rule is not None:            # website_html / website_pdf
-        return (website_rule, origin)       # keep the real URL as source_url
+    if src == "website_pdf":
+        for r in website_pdf_rows:
+            if r["filename"] and r["filename"] in origin:
+                return (r, origin)          # matched a specific scraped PDF
+        return (website_html_rule, origin)  # fallback: unregistered web PDF
+    # website_html
+    if website_html_rule is not None:
+        return (website_html_rule, origin)  # keep the real URL as source_url
     return (None, None)
 
 
@@ -80,6 +103,11 @@ for c in chunks:
                "doc_type": "unknown", "authority_level": "", "is_participation": "FALSE"}
         source_url = c.get("origin", "")
     is_citizen = row.get("is_participation", "FALSE").strip().upper() == "TRUE"
+    lvl = int(row["authority_level"]) if str(row["authority_level"]).strip().isdigit() else None
+    label = AUTHORITY_LABELS.get(lvl, "Unknown")
+    pub = str(row["publication_date"]).strip()
+    # ready-to-inject source tag for the LLM prompt / citations (derived, never hand-entered)
+    citation_prefix = f"{label} — {row['document_title']}" + (f" ({pub})" if pub else "")
     enriched.append({
         **c,                                          # keep original fields
         "document_id": row["document_id"],
@@ -87,7 +115,9 @@ for c in chunks:
         "source_url": source_url or "",
         "publication_date": row["publication_date"],
         "doc_type": row["doc_type"],
-        "authority_level": int(row["authority_level"]) if str(row["authority_level"]).strip().isdigit() else None,
+        "authority_level": lvl,
+        "authority_label": label,
+        "citation_prefix": citation_prefix,
         "is_citizen_opinion": is_citizen,
         "topic": c.get("lda_topic"),                  # carry existing LDA topic
         "section": c.get("chunk_id"),                 # v1 chunks have no page info
