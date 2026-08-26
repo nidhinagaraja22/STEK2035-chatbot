@@ -27,15 +27,14 @@ from sentence_transformers import SentenceTransformer
 # Config — adjust these paths / values as needed
 # ---------------------------------------------------------------------------
 VECTOR_STORE_DIR = Path("vector_store")
-CORPUS_DIR = Path("corpus/corpus_v2")                     # Corpus 2: deduped + metadata + authority
-CHUNKS_PATH = CORPUS_DIR / "corpus_v2_chunks.jsonl"
-EMB_PATH = CORPUS_DIR / "embeddings_v2_e5base.npy"
-META_PATH = CORPUS_DIR / "meta_v2.json"
-LDA_TOPICS_PATH = VECTOR_STORE_DIR / "lda_topics.json"    # topic labels (k=8 ids still valid for Corpus 2)
+CHUNKS_PATH = VECTOR_STORE_DIR / "chunks.jsonl"
+EMB_PATH = VECTOR_STORE_DIR / "embeddings.npy"
+META_PATH = VECTOR_STORE_DIR / "meta.json"
+LDA_TOPICS_PATH = VECTOR_STORE_DIR / "lda_topics.json"
 
 TOP_K = 5
 OLLAMA_URL = "http://localhost:11434/api/generate"
-OLLAMA_MODEL = "qwen2.5:1.5b"  # change to whatever model you've pulled, e.g. "mistral", "qwen2.5"
+OLLAMA_MODEL = "qwen2.5:32b"  # change to whatever model you've pulled, e.g. "mistral", "qwen2.5"
 
 # ---------------------------------------------------------------------------
 # Load vector store once at startup
@@ -147,7 +146,7 @@ def ask_ollama(prompt: str) -> str:
             "prompt": prompt,
             "stream": False,
         },
-        timeout=120,
+        timeout=180,
     )
     response.raise_for_status()
     data = response.json()
