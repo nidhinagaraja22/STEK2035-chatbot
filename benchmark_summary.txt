@@ -1,0 +1,19 @@
+======================================================================
+SUMMARY
+======================================================================
+
+--- Avg top-1 retrieval score per embedding model ---
+  multilingual-e5-base         avg_top1_score=0.8570
+  multilingual-e5-large        avg_top1_score=0.8551
+  bge-m3                       avg_top1_score=0.6425
+
+--- Avg generation time per LLM model (across all embedding stages) ---
+  qwen2.5:32b          avg_seconds=17.0  (n=30)
+  mistral              avg_seconds=3.4  (n=30)
+  mistral-small        avg_seconds=9.5  (n=30)
+  command-r            avg_seconds=15.3  (n=30)
+  gemma2:27b           avg_seconds=12.2  (n=30)
+
+Full answers are in benchmark_results.json - open it and read
+the 'reply' text for each (embedding_model, llm_model, question)
+combination to judge actual answer quality yourself.
