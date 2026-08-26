@@ -35,10 +35,11 @@ import requests
 from sentence_transformers import SentenceTransformer
 
 # ---------------------------------------------------------------------------
-CHUNKS_PATH = Path("vector_store/chunks.jsonl")
+CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks.jsonl")   # Corpus 2 (deduped + metadata + authority)
 OLLAMA_URL = "http://localhost:11434/api/generate"
 TOP_K = 5
-OLLAMA_TIMEOUT = 600  # seconds per generation, safety margin for the 30b+ models
+OLLAMA_TIMEOUT = 600  # seconds per generation - generous margin in case this instance
+                       # is running these 30b+ models on CPU (unconfirmed GPU access)
 
 # Each embedding model gets its own query/passage prefixing rule, since not
 # every model uses the e5-style "query: "/"passage: " convention.
