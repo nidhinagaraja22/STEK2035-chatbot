@@ -48,6 +48,21 @@ AUTHORITY_LABELS = {
     5: "Individual citizen opinion",
 }
 
+# HEURISTIC: within participation docs (base L4), a chunk carrying first-person
+# citizen voice is an individual contribution -> downgraded to L5. The rest stay
+# L4 (the city's editorial summary of participation). Imperfect by design; the
+# criteria are documented so the team can audit/refine.
+CITIZEN_VOICE_PATTERNS = [
+    r"\bich\b",
+    r"\bwir brauchen\b",
+    r"\bmeiner meinung\b",
+    r"\bfinde ich\b",
+    r"\bich (finde|wünsche|möchte|will|fände|hätte|bin)\b",
+    r"\bwünsche mir\b",
+    r"\bes wäre (schön|gut|toll|wichtig)\b",
+]
+CITIZEN_VOICE_RE = re.compile("|".join(CITIZEN_VOICE_PATTERNS), re.IGNORECASE)
+
 
 # --------------------------------------------------------------------------- #
 # 1. Load the document registry
@@ -104,6 +119,9 @@ for c in chunks:
         source_url = c.get("origin", "")
     is_citizen = row.get("is_participation", "FALSE").strip().upper() == "TRUE"
     lvl = int(row["authority_level"]) if str(row["authority_level"]).strip().isdigit() else None
+    # split verbatim citizen voice (L5) from editorial summary (L4) inside participation docs
+    if is_citizen and lvl == 4 and CITIZEN_VOICE_RE.search(c.get("text", "")):
+        lvl = 5
     label = AUTHORITY_LABELS.get(lvl, "Unknown")
     pub = str(row["publication_date"]).strip()
     # ready-to-inject source tag for the LLM prompt / citations (derived, never hand-entered)

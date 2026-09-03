@@ -18,5 +18,6 @@ Built: 2026-08-24
 - Level 1: 116 chunks
 - Level 2: 481 chunks
 - Level 3: 97 chunks
-- Level 4: 572 chunks
+- Level 4: 355 chunks
+- Level 5: 217 chunks
 - Citizen-opinion chunks (is_citizen_opinion=TRUE): 572
