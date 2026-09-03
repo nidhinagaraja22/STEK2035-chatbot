@@ -35,7 +35,7 @@ LDA_TOPICS_PATH = VECTOR_STORE_DIR / "lda_topics.json"    # topic labels (k=8 id
 
 TOP_K = 5
 OLLAMA_URL = "http://localhost:11434/api/generate"
-OLLAMA_MODEL = "qwen2.5:1.5b"  # change to whatever model you've pulled, e.g. "mistral", "qwen2.5"
+OLLAMA_MODEL = "qwen2.5:32b"  # change to whatever model you've pulled, e.g. "mistral", "qwen2.5","sadad"
 
 # ---------------------------------------------------------------------------
 # Load vector store once at startup
