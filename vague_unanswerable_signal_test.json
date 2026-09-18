@@ -1,0 +1,785 @@
+{
+  "unstripped": {
+    "vague": [
+      {
+        "q_id": "Q046",
+        "question": "Ich möchte etwas über Heidelberg erfahren.",
+        "top_score": 0.8696569800376892,
+        "score_spread": 0.003076357301324606
+      },
+      {
+        "q_id": "Q047",
+        "question": "Was plant Heidelberg?",
+        "top_score": 0.8337109088897705,
+        "score_spread": 0.0032172948122024536
+      },
+      {
+        "q_id": "Q048",
+        "question": "Was sagt STEK 2035?",
+        "top_score": 0.8956558704376221,
+        "score_spread": 0.011077726259827614
+      },
+      {
+        "q_id": "Q058",
+        "question": "Wie ist Heidelberg?",
+        "top_score": 0.8772151470184326,
+        "score_spread": 0.005338480696082115
+      },
+      {
+        "q_id": "Q059",
+        "question": "Was gibt's Neues?",
+        "top_score": 0.8087248802185059,
+        "score_spread": 0.0025016486179083586
+      },
+      {
+        "q_id": "Q060",
+        "question": "Erzähl mir was.",
+        "top_score": 0.815421462059021,
+        "score_spread": 0.0028323892038315535
+      }
+    ],
+    "unanswerable": [
+      {
+        "q_id": "Q049",
+        "question": "Welche Orte sollte ich in Heidelberg als Tourist besuchen?",
+        "top_score": 0.8583507537841797,
+        "score_spread": 0.0035047365818172693
+      },
+      {
+        "q_id": "Q050",
+        "question": "Wie hoch ist das genaue Gesamtbudget für die Umsetzung des STEK 2035?",
+        "top_score": 0.8705552220344543,
+        "score_spread": 0.007750326301902533
+      },
+      {
+        "q_id": "Q055",
+        "question": "Wie hoch ist das Gehalt des Oberbürgermeisters von Heidelberg?",
+        "top_score": 0.8359204530715942,
+        "score_spread": 0.002530978759750724
+      },
+      {
+        "q_id": "Q056",
+        "question": "Welche Partei stellt aktuell den Oberbürgermeister von Heidelberg?",
+        "top_score": 0.8387563228607178,
+        "score_spread": 0.0044123283587396145
+      },
+      {
+        "q_id": "Q057",
+        "question": "Wie viele Parkplätze gibt es aktuell in der Heidelberger Altstadt?",
+        "top_score": 0.8834292888641357,
+        "score_spread": 0.012608352117240429
+      }
+    ],
+    "answerable": [
+      {
+        "q_id": "Q001",
+        "question": "Was plant die Stadt Heidelberg konkret für bezahlbaren Wohnraum bis 2035?",
+        "top_score": 0.8783724308013916,
+        "score_spread": 0.004735684022307396
+      },
+      {
+        "q_id": "Q002",
+        "question": "Was wünschen sich Bürgerinnen und Bürger für bezahlbaren Wohnraum?",
+        "top_score": 0.8699905872344971,
+        "score_spread": 0.005511290393769741
+      },
+      {
+        "q_id": "Q004",
+        "question": "Wie viele geförderte Wohnungen soll es 2035 je 1.000 Personen geben?",
+        "top_score": 0.8819429874420166,
+        "score_spread": 0.010841580107808113
+      },
+      {
+        "q_id": "Q005",
+        "question": "Wie hat sich die Zahl der Obdachlosen in Heidelberg entwickelt?",
+        "top_score": 0.8700402975082397,
+        "score_spread": 0.007447879761457443
+      },
+      {
+        "q_id": "Q006",
+        "question": "Welche Herausforderung nennt das STEK 2035 als eine der größten beim Thema Wohnen?",
+        "top_score": 0.8747400045394897,
+        "score_spread": 0.009468872100114822
+      },
+      {
+        "q_id": "Q007",
+        "question": "Welche Maßnahmen plant Heidelberg für den Ausbau des Radverkehrs?",
+        "top_score": 0.8864544630050659,
+        "score_spread": 0.008927147835493088
+      },
+      {
+        "q_id": "Q008",
+        "question": "Was sind autofreie Quartiere im Kontext der STEK-Planung?",
+        "top_score": 0.8538026213645935,
+        "score_spread": 0.004696998279541731
+      },
+      {
+        "q_id": "Q009",
+        "question": "Wie soll sich der öffentliche Nahverkehr entwickeln?",
+        "top_score": 0.8335390090942383,
+        "score_spread": 0.0020935162901878357
+      },
+      {
+        "q_id": "Q010",
+        "question": "Was wünschen sich Bürger für den Radverkehr und die Straßengestaltung?",
+        "top_score": 0.8477962613105774,
+        "score_spread": 0.0026236798148602247
+      },
+      {
+        "q_id": "Q011",
+        "question": "Welche ÖPNV-Maßnahmen plant Heidelberg im Zusammenhang mit klimawirksamen Freiräumen?",
+        "top_score": 0.8766885995864868,
+        "score_spread": 0.005510810296982527
+      },
+      {
+        "q_id": "Q012",
+        "question": "Bis wann will Heidelberg klimaneutral sein?",
+        "top_score": 0.879629373550415,
+        "score_spread": 0.006755299866199493
+      },
+      {
+        "q_id": "Q013",
+        "question": "Welche Ziele verfolgt Heidelberg beim Klimaschutz laut Nachhaltigkeitsbericht?",
+        "top_score": 0.874107837677002,
+        "score_spread": 0.0045883674174547195
+      },
+      {
+        "q_id": "Q014",
+        "question": "Wie wird Regenwasser im Patrick-Henry-Village gehandhabt?",
+        "top_score": 0.8683212995529175,
+        "score_spread": 0.015320505946874619
+      },
+      {
+        "q_id": "Q015",
+        "question": "Welche Herausforderungen nennt das STEK bei Hitzebelastung?",
+        "top_score": 0.8602067828178406,
+        "score_spread": 0.005784200504422188
+      },
+      {
+        "q_id": "Q016",
+        "question": "Was fordern Bürger zum Umgang mit versiegelten Flächen?",
+        "top_score": 0.8515921235084534,
+        "score_spread": 0.006262562237679958
+      },
+      {
+        "q_id": "Q017",
+        "question": "Welche Rolle spielen Wissenschaft und Forschung im STEK 2035?",
+        "top_score": 0.8753211498260498,
+        "score_spread": 0.009154707193374634
+      },
+      {
+        "q_id": "Q018",
+        "question": "Wie hoch ist der Innovationsindex für Heidelberg und was ist das Ziel bis 2035?",
+        "top_score": 0.8934130668640137,
+        "score_spread": 0.009130611084401608
+      },
+      {
+        "q_id": "Q019",
+        "question": "Wie will Heidelberg Fachkräfte anziehen?",
+        "top_score": 0.8564261198043823,
+        "score_spread": 0.0032857730984687805
+      },
+      {
+        "q_id": "Q020",
+        "question": "Wie viele Arbeitsplätze und Wohnungen kamen laut dem 2015er Stadtentwicklungsplan seit 1974 hinzu?",
+        "top_score": 0.825026273727417,
+        "score_spread": 0.006029085721820593
+      },
+      {
+        "q_id": "Q021",
+        "question": "Wie berücksichtigt das STEK 2035 Kultur und gesellschaftliche Vielfalt?",
+        "top_score": 0.8752883672714233,
+        "score_spread": 0.00725504569709301
+      },
+      {
+        "q_id": "Q022",
+        "question": "Was sind Freizeit- und Kulturangebote laut STEK 2035?",
+        "top_score": 0.8595502376556396,
+        "score_spread": 0.007597212214022875
+      },
+      {
+        "q_id": "Q023",
+        "question": "Was wünschen sich Bürger für das kulturelle Angebot in Heidelberg?",
+        "top_score": 0.8702565431594849,
+        "score_spread": 0.004633485805243254
+      },
+      {
+        "q_id": "Q024",
+        "question": "Wie soll Kultur zugänglicher gemacht werden?",
+        "top_score": 0.8396202921867371,
+        "score_spread": 0.006144516635686159
+      },
+      {
+        "q_id": "Q025",
+        "question": "Welche Maßnahmen gibt es gegen soziale Segregation?",
+        "top_score": 0.8315821886062622,
+        "score_spread": 0.004540533758699894
+      },
+      {
+        "q_id": "Q026",
+        "question": "Welche Gruppen benötigen laut STEK 2035 besonders barrierefreien Wohnraum?",
+        "top_score": 0.8528350591659546,
+        "score_spread": 0.0057274652644991875
+      },
+      {
+        "q_id": "Q027",
+        "question": "Wie hat sich der Anteil barrierefreier Wohnungen entwickelt?",
+        "top_score": 0.8474874496459961,
+        "score_spread": 0.007460123393684626
+      },
+      {
+        "q_id": "Q028",
+        "question": "Wie fördert Heidelberg den sozialen Zusammenhalt in Nachbarschaften?",
+        "top_score": 0.8748027086257935,
+        "score_spread": 0.007107430603355169
+      },
+      {
+        "q_id": "Q029",
+        "question": "Was sind die fünf wichtigsten Handlungsfelder des STEK 2035?",
+        "top_score": 0.8836911916732788,
+        "score_spread": 0.007716961670666933
+      },
+      {
+        "q_id": "Q030",
+        "question": "Was ist das Patrick-Henry-Village und wie groß wird es?",
+        "top_score": 0.8677517175674438,
+        "score_spread": 0.016760289669036865
+      },
+      {
+        "q_id": "Q031",
+        "question": "Wie hoch ist der Smart City Index für Heidelberg?",
+        "top_score": 0.906339168548584,
+        "score_spread": 0.012627688236534595
+      },
+      {
+        "q_id": "Q032",
+        "question": "Wie will Heidelberg regionale und internationale Stärken verbinden?",
+        "top_score": 0.8857017159461975,
+        "score_spread": 0.00834666844457388
+      },
+      {
+        "q_id": "Q033",
+        "question": "Wie will Heidelberg die lokale Demokratie stärken?",
+        "top_score": 0.8644075393676758,
+        "score_spread": 0.0048460266552865505
+      },
+      {
+        "q_id": "Q034",
+        "question": "Wie wurden Bürgerinnen und Bürger am STEK 2035 beteiligt?",
+        "top_score": 0.8847571015357971,
+        "score_spread": 0.010943865403532982
+      },
+      {
+        "q_id": "Q035",
+        "question": "Was war der Zweck der Zukunftsreise 2023?",
+        "top_score": 0.7993236184120178,
+        "score_spread": 0.004534396808594465
+      },
+      {
+        "q_id": "Q036",
+        "question": "Wie beschreibt das STEK die eigene Beteiligungskultur?",
+        "top_score": 0.8756145238876343,
+        "score_spread": 0.010233945213258266
+      },
+      {
+        "q_id": "Q037",
+        "question": "Welche Räume für kulturelle Nutzung fehlten laut Zukunftsreise-Diskussion?",
+        "top_score": 0.8100227117538452,
+        "score_spread": 0.004556913394480944
+      },
+      {
+        "q_id": "Q038",
+        "question": "Wer hat den Masterplan für das Patrick-Henry-Village beschlossen und wann?",
+        "top_score": 0.8595316410064697,
+        "score_spread": 0.01262614130973816
+      },
+      {
+        "q_id": "Q039",
+        "question": "Wie viele Menschen wandern netto jährlich nach Heidelberg zu?",
+        "top_score": 0.8499668836593628,
+        "score_spread": 0.00574945705011487
+      },
+      {
+        "q_id": "Q040",
+        "question": "Was war vor der Entwicklung des PHV auf dieser Fläche, und wie viele Menschen lebten dort?",
+        "top_score": 0.8284298181533813,
+        "score_spread": 0.00633880402892828
+      },
+      {
+        "q_id": "Q041",
+        "question": "Welche Stadtteile werden im STEK 2035 als unterversorgt mit Alltagsfunktionen genannt?",
+        "top_score": 0.8422935605049133,
+        "score_spread": 0.006108508910983801
+      },
+      {
+        "q_id": "Q042",
+        "question": "Wie hoch ist der amtliche Bevölkerungsstand Heidelbergs im Vergleich zum Zensus 2011?",
+        "top_score": 0.8609293699264526,
+        "score_spread": 0.007469292730093002
+      },
+      {
+        "q_id": "Q043",
+        "question": "Wie hängen Wohnraumentwicklung und Klimaschutz im STEK 2035 zusammen?",
+        "top_score": 0.8826359510421753,
+        "score_spread": 0.007139031309634447
+      },
+      {
+        "q_id": "Q044",
+        "question": "Was hat sich zwischen dem Stadtentwicklungsplan 2015 und STEK 2035 in Bezug auf Arbeitsplätze verändert?",
+        "top_score": 0.8705393075942993,
+        "score_spread": 0.008158675394952297
+      },
+      {
+        "q_id": "Q045",
+        "question": "Wie stehen Bürgerwünsche und offizielle Pläne für Verkehrsberuhigung im Vergleich?",
+        "top_score": 0.8409228324890137,
+        "score_spread": 0.0022586449049413204
+      },
+      {
+        "q_id": "Q051",
+        "question": "Wie verteilen sich die Haushaltsformen in Heidelberg?",
+        "top_score": 0.8367857933044434,
+        "score_spread": 0.004660977981984615
+      },
+      {
+        "q_id": "Q052",
+        "question": "Welche Flächen stehen laut MRO 2035+ für neue Wohnbauentwicklung zur Verfügung?",
+        "top_score": 0.875501275062561,
+        "score_spread": 0.007353952620178461
+      },
+      {
+        "q_id": "Q053",
+        "question": "Wie viele Hektar gewerbliche Bauflächen sieht der Flächennutzungsplan für Heidelberg vor?",
+        "top_score": 0.8554058074951172,
+        "score_spread": 0.004260839428752661
+      },
+      {
+        "q_id": "Q054",
+        "question": "Wie viel Fläche in Heidelberg gilt als Vorrangflur für die Landwirtschaft?",
+        "top_score": 0.8887506723403931,
+        "score_spread": 0.010915780439972878
+      }
+    ]
+  },
+  "stripped": {
+    "vague": [
+      {
+        "q_id": "Q046",
+        "question": "(fully generic — no content survived stripping)",
+        "top_score": null,
+        "score_spread": null,
+        "fully_generic": true
+      },
+      {
+        "q_id": "Q047",
+        "question": "plant",
+        "top_score": 0.8004491925239563,
+        "score_spread": 0.011350010521709919,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q048",
+        "question": "(fully generic — no content survived stripping)",
+        "top_score": null,
+        "score_spread": null,
+        "fully_generic": true
+      },
+      {
+        "q_id": "Q058",
+        "question": "(fully generic — no content survived stripping)",
+        "top_score": null,
+        "score_spread": null,
+        "fully_generic": true
+      },
+      {
+        "q_id": "Q059",
+        "question": "gibt's",
+        "top_score": 0.8153823614120483,
+        "score_spread": 0.004762884229421616,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q060",
+        "question": "(fully generic — no content survived stripping)",
+        "top_score": null,
+        "score_spread": null,
+        "fully_generic": true
+      }
+    ],
+    "unanswerable": [
+      {
+        "q_id": "Q049",
+        "question": "Orte besuchen?",
+        "top_score": 0.8399549722671509,
+        "score_spread": 0.004154649563133717,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q050",
+        "question": "hoch genaue Gesamtbudget Umsetzung",
+        "top_score": 0.8181928396224976,
+        "score_spread": 0.0038720217999070883,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q055",
+        "question": "hoch Gehalt Oberbürgermeisters",
+        "top_score": 0.828001856803894,
+        "score_spread": 0.0026047173887491226,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q056",
+        "question": "Partei stellt aktuell Oberbürgermeister",
+        "top_score": 0.8179380893707275,
+        "score_spread": 0.0022546756081283092,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q057",
+        "question": "viele Parkplätze gibt aktuell Heidelberger Altstadt?",
+        "top_score": 0.8963385820388794,
+        "score_spread": 0.012458820827305317,
+        "fully_generic": false
+      }
+    ],
+    "answerable": [
+      {
+        "q_id": "Q001",
+        "question": "plant konkret bezahlbaren Wohnraum",
+        "top_score": 0.8595952987670898,
+        "score_spread": 0.004832479637116194,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q002",
+        "question": "wünschen Bürgerinnen Bürger bezahlbaren Wohnraum?",
+        "top_score": 0.8675441741943359,
+        "score_spread": 0.005260828882455826,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q004",
+        "question": "viele geförderte Wohnungen je 1.000 Personen geben?",
+        "top_score": 0.8637300729751587,
+        "score_spread": 0.008793952874839306,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q005",
+        "question": "Zahl Obdachlosen entwickelt?",
+        "top_score": 0.8593993782997131,
+        "score_spread": 0.00965474359691143,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q006",
+        "question": "Herausforderung nennt größten Thema Wohnen?",
+        "top_score": 0.8258361220359802,
+        "score_spread": 0.004354384262114763,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q007",
+        "question": "Maßnahmen plant Ausbau Radverkehrs?",
+        "top_score": 0.8619977235794067,
+        "score_spread": 0.009046838618814945,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q008",
+        "question": "autofreie Quartiere Kontext STEK-Planung?",
+        "top_score": 0.858985185623169,
+        "score_spread": 0.00437496043741703,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q009",
+        "question": "öffentliche Nahverkehr entwickeln?",
+        "top_score": 0.8416285514831543,
+        "score_spread": 0.0033387630246579647,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q010",
+        "question": "wünschen Bürger Radverkehr Straßengestaltung?",
+        "top_score": 0.8472070097923279,
+        "score_spread": 0.0029097774531692266,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q011",
+        "question": "ÖPNV-Maßnahmen plant Zusammenhang klimawirksamen Freiräumen?",
+        "top_score": 0.8387595415115356,
+        "score_spread": 0.0023274028208106756,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q012",
+        "question": "klimaneutral",
+        "top_score": 0.8509509563446045,
+        "score_spread": 0.005713850725442171,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q013",
+        "question": "Ziele verfolgt Klimaschutz laut Nachhaltigkeitsbericht?",
+        "top_score": 0.8397006392478943,
+        "score_spread": 0.007670831400901079,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q014",
+        "question": "Regenwasser Patrick-Henry-Village gehandhabt?",
+        "top_score": 0.8653085231781006,
+        "score_spread": 0.013122537173330784,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q015",
+        "question": "Herausforderungen nennt Hitzebelastung?",
+        "top_score": 0.8318034410476685,
+        "score_spread": 0.004261245019733906,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q016",
+        "question": "fordern Bürger Umgang versiegelten Flächen?",
+        "top_score": 0.8601537942886353,
+        "score_spread": 0.006749643944203854,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q017",
+        "question": "Rolle spielen Wissenschaft Forschung",
+        "top_score": 0.8296940326690674,
+        "score_spread": 0.008170371875166893,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q018",
+        "question": "hoch Innovationsindex Ziel",
+        "top_score": 0.8494560718536377,
+        "score_spread": 0.010768928565084934,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q019",
+        "question": "Fachkräfte anziehen?",
+        "top_score": 0.8224577903747559,
+        "score_spread": 0.004961005412042141,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q020",
+        "question": "viele Arbeitsplätze Wohnungen kamen laut 2015er Stadtentwicklungsplan seit 1974 hinzu?",
+        "top_score": 0.8245845437049866,
+        "score_spread": 0.004209002945572138,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q021",
+        "question": "berücksichtigt Kultur gesellschaftliche Vielfalt?",
+        "top_score": 0.8515647649765015,
+        "score_spread": 0.006586691364645958,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q022",
+        "question": "Freizeit- Kulturangebote laut",
+        "top_score": 0.8330807685852051,
+        "score_spread": 0.004673324525356293,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q023",
+        "question": "wünschen Bürger kulturelle Angebot",
+        "top_score": 0.8473421335220337,
+        "score_spread": 0.005271059460937977,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q024",
+        "question": "Kultur zugänglicher gemacht",
+        "top_score": 0.8385417461395264,
+        "score_spread": 0.00562351755797863,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q025",
+        "question": "Maßnahmen gibt soziale Segregation?",
+        "top_score": 0.8181995749473572,
+        "score_spread": 0.002714877249673009,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q026",
+        "question": "Gruppen benötigen laut besonders barrierefreien Wohnraum?",
+        "top_score": 0.8534684777259827,
+        "score_spread": 0.0038462693337351084,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q027",
+        "question": "Anteil barrierefreier Wohnungen entwickelt?",
+        "top_score": 0.8550027012825012,
+        "score_spread": 0.007254387252032757,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q028",
+        "question": "fördert sozialen Zusammenhalt Nachbarschaften?",
+        "top_score": 0.8471869230270386,
+        "score_spread": 0.009027604945003986,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q029",
+        "question": "fünf wichtigsten Handlungsfelder",
+        "top_score": 0.8219581842422485,
+        "score_spread": 0.0016712215729057789,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q030",
+        "question": "Patrick-Henry-Village groß",
+        "top_score": 0.8590099811553955,
+        "score_spread": 0.013153710402548313,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q031",
+        "question": "hoch Smart City Index",
+        "top_score": 0.8727822303771973,
+        "score_spread": 0.010968479327857494,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q032",
+        "question": "regionale internationale Stärken verbinden?",
+        "top_score": 0.8449339270591736,
+        "score_spread": 0.006414489820599556,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q033",
+        "question": "lokale Demokratie stärken?",
+        "top_score": 0.8384920954704285,
+        "score_spread": 0.003441625041887164,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q034",
+        "question": "Bürgerinnen Bürger beteiligt?",
+        "top_score": 0.8444605469703674,
+        "score_spread": 0.006273254752159119,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q035",
+        "question": "Zweck Zukunftsreise 2023?",
+        "top_score": 0.8137173652648926,
+        "score_spread": 0.004097311291843653,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q036",
+        "question": "beschreibt eigene Beteiligungskultur?",
+        "top_score": 0.8165791034698486,
+        "score_spread": 0.005232658702880144,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q037",
+        "question": "Räume kulturelle Nutzung fehlten laut Zukunftsreise-Diskussion?",
+        "top_score": 0.8136004209518433,
+        "score_spread": 0.004078904166817665,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q038",
+        "question": "Masterplan Patrick-Henry-Village beschlossen",
+        "top_score": 0.8670390844345093,
+        "score_spread": 0.013709747232496738,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q039",
+        "question": "viele Menschen wandern netto jährlich",
+        "top_score": 0.8227161765098572,
+        "score_spread": 0.0045401048846542835,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q040",
+        "question": "Entwicklung PHV dieser Fläche, viele Menschen lebten dort?",
+        "top_score": 0.8390726447105408,
+        "score_spread": 0.0060247876681387424,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q041",
+        "question": "Stadtteile unterversorgt Alltagsfunktionen genannt?",
+        "top_score": 0.8185166120529175,
+        "score_spread": 0.0033582246396690607,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q042",
+        "question": "hoch amtliche Bevölkerungsstand Heidelbergs Vergleich Zensus 2011?",
+        "top_score": 0.8590049743652344,
+        "score_spread": 0.004445675294846296,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q043",
+        "question": "hängen Wohnraumentwicklung Klimaschutz zusammen?",
+        "top_score": 0.8393144607543945,
+        "score_spread": 0.0026433649472892284,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q044",
+        "question": "Stadtentwicklungsplan 2015 Bezug Arbeitsplätze verändert?",
+        "top_score": 0.8300920724868774,
+        "score_spread": 0.0030500763095915318,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q045",
+        "question": "stehen Bürgerwünsche offizielle Pläne Verkehrsberuhigung Vergleich?",
+        "top_score": 0.8277143239974976,
+        "score_spread": 0.0026779519394040108,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q051",
+        "question": "verteilen Haushaltsformen",
+        "top_score": 0.8132713437080383,
+        "score_spread": 0.003805855754762888,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q052",
+        "question": "Flächen stehen laut MRO 2035+ neue Wohnbauentwicklung Verfügung?",
+        "top_score": 0.8737668991088867,
+        "score_spread": 0.007145578972995281,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q053",
+        "question": "viele Hektar gewerbliche Bauflächen sieht Flächennutzungsplan",
+        "top_score": 0.8502155542373657,
+        "score_spread": 0.0037261154502630234,
+        "fully_generic": false
+      },
+      {
+        "q_id": "Q054",
+        "question": "viel Fläche gilt Vorrangflur Landwirtschaft?",
+        "top_score": 0.8680495023727417,
+        "score_spread": 0.012266842648386955,
+        "fully_generic": false
+      }
+    ]
+  }
+}

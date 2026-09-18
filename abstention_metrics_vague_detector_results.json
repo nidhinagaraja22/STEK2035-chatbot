@@ -1,0 +1,368 @@
+{
+  "overall": {
+    "tp": 6,
+    "tn": 48,
+    "fp": 0,
+    "fn": 5,
+    "accuracy": 0.9152542372881356,
+    "precision": 1.0,
+    "recall": 0.5454545454545454,
+    "f1": 0.7058823529411764
+  },
+  "per_question": [
+    {
+      "q_id": "Q001",
+      "category": "housing",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q002",
+      "category": "housing",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q004",
+      "category": "housing",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q005",
+      "category": "housing",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q006",
+      "category": "housing",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q007",
+      "category": "mobility",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q008",
+      "category": "mobility",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q009",
+      "category": "mobility",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q010",
+      "category": "mobility",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q011",
+      "category": "mobility",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q012",
+      "category": "climate",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q013",
+      "category": "climate",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q014",
+      "category": "climate",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q015",
+      "category": "climate",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q016",
+      "category": "climate",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q017",
+      "category": "economy",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q018",
+      "category": "economy",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q019",
+      "category": "economy",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q020",
+      "category": "economy",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q021",
+      "category": "culture",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q022",
+      "category": "culture",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q023",
+      "category": "culture",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q024",
+      "category": "culture",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q025",
+      "category": "social",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q026",
+      "category": "social",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q027",
+      "category": "social",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q028",
+      "category": "social",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q029",
+      "category": "urban_development",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q030",
+      "category": "urban_development",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q031",
+      "category": "urban_development",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q032",
+      "category": "urban_development",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q033",
+      "category": "urban_development",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q034",
+      "category": "citizen_participation",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q035",
+      "category": "citizen_participation",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q036",
+      "category": "citizen_participation",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q037",
+      "category": "citizen_participation",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q038",
+      "category": "specific_factual",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q039",
+      "category": "specific_factual",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q040",
+      "category": "specific_factual",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q041",
+      "category": "specific_factual",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q042",
+      "category": "specific_factual",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q043",
+      "category": "cross_document",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q044",
+      "category": "cross_document",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q045",
+      "category": "cross_document",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q046",
+      "category": "vague",
+      "should_abstain": true,
+      "did_abstain": true
+    },
+    {
+      "q_id": "Q047",
+      "category": "vague",
+      "should_abstain": true,
+      "did_abstain": true
+    },
+    {
+      "q_id": "Q048",
+      "category": "vague",
+      "should_abstain": true,
+      "did_abstain": true
+    },
+    {
+      "q_id": "Q049",
+      "category": "unanswerable",
+      "should_abstain": true,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q050",
+      "category": "unanswerable",
+      "should_abstain": true,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q051",
+      "category": "housing",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q052",
+      "category": "urban_development",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q053",
+      "category": "economy",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q054",
+      "category": "climate",
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q055",
+      "category": "unanswerable",
+      "should_abstain": true,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q056",
+      "category": "unanswerable",
+      "should_abstain": true,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q057",
+      "category": "unanswerable",
+      "should_abstain": true,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q058",
+      "category": "vague",
+      "should_abstain": true,
+      "did_abstain": true
+    },
+    {
+      "q_id": "Q059",
+      "category": "vague",
+      "should_abstain": true,
+      "did_abstain": true
+    },
+    {
+      "q_id": "Q060",
+      "category": "vague",
+      "should_abstain": true,
+      "did_abstain": true
+    }
+  ]
+}

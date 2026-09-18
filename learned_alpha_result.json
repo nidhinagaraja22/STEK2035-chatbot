@@ -1,0 +1,17 @@
+{
+  "n_questions_used": 45,
+  "n_questions_skipped": 5,
+  "n_training_rows": 900,
+  "n_positive": 25,
+  "fitted_weights": {
+    "w_similarity": 0.20783177985584972,
+    "w_authority": 1.9628943850681833,
+    "bias": -5.206299873211503
+  },
+  "alpha_effective": 0.09574297450048153,
+  "loqo_mean_auc": 0.7810831426392069,
+  "loqo_std_auc": 0.23254795818650842,
+  "loqo_n_folds": 23,
+  "loqo_alpha_mean": 0.09485370440096465,
+  "loqo_alpha_std": 0.007584886133351544
+}

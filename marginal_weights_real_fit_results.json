@@ -1,0 +1,587 @@
+{
+  "baseline_recall": 0.7291666666666666,
+  "avg_weights": {
+    "relevance": 1.0,
+    "dominance": 0.0,
+    "diversity": 0.5,
+    "topic": 0.0
+  },
+  "per_fold": [
+    {
+      "q_id": "Q001",
+      "fold": 0,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.8085106382978723,
+      "test_score": 0.0
+    },
+    {
+      "q_id": "Q002",
+      "fold": 1,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q004",
+      "fold": 2,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q005",
+      "fold": 3,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q006",
+      "fold": 4,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q007",
+      "fold": 5,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q008",
+      "fold": 6,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.8085106382978723,
+      "test_score": 0.0
+    },
+    {
+      "q_id": "Q009",
+      "fold": 7,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.8085106382978723,
+      "test_score": 0.0
+    },
+    {
+      "q_id": "Q010",
+      "fold": 8,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q011",
+      "fold": 9,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q012",
+      "fold": 10,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q013",
+      "fold": 11,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q014",
+      "fold": 12,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q015",
+      "fold": 13,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q016",
+      "fold": 14,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q017",
+      "fold": 15,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q018",
+      "fold": 16,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q019",
+      "fold": 17,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q020",
+      "fold": 18,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q021",
+      "fold": 19,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.8085106382978723,
+      "test_score": 0.0
+    },
+    {
+      "q_id": "Q022",
+      "fold": 20,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q023",
+      "fold": 21,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q024",
+      "fold": 22,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q025",
+      "fold": 23,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.8085106382978723,
+      "test_score": 0.0
+    },
+    {
+      "q_id": "Q026",
+      "fold": 24,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q027",
+      "fold": 25,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q028",
+      "fold": 26,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q029",
+      "fold": 27,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q030",
+      "fold": 28,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q031",
+      "fold": 29,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q032",
+      "fold": 30,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q033",
+      "fold": 31,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q034",
+      "fold": 32,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.8085106382978723,
+      "test_score": 0.0
+    },
+    {
+      "q_id": "Q035",
+      "fold": 33,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q036",
+      "fold": 34,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q037",
+      "fold": 35,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.8085106382978723,
+      "test_score": 0.0
+    },
+    {
+      "q_id": "Q038",
+      "fold": 36,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q039",
+      "fold": 37,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q040",
+      "fold": 38,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q041",
+      "fold": 39,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.8085106382978723,
+      "test_score": 0.0
+    },
+    {
+      "q_id": "Q042",
+      "fold": 40,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q043",
+      "fold": 41,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7978723404255319,
+      "test_score": 0.5
+    },
+    {
+      "q_id": "Q044",
+      "fold": 42,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.8085106382978723,
+      "test_score": 0.0
+    },
+    {
+      "q_id": "Q045",
+      "fold": 43,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7978723404255319,
+      "test_score": 0.5
+    },
+    {
+      "q_id": "Q051",
+      "fold": 44,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q052",
+      "fold": 45,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q053",
+      "fold": 46,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    },
+    {
+      "q_id": "Q054",
+      "fold": 47,
+      "weights": {
+        "relevance": 1.0,
+        "dominance": 0.0,
+        "diversity": 0.5,
+        "topic": 0.0
+      },
+      "train_score": 0.7872340425531915,
+      "test_score": 1.0
+    }
+  ]
+}

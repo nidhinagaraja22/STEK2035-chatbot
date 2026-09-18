@@ -1,0 +1,392 @@
+[
+  {
+    "q_id": "Q001",
+    "question": "Was plant die Stadt Heidelberg konkret für bezahlbaren Wohnraum bis 2035?",
+    "generated_answer": "Der Text gibt keine detaillierte konkrete Planung für bezahlbaren Wohnraum bis 2035. Es wird erwähnt, dass das Thema Wohnen eine große Herausforderung darstellt und dass die Stadt Heidelberg mit dem \"10-Punkte-Programm Wohnen\" eine Strategie zur Umsetzung ihres Handlungsprogramms Wohnen hat. Ziel ist es, durch verschiedene Wohnungsangebote in der ganzen Stadt durchgemischte Quartiere zu fördern und so bezahlbaren und bedarfsgerechten Wohnraum für alle sicherzustellen. Allerdings werden im bereitgestellten Text keine spezifischen Maßnahmen oder Ziele bis 2035 genannt.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 76,
+        "expected_words": 32,
+        "ratio": 2.38
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 3,
+        "groundedness": 4,
+        "completeness": 2,
+        "relevance": 3,
+        "language_quality": 5,
+        "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle spezifischen Aspekte der Frage wie konkrete Pläne für bezahlbaren Wohnraum bis 2035 abdeckt."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 3, \"groundedness\": 4, \"completeness\": 2, \"relevance\": 3, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist am niedrigsten, da die Antwort nicht alle spezifischen Aspekte der Frage wie konkrete Pläne für bezahlbaren Wohnraum bis 2035 abdeckt.\"}"
+    }
+  },
+  {
+    "q_id": "Q002",
+    "question": "Was wünschen sich Bürgerinnen und Bürger für bezahlbaren Wohnraum?",
+    "generated_answer": "Bürgerinnen und Bürger wünschen sich für den bezahlbaren Wohnraum in Heidelberg folgende Aspekte:\n\n1. **Preiswerter Wohnraum**: Die Mieten sollen erschwinglich sein, insbesondere für Menschen mit mittlerem Einkommen, Studierende, Familien und Menschen in prekären Lebenslagen.\n2. **Barrierefreie und altersgerechte Wohnungen**: Es soll mehr barrierefreier und altersgerechter Wohnraum geben, der auch für Menschen mit Behinderung geeignet ist.\n3. **Flexibilität**: Die Wohnungen sollen flexibel gestaltet sein, sodass sie sich an die Bedürfnisse der Bewohner anpassen können (z.B. durch modulare Konzepte).\n4. **Klimaneutralität und Nachhaltigkeit**: Der neue Wohnraum soll klimaneutral gebaut werden.\n5. **Qualitativ hochwertiger Wohnraum**: Die Wohnungen sollen qualitativ hochwertig sein, um die Lebensqualität der Bewohner zu verbessern.\n6. **Öffentliche oder genossenschaftliche Hand**: Es wird gefordert, dass mehr Wohnraum in öffentlicher oder genossenschaftlicher Hand gebaut und verwaltet wird, um Profitinteressen auszuschließen.\n7. **Attraktive Lage und Infrastruktur**: Die Wohnungen sollen gut mit der Infrastruktur verbunden sein (z.B. Nahverkehr) und attraktiv gelegen sein.\n8. **Unterstützung für verschiedene Lebensphasen**: Es soll mehr Wohnraum geben, der auf unterschiedliche Lebensphasen zugeschnitten ist, wie Familienwohnungen oder kleine Wohneinheiten für ältere Menschen.\n\nDiese Forderungen zielen darauf ab, dass Heidelberg ein durchmischtes und inklusives Wohngebiet bleibt, das für alle Einkommensgruppen erschwinglich ist.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.31413612565445026,
+        "generated_words": 191,
+        "expected_words": 20,
+        "ratio": 9.55
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte vollständiger sein, indem spezifischere Forderungen wie die Förderung des Mietshäuser-Syndikats oder aktive kommunale Bodenpolitik erwähnt werden."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte vollständiger sein, indem spezifischere Forderungen wie die Förderung des Mietshäuser-Syndikats oder aktive kommunale Bodenpolitik erwähnt werden.\"}"
+    }
+  },
+  {
+    "q_id": "Q004",
+    "question": "Wie viele geförderte Wohnungen soll es 2035 je 1.000 Personen geben?",
+    "generated_answer": "Bis zum Jahr 2035 soll die Zahl von 20 geförderten Wohnungen je 1.000 Personen beibehalten werden.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 16,
+        "expected_words": 18,
+        "ratio": 0.89
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 5,
+        "completeness": 2,
+        "relevance": 4,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist unvollständig, da sie nur die geförderten Wohnungen erwähnt und nicht die geförderten Haushalte."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 5, \"completeness\": 2, \"relevance\": 4, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist unvollständig, da sie nur die geförderten Wohnungen erwähnt und nicht die geförderten Haushalte.\"}"
+    }
+  },
+  {
+    "q_id": "Q005",
+    "question": "Wie hat sich die Zahl der Obdachlosen in Heidelberg entwickelt?",
+    "generated_answer": "Die Zahl der Obdachlosen in Heidelberg ist absolut von rund 450 auf knapp 500 Personen angestiegen, was einer Zunahme von etwa 5 Prozent entspricht. Im Zeitraum von Juni 2022 bis Dezember 2024 hat sich die Zahl der Obdachlosen um rund +4 Prozent entwickelt, mit einem Stand von rund 330 Obdachlosen je 100.000 Einwohner Ende 2024. Ziel ist es, den prozentualen Anteil an Obdachlosen an der Bevölkerung nicht steigen zu lassen.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 70,
+        "expected_words": 27,
+        "ratio": 2.59
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 4,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Groundedness erhielt eine leicht abgezogene Bewertung aufgrund der zusätzlichen Informationen über die Entwicklung von Juni 2022 bis Dezember 2024, die nicht explizit in der erwarteten Antwort enthalten waren."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 4, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Groundedness erhielt eine leicht abgezogene Bewertung aufgrund der zusätzlichen Informationen über die Entwicklung von Juni 2022 bis Dezember 2024, die nicht explizit in der erwarteten Antwort enthalten waren.\"}"
+    }
+  },
+  {
+    "q_id": "Q006",
+    "question": "Welche Herausforderung nennt das STEK 2035 als eine der größten beim Thema Wohnen?",
+    "generated_answer": "Der bereitgestellte Text erwähnt mehrere Herausforderungen, aber er nennt bezüglich des Themas Wohnen die Bereitstellung von bezahlbarem und bedarfsgerechtem Wohnraum für alle als eine der drängenden Fragen. Daher kann man sagen, dass die Bereitstellung bezahlbaren und bedarfsgerechten Wohnraums eine der größten Herausforderungen beim Thema Wohnen nach dem STEK 2035 ist.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 50,
+        "expected_words": 23,
+        "ratio": 2.17
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte klarer sein, welche Herausforderung als die größte bezeichnet wird."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte klarer sein, welche Herausforderung als die größte bezeichnet wird.\"}"
+    }
+  },
+  {
+    "q_id": "Q007",
+    "question": "Welche Maßnahmen plant Heidelberg für den Ausbau des Radverkehrs?",
+    "generated_answer": "Die Stadt Heidelberg plant verschiedene Maßnahmen für den Ausbau des Radverkehrs, wie sie in der Radstrategie 2030 festgelegt sind. Diese Strategie umfasst einen Maßnahmenkatalog mit 112 priorisierten Projekten im gesamten Stadtgebiet. Ziel ist ein sicheres, durchgängig befahrbares und attraktives Radnetz, das alle Stadtteile erschließt und eine gute Anbindung an die Region gewährleistet. Es wird vorgesehen, dass die Infrastruktur von Fahrradabstell- oder Radverkehrsanlagen ausgebaut wird. Zudem sollen Radschnellverbindungen geschaffen werden, um sowohl das Umland besser an die innerstädtischen Bereiche anzubinden als auch Heidelberg besser mit dem Umland zu vernetzen. Die Umsetzung der Maßnahmen erfolgt schrittweise in Arbeitsprogrammen, abhängig von verfügbaren Personal- und Haushaltsmitteln.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.6470588235294117,
+        "generated_words": 102,
+        "expected_words": 22,
+        "ratio": 4.64
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "\"completeness\" ist das niedrigste Kriterium, da die Antwort nicht explizit auf den MRO 2035+ und die Anbindung von Konversionsflächen und Wissenschaftsstandorte an das ÖPNV- und Radwegenetz eingeht."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist das niedrigste Kriterium, da die Antwort nicht explizit auf den MRO 2035+ und die Anbindung von Konversionsflächen und Wissenschaftsstandorte an das ÖPNV- und Radwegenetz eingeht.\"}"
+    }
+  },
+  {
+    "q_id": "Q008",
+    "question": "Was sind autofreie Quartiere im Kontext der STEK-Planung?",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifische Erwähnung oder Beschreibung von \"autofreien Quartieren\" im Kontext der STEK-Planung. Daher kann auf Basis des vorliegenden Materials keine Aussage über autofreie Quartiere getroffen werden.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 30,
+        "expected_words": 17,
+        "ratio": 1.76
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 2,
+        "groundedness": 3,
+        "completeness": 2,
+        "relevance": 2,
+        "language_quality": 4,
+        "reasoning": "Die Antwort ist unvollständig und nicht direkt relevant zur Frage nach autofreien Quartieren im Kontext der STEK-Planung."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 2, \"groundedness\": 3, \"completeness\": 2, \"relevance\": 2, \"language_quality\": 4, \"reasoning\": \"Die Antwort ist unvollständig und nicht direkt relevant zur Frage nach autofreien Quartieren im Kontext der STEK-Planung.\"}"
+    }
+  },
+  {
+    "q_id": "Q009",
+    "question": "Wie soll sich der öffentliche Nahverkehr entwickeln?",
+    "generated_answer": "Der öffentliche Nahverkehr in Heidelberg soll weiter ausgebaut werden, insbesondere das Straßenbahnnetz durch das Mobilitätsnetz Heidelberg. Dazu gehören Maßnahmen wie der Umbau der Haltestelle Hauptbahnhof und die Erweiterung des Netzwerks in Richtung Bahnstadt. Seit Januar 2019 werden Elektrobusse in der Innenstadt eingesetzt, was einen Schritt hin zu umweltfreundlicheren Transportmitteln darstellt. Ziel ist es, dass mehr Menschen den öffentlichen Nahverkehr nutzen und die Zahl der täglich beförderten Fahrgäste im ÖPNV bis 2035 über 150.000 betragen soll.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.56,
+        "generated_words": 75,
+        "expected_words": 14,
+        "ratio": 5.36
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit die Priorität von Radinfrastruktur und Multimodalität erwähnt."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte vollständiger sein, indem sie explizit die Priorität von Radinfrastruktur und Multimodalität erwähnt.\"}"
+    }
+  },
+  {
+    "q_id": "Q010",
+    "question": "Was wünschen sich Bürger für den Radverkehr und die Straßengestaltung?",
+    "generated_answer": "Bürgerinnen und Bürger von Heidelberg wünschen sich eine Reihe von Verbesserungen für den Radverkehr und die Straßengestaltung. Dazu gehören:\n\n- Ein durchgehendes, funktionierendes und sicheres Radwegenetz bis an alle Stadtränder und darüber hinaus.\n- Mehr Kooperationen zwischen verschiedenen Gruppen (z.B. Alt und Jung, Menschen unterschiedlicher Herkunft) zur Förderung des Radverkehrs.\n- Eine autofreie Grüne Stadt mit einer stark ausgeprägten Radinfrastruktur.\n- Breite Gehwege und speziell ausgelagerte Fahrradstraßen/Wege.\n- Ampelschaltungen, die nicht primär für Autofahrer, sondern für Fußgänger und Radfahrer optimiert sind.\n- Mehr und bessere Radwege, die deutlich sichtbar auf oder neben Straßen markiert sind und mit Leitplanken geschützt vor dem Autoverkehr.\n- Dezentrale Radparkhäuser.\n\nDarüber hinaus möchten sie eine Stadt, in der das Fahrrad sowie der öffentliche Nahverkehr die Hauptverkehrsmittel sind und in der das Auto weitgehend aus dem Stadtbild verschwunden ist. Es gibt auch den Wunsch nach einer sanfteren Straßengestaltung, die Radfahrern und Fußgängern mehr Sicherheit bietet und weniger auf den Automobilverkehr ausgelegt ist.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.36538461538461536,
+        "generated_words": 156,
+        "expected_words": 19,
+        "ratio": 8.21
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte vollständiger sein, indem spezifischere Anforderungen wie Rasengittersteine oder die Entsiegelung von Parkplätzen erwähnt werden."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte vollständiger sein, indem spezifischere Anforderungen wie Rasengittersteine oder die Entsiegelung von Parkplätzen erwähnt werden.\"}"
+    }
+  },
+  {
+    "q_id": "Q011",
+    "question": "Welche ÖPNV-Maßnahmen plant Heidelberg im Zusammenhang mit klimawirksamen Freiräumen?",
+    "generated_answer": "Der bereitgestellte Text bezieht sich auf verschiedene Maßnahmen zur Verbesserung der ÖPNV in Heidelberg, aber es gibt keine spezifische Erwähnung von Maßnahmen im direkten Zusammenhang mit \"klimawirksamen Freiräumen\". Es wird erwähnt, dass die Stadt Heidelberg plant, den öffentlichen Nahverkehr weiter auszubauen und innovative Mobilitätskonzepte in Entwicklungsgebieten umzusetzen. Zudem sollen Konversionsflächen und Wissenschaftsstandorte an das ÖPNV- und Radwegenetz angebunden werden. Allerdings ist nicht explizit beschrieben, wie diese Maßnahmen direkt mit klimawirksamen Freiräumen verbunden sind.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.9041095890410958,
+        "generated_words": 73,
+        "expected_words": 22,
+        "ratio": 3.32
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 3,
+        "groundedness": 4,
+        "completeness": 2,
+        "relevance": 2,
+        "language_quality": 5,
+        "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage über klimawirksame Freiräume abdeckt."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 3, \"groundedness\": 4, \"completeness\": 2, \"relevance\": 2, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage über klimawirksame Freiräume abdeckt.\"}"
+    }
+  }
+]

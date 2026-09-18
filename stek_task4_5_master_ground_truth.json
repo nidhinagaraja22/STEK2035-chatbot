@@ -1,0 +1,1145 @@
+{
+  "_meta": {
+    "purpose": "Consolidated master evaluation dataset fulfilling professor's Task 4 (50-100 question evaluation set across 12 categories) and Task 5 (ground truth: expected answer, relevant documents/chunks, answerable, authority level, official-vs-citizen).",
+    "total_questions": 60,
+    "sourcing_method": "All relevant_chunk entries below were located by direct keyword search + manual reading of corpus_v2_chunks.jsonl (1,266 chunks). idx = 0-based line number in corpus_v2_chunks.jsonl. Questions Q001-Q020 consolidate and correct the earlier stek_eval_ground_truth_template.json (chunk_ids now filled in, replacing TO_VERIFY placeholders) and stek_task6_ground_truth.json (10 IR-metric queries, reformatted into this schema). Questions Q021-Q050 are new, added to fill category and quota gaps.",
+    "important_caveat": "Ground truth is pragmatic and keyword-search-derived, not an exhaustive manual annotation of all 1,266 chunks per question. Treat relevant_chunks lists as a floor, not a ceiling — additional relevant chunks likely exist beyond what targeted search surfaced. This must be stated wherever Precision@k/Recall@k figures derived from this file are reported.",
+    "category_counts": {
+      "housing": 6,
+      "mobility": 5,
+      "climate": 5,
+      "economy": 4,
+      "culture": 4,
+      "social": 4,
+      "urban_development": 5,
+      "citizen_participation": 4,
+      "specific_factual": 5,
+      "cross_document": 3,
+      "vague": 3,
+      "unanswerable": 2
+    },
+    "completeness_status": "45 of 50 questions have verified relevant_chunks (real idx from corpus_v2_chunks.jsonl, confirmed via direct search). 5 remain without chunks, of which 0 are answerable-but-unverified (should be 0 if this pass is complete) and 5 are correctly empty by design (vague/unanswerable categories, where no relevant chunk should exist). One question (Q011) was revised during this verification pass — the original claim about PHV tram access could not be confirmed in the source text and was replaced with a verified alternative.",
+    "schema": {
+      "expected_answer": "2-3 sentence gold summary, grounded in real source text",
+      "relevant_documents": "document_id values of the chunks primarily supporting the answer",
+      "relevant_chunks": "list of {idx, chunk_id, document_id} — idx is the 0-based line number in corpus_v2_chunks.jsonl",
+      "answerable": "true/false — can the corpus answer this at all",
+      "expected_authority_level": "1 (official strategy) to 4 (consultation/citizen) per the corpus's actual DAT levels; null if not applicable (vague/unanswerable)",
+      "is_official_policy": "true = represents committed city policy; false = citizen/participant opinion; null if not applicable"
+    },
+    "corpus_version": "v3 (rebuilt from raw source files, 100-word/20-word-overlap chunking, 2944 total chunks)",
+    "reverification_status": "41/45 questions fully re-verified against corpus_v3 with confirmed chunk_id/chunk_uid. Unresolved: ['Q003', 'Q009', 'Q038', 'Q039'].",
+    "expansion_note": "Expanded from 50 to 60 questions — 4 new answerable questions (Q051-Q054, verified directly against raw source text) plus 6 new unanswerable/vague questions (Q055-Q060) to help meet Task 8's 10-20 target."
+  },
+  "questions": [
+    {
+      "q_id": "Q001",
+      "question": "Was plant die Stadt Heidelberg konkret für bezahlbaren Wohnraum bis 2035?",
+      "category": "housing",
+      "answerable": true,
+      "expected_answer": "STEK 2035 formuliert Ziel 3.2: vielfältigen und bezahlbaren Wohnraum in allen Stadtteilen verfügbar machen, mit Angebotserweiterung für Starterhaushalte, Familien und Senioren. Kleinere, bezahlbare Wohnungen sollen freiwerdende größere Wohnungen für andere Haushalte ermöglichen.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 151,
+          "chunk_uid": "doc::stek_a3_strategy::151",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q002",
+      "question": "Was wünschen sich Bürgerinnen und Bürger für bezahlbaren Wohnraum?",
+      "category": "housing",
+      "answerable": true,
+      "expected_answer": "Bürger fordern u.a. Förderung des Mietshäuser-Syndikats, aktive kommunale Bodenpolitik, mehr Studierendenwohnheime, und kritisieren Wohnraum, der vorrangig für Reiche entwickelt wird.",
+      "relevant_documents": [
+        "online_beteiligung_2024"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 494,
+          "chunk_uid": "doc::online_beteiligung_2024::494",
+          "document_id": "online_beteiligung_2024"
+        }
+      ],
+      "expected_authority_level": 4,
+      "is_official_policy": false,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q003",
+      "question": "Wie hoch ist der Anteil geförderter Wohnungen bei den Konversionsflächen?",
+      "category": "housing",
+      "answerable": true,
+      "expected_answer": "Auf Campbell Barracks/Mark-Twain-Village entstehen 1.400 Wohnungen, 70% als preiswerter Wohnraum. Beim US Hospital werden 50% der 600 Wohnungen nach einem neuartigen Konzept vergeben.",
+      "relevant_documents": [
+        "web_pdf_statusbericht"
+      ],
+      "relevant_chunks": [],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "Corrected: 'answerable=false' was set during the corpus_v3 rebuild, where web_pdf_statusbericht was genuinely missing from the 12 raw source files used at the time. This question IS answerable in the actual v2 corpus, which has web_pdf_statusbericht — confirmed by the cascading retrieval test finding the correct document. relevant_chunks left empty since exact chunk_id was never re-verified against v2's own chunk numbering (only document-level match confirmed)."
+    },
+    {
+      "q_id": "Q004",
+      "question": "Wie viele geförderte Wohnungen soll es 2035 je 1.000 Personen geben?",
+      "category": "housing",
+      "answerable": true,
+      "expected_answer": "Bis 2035 sollen 20 geförderte Wohnungen je 1.000 Personen und 40 geförderte Haushalte je 1.000 Personen beibehalten werden.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 64,
+          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::64",
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q005",
+      "question": "Wie hat sich die Zahl der Obdachlosen in Heidelberg entwickelt?",
+      "category": "housing",
+      "answerable": true,
+      "expected_answer": "Die Zahl der Obdachlosen ist von rund 450 auf knapp 500 Personen gestiegen (+5%). Zielwert: der prozentuale Anteil an Obdachlosen an der Bevölkerung soll nicht weiter steigen.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 67,
+          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::67",
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q006",
+      "question": "Welche Herausforderung nennt das STEK 2035 als eine der größten beim Thema Wohnen?",
+      "category": "housing",
+      "answerable": true,
+      "expected_answer": "Eine bedarfsgerechte Wohnraumversorgung wird als eine der größten Herausforderungen genannt, gestützt auf die Heidelberg-Studie 2023, wo hohe Mieten als wichtigstes Problem benannt wurden.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 137,
+          "chunk_uid": "doc::stek_a3_strategy::137",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q007",
+      "question": "Welche Maßnahmen plant Heidelberg für den Ausbau des Radverkehrs?",
+      "category": "mobility",
+      "answerable": true,
+      "expected_answer": "Laut MRO 2035+ werden Radinfrastruktur, Multimodalität und öffentlicher Nahverkehr weiter ausgebaut. Konversionsflächen und Wissenschaftsstandorte sollen an das ÖPNV- und Radwegenetz angeschlossen werden.",
+      "relevant_documents": [
+        "mro_konzeptbericht"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 53,
+          "chunk_uid": "doc::mro_konzeptbericht::53",
+          "document_id": "mro_konzeptbericht"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q008",
+      "question": "Was sind autofreie Quartiere im Kontext der STEK-Planung?",
+      "category": "mobility",
+      "answerable": true,
+      "expected_answer": "Innovative Mobilitätskonzepte wie autofreie Quartiere sind für die Entwicklungsgebiete vorgesehen, kombiniert mit Anschluss an ÖPNV- und Radwegenetz.",
+      "relevant_documents": [
+        "mro_konzeptbericht"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 54,
+          "chunk_uid": "doc::mro_konzeptbericht::54",
+          "document_id": "mro_konzeptbericht"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q009",
+      "question": "Wie soll sich der öffentliche Nahverkehr entwickeln?",
+      "category": "mobility",
+      "answerable": true,
+      "expected_answer": "Der Verkehrsentwicklungsplan/Klimamobilitätsplan 2035 (VEP/KMP) ist das zentrale Steuerungsinstrument; Priorität haben Radinfrastruktur, Multimodalität und ÖPNV-Ausbau.",
+      "relevant_documents": [
+        "mro_konzeptbericht"
+      ],
+      "relevant_chunks": [
+        {
+          "idx": 665,
+          "chunk_id": 10,
+          "document_id": "mro_konzeptbericht"
+        },
+        {
+          "idx": 672,
+          "chunk_id": 17,
+          "document_id": "mro_konzeptbericht"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "UNRESOLVED against corpus_v3: search phrase too generic (15 matches) — needs targeted manual disambiguation"
+    },
+    {
+      "q_id": "Q010",
+      "question": "Was wünschen sich Bürger für den Radverkehr und die Straßengestaltung?",
+      "category": "mobility",
+      "answerable": true,
+      "expected_answer": "Bürger fordern u.a. Rasengittersteine statt Asphalt, Entsiegelung von Parkplätzen, mehr vertikale Begrünung, und sicherere Radwege ohne Schotter-Verletzungsgefahr für Kinder.",
+      "relevant_documents": [
+        "online_beteiligung_2024"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 1093,
+          "chunk_uid": "doc::online_beteiligung_2024::1093",
+          "document_id": "online_beteiligung_2024"
+        }
+      ],
+      "expected_authority_level": 4,
+      "is_official_policy": false,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q011",
+      "question": "Welche ÖPNV-Maßnahmen plant Heidelberg im Zusammenhang mit klimawirksamen Freiräumen?",
+      "category": "mobility",
+      "answerable": true,
+      "expected_answer": "Laut MRO 2035+ sollen neue ÖPNV-Verbindungen geschaffen werden, kombiniert mit verbesserter Durchlüftungsfunktion und Energieversorgung aus erneuerbaren Quellen als Teil der klimaangepassten Quartiersentwicklung.",
+      "relevant_documents": [
+        "mro_konzeptbericht"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 229,
+          "chunk_uid": "doc::mro_konzeptbericht::229",
+          "document_id": "mro_konzeptbericht"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q012",
+      "question": "Bis wann will Heidelberg klimaneutral sein?",
+      "category": "climate",
+      "answerable": true,
+      "expected_answer": "Gesamtstädtische Klimaneutralität ist bis spätestens 2040 vorgesehen; die Verwaltung selbst soll bereits 2030 weitestgehend klimaneutral sein. Bilanzierung erfolgt nach der BISKO-Methode.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 87,
+          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::87",
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q013",
+      "question": "Welche Ziele verfolgt Heidelberg beim Klimaschutz laut Nachhaltigkeitsbericht?",
+      "category": "climate",
+      "answerable": true,
+      "expected_answer": "Der Nachhaltigkeitsbericht 2025 dokumentiert Treibhausgasemissionen seit 1987 und verfolgt Zielerreichung mit realistischer Zielsetzung als Monitoring-Ansatz für die Klimaschutzziele.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 90,
+          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::90",
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q014",
+      "question": "Wie wird Regenwasser im Patrick-Henry-Village gehandhabt?",
+      "category": "climate",
+      "answerable": true,
+      "expected_answer": "Fast das komplette Regenwasser wird vor Ort versickert, gereinigt oder gespeichert. Ein zentraler See dient zum Speichern, Reinigen und zur Kühlung des Stadtteils; gespeichertes Wasser wird in Trockenperioden zum Gießen genutzt.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 81,
+          "chunk_uid": "doc::stek_a3_strategy::81",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q015",
+      "question": "Welche Herausforderungen nennt das STEK bei Hitzebelastung?",
+      "category": "climate",
+      "answerable": true,
+      "expected_answer": "Klimawirksame Freiräume, Quartiersbegrünung und Entsiegelung von Flächen werden als Maßnahmen gegen Hitzebelastung genannt; wichtige Luftleitbahnen sollen zur Durchlüftung erhalten bleiben.",
+      "relevant_documents": [
+        "mro_konzeptbericht"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 247,
+          "chunk_uid": "doc::mro_konzeptbericht::247",
+          "document_id": "mro_konzeptbericht"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q016",
+      "question": "Was fordern Bürger zum Umgang mit versiegelten Flächen?",
+      "category": "climate",
+      "answerable": true,
+      "expected_answer": "Bürger fordern Entsiegelung von Parkplätzen (z.B. Bismarckplatz, Uniplatz, Friedrich-Ebert-Platz), wasserdurchlässige Oberflächen, Schwammstrassen und mehr Bäume statt versiegelter Fläche.",
+      "relevant_documents": [
+        "online_beteiligung_2024"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 171,
+          "chunk_uid": "doc::online_beteiligung_2024::171",
+          "document_id": "online_beteiligung_2024"
+        }
+      ],
+      "expected_authority_level": 4,
+      "is_official_policy": false,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q017",
+      "question": "Welche Rolle spielen Wissenschaft und Forschung im STEK 2035?",
+      "category": "economy",
+      "answerable": true,
+      "expected_answer": "Wissenschaft und Forschung sollen zum Motor der Stadtentwicklung gemacht werden; Heidelberg positioniert sich als Wissenschaftsstandort mit Austausch zwischen Wissenschaft, Unternehmen, Kliniken und Bildungseinrichtungen.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025",
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 253,
+          "chunk_uid": "doc::stek_a3_strategy::253",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q018",
+      "question": "Wie hoch ist der Innovationsindex für Heidelberg und was ist das Ziel bis 2035?",
+      "category": "economy",
+      "answerable": true,
+      "expected_answer": "Der Innovationsindex betrug 2023 rund 58,7 Prozent. Zielwert bis 2035: mindestens 60 Prozent und eine Spitzenposition in Baden-Württemberg.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 150,
+          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::150",
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q019",
+      "question": "Wie will Heidelberg Fachkräfte anziehen?",
+      "category": "economy",
+      "answerable": true,
+      "expected_answer": "Bezahlbarer Wohnraum, Abbau formaler Hürden bei der Wohnungssuche, und internationale Vernetzung werden als Standortfaktoren für Fachkräfte genannt.",
+      "relevant_documents": [
+        "online_beteiligung_2024",
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 38,
+          "chunk_uid": "doc::online_beteiligung_2024::38",
+          "document_id": "online_beteiligung_2024"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q020",
+      "question": "Wie viele Arbeitsplätze und Wohnungen kamen laut dem 2015er Stadtentwicklungsplan seit 1974 hinzu?",
+      "category": "economy",
+      "answerable": true,
+      "expected_answer": "Gegenüber 1974 verfügt die Stadt bei nur unwesentlich größerer Einwohnerzahl über 20.000 Arbeitsplätze und 16.000 Wohnungen mehr.",
+      "relevant_documents": [
+        "stadtentwicklungsplan_2015"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 25,
+          "chunk_uid": "doc::stadtentwicklungsplan_2015::25",
+          "document_id": "stadtentwicklungsplan_2015"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q021",
+      "question": "Wie berücksichtigt das STEK 2035 Kultur und gesellschaftliche Vielfalt?",
+      "category": "culture",
+      "answerable": true,
+      "expected_answer": "Die Kulturlandschaft sowie die kulturelle Vielfalt in der Stadt sollen noch sichtbarer gemacht werden — ein Ziel aus den Arbeitstreffen-Diskussionen zur Stadtentwicklung.",
+      "relevant_documents": [
+        "arbeitstreffen_2024"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 49,
+          "chunk_uid": "doc::arbeitstreffen_2024::49",
+          "document_id": "arbeitstreffen_2024"
+        }
+      ],
+      "expected_authority_level": 4,
+      "is_official_policy": false,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q022",
+      "question": "Was sind Freizeit- und Kulturangebote laut STEK 2035?",
+      "category": "culture",
+      "answerable": true,
+      "expected_answer": "Freizeit- und Kulturangebote sowie Engagement in Vereinen werden im Kontext von sozialem Zusammenhalt und Lebensqualität in Heidelberg genannt.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 247,
+          "chunk_uid": "doc::stek_a3_strategy::247",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q023",
+      "question": "Was wünschen sich Bürger für das kulturelle Angebot in Heidelberg?",
+      "category": "culture",
+      "answerable": true,
+      "expected_answer": "Bürgermeinungen sind gemischt: manche wünschen mehr kulturelle Angebote und Kinderbetreuung, andere kritisieren zu viele elitäre Kulturveranstaltungen und fordern weniger Ressourcenverschwendung.",
+      "relevant_documents": [
+        "online_beteiligung_2024"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 966,
+          "chunk_uid": "doc::online_beteiligung_2024::966",
+          "document_id": "online_beteiligung_2024"
+        }
+      ],
+      "expected_authority_level": 4,
+      "is_official_policy": false,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q024",
+      "question": "Wie soll Kultur zugänglicher gemacht werden?",
+      "category": "culture",
+      "answerable": true,
+      "expected_answer": "Ziel ist eine dynamische und für alle zugängliche Kultur, als Teil der Arbeitstreffen-Diskussionen zur gesellschaftlichen Teilhabe.",
+      "relevant_documents": [
+        "arbeitstreffen_2024"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 972,
+          "chunk_uid": "doc::online_beteiligung_2024::972",
+          "document_id": "online_beteiligung_2024"
+        }
+      ],
+      "expected_authority_level": 4,
+      "is_official_policy": false,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q025",
+      "question": "Welche Maßnahmen gibt es gegen soziale Segregation?",
+      "category": "social",
+      "answerable": true,
+      "expected_answer": "Das Arbeitstreffen 2024 behandelt explizit das Thema 'Aufgeteilte Stadt (Segregation)' im Rahmen einer lebenswerten, gemischten und inklusiven Stadt als eines von drei Kernthemen.",
+      "relevant_documents": [
+        "arbeitstreffen_2024"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 21,
+          "chunk_uid": "doc::arbeitstreffen_2024::21",
+          "document_id": "arbeitstreffen_2024"
+        }
+      ],
+      "expected_authority_level": 4,
+      "is_official_policy": false,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q026",
+      "question": "Welche Gruppen benötigen laut STEK 2035 besonders barrierefreien Wohnraum?",
+      "category": "social",
+      "answerable": true,
+      "expected_answer": "Menschen mit Behinderung und ältere Menschen werden explizit genannt; Ziel ist gute soziale Durchmischung und bezahlbarer Wohnraum auch für untere/mittlere Einkommensgruppen.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 150,
+          "chunk_uid": "doc::stek_a3_strategy::150",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q027",
+      "question": "Wie hat sich der Anteil barrierefreier Wohnungen entwickelt?",
+      "category": "social",
+      "answerable": true,
+      "expected_answer": "Der Nachhaltigkeitsbericht 2025 verfolgt den Anteil barrierefreier Wohnungen an Wohnungsangeboten als eigenen Indikator, als Annäherung an den barrierefreien Wohnungsmarkt.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 60,
+          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::60",
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q028",
+      "question": "Wie fördert Heidelberg den sozialen Zusammenhalt in Nachbarschaften?",
+      "category": "social",
+      "answerable": true,
+      "expected_answer": "Öffentliche Orte der Begegnung und Räume für Interaktion und Selbstorganisation in der Nachbarschaft sollen den Zusammenhalt fördern; nachbarschaftliche Netzwerke wirken Vereinsamung entgegen.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 313,
+          "chunk_uid": "doc::stek_a3_strategy::313",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q029",
+      "question": "Was sind die fünf wichtigsten Handlungsfelder des STEK 2035?",
+      "category": "urban_development",
+      "answerable": true,
+      "expected_answer": "Die zentralen Themen sind Wohnen, Mobilität, Umwelt/Klimaschutz, Wirtschaft und Soziales — konsistent mit den fünf über LDA-Themenmodellierung identifizierten Korpusthemen.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 47,
+          "chunk_uid": "doc::stek_a3_strategy::47",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q030",
+      "question": "Was ist das Patrick-Henry-Village und wie groß wird es?",
+      "category": "urban_development",
+      "answerable": true,
+      "expected_answer": "Das PHV wird der 16. Stadtteil Heidelbergs mit 97,2 Hektar Fläche. Der Masterplan wurde 2020 vom Gemeinderat beschlossen; rund 10.000 Menschen sollen dort leben, Platz für 5.000 Arbeitsplätze.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 78,
+          "chunk_uid": "doc::stek_a3_strategy::78",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q031",
+      "question": "Wie hoch ist der Smart City Index für Heidelberg?",
+      "category": "urban_development",
+      "answerable": true,
+      "expected_answer": "Der Smart City Index der BITKOM betrug 2024 rund 78,9 Prozent, ein Anstieg von rund 16 Prozentpunkten seit 2021.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 151,
+          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::151",
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q032",
+      "question": "Wie will Heidelberg regionale und internationale Stärken verbinden?",
+      "category": "urban_development",
+      "answerable": true,
+      "expected_answer": "Heidelberg setzt auf Internationalität und Weltoffenheit; Wirtschaft, Wissenschaft, Bildung, Kultur und soziales Miteinander sind als verbundene Stärken genannt, ebenso gebündelte Schienenwege und Energiekorridore.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 236,
+          "chunk_uid": "doc::stek_a3_strategy::236",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q033",
+      "question": "Wie will Heidelberg die lokale Demokratie stärken?",
+      "category": "urban_development",
+      "answerable": true,
+      "expected_answer": "Heidelberg setzt sich zum Ziel, die lokale Demokratie wehrhaft und krisensicher aufzustellen und räumlicher Polarisierung entgegenzuwirken, aufbauend auf bestehendem Bürgerengagement.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 282,
+          "chunk_uid": "doc::stek_a3_strategy::282",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q034",
+      "question": "Wie wurden Bürgerinnen und Bürger am STEK 2035 beteiligt?",
+      "category": "citizen_participation",
+      "answerable": true,
+      "expected_answer": "Beteiligung erfolgte über die Zukunftsreise 2023 als Auftakt, gefolgt von Online-Beteiligung und aufsuchenden Formaten 2024, sowie Workshops wie 'Zukunft gestalten' und 'Wege zu den Zielen'.",
+      "relevant_documents": [
+        "zukunftsreise_2035",
+        "online_beteiligung_2024"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 0,
+          "chunk_uid": "doc::zukunftsreise_2035::0",
+          "document_id": "zukunftsreise_2035"
+        }
+      ],
+      "expected_authority_level": 4,
+      "is_official_policy": false,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q035",
+      "question": "Was war der Zweck der Zukunftsreise 2023?",
+      "category": "citizen_participation",
+      "answerable": true,
+      "expected_answer": "Die Zukunftsreise war die öffentliche Auftaktveranstaltung der Bürgerbeteiligung zum Stadtentwicklungskonzept, bei der Bürger eingeladen wurden, ihre Wünsche und Fragen an die Zukunft Heidelbergs zu formulieren.",
+      "relevant_documents": [
+        "zukunftsreise_2035"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 0,
+          "chunk_uid": "doc::zukunftsreise_2035::0",
+          "document_id": "zukunftsreise_2035"
+        }
+      ],
+      "expected_authority_level": 4,
+      "is_official_policy": false,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q036",
+      "question": "Wie beschreibt das STEK die eigene Beteiligungskultur?",
+      "category": "citizen_participation",
+      "answerable": true,
+      "expected_answer": "Das STEK 2035 wird als Ergebnis einer lebendigen Beteiligungskultur mit kontinuierlichem Dialog zwischen Bürgerschaft, Zivilgesellschaft und Wissenschaft beschrieben.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 0,
+          "chunk_uid": "doc::stek_a3_strategy::0",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q037",
+      "question": "Welche Räume für kulturelle Nutzung fehlten laut Zukunftsreise-Diskussion?",
+      "category": "citizen_participation",
+      "answerable": true,
+      "expected_answer": "Bei der Zukunftsreise wurde diskutiert, welche Räume für kulturelle Nutzung in Heidelberg fehlen, als Teil der thematischen Auseinandersetzung mit Stadtentwicklungsfragen.",
+      "relevant_documents": [
+        "zukunftsreise_2035"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 12,
+          "chunk_uid": "doc::zukunftsreise_2035::12",
+          "document_id": "zukunftsreise_2035"
+        }
+      ],
+      "expected_authority_level": 4,
+      "is_official_policy": false,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q038",
+      "question": "Wer hat den Masterplan für das Patrick-Henry-Village beschlossen und wann?",
+      "category": "specific_factual",
+      "answerable": true,
+      "expected_answer": "Der Heidelberger Gemeinderat hat den Masterplan für das PHV im Jahr 2020 beschlossen.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "idx": 876,
+          "chunk_id": 25,
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "UNRESOLVED against corpus_v3: specific 'Gemeinderat...2020...beschlossen' decision fact not clearly located in stek_a3_strategy chunks checked so far — needs further targeted search."
+    },
+    {
+      "q_id": "Q039",
+      "question": "Wie viele Menschen wandern netto jährlich nach Heidelberg zu?",
+      "category": "specific_factual",
+      "answerable": true,
+      "expected_answer": "Im Jahr 2023 hatte Heidelberg ein positives Wanderungssaldo von +630 Personen, eine Entwicklung von rund +14 Prozent seit 2019.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "idx": 530,
+          "chunk_id": 35,
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "UNRESOLVED against corpus_v3: Wanderungssaldo topic confirmed present (chunk ~112), but exact +630/+14% figures not yet pinpointed to one chunk"
+    },
+    {
+      "q_id": "Q040",
+      "question": "Was war vor der Entwicklung des PHV auf dieser Fläche, und wie viele Menschen lebten dort?",
+      "category": "specific_factual",
+      "answerable": true,
+      "expected_answer": "Es war eine ehemalige US-amerikanische Wohnsiedlung/Militärfläche; bis zum Abzug der Amerikaner lebten dort etwa 5.000 Soldaten.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 79,
+          "chunk_uid": "doc::stek_a3_strategy::79",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q041",
+      "question": "Welche Stadtteile werden im STEK 2035 als unterversorgt mit Alltagsfunktionen genannt?",
+      "category": "specific_factual",
+      "answerable": true,
+      "expected_answer": "Boxberg, Emmertsgrund, Wieblingen, Schlierbach und Pfaffengrund werden als Stadtteile genannt, in denen einzelne Alltagsfunktionen fehlen und Wege länger sind.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 136,
+          "chunk_uid": "doc::stek_a3_strategy::136",
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q042",
+      "question": "Wie hoch ist der amtliche Bevölkerungsstand Heidelbergs im Vergleich zum Zensus 2011?",
+      "category": "specific_factual",
+      "answerable": true,
+      "expected_answer": "Der Nachhaltigkeitsbericht 2025 vergleicht die amtliche Bevölkerungszahl Heidelbergs mit dem Zensus 2011 als methodische Grundlage der Bevölkerungsstatistik.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 22,
+          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::22",
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q043",
+      "question": "Wie hängen Wohnraumentwicklung und Klimaschutz im STEK 2035 zusammen?",
+      "category": "cross_document",
+      "answerable": true,
+      "expected_answer": "STEK verbindet beide Themen durch klimaneutrale Quartiere, Fassaden-/Dachbegrünung bei Neubauten, Entsiegelung bei Nachverdichtung und die Kombination von Wohnraumentwicklung mit Grünraumversorgung laut MRO 2035+.",
+      "relevant_documents": [
+        "stek_a3_strategy",
+        "mro_konzeptbericht"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 137,
+          "chunk_uid": "doc::stek_a3_strategy::137",
+          "document_id": "stek_a3_strategy"
+        },
+        {
+          "chunk_id": 247,
+          "chunk_uid": "doc::mro_konzeptbericht::247",
+          "document_id": "mro_konzeptbericht"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q044",
+      "question": "Was hat sich zwischen dem Stadtentwicklungsplan 2015 und STEK 2035 in Bezug auf Arbeitsplätze verändert?",
+      "category": "cross_document",
+      "answerable": true,
+      "expected_answer": "Der 2015er Plan berichtet rückblickend von +20.000 Arbeitsplätzen und +16.000 Wohnungen gegenüber 1974; STEK 2035 setzt demgegenüber neue, vorausschauende Ziele wie Wissenschaft/Forschung als Wirtschaftsmotor.",
+      "relevant_documents": [
+        "stadtentwicklungsplan_2015",
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 25,
+          "chunk_uid": "doc::stadtentwicklungsplan_2015::25",
+          "document_id": "stadtentwicklungsplan_2015"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q045",
+      "question": "Wie stehen Bürgerwünsche und offizielle Pläne für Verkehrsberuhigung im Vergleich?",
+      "category": "cross_document",
+      "answerable": true,
+      "expected_answer": "Bürger fordern radikalere Maßnahmen wie durchgehende Entsiegelung und autofreie Altstadt; offizielle Pläne (MRO 2035+) sehen schrittweisen Ausbau von Radinfrastruktur und autofreien Quartieren in Entwicklungsgebieten vor — graduelleres Vorgehen als citizen wishes.",
+      "relevant_documents": [
+        "online_beteiligung_2024",
+        "mro_konzeptbericht"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 588,
+          "chunk_uid": "doc::online_beteiligung_2024::588",
+          "document_id": "online_beteiligung_2024"
+        },
+        {
+          "chunk_id": 54,
+          "chunk_uid": "doc::mro_konzeptbericht::54",
+          "document_id": "mro_konzeptbericht"
+        }
+      ],
+      "expected_authority_level": null,
+      "is_official_policy": null,
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+    },
+    {
+      "q_id": "Q046",
+      "question": "Ich möchte etwas über Heidelberg erfahren.",
+      "category": "vague",
+      "answerable": false,
+      "expected_answer": "NOT fact-checkable — correct behavior is a clarifying question offering topic categories (Wohnen, Mobilität, Klimaschutz, Wirtschaft, Kultur), not a broad unfocused answer.",
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "expected_authority_level": null,
+      "is_official_policy": null,
+      "notes": "Confirmed prior failure case — scores 0.863-0.868 spread 0.005, 4/5 chunks from Online-Beteiligung, generic answer given historically."
+    },
+    {
+      "q_id": "Q047",
+      "question": "Was plant Heidelberg?",
+      "category": "vague",
+      "answerable": false,
+      "expected_answer": "NOT fact-checkable — too broad to answer meaningfully; correct behavior is clarification, not a sprawling multi-topic answer.",
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "expected_authority_level": null,
+      "is_official_policy": null,
+      "notes": null
+    },
+    {
+      "q_id": "Q048",
+      "question": "Was sagt STEK 2035?",
+      "category": "vague",
+      "answerable": false,
+      "expected_answer": "NOT fact-checkable — no specific topic given; correct behavior is clarification.",
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "expected_authority_level": null,
+      "is_official_policy": null,
+      "notes": null
+    },
+    {
+      "q_id": "Q049",
+      "question": "Welche Orte sollte ich in Heidelberg als Tourist besuchen?",
+      "category": "unanswerable",
+      "answerable": false,
+      "expected_answer": "NOT answerable from STEK corpus — correct behavior is abstention with an explicit statement that this is outside the STEK 2035 document scope, optionally redirecting to heidelberg-marketing.de.",
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "expected_authority_level": null,
+      "is_official_policy": null,
+      "notes": "Out-of-scope test — risk of tourism-adjacent web content (e.g. Neubürger brochures) causing false-positive high scores."
+    },
+    {
+      "q_id": "Q050",
+      "question": "Wie hoch ist das genaue Gesamtbudget für die Umsetzung des STEK 2035?",
+      "category": "unanswerable",
+      "answerable": false,
+      "expected_answer": "NOT answerable from STEK corpus — correct behavior is stating this information is not contained in the available documents, not inventing a figure.",
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "expected_authority_level": null,
+      "is_official_policy": null,
+      "notes": "Highest hallucination-risk category — quantitative unanswerable question. | idx corrected from 1113 to 1108 after second-wave cleaning shifted positions (remap script had run against two copies of the already-cleaned file, missing this correction)."
+    },
+    {
+      "q_id": "Q051",
+      "category": "housing",
+      "question": "Wie verteilen sich die Haushaltsformen in Heidelberg?",
+      "expected_answer": "Laut Stadtentwicklungsplan 2015 sind 56,2% Einpersonen-Haushalte, 25,8% Mehrpersonen-Haushalte ohne Kinder, 9,5% Haushalte mit einem Kind und 8,5% Haushalte mit 2 und mehr Kindern (Stand 31.12.2005).",
+      "relevant_documents": [
+        "stadtentwicklungsplan_2015"
+      ],
+      "relevant_chunks": [
+        {
+          "document_id": "stadtentwicklungsplan_2015"
+        }
+      ],
+      "is_official_policy": true,
+      "answerable": true,
+      "notes": "Verified directly against raw text, lines 1740-1760: '56,2 % ... Einpersonen-Haushalte ... 9,5 % ... 8,5 % ... 25,8 %'. NEW question added to expand toward Task 4's 50-100 target."
+    },
+    {
+      "q_id": "Q052",
+      "category": "urban_development",
+      "question": "Welche Flächen stehen laut MRO 2035+ für neue Wohnbauentwicklung zur Verfügung?",
+      "expected_answer": "Rund 35 Hektar stehen zur Verfügung, darunter Eppelheimer Straße (ca. 10 Hektar), Harbigweg (ca. 19 Hektar) zwischen Kirchheim, und Schollengewann II (ca. 4,5 Hektar) im Süden.",
+      "relevant_documents": [
+        "mro_konzeptbericht"
+      ],
+      "relevant_chunks": [
+        {
+          "document_id": "mro_konzeptbericht"
+        }
+      ],
+      "is_official_policy": true,
+      "answerable": true,
+      "notes": "Verified directly against raw text, lines 1356-1362. NEW question added to expand toward Task 4's 50-100 target."
+    },
+    {
+      "q_id": "Q053",
+      "category": "economy",
+      "question": "Wie viele Hektar gewerbliche Bauflächen sieht der Flächennutzungsplan für Heidelberg vor?",
+      "expected_answer": "Rund 90 Hektar gewerbliche Bauflächen, darunter Marienhof (ca. 59 Hektar) westlich von Eppelheim, Holzapfelbaum (ca. 18 Hektar) im Norden von Wieblingen, und Wolfsgärten (ca. 10 Hektar) nordwestlich von Eppelheim.",
+      "relevant_documents": [
+        "mro_konzeptbericht"
+      ],
+      "relevant_chunks": [
+        {
+          "document_id": "mro_konzeptbericht"
+        }
+      ],
+      "is_official_policy": true,
+      "answerable": true,
+      "notes": "Verified directly against raw text, lines 1387-1397. NEW question added to expand toward Task 4's 50-100 target."
+    },
+    {
+      "q_id": "Q054",
+      "category": "climate",
+      "question": "Wie viel Fläche in Heidelberg gilt als Vorrangflur für die Landwirtschaft?",
+      "expected_answer": "Rund 3.700 Hektar (34 Prozent der Gemarkungsfläche) sind laut Flurbilanz 2022 als Vorrangflur eingestuft; Zielwert ist der Erhalt von rund 3.760 Hektar (34%) guter Böden.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "is_official_policy": true,
+      "answerable": true,
+      "notes": "Verified directly against raw text, lines 975-984. NEW question added to expand toward Task 4's 50-100 target."
+    },
+    {
+      "q_id": "Q055",
+      "category": "unanswerable",
+      "question": "Wie hoch ist das Gehalt des Oberbürgermeisters von Heidelberg?",
+      "expected_answer": null,
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "is_official_policy": null,
+      "answerable": false,
+      "notes": "Genuinely outside corpus scope — none of the 12 source documents discuss municipal salaries. NEW question added to help meet Task 8's 10-20 unanswerable/vague target."
+    },
+    {
+      "q_id": "Q056",
+      "category": "unanswerable",
+      "question": "Welche Partei stellt aktuell den Oberbürgermeister von Heidelberg?",
+      "expected_answer": null,
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "is_official_policy": null,
+      "answerable": false,
+      "notes": "Genuinely outside corpus scope — party affiliation is not discussed in any STEK planning document. NEW question added for Task 8."
+    },
+    {
+      "q_id": "Q057",
+      "category": "unanswerable",
+      "question": "Wie viele Parkplätze gibt es aktuell in der Heidelberger Altstadt?",
+      "expected_answer": null,
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "is_official_policy": null,
+      "answerable": false,
+      "notes": "No exact current parking space count for the Altstadt specifically was found in any source document. NEW question added for Task 8."
+    },
+    {
+      "q_id": "Q058",
+      "category": "vague",
+      "question": "Wie ist Heidelberg?",
+      "expected_answer": null,
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "is_official_policy": null,
+      "answerable": false,
+      "notes": "Vague/underspecified question, no clear retrievable intent. NEW question added for Task 8."
+    },
+    {
+      "q_id": "Q059",
+      "category": "vague",
+      "question": "Was gibt's Neues?",
+      "expected_answer": null,
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "is_official_policy": null,
+      "answerable": false,
+      "notes": "Vague/underspecified question, no clear retrievable intent, no STEK-specific keywords. NEW question added for Task 8."
+    },
+    {
+      "q_id": "Q060",
+      "category": "vague",
+      "question": "Erzähl mir was.",
+      "expected_answer": null,
+      "relevant_documents": [],
+      "relevant_chunks": [],
+      "is_official_policy": null,
+      "answerable": false,
+      "notes": "Vague/underspecified question, no clear retrievable intent. NEW question added for Task 8."
+    }
+  ]
+}

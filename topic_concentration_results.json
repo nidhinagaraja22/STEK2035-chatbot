@@ -1,0 +1,480 @@
+{
+  "answerable": [
+    {
+      "q_id": "Q001",
+      "topic_relevance": 0.8783724308013916,
+      "topic_diversity": 4,
+      "topic_counts": 158,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q002",
+      "topic_relevance": 0.8699905872344971,
+      "topic_diversity": 3,
+      "topic_counts": 160,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q004",
+      "topic_relevance": 0.8819429874420166,
+      "topic_diversity": 1,
+      "topic_counts": 4,
+      "best_topic": 3,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q005",
+      "topic_relevance": 0.8700404167175293,
+      "topic_diversity": 1,
+      "topic_counts": 14,
+      "best_topic": 3,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q006",
+      "topic_relevance": 0.8747402429580688,
+      "topic_diversity": 3,
+      "topic_counts": 22,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q007",
+      "topic_relevance": 0.8864543437957764,
+      "topic_diversity": 2,
+      "topic_counts": 25,
+      "best_topic": 4,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q008",
+      "topic_relevance": 0.8538027405738831,
+      "topic_diversity": 4,
+      "topic_counts": 42,
+      "best_topic": 4,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q009",
+      "topic_relevance": 0.8335390686988831,
+      "topic_diversity": 5,
+      "topic_counts": 206,
+      "best_topic": 4,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q010",
+      "topic_relevance": 0.8477962613105774,
+      "topic_diversity": 4,
+      "topic_counts": 243,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q011",
+      "topic_relevance": 0.8766885995864868,
+      "topic_diversity": 5,
+      "topic_counts": 122,
+      "best_topic": 4,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q012",
+      "topic_relevance": 0.8796292543411255,
+      "topic_diversity": 4,
+      "topic_counts": 91,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q013",
+      "topic_relevance": 0.8741077184677124,
+      "topic_diversity": 5,
+      "topic_counts": 123,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q014",
+      "topic_relevance": 0.8683212995529175,
+      "topic_diversity": 1,
+      "topic_counts": 1,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q015",
+      "topic_relevance": 0.8602067828178406,
+      "topic_diversity": 4,
+      "topic_counts": 16,
+      "best_topic": 4,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q016",
+      "topic_relevance": 0.8515921831130981,
+      "topic_diversity": 3,
+      "topic_counts": 82,
+      "best_topic": 4,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q017",
+      "topic_relevance": 0.875321090221405,
+      "topic_diversity": 3,
+      "topic_counts": 9,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q018",
+      "topic_relevance": 0.8934130072593689,
+      "topic_diversity": 1,
+      "topic_counts": 12,
+      "best_topic": 3,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q019",
+      "topic_relevance": 0.8564261198043823,
+      "topic_diversity": 4,
+      "topic_counts": 254,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q020",
+      "topic_relevance": 0.8250263929367065,
+      "topic_diversity": 5,
+      "topic_counts": 109,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q021",
+      "topic_relevance": 0.8752885460853577,
+      "topic_diversity": 4,
+      "topic_counts": 32,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q022",
+      "topic_relevance": 0.8595503568649292,
+      "topic_diversity": 4,
+      "topic_counts": 24,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q023",
+      "topic_relevance": 0.8702566027641296,
+      "topic_diversity": 2,
+      "topic_counts": 149,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q024",
+      "topic_relevance": 0.8396202325820923,
+      "topic_diversity": 1,
+      "topic_counts": 176,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q025",
+      "topic_relevance": 0.8315823078155518,
+      "topic_diversity": 1,
+      "topic_counts": 271,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q026",
+      "topic_relevance": 0.8528350591659546,
+      "topic_diversity": 4,
+      "topic_counts": 44,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q027",
+      "topic_relevance": 0.8474874496459961,
+      "topic_diversity": 1,
+      "topic_counts": 5,
+      "best_topic": 3,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q028",
+      "topic_relevance": 0.8748027682304382,
+      "topic_diversity": 1,
+      "topic_counts": 146,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q029",
+      "topic_relevance": 0.8836911916732788,
+      "topic_diversity": 3,
+      "topic_counts": 21,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q030",
+      "topic_relevance": 0.8677517771720886,
+      "topic_diversity": 2,
+      "topic_counts": 1,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q031",
+      "topic_relevance": 0.9063389897346497,
+      "topic_diversity": 1,
+      "topic_counts": 2,
+      "best_topic": 3,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q032",
+      "topic_relevance": 0.8857017755508423,
+      "topic_diversity": 2,
+      "topic_counts": 41,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q033",
+      "topic_relevance": 0.8644075393676758,
+      "topic_diversity": 3,
+      "topic_counts": 115,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q034",
+      "topic_relevance": 0.8847571015357971,
+      "topic_diversity": 2,
+      "topic_counts": 10,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q035",
+      "topic_relevance": 0.799323558807373,
+      "topic_diversity": 4,
+      "topic_counts": 160,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q036",
+      "topic_relevance": 0.8756147623062134,
+      "topic_diversity": 3,
+      "topic_counts": 10,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q037",
+      "topic_relevance": 0.8100226521492004,
+      "topic_diversity": 4,
+      "topic_counts": 311,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q038",
+      "topic_relevance": 0.8595317602157593,
+      "topic_diversity": 1,
+      "topic_counts": 1,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q039",
+      "topic_relevance": 0.8499669432640076,
+      "topic_diversity": 5,
+      "topic_counts": 108,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q040",
+      "topic_relevance": 0.8284296989440918,
+      "topic_diversity": 3,
+      "topic_counts": 54,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q041",
+      "topic_relevance": 0.8422935009002686,
+      "topic_diversity": 4,
+      "topic_counts": 30,
+      "best_topic": 3,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q042",
+      "topic_relevance": 0.8609293699264526,
+      "topic_diversity": 4,
+      "topic_counts": 43,
+      "best_topic": 3,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q043",
+      "topic_relevance": 0.8826360106468201,
+      "topic_diversity": 3,
+      "topic_counts": 37,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q044",
+      "topic_relevance": 0.8705393075942993,
+      "topic_diversity": 4,
+      "topic_counts": 9,
+      "best_topic": 3,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q045",
+      "topic_relevance": 0.8409228920936584,
+      "topic_diversity": 5,
+      "topic_counts": 285,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q051",
+      "topic_relevance": 0.8367857933044434,
+      "topic_diversity": 5,
+      "topic_counts": 76,
+      "best_topic": 3,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q052",
+      "topic_relevance": 0.8755013346672058,
+      "topic_diversity": 1,
+      "topic_counts": 43,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q053",
+      "topic_relevance": 0.8554058074951172,
+      "topic_diversity": 5,
+      "topic_counts": 179,
+      "best_topic": 2,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q054",
+      "topic_relevance": 0.8887506127357483,
+      "topic_diversity": 1,
+      "topic_counts": 12,
+      "best_topic": 2,
+      "n_topics_total": 5
+    }
+  ],
+  "vague": [
+    {
+      "q_id": "Q046",
+      "topic_relevance": 0.869657039642334,
+      "topic_diversity": 4,
+      "topic_counts": 116,
+      "best_topic": 1,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q047",
+      "topic_relevance": 0.833710789680481,
+      "topic_diversity": 5,
+      "topic_counts": 236,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q048",
+      "topic_relevance": 0.8956558704376221,
+      "topic_diversity": 2,
+      "topic_counts": 6,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q058",
+      "topic_relevance": 0.8772151470184326,
+      "topic_diversity": 3,
+      "topic_counts": 194,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q059",
+      "topic_relevance": 0.8087248206138611,
+      "topic_diversity": 5,
+      "topic_counts": 186,
+      "best_topic": 1,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q060",
+      "topic_relevance": 0.815421462059021,
+      "topic_diversity": 5,
+      "topic_counts": 393,
+      "best_topic": 0,
+      "n_topics_total": 5
+    }
+  ],
+  "unanswerable": [
+    {
+      "q_id": "Q049",
+      "topic_relevance": 0.8583507537841797,
+      "topic_diversity": 4,
+      "topic_counts": 223,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q050",
+      "topic_relevance": 0.8705552220344543,
+      "topic_diversity": 4,
+      "topic_counts": 7,
+      "best_topic": 3,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q055",
+      "topic_relevance": 0.835920512676239,
+      "topic_diversity": 5,
+      "topic_counts": 261,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q056",
+      "topic_relevance": 0.838756263256073,
+      "topic_diversity": 2,
+      "topic_counts": 181,
+      "best_topic": 0,
+      "n_topics_total": 5
+    },
+    {
+      "q_id": "Q057",
+      "topic_relevance": 0.8834291696548462,
+      "topic_diversity": 1,
+      "topic_counts": 1,
+      "best_topic": 1,
+      "n_topics_total": 5
+    }
+  ]
+}

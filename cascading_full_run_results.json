@@ -1,0 +1,415 @@
+{
+  "document_level_recall": "32/45",
+  "per_question": [
+    {
+      "q_id": "Q001",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q002",
+      "request_type": "citizen_explicit",
+      "tier_used": "L4/L5 (explicit citizen request)",
+      "document_level_hit": true,
+      "target_docs": [
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q003",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q004",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ]
+    },
+    {
+      "q_id": "Q005",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ]
+    },
+    {
+      "q_id": "Q006",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q007",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q008",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q009",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q010",
+      "request_type": "citizen_explicit",
+      "tier_used": "L4/L5 (explicit citizen request)",
+      "document_level_hit": true,
+      "target_docs": [
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q011",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q012",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q013",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ]
+    },
+    {
+      "q_id": "Q014",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q015",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q016",
+      "request_type": "citizen_explicit",
+      "tier_used": "L4/L5 (explicit citizen request)",
+      "document_level_hit": true,
+      "target_docs": [
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q017",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q018",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ]
+    },
+    {
+      "q_id": "Q019",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q020",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stadtentwicklungsplan_2015"
+      ]
+    },
+    {
+      "q_id": "Q021",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "arbeitstreffen_2024"
+      ]
+    },
+    {
+      "q_id": "Q022",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q023",
+      "request_type": "citizen_explicit",
+      "tier_used": "L4/L5 (explicit citizen request)",
+      "document_level_hit": true,
+      "target_docs": [
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q024",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "arbeitstreffen_2024",
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q025",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "zukunft_gestalten_2024",
+        "arbeitstreffen_2024",
+        "zukunftsreise_2035"
+      ]
+    },
+    {
+      "q_id": "Q026",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q027",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ]
+    },
+    {
+      "q_id": "Q028",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q029",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q030",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q031",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ]
+    },
+    {
+      "q_id": "Q032",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q033",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q034",
+      "request_type": "citizen_explicit",
+      "tier_used": "L4/L5 (explicit citizen request)",
+      "document_level_hit": false,
+      "target_docs": [
+        "zukunftsreise_2035"
+      ]
+    },
+    {
+      "q_id": "Q035",
+      "request_type": "citizen_explicit",
+      "tier_used": "L4/L5 (explicit citizen request)",
+      "document_level_hit": true,
+      "target_docs": [
+        "zukunftsreise_2035"
+      ]
+    },
+    {
+      "q_id": "Q036",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q037",
+      "request_type": "citizen_explicit",
+      "tier_used": "L4/L5 (explicit citizen request)",
+      "document_level_hit": false,
+      "target_docs": [
+        "zukunftsreise_2035"
+      ]
+    },
+    {
+      "q_id": "Q038",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q039",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ]
+    },
+    {
+      "q_id": "Q040",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q041",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q042",
+      "request_type": "comparison",
+      "tier_used": "official + citizen (comparison)",
+      "document_level_hit": true,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ]
+    },
+    {
+      "q_id": "Q043",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": true,
+      "target_docs": [
+        "stek_a3_strategy",
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q044",
+      "request_type": "default_cascade",
+      "tier_used": "official (cascade stage 1)",
+      "document_level_hit": false,
+      "target_docs": [
+        "stadtentwicklungsplan_2015"
+      ]
+    },
+    {
+      "q_id": "Q045",
+      "request_type": "comparison",
+      "tier_used": "official + citizen (comparison)",
+      "document_level_hit": true,
+      "target_docs": [
+        "mro_konzeptbericht",
+        "online_beteiligung_2024"
+      ]
+    }
+  ]
+}

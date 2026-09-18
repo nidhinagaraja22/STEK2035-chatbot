@@ -1,0 +1,1410 @@
+{
+  "test_queries": [
+    "Wie wird bezahlbarer Wohnraum in Heidelberg bis 2035 geschaffen?",
+    "Welche Ziele verfolgt Heidelberg beim Klimaschutz?",
+    "Wie sieht die Bürgerbeteiligung beim STEK 2035 aus?",
+    "Welche Grünflächen sollen erhalten oder neu geschaffen werden?",
+    "Wie soll sich der öffentliche Nahverkehr entwickeln?",
+    "Welche Maßnahmen gibt es gegen Segregation?",
+    "Wie plant die Stadt mit wachsender Bevölkerung?",
+    "Welche Rolle spielt die Wirtschaft im STEK 2035?",
+    "Was sind die zentralen Ergebnisse der Zukunftsreise 2035?",
+    "Wie werden Kultur und Vielfalt im STEK 2035 berücksichtigt?"
+  ],
+  "per_query_results": [
+    {
+      "query": "Wie wird bezahlbarer Wohnraum in Heidelberg bis 2035 geschaffen?",
+      "strategies": {
+        "standard_topk": {
+          "metrics": {
+            "relevance": 0.8724,
+            "diversity": 0.8,
+            "authority": 0.67,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "web_pdf_statusbericht",
+            "zukunft_gestalten_2024"
+          ]
+        },
+        "max_1_per_source": {
+          "metrics": {
+            "relevance": 0.8704,
+            "diversity": 1.0,
+            "authority": 0.73,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "web_pdf_statusbericht",
+            "zukunft_gestalten_2024",
+            "website_html"
+          ]
+        },
+        "max_2_per_source": {
+          "metrics": {
+            "relevance": 0.8724,
+            "diversity": 0.8,
+            "authority": 0.67,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "web_pdf_statusbericht",
+            "zukunft_gestalten_2024"
+          ]
+        },
+        "max_3_per_source": {
+          "metrics": {
+            "relevance": 0.8724,
+            "diversity": 0.8,
+            "authority": 0.67,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "web_pdf_statusbericht",
+            "zukunft_gestalten_2024"
+          ]
+        },
+        "mmr": {
+          "metrics": {
+            "relevance": 0.8687,
+            "diversity": 0.8,
+            "authority": 0.79,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "website_html",
+            "mro_konzeptbericht",
+            "mro_konzeptbericht",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "authority_reranked": {
+          "metrics": {
+            "relevance": 0.8662,
+            "diversity": 0.6,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "mro_konzeptbericht",
+            "web_pdf_statusbericht",
+            "website_html",
+            "mro_konzeptbericht",
+            "website_html"
+          ]
+        },
+        "topic_diversified": {
+          "metrics": {
+            "relevance": 0.8715,
+            "diversity": 0.8,
+            "authority": 0.67,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "zukunft_gestalten_2024",
+            "website_html"
+          ]
+        },
+        "combined_source_topic": {
+          "metrics": {
+            "relevance": 0.8715,
+            "diversity": 0.8,
+            "authority": 0.67,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "zukunft_gestalten_2024",
+            "website_html"
+          ]
+        }
+      }
+    },
+    {
+      "query": "Welche Ziele verfolgt Heidelberg beim Klimaschutz?",
+      "strategies": {
+        "standard_topk": {
+          "metrics": {
+            "relevance": 0.8716,
+            "diversity": 0.8,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "web_pdf_neubuerger_de",
+            "website_html",
+            "website_html",
+            "stek_a3_strategy",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "max_1_per_source": {
+          "metrics": {
+            "relevance": 0.8703,
+            "diversity": 1.0,
+            "authority": 0.85,
+            "dominance": 0.2,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "web_pdf_neubuerger_de",
+            "website_html",
+            "stek_a3_strategy",
+            "web_pdf_statusbericht",
+            "stadtentwicklungsplan_2015"
+          ]
+        },
+        "max_2_per_source": {
+          "metrics": {
+            "relevance": 0.8716,
+            "diversity": 0.8,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "web_pdf_neubuerger_de",
+            "website_html",
+            "website_html",
+            "stek_a3_strategy",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "max_3_per_source": {
+          "metrics": {
+            "relevance": 0.8716,
+            "diversity": 0.8,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "web_pdf_neubuerger_de",
+            "website_html",
+            "website_html",
+            "stek_a3_strategy",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "mmr": {
+          "metrics": {
+            "relevance": 0.8705,
+            "diversity": 0.8,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "web_pdf_neubuerger_de",
+            "stek_a3_strategy",
+            "website_html",
+            "website_html",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "authority_reranked": {
+          "metrics": {
+            "relevance": 0.8663,
+            "diversity": 0.4,
+            "authority": 0.94,
+            "dominance": 0.6,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "stek_a3_strategy",
+            "stek_a3_strategy",
+            "website_html",
+            "website_html"
+          ]
+        },
+        "topic_diversified": {
+          "metrics": {
+            "relevance": 0.8716,
+            "diversity": 0.8,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "web_pdf_neubuerger_de",
+            "website_html",
+            "website_html",
+            "stek_a3_strategy",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "combined_source_topic": {
+          "metrics": {
+            "relevance": 0.8716,
+            "diversity": 0.8,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "web_pdf_neubuerger_de",
+            "website_html",
+            "website_html",
+            "stek_a3_strategy",
+            "web_pdf_statusbericht"
+          ]
+        }
+      }
+    },
+    {
+      "query": "Wie sieht die Bürgerbeteiligung beim STEK 2035 aus?",
+      "strategies": {
+        "standard_topk": {
+          "metrics": {
+            "relevance": 0.8842,
+            "diversity": 1.0,
+            "authority": 0.64,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "ak_sitzung_1_2023",
+            "arbeitstreffen_2024",
+            "online_beteiligung_2024",
+            "zukunftsreise_2035",
+            "website_html"
+          ]
+        },
+        "max_1_per_source": {
+          "metrics": {
+            "relevance": 0.8842,
+            "diversity": 1.0,
+            "authority": 0.64,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "ak_sitzung_1_2023",
+            "arbeitstreffen_2024",
+            "online_beteiligung_2024",
+            "zukunftsreise_2035",
+            "website_html"
+          ]
+        },
+        "max_2_per_source": {
+          "metrics": {
+            "relevance": 0.8842,
+            "diversity": 1.0,
+            "authority": 0.64,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "ak_sitzung_1_2023",
+            "arbeitstreffen_2024",
+            "online_beteiligung_2024",
+            "zukunftsreise_2035",
+            "website_html"
+          ]
+        },
+        "max_3_per_source": {
+          "metrics": {
+            "relevance": 0.8842,
+            "diversity": 1.0,
+            "authority": 0.64,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "ak_sitzung_1_2023",
+            "arbeitstreffen_2024",
+            "online_beteiligung_2024",
+            "zukunftsreise_2035",
+            "website_html"
+          ]
+        },
+        "mmr": {
+          "metrics": {
+            "relevance": 0.8839,
+            "diversity": 1.0,
+            "authority": 0.67,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "ak_sitzung_1_2023",
+            "zukunftsreise_2035",
+            "online_beteiligung_2024",
+            "stek_a3_strategy",
+            "arbeitstreffen_2024"
+          ]
+        },
+        "authority_reranked": {
+          "metrics": {
+            "relevance": 0.8791,
+            "diversity": 0.6,
+            "authority": 0.91,
+            "dominance": 0.4,
+            "topic_coverage": 0.4
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "stek_a3_strategy",
+            "website_html",
+            "website_html",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "topic_diversified": {
+          "metrics": {
+            "relevance": 0.8837,
+            "diversity": 1.0,
+            "authority": 0.67,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "ak_sitzung_1_2023",
+            "arbeitstreffen_2024",
+            "online_beteiligung_2024",
+            "zukunftsreise_2035",
+            "stek_a3_strategy"
+          ]
+        },
+        "combined_source_topic": {
+          "metrics": {
+            "relevance": 0.8837,
+            "diversity": 1.0,
+            "authority": 0.67,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "ak_sitzung_1_2023",
+            "arbeitstreffen_2024",
+            "online_beteiligung_2024",
+            "zukunftsreise_2035",
+            "stek_a3_strategy"
+          ]
+        }
+      }
+    },
+    {
+      "query": "Welche Grünflächen sollen erhalten oder neu geschaffen werden?",
+      "strategies": {
+        "standard_topk": {
+          "metrics": {
+            "relevance": 0.8527,
+            "diversity": 0.6,
+            "authority": 0.7,
+            "dominance": 0.6,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "stek_a3_strategy"
+          ]
+        },
+        "max_1_per_source": {
+          "metrics": {
+            "relevance": 0.8528,
+            "diversity": 1.0,
+            "authority": 0.8,
+            "dominance": 0.3333,
+            "topic_coverage": 0.3333
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "stek_a3_strategy"
+          ]
+        },
+        "max_2_per_source": {
+          "metrics": {
+            "relevance": 0.851,
+            "diversity": 0.6,
+            "authority": 0.79,
+            "dominance": 0.4,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "stek_a3_strategy",
+            "stek_a3_strategy"
+          ]
+        },
+        "max_3_per_source": {
+          "metrics": {
+            "relevance": 0.8527,
+            "diversity": 0.6,
+            "authority": 0.7,
+            "dominance": 0.6,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "stek_a3_strategy"
+          ]
+        },
+        "mmr": {
+          "metrics": {
+            "relevance": 0.8527,
+            "diversity": 0.6,
+            "authority": 0.7,
+            "dominance": 0.6,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "stek_a3_strategy",
+            "online_beteiligung_2024"
+          ]
+        },
+        "authority_reranked": {
+          "metrics": {
+            "relevance": 0.851,
+            "diversity": 0.6,
+            "authority": 0.79,
+            "dominance": 0.4,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "stek_a3_strategy",
+            "mro_konzeptbericht",
+            "online_beteiligung_2024",
+            "online_beteiligung_2024"
+          ]
+        },
+        "topic_diversified": {
+          "metrics": {
+            "relevance": 0.8488,
+            "diversity": 0.2,
+            "authority": 0.55,
+            "dominance": 1.0,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "online_beteiligung_2024"
+          ]
+        },
+        "combined_source_topic": {
+          "metrics": {
+            "relevance": 0.851,
+            "diversity": 0.6,
+            "authority": 0.79,
+            "dominance": 0.4,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "mro_konzeptbericht",
+            "stek_a3_strategy",
+            "stek_a3_strategy"
+          ]
+        }
+      }
+    },
+    {
+      "query": "Wie soll sich der öffentliche Nahverkehr entwickeln?",
+      "strategies": {
+        "standard_topk": {
+          "metrics": {
+            "relevance": 0.832,
+            "diversity": 0.8,
+            "authority": 0.82,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "web_pdf_neubuerger_de",
+            "stadtentwicklungsplan_2015",
+            "nachhaltigkeitsbericht_2025",
+            "website_html"
+          ]
+        },
+        "max_1_per_source": {
+          "metrics": {
+            "relevance": 0.8317,
+            "diversity": 1.0,
+            "authority": 0.76,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "web_pdf_neubuerger_de",
+            "nachhaltigkeitsbericht_2025",
+            "website_html",
+            "zukunft_gestalten_2024"
+          ]
+        },
+        "max_2_per_source": {
+          "metrics": {
+            "relevance": 0.832,
+            "diversity": 0.8,
+            "authority": 0.82,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "web_pdf_neubuerger_de",
+            "stadtentwicklungsplan_2015",
+            "nachhaltigkeitsbericht_2025",
+            "website_html"
+          ]
+        },
+        "max_3_per_source": {
+          "metrics": {
+            "relevance": 0.832,
+            "diversity": 0.8,
+            "authority": 0.82,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "web_pdf_neubuerger_de",
+            "stadtentwicklungsplan_2015",
+            "nachhaltigkeitsbericht_2025",
+            "website_html"
+          ]
+        },
+        "mmr": {
+          "metrics": {
+            "relevance": 0.8311,
+            "diversity": 1.0,
+            "authority": 0.76,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "online_beteiligung_2024",
+            "nachhaltigkeitsbericht_2025",
+            "website_html",
+            "web_pdf_neubuerger_de"
+          ]
+        },
+        "authority_reranked": {
+          "metrics": {
+            "relevance": 0.8314,
+            "diversity": 0.8,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "stadtentwicklungsplan_2015",
+            "nachhaltigkeitsbericht_2025",
+            "website_html",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "topic_diversified": {
+          "metrics": {
+            "relevance": 0.832,
+            "diversity": 0.8,
+            "authority": 0.82,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "web_pdf_neubuerger_de",
+            "stadtentwicklungsplan_2015",
+            "nachhaltigkeitsbericht_2025",
+            "website_html"
+          ]
+        },
+        "combined_source_topic": {
+          "metrics": {
+            "relevance": 0.832,
+            "diversity": 0.8,
+            "authority": 0.82,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "web_pdf_neubuerger_de",
+            "stadtentwicklungsplan_2015",
+            "nachhaltigkeitsbericht_2025",
+            "website_html"
+          ]
+        }
+      }
+    },
+    {
+      "query": "Welche Maßnahmen gibt es gegen Segregation?",
+      "strategies": {
+        "standard_topk": {
+          "metrics": {
+            "relevance": 0.8258,
+            "diversity": 0.6,
+            "authority": 0.58,
+            "dominance": 0.6,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "web_pdf_neubuerger_de",
+            "zukunft_gestalten_2024"
+          ]
+        },
+        "max_1_per_source": {
+          "metrics": {
+            "relevance": 0.8226,
+            "diversity": 1.0,
+            "authority": 0.67,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "web_pdf_neubuerger_de",
+            "zukunft_gestalten_2024",
+            "web_pdf_statusbericht",
+            "zukunftsreise_2035"
+          ]
+        },
+        "max_2_per_source": {
+          "metrics": {
+            "relevance": 0.8244,
+            "diversity": 0.8,
+            "authority": 0.64,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "web_pdf_neubuerger_de",
+            "zukunft_gestalten_2024",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "max_3_per_source": {
+          "metrics": {
+            "relevance": 0.8258,
+            "diversity": 0.6,
+            "authority": 0.58,
+            "dominance": 0.6,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "web_pdf_neubuerger_de",
+            "zukunft_gestalten_2024"
+          ]
+        },
+        "mmr": {
+          "metrics": {
+            "relevance": 0.8239,
+            "diversity": 0.6,
+            "authority": 0.64,
+            "dominance": 0.6,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "web_pdf_neubuerger_de",
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "authority_reranked": {
+          "metrics": {
+            "relevance": 0.8183,
+            "diversity": 0.8,
+            "authority": 0.82,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "web_pdf_statusbericht",
+            "web_pdf_statusbericht",
+            "web_pdf_neubuerger_de",
+            "zukunftsreise_2035"
+          ]
+        },
+        "topic_diversified": {
+          "metrics": {
+            "relevance": 0.8258,
+            "diversity": 0.6,
+            "authority": 0.58,
+            "dominance": 0.6,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "web_pdf_neubuerger_de",
+            "zukunft_gestalten_2024"
+          ]
+        },
+        "combined_source_topic": {
+          "metrics": {
+            "relevance": 0.8244,
+            "diversity": 0.8,
+            "authority": 0.64,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "online_beteiligung_2024",
+            "online_beteiligung_2024",
+            "web_pdf_neubuerger_de",
+            "zukunft_gestalten_2024",
+            "web_pdf_statusbericht"
+          ]
+        }
+      }
+    },
+    {
+      "query": "Wie plant die Stadt mit wachsender Bevölkerung?",
+      "strategies": {
+        "standard_topk": {
+          "metrics": {
+            "relevance": 0.8405,
+            "diversity": 0.8,
+            "authority": 0.73,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "ak_sitzung_1_2023",
+            "website_html",
+            "stadtentwicklungsplan_2015",
+            "online_beteiligung_2024"
+          ]
+        },
+        "max_1_per_source": {
+          "metrics": {
+            "relevance": 0.8403,
+            "diversity": 1.0,
+            "authority": 0.7,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "ak_sitzung_1_2023",
+            "website_html",
+            "online_beteiligung_2024",
+            "zukunftsreise_2035"
+          ]
+        },
+        "max_2_per_source": {
+          "metrics": {
+            "relevance": 0.8405,
+            "diversity": 0.8,
+            "authority": 0.73,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "ak_sitzung_1_2023",
+            "website_html",
+            "stadtentwicklungsplan_2015",
+            "online_beteiligung_2024"
+          ]
+        },
+        "max_3_per_source": {
+          "metrics": {
+            "relevance": 0.8405,
+            "diversity": 0.8,
+            "authority": 0.73,
+            "dominance": 0.4,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "ak_sitzung_1_2023",
+            "website_html",
+            "stadtentwicklungsplan_2015",
+            "online_beteiligung_2024"
+          ]
+        },
+        "mmr": {
+          "metrics": {
+            "relevance": 0.8383,
+            "diversity": 0.8,
+            "authority": 0.76,
+            "dominance": 0.4,
+            "topic_coverage": 0.4
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "website_html",
+            "online_beteiligung_2024",
+            "website_html",
+            "web_pdf_neubuerger_de"
+          ]
+        },
+        "authority_reranked": {
+          "metrics": {
+            "relevance": 0.839,
+            "diversity": 0.4,
+            "authority": 0.85,
+            "dominance": 0.8,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "website_html",
+            "stadtentwicklungsplan_2015",
+            "stadtentwicklungsplan_2015",
+            "stadtentwicklungsplan_2015"
+          ]
+        },
+        "topic_diversified": {
+          "metrics": {
+            "relevance": 0.84,
+            "diversity": 1.0,
+            "authority": 0.7,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "ak_sitzung_1_2023",
+            "website_html",
+            "online_beteiligung_2024",
+            "web_pdf_neubuerger_de"
+          ]
+        },
+        "combined_source_topic": {
+          "metrics": {
+            "relevance": 0.84,
+            "diversity": 1.0,
+            "authority": 0.7,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stadtentwicklungsplan_2015",
+            "ak_sitzung_1_2023",
+            "website_html",
+            "online_beteiligung_2024",
+            "web_pdf_neubuerger_de"
+          ]
+        }
+      }
+    },
+    {
+      "query": "Welche Rolle spielt die Wirtschaft im STEK 2035?",
+      "strategies": {
+        "standard_topk": {
+          "metrics": {
+            "relevance": 0.8767,
+            "diversity": 0.8,
+            "authority": 0.76,
+            "dominance": 0.4,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "website_html",
+            "arbeitstreffen_2024",
+            "ak_sitzung_1_2023",
+            "website_html"
+          ]
+        },
+        "max_1_per_source": {
+          "metrics": {
+            "relevance": 0.8765,
+            "diversity": 1.0,
+            "authority": 0.76,
+            "dominance": 0.2,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "website_html",
+            "arbeitstreffen_2024",
+            "ak_sitzung_1_2023",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "max_2_per_source": {
+          "metrics": {
+            "relevance": 0.8767,
+            "diversity": 0.8,
+            "authority": 0.76,
+            "dominance": 0.4,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "website_html",
+            "arbeitstreffen_2024",
+            "ak_sitzung_1_2023",
+            "website_html"
+          ]
+        },
+        "max_3_per_source": {
+          "metrics": {
+            "relevance": 0.8767,
+            "diversity": 0.8,
+            "authority": 0.76,
+            "dominance": 0.4,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "website_html",
+            "arbeitstreffen_2024",
+            "ak_sitzung_1_2023",
+            "website_html"
+          ]
+        },
+        "mmr": {
+          "metrics": {
+            "relevance": 0.8737,
+            "diversity": 0.6,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "arbeitstreffen_2024",
+            "website_html",
+            "website_html",
+            "stek_a3_strategy"
+          ]
+        },
+        "authority_reranked": {
+          "metrics": {
+            "relevance": 0.8675,
+            "diversity": 0.4,
+            "authority": 0.97,
+            "dominance": 0.8,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "stek_a3_strategy",
+            "stek_a3_strategy",
+            "stek_a3_strategy",
+            "website_html"
+          ]
+        },
+        "topic_diversified": {
+          "metrics": {
+            "relevance": 0.8716,
+            "diversity": 0.6,
+            "authority": 0.82,
+            "dominance": 0.6,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "website_html",
+            "website_html",
+            "zukunft_gestalten_2024",
+            "website_html"
+          ]
+        },
+        "combined_source_topic": {
+          "metrics": {
+            "relevance": 0.8756,
+            "diversity": 0.8,
+            "authority": 0.76,
+            "dominance": 0.4,
+            "topic_coverage": 0.4
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "website_html",
+            "website_html",
+            "zukunft_gestalten_2024",
+            "arbeitstreffen_2024"
+          ]
+        }
+      }
+    },
+    {
+      "query": "Was sind die zentralen Ergebnisse der Zukunftsreise 2035?",
+      "strategies": {
+        "standard_topk": {
+          "metrics": {
+            "relevance": 0.8324,
+            "diversity": 1.0,
+            "authority": 0.85,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "website_html",
+            "zukunftsreise_2035",
+            "stek_a3_strategy",
+            "mro_konzeptbericht",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "max_1_per_source": {
+          "metrics": {
+            "relevance": 0.8324,
+            "diversity": 1.0,
+            "authority": 0.85,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "website_html",
+            "zukunftsreise_2035",
+            "stek_a3_strategy",
+            "mro_konzeptbericht",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "max_2_per_source": {
+          "metrics": {
+            "relevance": 0.8324,
+            "diversity": 1.0,
+            "authority": 0.85,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "website_html",
+            "zukunftsreise_2035",
+            "stek_a3_strategy",
+            "mro_konzeptbericht",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "max_3_per_source": {
+          "metrics": {
+            "relevance": 0.8324,
+            "diversity": 1.0,
+            "authority": 0.85,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "website_html",
+            "zukunftsreise_2035",
+            "stek_a3_strategy",
+            "mro_konzeptbericht",
+            "web_pdf_statusbericht"
+          ]
+        },
+        "mmr": {
+          "metrics": {
+            "relevance": 0.8323,
+            "diversity": 0.8,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "website_html",
+            "mro_konzeptbericht",
+            "zukunftsreise_2035",
+            "website_html",
+            "stek_a3_strategy"
+          ]
+        },
+        "authority_reranked": {
+          "metrics": {
+            "relevance": 0.8279,
+            "diversity": 0.6,
+            "authority": 0.94,
+            "dominance": 0.6,
+            "topic_coverage": 0.4
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "stek_a3_strategy",
+            "stek_a3_strategy",
+            "website_html",
+            "mro_konzeptbericht"
+          ]
+        },
+        "topic_diversified": {
+          "metrics": {
+            "relevance": 0.8323,
+            "diversity": 0.8,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "website_html",
+            "zukunftsreise_2035",
+            "stek_a3_strategy",
+            "mro_konzeptbericht",
+            "website_html"
+          ]
+        },
+        "combined_source_topic": {
+          "metrics": {
+            "relevance": 0.8323,
+            "diversity": 0.8,
+            "authority": 0.85,
+            "dominance": 0.4,
+            "topic_coverage": 0.8
+          },
+          "sources_returned": [
+            "website_html",
+            "zukunftsreise_2035",
+            "stek_a3_strategy",
+            "mro_konzeptbericht",
+            "website_html"
+          ]
+        }
+      }
+    },
+    {
+      "query": "Wie werden Kultur und Vielfalt im STEK 2035 berücksichtigt?",
+      "strategies": {
+        "standard_topk": {
+          "metrics": {
+            "relevance": 0.8774,
+            "diversity": 0.8,
+            "authority": 0.76,
+            "dominance": 0.4,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "website_html",
+            "stek_a3_strategy",
+            "arbeitstreffen_2024",
+            "ak_sitzung_1_2023",
+            "website_html"
+          ]
+        },
+        "max_1_per_source": {
+          "metrics": {
+            "relevance": 0.8771,
+            "diversity": 1.0,
+            "authority": 0.7,
+            "dominance": 0.2,
+            "topic_coverage": 0.4
+          },
+          "sources_returned": [
+            "website_html",
+            "stek_a3_strategy",
+            "arbeitstreffen_2024",
+            "ak_sitzung_1_2023",
+            "zukunft_gestalten_2024"
+          ]
+        },
+        "max_2_per_source": {
+          "metrics": {
+            "relevance": 0.8774,
+            "diversity": 0.8,
+            "authority": 0.76,
+            "dominance": 0.4,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "website_html",
+            "stek_a3_strategy",
+            "arbeitstreffen_2024",
+            "ak_sitzung_1_2023",
+            "website_html"
+          ]
+        },
+        "max_3_per_source": {
+          "metrics": {
+            "relevance": 0.8774,
+            "diversity": 0.8,
+            "authority": 0.76,
+            "dominance": 0.4,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "website_html",
+            "stek_a3_strategy",
+            "arbeitstreffen_2024",
+            "ak_sitzung_1_2023",
+            "website_html"
+          ]
+        },
+        "mmr": {
+          "metrics": {
+            "relevance": 0.8742,
+            "diversity": 1.0,
+            "authority": 0.79,
+            "dominance": 0.2,
+            "topic_coverage": 0.4
+          },
+          "sources_returned": [
+            "website_html",
+            "web_pdf_statusbericht",
+            "arbeitstreffen_2024",
+            "stek_a3_strategy",
+            "zukunftsreise_2035"
+          ]
+        },
+        "authority_reranked": {
+          "metrics": {
+            "relevance": 0.8721,
+            "diversity": 0.4,
+            "authority": 0.91,
+            "dominance": 0.6,
+            "topic_coverage": 0.2
+          },
+          "sources_returned": [
+            "stek_a3_strategy",
+            "stek_a3_strategy",
+            "website_html",
+            "website_html",
+            "website_html"
+          ]
+        },
+        "topic_diversified": {
+          "metrics": {
+            "relevance": 0.8723,
+            "diversity": 1.0,
+            "authority": 0.73,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "website_html",
+            "stek_a3_strategy",
+            "zukunft_gestalten_2024",
+            "zukunftsreise_2035",
+            "online_beteiligung_2024"
+          ]
+        },
+        "combined_source_topic": {
+          "metrics": {
+            "relevance": 0.8723,
+            "diversity": 1.0,
+            "authority": 0.73,
+            "dominance": 0.2,
+            "topic_coverage": 0.6
+          },
+          "sources_returned": [
+            "website_html",
+            "stek_a3_strategy",
+            "zukunft_gestalten_2024",
+            "zukunftsreise_2035",
+            "online_beteiligung_2024"
+          ]
+        }
+      }
+    }
+  ],
+  "aggregate_summary": [
+    {
+      "strategy": "standard_topk",
+      "relevance": 0.8566,
+      "diversity": 0.8,
+      "authority": 0.736,
+      "dominance": 0.4,
+      "topic_coverage": 0.52
+    },
+    {
+      "strategy": "max_1_per_source",
+      "relevance": 0.8558,
+      "diversity": 1.0,
+      "authority": 0.746,
+      "dominance": 0.2133,
+      "topic_coverage": 0.5333
+    },
+    {
+      "strategy": "max_2_per_source",
+      "relevance": 0.8563,
+      "diversity": 0.82,
+      "authority": 0.751,
+      "dominance": 0.36,
+      "topic_coverage": 0.52
+    },
+    {
+      "strategy": "max_3_per_source",
+      "relevance": 0.8566,
+      "diversity": 0.8,
+      "authority": 0.736,
+      "dominance": 0.4,
+      "topic_coverage": 0.52
+    },
+    {
+      "strategy": "mmr",
+      "relevance": 0.8549,
+      "diversity": 0.8,
+      "authority": 0.766,
+      "dominance": 0.38,
+      "topic_coverage": 0.54
+    },
+    {
+      "strategy": "authority_reranked",
+      "relevance": 0.8519,
+      "diversity": 0.56,
+      "authority": 0.883,
+      "dominance": 0.54,
+      "topic_coverage": 0.46
+    },
+    {
+      "strategy": "topic_diversified",
+      "relevance": 0.855,
+      "diversity": 0.76,
+      "authority": 0.724,
+      "dominance": 0.44,
+      "topic_coverage": 0.66
+    },
+    {
+      "strategy": "combined_source_topic",
+      "relevance": 0.8554,
+      "diversity": 0.84,
+      "authority": 0.748,
+      "dominance": 0.34,
+      "topic_coverage": 0.6
+    }
+  ]
+}

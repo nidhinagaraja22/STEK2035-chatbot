@@ -1,0 +1,15 @@
+Task 9 — Speed Claim Verification (5 repeated trials per question)
+
+======================================================================
+e5-base      mean=13.49s  stdev=30.41s  max=220.99s  n_trials=50
+e5-large     mean=10.00s  stdev=4.92s  max=19.19s  n_trials=50
+bge-m3       mean=9.48s  stdev=4.57s  max=17.20s  n_trials=50
+
+Pairwise speed ratios:
+  e5-base / e5-large = 1.35x
+  e5-base / bge-m3 = 1.42x
+  e5-large / bge-m3 = 1.06x
+
+Original claim check (e5-base / e5-large): measured 1.35x vs. original single-run claim of 4.5x — DOES NOT MATCH — original claim may have been noise-driven
+
+Fastest: bge-m3 (9.48s avg)  |  Slowest: e5-base (13.49s avg)

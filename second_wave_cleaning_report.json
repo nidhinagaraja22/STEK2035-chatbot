@@ -1,0 +1,42 @@
+{
+  "input_chunks": 1266,
+  "output_chunks": 1261,
+  "removed_count": 5,
+  "removed_chunks": [
+    {
+      "idx": 970,
+      "document_id": "website_html",
+      "chunk_id": 0,
+      "reason": "navigation_sidebar",
+      "text_preview": "Stadtentwicklungskonzept Wie leben wir in Heidelberg im Jahr 2035? Das Stadtentwicklungskonzept (STEK) ist der Wegweiser für eine nachhaltige Entwicklung Heidelbergs bis zum Jahr 2035. Als inhaltliche"
+    },
+    {
+      "idx": 988,
+      "document_id": "website_html",
+      "chunk_id": 0,
+      "reason": "easy_language_duplicate",
+      "text_preview": "STEK in einfacher Sprache STEK 2035: Wie sieht Heidelberg in der Zukunft aus? Wie sieht Heidelberg in der Zukunft aus? Wie leben wir im Jahr 2035 ? Die Stadt Heidelberg schaut sich diese Fragen an. Di"
+    },
+    {
+      "idx": 989,
+      "document_id": "website_html",
+      "chunk_id": 1,
+      "reason": "easy_language_duplicate",
+      "text_preview": "die Umwelt schützen? Wie können wir Strom und Heizung umwelt·freundlich machen? - Wie wird die Stadt moderner ? Wie helfen wir armen Menschen ? - Wie leben alle Menschen gut zusammen? - Wie kann jeder"
+    },
+    {
+      "idx": 1041,
+      "document_id": "website_html",
+      "chunk_id": 0,
+      "reason": "press_release_or_offtopic_news",
+      "text_preview": "Wegweiser für innovative und nachhaltige Stadt Heidelberg legt mit Stadtentwicklungskonzept und Modell räumlicher Ordnung zentrale Planwerke vor Wie sieht Heidelbergs Zukunft im Jahr 2035 aus? Mit dem"
+    },
+    {
+      "idx": 1046,
+      "document_id": "website_html",
+      "chunk_id": 0,
+      "reason": "press_release_or_offtopic_news",
+      "text_preview": "Umwelt aktuell Jahr Monat Nach Datum filtern Datum-Filter zurücksetzen 1 2 3 … 16 weiter >> 15- bis 24-Jährige können sich ab 15. Juli 2026 mit ihren Projekten für Klimaschutz um Fördergelder des Yout"
+    }
+  ]
+}

@@ -1,0 +1,778 @@
+{
+  "mean_precision_at_5": 0.3288888888888889,
+  "mean_recall_at_5": 0.6888888888888889,
+  "mrr": 0.5107407407407407,
+  "n_questions": 45,
+  "per_question": [
+    {
+      "q_id": "Q001",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "mro_konzeptbericht",
+        "mro_konzeptbericht",
+        "website_html",
+        "web_pdf_statusbericht",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q002",
+      "request_type": "citizen_explicit",
+      "precision_at_5": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "online_beteiligung_2024"
+      ],
+      "retrieved_docs": [
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q003",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.2,
+      "target_docs": [
+        "website_html"
+      ],
+      "retrieved_docs": [
+        "web_pdf_neubuerger_de",
+        "mro_konzeptbericht",
+        "nachhaltigkeitsbericht_2025",
+        "web_pdf_neubuerger_de",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q004",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "retrieved_docs": [
+        "nachhaltigkeitsbericht_2025",
+        "nachhaltigkeitsbericht_2025",
+        "stadtentwicklungsplan_2015",
+        "stadtentwicklungsplan_2015",
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q005",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.6,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "retrieved_docs": [
+        "nachhaltigkeitsbericht_2025",
+        "website_html",
+        "nachhaltigkeitsbericht_2025",
+        "website_html",
+        "nachhaltigkeitsbericht_2025"
+      ]
+    },
+    {
+      "q_id": "Q006",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "website_html",
+        "stek_a3_strategy",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q007",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.25,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ],
+      "retrieved_docs": [
+        "website_html",
+        "website_html",
+        "website_html",
+        "mro_konzeptbericht",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q008",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ],
+      "retrieved_docs": [
+        "web_pdf_statusbericht",
+        "stek_a3_strategy",
+        "website_html",
+        "web_pdf_statusbericht",
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q009",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ],
+      "retrieved_docs": [
+        "stadtentwicklungsplan_2015",
+        "web_pdf_neubuerger_de",
+        "stadtentwicklungsplan_2015",
+        "nachhaltigkeitsbericht_2025",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q010",
+      "request_type": "citizen_explicit",
+      "precision_at_5": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "online_beteiligung_2024"
+      ],
+      "retrieved_docs": [
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q011",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.6,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ],
+      "retrieved_docs": [
+        "mro_konzeptbericht",
+        "mro_konzeptbericht",
+        "website_html",
+        "website_html",
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q012",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.2,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "website_html",
+        "nachhaltigkeitsbericht_2025",
+        "website_html",
+        "web_pdf_neubuerger_de",
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q013",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "retrieved_docs": [
+        "web_pdf_neubuerger_de",
+        "stek_a3_strategy",
+        "website_html",
+        "web_pdf_statusbericht",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q014",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "website_html",
+        "website_html",
+        "web_pdf_neubuerger_de",
+        "web_pdf_neubuerger_de"
+      ]
+    },
+    {
+      "q_id": "Q015",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ],
+      "retrieved_docs": [
+        "web_pdf_statusbericht",
+        "stek_a3_strategy",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht"
+      ]
+    },
+    {
+      "q_id": "Q016",
+      "request_type": "citizen_explicit",
+      "precision_at_5": 0.8,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "online_beteiligung_2024"
+      ],
+      "retrieved_docs": [
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "zukunft_gestalten_2024",
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q017",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "website_html",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht"
+      ]
+    },
+    {
+      "q_id": "Q018",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "retrieved_docs": [
+        "nachhaltigkeitsbericht_2025",
+        "mro_konzeptbericht",
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q019",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "online_beteiligung_2024"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "web_pdf_statusbericht",
+        "stadtentwicklungsplan_2015",
+        "stek_a3_strategy",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q020",
+      "request_type": "default_cascade",
+      "precision_at_5": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "stadtentwicklungsplan_2015"
+      ],
+      "retrieved_docs": [
+        "stadtentwicklungsplan_2015",
+        "stadtentwicklungsplan_2015",
+        "stadtentwicklungsplan_2015",
+        "stadtentwicklungsplan_2015",
+        "stadtentwicklungsplan_2015"
+      ]
+    },
+    {
+      "q_id": "Q021",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "arbeitstreffen_2024"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "website_html",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht"
+      ]
+    },
+    {
+      "q_id": "Q022",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "website_html",
+        "stek_a3_strategy",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht"
+      ]
+    },
+    {
+      "q_id": "Q023",
+      "request_type": "citizen_explicit",
+      "precision_at_5": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "online_beteiligung_2024"
+      ],
+      "retrieved_docs": [
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q024",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "online_beteiligung_2024",
+        "arbeitstreffen_2024"
+      ],
+      "retrieved_docs": [
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "stadtentwicklungsplan_2015"
+      ]
+    },
+    {
+      "q_id": "Q025",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "zukunft_gestalten_2024",
+        "arbeitstreffen_2024",
+        "zukunftsreise_2035"
+      ],
+      "retrieved_docs": [
+        "web_pdf_neubuerger_de",
+        "web_pdf_statusbericht",
+        "stadtentwicklungsplan_2015",
+        "web_pdf_statusbericht",
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q026",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.333,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "website_html",
+        "web_pdf_statusbericht",
+        "stek_a3_strategy",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht"
+      ]
+    },
+    {
+      "q_id": "Q027",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "retrieved_docs": [
+        "nachhaltigkeitsbericht_2025",
+        "web_pdf_statusbericht",
+        "web_pdf_wohnraumfoerderung",
+        "nachhaltigkeitsbericht_2025",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q028",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "stadtentwicklungsplan_2015",
+        "stek_a3_strategy",
+        "website_html",
+        "stadtentwicklungsplan_2015",
+        "stadtentwicklungsplan_2015"
+      ]
+    },
+    {
+      "q_id": "Q029",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "website_html",
+        "stek_a3_strategy",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q030",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "website_html",
+        "web_pdf_neubuerger_en",
+        "web_pdf_neubuerger_de",
+        "web_pdf_neubuerger_de"
+      ]
+    },
+    {
+      "q_id": "Q031",
+      "request_type": "default_cascade",
+      "precision_at_5": 1.0,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "retrieved_docs": [
+        "nachhaltigkeitsbericht_2025",
+        "nachhaltigkeitsbericht_2025",
+        "nachhaltigkeitsbericht_2025",
+        "nachhaltigkeitsbericht_2025",
+        "nachhaltigkeitsbericht_2025"
+      ]
+    },
+    {
+      "q_id": "Q032",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.8,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "web_pdf_statusbericht",
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q033",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.6,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.5,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "nachhaltigkeitsbericht_2025",
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "stadtentwicklungsplan_2015",
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q034",
+      "request_type": "citizen_explicit",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "zukunftsreise_2035"
+      ],
+      "retrieved_docs": [
+        "online_beteiligung_2024",
+        "ak_sitzung_1_2023",
+        "wege_zu_den_zielen_2024",
+        "wege_zu_den_zielen_2024",
+        "ak_sitzung_1_2023"
+      ]
+    },
+    {
+      "q_id": "Q035",
+      "request_type": "citizen_explicit",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.333,
+      "target_docs": [
+        "zukunftsreise_2035"
+      ],
+      "retrieved_docs": [
+        "arbeitstreffen_2024",
+        "arbeitstreffen_2024",
+        "zukunftsreise_2035",
+        "arbeitstreffen_2024",
+        "zukunft_gestalten_2024"
+      ]
+    },
+    {
+      "q_id": "Q036",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.6,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.333,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "website_html",
+        "web_pdf_statusbericht",
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q037",
+      "request_type": "citizen_explicit",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "zukunftsreise_2035"
+      ],
+      "retrieved_docs": [
+        "online_beteiligung_2024",
+        "zukunft_gestalten_2024",
+        "arbeitstreffen_2024",
+        "online_beteiligung_2024",
+        "zukunft_gestalten_2024"
+      ]
+    },
+    {
+      "q_id": "Q038",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "website_html",
+        "web_pdf_neubuerger_de",
+        "mro_konzeptbericht",
+        "stek_a3_strategy"
+      ]
+    },
+    {
+      "q_id": "Q039",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.333,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "retrieved_docs": [
+        "web_pdf_neubuerger_de",
+        "website_html",
+        "nachhaltigkeitsbericht_2025",
+        "website_html",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q040",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "web_pdf_neubuerger_de",
+        "stek_a3_strategy",
+        "website_html",
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q041",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "website_html",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q042",
+      "request_type": "comparison",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "retrieved_docs": [
+        "nachhaltigkeitsbericht_2025",
+        "web_pdf_statusbericht",
+        "nachhaltigkeitsbericht_2025",
+        "ak_sitzung_1_2023",
+        "online_beteiligung_2024"
+      ]
+    },
+    {
+      "q_id": "Q043",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.2,
+      "recall_at_5": 0.5,
+      "reciprocal_rank": 0.25,
+      "target_docs": [
+        "stek_a3_strategy",
+        "mro_konzeptbericht"
+      ],
+      "retrieved_docs": [
+        "website_html",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "stek_a3_strategy",
+        "web_pdf_statusbericht"
+      ]
+    },
+    {
+      "q_id": "Q044",
+      "request_type": "default_cascade",
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "reciprocal_rank": 0.0,
+      "target_docs": [
+        "stadtentwicklungsplan_2015"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "web_pdf_statusbericht",
+        "website_html",
+        "web_pdf_statusbericht",
+        "website_html"
+      ]
+    },
+    {
+      "q_id": "Q045",
+      "request_type": "comparison",
+      "precision_at_5": 0.4,
+      "recall_at_5": 0.5,
+      "reciprocal_rank": 0.25,
+      "target_docs": [
+        "mro_konzeptbericht",
+        "online_beteiligung_2024"
+      ],
+      "retrieved_docs": [
+        "stadtentwicklungsplan_2015",
+        "website_html",
+        "website_html",
+        "online_beteiligung_2024",
+        "online_beteiligung_2024"
+      ]
+    }
+  ]
+}
