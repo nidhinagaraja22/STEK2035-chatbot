@@ -1,0 +1,737 @@
+[
+  {
+    "id": "g001",
+    "category": "Wohnen",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie schafft Heidelberg bezahlbaren Wohnraum?"
+  },
+  {
+    "id": "g002",
+    "category": "Wohnen",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Welche Rolle spielt die GGH beim Wohnungsbau?"
+  },
+  {
+    "id": "g003",
+    "category": "Wohnen",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist das Bündnis für bezahlbaren Wohnraum?"
+  },
+  {
+    "id": "g004",
+    "category": "Wohnen",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie geht Heidelberg gegen überhöhte Mieten vor?"
+  },
+  {
+    "id": "g005",
+    "category": "Wohnen",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist der Wohnberechtigungsschein und wo bekommt man ihn?"
+  },
+  {
+    "id": "g006",
+    "category": "Wohnen",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Was sind gemeinschaftliche Wohnprojekte in Heidelberg?"
+  },
+  {
+    "id": "g007",
+    "category": "Wohnen",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie wird preisgünstiger Wohnraum auf neuen Flächen gesichert?"
+  },
+  {
+    "id": "g008",
+    "category": "Wohnen",
+    "q_type": "cross-document",
+    "answerable": true,
+    "question": "Welche Förderprogramme gibt es im Bereich Wohnen?"
+  },
+  {
+    "id": "g009",
+    "category": "Wohnen",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was wünschen sich Bürgerinnen und Bürger beim Thema Wohnen?"
+  },
+  {
+    "id": "g010",
+    "category": "Mobilität",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie wird der ÖPNV in Heidelberg ausgebaut?"
+  },
+  {
+    "id": "g011",
+    "category": "Mobilität",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie fördert Heidelberg den Radverkehr?"
+  },
+  {
+    "id": "g012",
+    "category": "Mobilität",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist der Klimamobilitätsplan 2035?"
+  },
+  {
+    "id": "g013",
+    "category": "Mobilität",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie soll der Parkraum in der Innenstadt entwickelt werden?"
+  },
+  {
+    "id": "g014",
+    "category": "Mobilität",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Was tut Heidelberg für barrierefreie Mobilität?"
+  },
+  {
+    "id": "g015",
+    "category": "Mobilität",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist die RadKULTUR-Initiative?"
+  },
+  {
+    "id": "g016",
+    "category": "Mobilität",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie sollen Fußgänger in der Stadt gefördert werden?"
+  },
+  {
+    "id": "g017",
+    "category": "Mobilität",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was zeigt die Mobilitätsbefragung SrV 2023?"
+  },
+  {
+    "id": "g018",
+    "category": "Mobilität",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was wünschen sich Bürger zur Mobilität in Heidelberg?"
+  },
+  {
+    "id": "g019",
+    "category": "Umwelt",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie reagiert Heidelberg auf Klimawandel und Hitzewellen?"
+  },
+  {
+    "id": "g020",
+    "category": "Umwelt",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie schützt die Stadt Grünflächen und Bäume?"
+  },
+  {
+    "id": "g021",
+    "category": "Umwelt",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was regelt die Baumschutzsatzung?"
+  },
+  {
+    "id": "g022",
+    "category": "Umwelt",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Was tut Heidelberg für den Klimaschutz?"
+  },
+  {
+    "id": "g023",
+    "category": "Umwelt",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist an der Bahnstadt aus Umweltsicht besonders?"
+  },
+  {
+    "id": "g024",
+    "category": "Umwelt",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Welche Bedeutung hat der Neckar für die Stadtentwicklung?"
+  },
+  {
+    "id": "g025",
+    "category": "Umwelt",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie geht Heidelberg mit Hochwasser um?"
+  },
+  {
+    "id": "g026",
+    "category": "Umwelt",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist der Erholungswald in Heidelberg?"
+  },
+  {
+    "id": "g027",
+    "category": "Umwelt",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie fördert Heidelberg biologische Vielfalt?"
+  },
+  {
+    "id": "g028",
+    "category": "Umwelt",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Welche Umweltthemen sind Bürgern besonders wichtig?"
+  },
+  {
+    "id": "g029",
+    "category": "Wirtschaft",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie stärkt Heidelberg den Wirtschaftsstandort?"
+  },
+  {
+    "id": "g030",
+    "category": "Wirtschaft",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Welche Rolle spielt die Wissenschaft für Heidelbergs Wirtschaft?"
+  },
+  {
+    "id": "g031",
+    "category": "Wirtschaft",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie geht Heidelberg mit Gewerbeflächen um?"
+  },
+  {
+    "id": "g032",
+    "category": "Wirtschaft",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie verbindet Heidelberg Wirtschaft und Nachhaltigkeit?"
+  },
+  {
+    "id": "g033",
+    "category": "Wirtschaft",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was bedeutet die Metropolregion Rhein-Neckar für Heidelberg?"
+  },
+  {
+    "id": "g034",
+    "category": "Wirtschaft",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie soll Innovation in Heidelberg gefördert werden?"
+  },
+  {
+    "id": "g035",
+    "category": "Wirtschaft",
+    "q_type": "cross-document",
+    "answerable": true,
+    "question": "Wie sollen Wohnen und Arbeiten in Heidelberg ausbalanciert werden?"
+  },
+  {
+    "id": "g036",
+    "category": "Wirtschaft",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Welche wirtschaftlichen Anliegen nennen Bürger?"
+  },
+  {
+    "id": "g037",
+    "category": "Kultur",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Welche Bedeutung hat Kultur für Heidelberg?"
+  },
+  {
+    "id": "g038",
+    "category": "Kultur",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was macht die Heidelberger Altstadt einzigartig?"
+  },
+  {
+    "id": "g039",
+    "category": "Kultur",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie schützt Heidelberg sein kulturelles Erbe?"
+  },
+  {
+    "id": "g040",
+    "category": "Kultur",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie fördert die Stadt kulturelle Veranstaltungen?"
+  },
+  {
+    "id": "g041",
+    "category": "Kultur",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Welche Rolle spielt die Universität für Heidelbergs Identität?"
+  },
+  {
+    "id": "g042",
+    "category": "Kultur",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie wird kulturelle Vielfalt in Heidelberg unterstützt?"
+  },
+  {
+    "id": "g043",
+    "category": "Kultur",
+    "q_type": "cross-document",
+    "answerable": true,
+    "question": "Wie verbindet das STEK Kultur und Stadtentwicklung?"
+  },
+  {
+    "id": "g044",
+    "category": "Kultur",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was macht Heidelberg für Bürger einzigartig?"
+  },
+  {
+    "id": "g045",
+    "category": "Soziales",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Was wird für Familien und ältere Menschen angeboten?"
+  },
+  {
+    "id": "g046",
+    "category": "Soziales",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie fördert Heidelberg soziale Teilhabe?"
+  },
+  {
+    "id": "g047",
+    "category": "Soziales",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Was tut die Stadt für Kinderbetreuung?"
+  },
+  {
+    "id": "g048",
+    "category": "Soziales",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie unterstützt Heidelberg Integration?"
+  },
+  {
+    "id": "g049",
+    "category": "Soziales",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie sorgt Heidelberg für Bildungsgerechtigkeit?"
+  },
+  {
+    "id": "g050",
+    "category": "Soziales",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Was bedeutet altersgerechtes Wohnen in Heidelberg?"
+  },
+  {
+    "id": "g051",
+    "category": "Soziales",
+    "q_type": "cross-document",
+    "answerable": true,
+    "question": "Wie will Heidelberg niemanden im Wandel zurücklassen?"
+  },
+  {
+    "id": "g052",
+    "category": "Soziales",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was versteht das STEK unter sozialem Zusammenhalt?"
+  },
+  {
+    "id": "g053",
+    "category": "Soziales",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Auf welche Menschen muss die Stadt laut Bürgern besonders achten?"
+  },
+  {
+    "id": "g054",
+    "category": "Stadtentwicklung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist die Bahnstadt und welche Rolle spielt sie?"
+  },
+  {
+    "id": "g055",
+    "category": "Stadtentwicklung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was passiert mit den Konversionsflächen?"
+  },
+  {
+    "id": "g056",
+    "category": "Stadtentwicklung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist das Modell Räumliche Ordnung (MRO)?"
+  },
+  {
+    "id": "g057",
+    "category": "Stadtentwicklung",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie soll die Innenstadt weiterentwickelt werden?"
+  },
+  {
+    "id": "g058",
+    "category": "Stadtentwicklung",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie geht Heidelberg mit dem Flächenverbrauch um?"
+  },
+  {
+    "id": "g059",
+    "category": "Stadtentwicklung",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie sollen Stadtteile gestärkt werden?"
+  },
+  {
+    "id": "g060",
+    "category": "Stadtentwicklung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist das Ziel 'gemischte Stadt'?"
+  },
+  {
+    "id": "g061",
+    "category": "Stadtentwicklung",
+    "q_type": "cross-document",
+    "answerable": true,
+    "question": "Wie hängen MRO und STEK 2035 zusammen?"
+  },
+  {
+    "id": "g062",
+    "category": "Stadtentwicklung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was soll aus Bürgersicht in Heidelberg unbedingt erhalten bleiben?"
+  },
+  {
+    "id": "g063",
+    "category": "Bürgerbeteiligung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Wie können sich Bürger am STEK beteiligen?"
+  },
+  {
+    "id": "g064",
+    "category": "Bürgerbeteiligung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was sind aufsuchende Beteiligungsformate?"
+  },
+  {
+    "id": "g065",
+    "category": "Bürgerbeteiligung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist die Online-Beteiligung zum STEK 2035?"
+  },
+  {
+    "id": "g066",
+    "category": "Bürgerbeteiligung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was sind die Arbeitskreise (AK) zum STEK?"
+  },
+  {
+    "id": "g067",
+    "category": "Bürgerbeteiligung",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Warum ist Beteiligung für das STEK wichtig?"
+  },
+  {
+    "id": "g068",
+    "category": "Bürgerbeteiligung",
+    "q_type": "cross-document",
+    "answerable": true,
+    "question": "Welche Themen wurden in der Beteiligung besonders oft kommentiert?"
+  },
+  {
+    "id": "g069",
+    "category": "Bürgerbeteiligung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Wie wurden Bürgerbeiträge geprüft und veröffentlicht?"
+  },
+  {
+    "id": "g070",
+    "category": "Sicherheit",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Was tut Heidelberg für die Sicherheit im öffentlichen Raum?"
+  },
+  {
+    "id": "g071",
+    "category": "Sicherheit",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Wo fühlen sich Menschen in Heidelberg unsicher?"
+  },
+  {
+    "id": "g072",
+    "category": "Sicherheit",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie soll das Sicherheitsgefühl verbessert werden?"
+  },
+  {
+    "id": "g073",
+    "category": "Sicherheit",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was sagen Bürger zur Sicherheit in der Innenstadt?"
+  },
+  {
+    "id": "g074",
+    "category": "Sicherheit",
+    "q_type": "cross-document",
+    "answerable": true,
+    "question": "Wie hängt Sicherheit mit der Gestaltung öffentlicher Räume zusammen?"
+  },
+  {
+    "id": "g075",
+    "category": "Digitalisierung",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Wie treibt Heidelberg die Digitalisierung voran?"
+  },
+  {
+    "id": "g076",
+    "category": "Digitalisierung",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Welche digitalen Behördenangebote gibt es?"
+  },
+  {
+    "id": "g077",
+    "category": "Digitalisierung",
+    "q_type": "cross-document",
+    "answerable": true,
+    "question": "Wie verbindet Heidelberg Digitalisierung und Beteiligung?"
+  },
+  {
+    "id": "g078",
+    "category": "Digitalisierung",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was wünschen Bürger im Bereich Digitalisierung?"
+  },
+  {
+    "id": "g079",
+    "category": "Digitalisierung",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Sollen persönliche Ansprechpartner trotz Digitalisierung erhalten bleiben?"
+  },
+  {
+    "id": "g080",
+    "category": "Strategie",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist das STEK 2035?"
+  },
+  {
+    "id": "g081",
+    "category": "Strategie",
+    "q_type": "policy",
+    "answerable": true,
+    "question": "Welche Nachhaltigkeitsziele verfolgt das STEK 2035?"
+  },
+  {
+    "id": "g082",
+    "category": "Strategie",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "An welchen übergeordneten Zielen orientiert sich das STEK?"
+  },
+  {
+    "id": "g083",
+    "category": "Strategie",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Was ist der Statusbericht zum STEK 2035?"
+  },
+  {
+    "id": "g084",
+    "category": "Strategie",
+    "q_type": "cross-document",
+    "answerable": true,
+    "question": "Welche großen Herausforderungen adressiert das STEK 2035?"
+  },
+  {
+    "id": "g085",
+    "category": "Strategie",
+    "q_type": "factual",
+    "answerable": true,
+    "question": "Welchen Zeithorizont hat das STEK?"
+  },
+  {
+    "id": "g086",
+    "category": "Wohnen",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Wie hoch ist das genaue Budget der Stadt für Wohnungsbau im Jahr 2026?"
+  },
+  {
+    "id": "g087",
+    "category": "Mobilität",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Wie viele Kilometer Radweg wurden 2025 exakt neu gebaut?"
+  },
+  {
+    "id": "g088",
+    "category": "Wirtschaft",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Wie hoch ist die Arbeitslosenquote in Heidelberg im September 2026?"
+  },
+  {
+    "id": "g089",
+    "category": "Strategie",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Welche konkreten Beschlüsse fasst der Gemeinderat im Dezember 2026?"
+  },
+  {
+    "id": "g090",
+    "category": "Kultur",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Wie viele Besucher hatte das Heidelberger Schloss im Jahr 2025 genau?"
+  },
+  {
+    "id": "g091",
+    "category": "Umwelt",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Wie viele Bäume wird die Stadt bis 2040 exakt pflanzen?"
+  },
+  {
+    "id": "g092",
+    "category": "Soziales",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Wie viele Kita-Plätze fehlen in Heidelberg aktuell genau?"
+  },
+  {
+    "id": "g093",
+    "category": "Stadtentwicklung",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Wann genau wird Patrick-Henry-Village vollständig fertiggestellt?"
+  },
+  {
+    "id": "g094",
+    "category": "Wirtschaft",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Welche Unternehmen ziehen 2027 nach Heidelberg?"
+  },
+  {
+    "id": "g095",
+    "category": "Mobilität",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Wie hoch werden die Parkgebühren in der Altstadt 2027 sein?"
+  },
+  {
+    "id": "g096",
+    "category": "Strategie",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Wie schneidet Heidelberg im Vergleich zu München bei CO2-Emissionen ab?"
+  },
+  {
+    "id": "g097",
+    "category": "Soziales",
+    "q_type": "unanswerable",
+    "answerable": false,
+    "question": "Wie viele Sozialwohnungen wird die GGH bis 2035 exakt bauen?"
+  },
+  {
+    "id": "g098",
+    "category": "Vage",
+    "q_type": "vague",
+    "answerable": false,
+    "question": "Erzähl mir etwas über Heidelberg."
+  },
+  {
+    "id": "g099",
+    "category": "Vage",
+    "q_type": "vague",
+    "answerable": false,
+    "question": "Was ist geplant?"
+  },
+  {
+    "id": "g100",
+    "category": "Vage",
+    "q_type": "vague",
+    "answerable": false,
+    "question": "Was passiert mit der Stadt?"
+  },
+  {
+    "id": "g101",
+    "category": "Vage",
+    "q_type": "vague",
+    "answerable": false,
+    "question": "Was sagt das STEK?"
+  },
+  {
+    "id": "g102",
+    "category": "Vage",
+    "q_type": "vague",
+    "answerable": false,
+    "question": "Worum geht es hier?"
+  },
+  {
+    "id": "g103",
+    "category": "Vage",
+    "q_type": "vague",
+    "answerable": false,
+    "question": "Was ist wichtig?"
+  },
+  {
+    "id": "g104",
+    "category": "Vage",
+    "q_type": "vague",
+    "answerable": false,
+    "question": "Kannst du mir helfen?"
+  },
+  {
+    "id": "g105",
+    "category": "Vage",
+    "q_type": "vague",
+    "answerable": false,
+    "question": "Was gibt es Neues?"
+  }
+]

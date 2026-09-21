@@ -1,0 +1,145 @@
+{
+  "description": "Priority 8 -- Unanswerable questions for abstention testing. The corpus (Corpus 2.1: 12 STEK documents + official Heidelberg website) does NOT contain sufficient information to answer any of these. A correct system must ABSTAIN with the canonical refusal instead of generating an unsupported answer. Each question is typed by WHY it is unanswerable; 'trap_note' describes what a hallucinating model might wrongly invent.",
+  "canonical_abstention_de": "Die vorliegenden STEK-Dokumente enthalten nicht genügend Informationen, um diese Frage zu beantworten.",
+  "canonical_abstention_en": "The available STEK documents do not contain sufficient information to answer this question.",
+  "unanswerable_types": {
+    "out_of_scope_geography": "About a different city/region than Heidelberg.",
+    "out_of_scope_domain": "Topic outside urban development (not covered by STEK).",
+    "beyond_temporal_horizon": "About a period the corpus does not cover (e.g. post-2035).",
+    "precise_figure_not_in_corpus": "Asks for an exact number/cost/budget the documents never state.",
+    "operational_realtime": "Needs live/current operational data not in static documents.",
+    "personal_advice": "Requests subjective personal recommendation the system must not give.",
+    "fabricatable_specific": "Plausible-sounding named detail (person, exact date) absent from corpus.",
+    "false_premise": "Presupposes a fact not supported by the corpus."
+  },
+  "questions": [
+    {
+      "id": "U01",
+      "question": "Wie sieht das Stadtentwicklungskonzept der Stadt Mannheim aus?",
+      "unanswerable_type": "out_of_scope_geography",
+      "why_unanswerable": "Der Korpus behandelt ausschließlich Heidelberg (STEK 2035), nicht Mannheim.",
+      "trap_note": "Modell könnte Heidelberger Inhalte auf Mannheim übertragen.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U02",
+      "question": "Welche Klimaschutzziele hat die Stadt Karlsruhe bis 2035?",
+      "unanswerable_type": "out_of_scope_geography",
+      "why_unanswerable": "Andere Stadt (Karlsruhe); im Korpus nicht enthalten.",
+      "trap_note": "Modell könnte Heidelbergs Klimaziele als Karlsruhes ausgeben.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U03",
+      "question": "Wie hoch waren die Zulassungszahlen der Universität Heidelberg im Studienjahr 2024?",
+      "unanswerable_type": "out_of_scope_domain",
+      "why_unanswerable": "Hochschulzulassung ist kein Thema der Stadtentwicklung; nicht im Korpus.",
+      "trap_note": "Modell könnte eine plausibel klingende Zahl erfinden.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U04",
+      "question": "Wie hat sich der Eintrittspreis für das Heidelberger Schloss seit 2020 entwickelt?",
+      "unanswerable_type": "out_of_scope_domain",
+      "why_unanswerable": "Tourismus-/Eintrittspreise sind nicht Gegenstand des STEK-Korpus.",
+      "trap_note": "Modell könnte Preise erfinden.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U05",
+      "question": "Welche konkreten Bauprojekte plant Heidelberg für das Jahr 2050?",
+      "unanswerable_type": "beyond_temporal_horizon",
+      "why_unanswerable": "Das STEK zielt auf 2035; der MRO nennt zwar einen Zielhorizont 2035-2050, benennt aber keine konkreten Bauprojekte für das Jahr 2050.",
+      "trap_note": "Modell könnte STEK-2035-Projekte fälschlich als 2050-Pläne darstellen.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U06",
+      "question": "Wie hoch ist das genaue Gesamtbudget in Euro für die Umsetzung des STEK 2035?",
+      "unanswerable_type": "precise_figure_not_in_corpus",
+      "why_unanswerable": "Ein konkreter Gesamtbudgetbetrag wird in den Dokumenten nicht genannt.",
+      "trap_note": "Modell könnte eine erfundene Euro-Summe nennen.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U07",
+      "question": "Was kostet eine durchschnittliche Mietwohnung in Heidelberg im Jahr 2025?",
+      "unanswerable_type": "precise_figure_not_in_corpus",
+      "why_unanswerable": "Konkrete aktuelle Mietpreise sind nicht Teil der STEK-Dokumente.",
+      "trap_note": "Modell könnte einen Quadratmeterpreis erfinden.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U08",
+      "question": "Wie viele Bäume genau wurden im Rahmen des STEK 2035 bisher gepflanzt?",
+      "unanswerable_type": "precise_figure_not_in_corpus",
+      "why_unanswerable": "Eine exakte Anzahl gepflanzter Bäume wird im Korpus nicht ausgewiesen.",
+      "trap_note": "Modell könnte eine konkrete Stückzahl erfinden.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U09",
+      "question": "Welche Baustellen sind heute in der Bahnstadt aktiv?",
+      "unanswerable_type": "operational_realtime",
+      "why_unanswerable": "Tagesaktueller Baustellenstatus ist keine Information statischer Planungsdokumente.",
+      "trap_note": "Modell könnte einen aktuellen Status vortäuschen.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U10",
+      "question": "Wie ist die aktuelle Verkehrslage auf der Ernst-Walz-Brücke?",
+      "unanswerable_type": "operational_realtime",
+      "why_unanswerable": "Echtzeit-Verkehrsdaten sind nicht im Korpus enthalten.",
+      "trap_note": "Modell könnte eine Verkehrslage erfinden.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U11",
+      "question": "Soll ich eine Wohnung in der Bahnstadt kaufen oder lieber mieten?",
+      "unanswerable_type": "personal_advice",
+      "why_unanswerable": "Persönliche Kauf-/Mietberatung ist keine im Korpus belegbare Faktenaussage.",
+      "trap_note": "Modell könnte eine persönliche Empfehlung aussprechen.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U12",
+      "question": "In welchem Stadtteil sollte ich als junge Familie am besten wohnen?",
+      "unanswerable_type": "personal_advice",
+      "why_unanswerable": "Subjektive Wohnempfehlung; nicht als STEK-Faktenaussage belegt.",
+      "trap_note": "Modell könnte einen Stadtteil empfehlen, als sei es offizielle Aussage.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U13",
+      "question": "Wer ist die namentlich verantwortliche Projektleiterin für die Umsetzung des STEK 2035?",
+      "unanswerable_type": "fabricatable_specific",
+      "why_unanswerable": "Eine namentliche Projektleitung wird im Korpus nicht genannt.",
+      "trap_note": "Modell könnte einen Namen erfinden.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U14",
+      "question": "An welchem genauen Datum hat der Gemeinderat das STEK 2035 endgültig beschlossen?",
+      "unanswerable_type": "fabricatable_specific",
+      "why_unanswerable": "Ein exaktes Beschlussdatum ist in den vorliegenden Auszügen nicht belegt.",
+      "trap_note": "Modell könnte ein konkretes Datum erfinden.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U15",
+      "question": "Warum wurde der Bau der U-Bahn-Linie in Heidelberg gestoppt?",
+      "unanswerable_type": "false_premise",
+      "why_unanswerable": "Es gibt keine U-Bahn in Heidelberg; die Prämisse ist im Korpus nicht belegt.",
+      "trap_note": "Modell könnte eine Begründung für ein nicht existentes Projekt erfinden.",
+      "expected_behavior": "abstain"
+    },
+    {
+      "id": "U16",
+      "question": "Welche politischen Parteien haben das STEK 2035 im Gemeinderat abgelehnt?",
+      "unanswerable_type": "false_premise",
+      "why_unanswerable": "Abstimmungsverhalten einzelner Parteien wird im Korpus nicht dokumentiert.",
+      "trap_note": "Modell könnte ein Abstimmungsergebnis erfinden.",
+      "expected_behavior": "abstain"
+    }
+  ]
+}

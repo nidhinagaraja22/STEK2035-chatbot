@@ -38,26 +38,26 @@ import numpy as np
 # --------------------------------------------------------------------------- #
 BASE = Path.cwd()
 for cand in [BASE, *BASE.parents]:
-    if (cand / "corpus" / "corpus_v2" / "corpus_v2_chunks.jsonl").exists():
+    if (cand / "corpus" / "corpus_v2_1" / "corpus_v2_1_chunks.jsonl").exists():
         BASE = cand
         break
 
-CORPUS = BASE / "corpus/corpus_v2/corpus_v2_chunks.jsonl"
-GOLD = BASE / "eval/gold_questions.json"
+CORPUS = BASE / "corpus/corpus_v2_1/corpus_v2_1_chunks.jsonl"   # Corpus 2.1 (with cluster pages)
+GOLD = BASE / "eval/gold_master.json"                           # 50-question verified master gold (Task 4+5)
 OUT = BASE / "eval/grid_results.csv"
 K_VALUES = [1, 3, 5, 10]
 DEPTH = 30                       # candidate depth for hybrid fusion / reranking
 RERANKER = "BAAI/bge-reranker-v2-m3"
 
 # Each embedding model: HF name, its query prefix (e5 uses "query: ", others ""),
-# and the pre-generated embeddings file. Only models whose .npy exists are run.
+# and the pre-generated embeddings file (on Corpus 2.1). Only models whose .npy exists are run.
 EMBED_MODELS = {
-    "e5-small":  {"hf": "intfloat/multilingual-e5-small",  "prefix": "query: ", "emb": "corpus/corpus_v2/embeddings_v2_e5small.npy"},
-    "e5-base":   {"hf": "intfloat/multilingual-e5-base",   "prefix": "query: ", "emb": "corpus/corpus_v2/embeddings_v2_e5base.npy"},
-    "e5-large":  {"hf": "intfloat/multilingual-e5-large",  "prefix": "query: ", "emb": "corpus/corpus_v2/embeddings_v2_e5large.npy"},
-    "bge-m3":    {"hf": "BAAI/bge-m3",                      "prefix": "",        "emb": "corpus/corpus_v2/embeddings_v2_bge.npy"},
-    "gte":       {"hf": "Alibaba-NLP/gte-multilingual-base","prefix": "",       "emb": "corpus/corpus_v2/embeddings_v2_gte.npy"},
-    "mpnet":     {"hf": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2", "prefix": "", "emb": "corpus/corpus_v2/embeddings_v2_mpnet.npy"},
+    "e5-small":  {"hf": "intfloat/multilingual-e5-small",  "prefix": "query: ", "emb": "corpus/corpus_v2_1/embeddings_v2_1_e5small.npy"},
+    "e5-base":   {"hf": "intfloat/multilingual-e5-base",   "prefix": "query: ", "emb": "corpus/corpus_v2_1/embeddings_v2_1_e5base.npy"},
+    "e5-large":  {"hf": "intfloat/multilingual-e5-large",  "prefix": "query: ", "emb": "corpus/corpus_v2_1/embeddings_v2_1_e5large.npy"},
+    "bge-m3":    {"hf": "BAAI/bge-m3",                      "prefix": "",        "emb": "corpus/corpus_v2_1/embeddings_v2_1_bge.npy"},
+    "gte":       {"hf": "Alibaba-NLP/gte-multilingual-base","prefix": "",       "emb": "corpus/corpus_v2_1/embeddings_v2_1_gte.npy"},
+    "mpnet":     {"hf": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2", "prefix": "", "emb": "corpus/corpus_v2_1/embeddings_v2_1_mpnet.npy"},
 }
 # retrieval methods that depend on the embedding model
 DENSE_METHODS = ["dense", "hybrid", "rerank"]
@@ -71,7 +71,10 @@ texts = [c["text"] for c in chunks]
 docids = [c.get("document_id") for c in chunks]
 authlvl = [c.get("authority_level") for c in chunks]
 gold = json.loads(GOLD.read_text(encoding="utf-8"))
-print(f"Corpus: {len(chunks)} chunks | gold: {len(gold)} questions")
+# retrieval metrics need known relevant chunks -> keep only answerable questions
+# with human-annotated relevant_chunk_ids (abstention cases are for generation eval)
+gold = [g for g in gold if g.get("relevant_chunk_ids")]
+print(f"Corpus: {len(chunks)} chunks | gold: {len(gold)} answerable questions")
 
 
 # --------------------------------------------------------------------------- #
@@ -109,7 +112,7 @@ def score_ranked(ranked_idx, g):
     else:                                   # proxy
         rel = [1 if is_rel_text(texts[i], g) else 0 for i in ranked_idx]
         total_rel = None
-    exp_auth = g.get("expected_authority_level")
+    exp_auth = g.get("expected_authority", g.get("expected_authority_level"))
 
     out = {}
     first = next((n for n, r in enumerate(rel, 1) if r), None)
@@ -122,7 +125,12 @@ def score_ranked(ranked_idx, g):
         idc = _dcg(sorted(rel, reverse=True)[:k])
         out[f"nDCG@{k}"] = (_dcg(relk) / idc) if idc > 0 else 0.0
         out[f"div@{k}"] = len(set(docids[i] for i in idxk)) / k
-        out[f"auth@{k}"] = (sum(1 for i in idxk if authlvl[i] == exp_auth) / k
+        # gold authority uses a 1-4 scale; their L4 (citizen) matches our corpus L4 OR L5
+        def _auth_ok(a):
+            if exp_auth == 4:
+                return a in (4, 5)
+            return a == exp_auth
+        out[f"auth@{k}"] = (sum(1 for i in idxk if _auth_ok(authlvl[i])) / k
                             if exp_auth is not None else float("nan"))
     return out
 

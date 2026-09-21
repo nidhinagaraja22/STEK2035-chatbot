@@ -1,0 +1,20 @@
+# Streamlit theme + server configuration for the STEK 2035 Assistant.
+# Colours mirror the Heidelberg city brand (heidelberg.de). Finer visual
+# control (rounded corners, shadows, chat bubbles) lives in styles.css.
+# To re-theme the app, change the tokens here AND the CSS variables at the
+# top of styles.css so both stay in sync.
+
+[theme]
+base = "light"
+primaryColor = "#E2001A"            # Heidelberg red — buttons, accents, focus
+backgroundColor = "#FFFFFF"         # main canvas
+secondaryBackgroundColor = "#F5F5F5" # sidebar / cards / secondary surfaces
+textColor = "#1F2933"               # dark, high-contrast body text
+font = "sans serif"                 # exact web font (Source Sans 3) applied via styles.css
+
+[server]
+headless = true
+# Do not collect or send any usage/browser statistics — privacy friendly.
+
+[browser]
+gatherUsageStats = false

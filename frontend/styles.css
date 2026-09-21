@@ -1,0 +1,200 @@
+/* ==========================================================================
+   STEK 2035 Assistant — custom styles
+   Civic, clean, trustworthy. Heidelberg red accent on a light background.
+   Colour tokens mirror .streamlit/config.toml — change both together.
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap');
+
+:root {
+  --hd-red: #E2001A;          /* primary / accent */
+  --hd-red-dark: #B80016;     /* hover */
+  --hd-text: #1F2933;         /* body text */
+  --hd-muted: #5B6670;        /* secondary text */
+  --hd-bg: #FFFFFF;           /* canvas */
+  --hd-bg-2: #F5F5F5;         /* secondary surfaces */
+  --hd-border: #E0E0E0;       /* hairlines */
+  --hd-radius: 12px;
+  --hd-radius-sm: 8px;
+  --hd-shadow: 0 1px 3px rgba(31,41,51,.08), 0 4px 16px rgba(31,41,51,.06);
+  --hd-focus: 0 0 0 3px rgba(226,0,26,.40);
+  --hd-font: 'Source Sans 3', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+}
+
+/* ---- Base typography ---------------------------------------------------- */
+html, body, [class*="css"], .stApp, .stMarkdown, input, textarea, button, select {
+  font-family: var(--hd-font) !important;
+}
+.stApp { background: var(--hd-bg); color: var(--hd-text); }
+
+/* Give the main content a comfortable reading width and top spacing. */
+.block-container { padding-top: 1.2rem; max-width: 1080px; }
+
+/* ---- Header bar (city-website style) ------------------------------------ */
+.app-header {
+  background: var(--hd-bg);
+  border-top: 5px solid var(--hd-red);
+  border-bottom: 1px solid var(--hd-border);
+  box-shadow: var(--hd-shadow);
+  border-radius: var(--hd-radius);
+  margin-bottom: 14px;
+}
+.app-header-inner {
+  display: flex; align-items: center; gap: 16px;
+  padding: 16px 20px;
+}
+.hd-logo { flex: 0 0 auto; display: flex; }
+.hd-logo-img { height: 52px; width: auto; border-radius: 10px; }
+.hd-titles { display: flex; flex-direction: column; gap: 2px; }
+.hd-title {
+  font-size: 1.45rem; font-weight: 800; color: var(--hd-text);
+  margin: 0; line-height: 1.2;
+}
+.hd-subtitle { font-size: 1rem; color: var(--hd-muted); margin: 0; }
+
+/* ---- AI disclaimer banner ---------------------------------------------- */
+.ai-banner {
+  background: #FFF4F5; border: 1px solid #F6C9CE; color: #7A0011;
+  border-left: 4px solid var(--hd-red);
+  padding: 10px 14px; border-radius: var(--hd-radius-sm);
+  font-size: .92rem; margin-bottom: 12px;
+}
+
+/* ---- Welcome card ------------------------------------------------------- */
+.welcome-card {
+  background: var(--hd-bg-2); border: 1px solid var(--hd-border);
+  border-radius: var(--hd-radius); padding: 20px 22px; margin-bottom: 8px;
+}
+.welcome-card h2 { margin: 0 0 6px; font-size: 1.25rem; font-weight: 700; }
+.welcome-card p { margin: 0; color: var(--hd-muted); }
+
+/* ---- Chat messages ------------------------------------------------------ */
+[data-testid="stChatMessage"] {
+  background: var(--hd-bg-2);
+  border: 1px solid var(--hd-border);
+  border-radius: var(--hd-radius);
+  box-shadow: var(--hd-shadow);
+  padding: 12px 16px; margin-bottom: 10px;
+}
+/* Assistant messages get a subtle red accent edge. */
+[data-testid="stChatMessage"]:has([data-testid="stChatMessageAvatarAssistant"]) {
+  border-left: 4px solid var(--hd-red); background: #fff;
+}
+[data-testid="stChatMessage"] p { line-height: 1.6; }
+
+/* ---- Buttons ------------------------------------------------------------ */
+.stButton > button {
+  border-radius: var(--hd-radius-sm);
+  font-weight: 600; transition: all .15s ease;
+}
+/* Primary = filled Heidelberg red */
+.stButton > button[kind="primary"],
+.stButton > button[data-testid="stBaseButton-primary"] {
+  background: var(--hd-red); border: 1px solid var(--hd-red); color: #fff;
+}
+.stButton > button[kind="primary"]:hover,
+.stButton > button[data-testid="stBaseButton-primary"]:hover {
+  background: var(--hd-red-dark); border-color: var(--hd-red-dark);
+}
+/* Secondary = outlined chips (example / follow-up questions) */
+.stButton > button[kind="secondary"],
+.stButton > button[data-testid="stBaseButton-secondary"] {
+  background: #fff; border: 1px solid var(--hd-border); color: var(--hd-text);
+  border-radius: 22px; text-align: left; white-space: normal; line-height: 1.35;
+}
+.stButton > button[kind="secondary"]:hover,
+.stButton > button[data-testid="stBaseButton-secondary"]:hover {
+  border-color: var(--hd-red); color: var(--hd-red);
+  background: #FFF4F5;
+}
+
+/* ---- Chat input --------------------------------------------------------- */
+[data-testid="stChatInput"] {
+  border: 1px solid var(--hd-border) !important;
+  border-radius: var(--hd-radius) !important;
+  box-shadow: var(--hd-shadow);
+}
+[data-testid="stChatInput"]:focus-within {
+  border-color: var(--hd-red) !important; box-shadow: var(--hd-focus);
+}
+
+/* ---- Source cards ------------------------------------------------------- */
+.src-card {
+  background: #fff; border: 1px solid var(--hd-border);
+  border-left: 4px solid var(--hd-red);
+  border-radius: var(--hd-radius-sm); padding: 10px 14px; margin: 8px 0;
+}
+.src-head { display: flex; justify-content: space-between; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.src-title { font-weight: 700; color: var(--hd-text); }
+.src-auth {
+  font-size: .74rem; font-weight: 600; color: var(--hd-muted);
+  background: var(--hd-bg-2); border: 1px solid var(--hd-border);
+  padding: 1px 8px; border-radius: 10px; white-space: nowrap;
+}
+.src-snippet { color: var(--hd-muted); font-size: .92rem; margin: 6px 0; font-style: italic; }
+.src-link { color: var(--hd-red); font-weight: 600; text-decoration: none; font-size: .9rem; }
+.src-link:hover { text-decoration: underline; }
+
+/* ---- SDG chips ---------------------------------------------------------- */
+.sdg-row { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 2px; }
+.sdg-chip {
+  color: #fff; font-size: .78rem; font-weight: 700;
+  padding: 3px 10px; border-radius: 12px; line-height: 1.5;
+  text-shadow: 0 1px 1px rgba(0,0,0,.18);
+}
+.followups-label, .sdg-label { font-weight: 700; font-size: .9rem; color: var(--hd-muted); margin: 6px 0 2px; }
+
+/* ---- Sidebar ------------------------------------------------------------ */
+[data-testid="stSidebar"] { background: var(--hd-bg-2); border-right: 1px solid var(--hd-border); }
+[data-testid="stSidebar"] .stSelectbox label,
+[data-testid="stSidebar"] .stMultiSelect label { font-weight: 600; }
+.sidebar-brand {
+  font-weight: 800; color: var(--hd-red); font-size: 1.05rem;
+  padding: 4px 0 2px;
+}
+
+/* ---- Tabs --------------------------------------------------------------- */
+[data-baseweb="tab-list"] { gap: 4px; }
+[data-baseweb="tab"] { font-weight: 600; }
+[aria-selected="true"][data-baseweb="tab"] { color: var(--hd-red); }
+[data-baseweb="tab-highlight"] { background: var(--hd-red) !important; }
+
+/* ---- Documents table ---------------------------------------------------- */
+.doc-table { width: 100%; border-collapse: collapse; }
+.doc-table th, .doc-table td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--hd-border); font-size: .93rem; }
+.doc-table th { color: var(--hd-muted); font-weight: 700; }
+.doc-table tr:hover td { background: var(--hd-bg-2); }
+.doc-table a { color: var(--hd-red); font-weight: 600; text-decoration: none; }
+.doc-table a:hover { text-decoration: underline; }
+
+/* ---- Footer ------------------------------------------------------------- */
+.app-footer {
+  margin-top: 26px; padding: 16px 4px; border-top: 1px solid var(--hd-border);
+  color: var(--hd-muted); font-size: .88rem;
+}
+.footer-links { display: flex; flex-wrap: wrap; gap: 18px; margin-bottom: 6px; }
+.footer-links a { color: var(--hd-text); text-decoration: none; font-weight: 600; }
+.footer-links a:hover { color: var(--hd-red); text-decoration: underline; }
+.footer-disclaimer { margin: 0; }
+
+/* ---- Accessibility: visible focus everywhere ---------------------------- */
+a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible,
+select:focus-visible, [role="tab"]:focus-visible, [data-baseweb="tab"]:focus-visible {
+  outline: 3px solid rgba(226,0,26,.55) !important; outline-offset: 2px !important;
+  border-radius: 6px;
+}
+
+/* Respect users who prefer reduced motion. */
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+
+/* ---- Responsive (mobile) ------------------------------------------------ */
+@media (max-width: 640px) {
+  .hd-title { font-size: 1.15rem; }
+  .hd-subtitle { font-size: .9rem; }
+  .app-header-inner { padding: 12px 14px; gap: 12px; }
+  .hd-logo-img, .hd-logo-svg svg { height: 40px; width: 40px; }
+  .footer-links { gap: 12px; }
+  .block-container { padding-left: .8rem; padding-right: .8rem; }
+}

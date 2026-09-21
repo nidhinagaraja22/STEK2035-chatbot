@@ -1,0 +1,231 @@
+[
+  {
+    "id": "q01",
+    "question": "Wie schafft Heidelberg bezahlbaren Wohnraum?",
+    "answerable": "yes",
+    "expected_authority": 1,
+    "relevant_chunk_ids": [
+      "website_html::Wohnen.html::0",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::181",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::167"
+    ],
+    "verified_answer": "Heidelberg setzt auf Sozialwohnungsbau, Belegungsrechte und Kooperationen mit der städtischen GGH zur Sicherung bezahlbaren Wohnraums.",
+    "nature": null,
+    "notes": ""
+  },
+  {
+    "id": "q02",
+    "question": "Was tut die Stadt für den Erhalt von Grünflächen und Bäumen?",
+    "answerable": "yes",
+    "expected_authority": 2,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::101",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::100",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::8",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::107"
+    ],
+    "verified_answer": "Heidelberg schützt Grünflächen durch Biotoppflege, Biotopvernetzung, Artenschutzprogramme und den Erhalt des Stadtwalds als zertifizierten Erholungswald.",
+    "nature": null,
+    "notes": ""
+  },
+  {
+    "id": "q03",
+    "question": "Wie wird der ÖPNV in Heidelberg ausgebaut?",
+    "answerable": "yes",
+    "expected_authority": 1,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::67",
+      "website_html::amt+fuer+mobilitaet.html::0",
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::84",
+      "doc::2015_Stadtentwicklungsplan::32"
+    ],
+    "verified_answer": "Heidelberg plant den Ausbau des ÖPNV durch bessere Anbindung neuer Stadtquartiere und Verknüpfung mit dem Rad- und Fußverkehr im Rahmen des Klimamobilitätsplans 2035.",
+    "nature": "citizen",
+    "notes": ""
+  },
+  {
+    "id": "q04",
+    "question": "Wie reagiert Heidelberg auf den Klimawandel und Hitzewellen?",
+    "answerable": "yes",
+    "expected_authority": 1,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::348",
+      "website_html::Umwelt+Foerderprogramme.html::0"
+    ],
+    "verified_answer": "Heidelberg setzt auf Frischluftkorridore, Dach- und Fassadenbegrünung, mehr Stadtbäume und wasserdurchlässige Böden als Maßnahmen gegen Hitzeinseleffekte und Klimafolgen.",
+    "nature": null,
+    "notes": ""
+  },
+  {
+    "id": "q05",
+    "question": "Was ist die Bahnstadt und welche Rolle spielt sie?",
+    "answerable": "yes",
+    "expected_authority": 2,
+    "relevant_chunk_ids": [
+      "doc::2015_Stadtentwicklungsplan::50",
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::34",
+      "website_html::Heidelberg_Bahnstadt.html::0"
+    ],
+    "verified_answer": "Die Bahnstadt ist ein neues Stadtquartier auf ehemaliger Bahnfläche und gilt als größte Passivhaussiedlung der Welt. Sie erhielt 2014 den Passive House Award und ist Vorbild nachhaltiger Stadtentwicklung.",
+    "nature": "official",
+    "notes": ""
+  },
+  {
+    "id": "q06",
+    "question": "Wie können Bürgerinnen und Bürger sich am STEK beteiligen?",
+    "answerable": "yes",
+    "expected_authority": 2,
+    "relevant_chunk_ids": [
+      "website_html::Buergerbeteiligung.html::0",
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::71",
+      "website_html::prozess+und+beteiligung.html::0"
+    ],
+    "verified_answer": "Bürger wurden durch Online-Beteiligung, aufsuchende Formate an Stadtfesten und Märkten sowie thematische Arbeitstreffen in den STEK-Prozess eingebunden.",
+    "nature": "official",
+    "notes": ""
+  },
+  {
+    "id": "q07",
+    "question": "Welche Bedeutung hat der Neckar für die Stadtentwicklung?",
+    "answerable": "no",
+    "expected_authority": 5,
+    "relevant_chunk_ids": [
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::52"
+    ],
+    "verified_answer": "Der Neckar wird im STEK als wichtiger Freiraum und Erholungsraum für Heidelberg behandelt, der durch bessere Zugänglichkeit und Uferpflege gestärkt werden soll.",
+    "nature": null,
+    "notes": ""
+  },
+  {
+    "id": "q08",
+    "question": "Wie wird der Radverkehr in Heidelberg gefördert?",
+    "answerable": "no",
+    "expected_authority": 1,
+    "relevant_chunk_ids": [
+      "website_html::Fahrradfreundliches+Heidelberg.html::0"
+    ],
+    "verified_answer": "Heidelberg fördert den Radverkehr durch Ausbau des Radwegnetzes, Radschnellwege, bessere Abstellanlagen und die RadKULTUR-Initiative als Teil des Klimamobilitätsplans.",
+    "nature": null,
+    "notes": "It gives just a fact about it, but does not have anything w.r.t development."
+  },
+  {
+    "id": "q09",
+    "question": "Was passiert mit den Konversionsflächen in Heidelberg?",
+    "answerable": "yes",
+    "expected_authority": 2,
+    "relevant_chunk_ids": [
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::88",
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::24",
+      "website_html::cluster_1::0",
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::66",
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::19"
+    ],
+    "verified_answer": "Konversionsflächen wie Patrick-Henry-Village werden zu neuen gemischten Stadtquartieren mit Wohn- und Gewerbenutzung entwickelt.",
+    "nature": "official",
+    "notes": ""
+  },
+  {
+    "id": "q10",
+    "question": "Welche Nachhaltigkeitsziele verfolgt das STEK 2035?",
+    "answerable": "yes",
+    "expected_authority": 2,
+    "relevant_chunk_ids": [
+      "doc::12_pdf_STEK_Nachhaltigkeitsbericht_2025::58",
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::117",
+      "website_html::1350391.html::0",
+      "doc::2015_Stadtentwicklungsplan::11"
+    ],
+    "verified_answer": "Das STEK 2035 verfolgt das Ziel einer klimaneutralen, sozial gerechten und wirtschaftlich starken Stadtentwicklung, dokumentiert im Nachhaltigkeitsbericht 2025.",
+    "nature": "official",
+    "notes": ""
+  },
+  {
+    "id": "q11",
+    "question": "Was wird für Familien und ältere Menschen angeboten?",
+    "answerable": "no",
+    "expected_authority": 4,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::171",
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::44",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::9"
+    ],
+    "verified_answer": "Das STEK sieht mehr Kindertagesbetreuung, kinderfreundliche Räume, altersgerechtes Wohnen und barrierefreie Infrastruktur für ältere Menschen vor.",
+    "nature": "citizen",
+    "notes": "This is just public opinion and there are no development activities mentioned."
+  },
+  {
+    "id": "q12",
+    "question": "Sollen Parkplätze zugunsten von mehr Platz reduziert werden?",
+    "answerable": "no",
+    "expected_authority": 1,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::74",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::54",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::133"
+    ],
+    "verified_answer": "Heidelberg plant in verkehrsberuhigten Bereichen und der Innenstadt die Reduktion von Parkflächen zugunsten von Aufenthaltsqualität und Grünflächen.",
+    "nature": "citizen",
+    "notes": "Nothing relevant to reducing parking space clear in these."
+  },
+  {
+    "id": "q13",
+    "question": "Was wünschen sich Bürger zum Thema Wohnen laut Beteiligungsdokumentation?",
+    "answerable": "yes",
+    "expected_authority": 4,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::9",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::76",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::319",
+      "doc::12_pdf_STEK 2035_Dokumentation_Zukunft gestalten_25_06_24::12",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::77"
+    ],
+    "verified_answer": "Bürger wünschen sich mehr bezahlbaren Wohnraum, familiengerechte Wohnungen und den Erhalt von Grünflächen in Wohngebieten.",
+    "nature": "citizen",
+    "notes": "These are opinions only."
+  },
+  {
+    "id": "q14",
+    "question": "Was wünschen sich Bürger zur Mobilität in Heidelberg?",
+    "answerable": "yes",
+    "expected_authority": 5,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::267",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::158",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::157",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::199"
+    ],
+    "verified_answer": "Bürger fordern mehr Radwege, besseren ÖPNV und weniger Autoverkehr in Wohngebieten.",
+    "nature": "citizen",
+    "notes": ""
+  },
+  {
+    "id": "q15_unanswerable",
+    "question": "Wie hoch ist das genaue Budget für den STEK-Umsetzungsplan?",
+    "answerable": "no",
+    "expected_authority": 5,
+    "relevant_chunk_ids": [],
+    "verified_answer": "[NICHT BEANTWORTBAR] Das STEK 2035 enthält keine konkreten Haushaltsangaben.",
+    "nature": null,
+    "notes": "There are no financial numbers but only the citizen opinions. No information towards development."
+  },
+  {
+    "id": "q16_unanswerable",
+    "question": "Was kostet eine durchschnittliche Wohnung in Heidelberg 2025?",
+    "answerable": "no",
+    "expected_authority": 5,
+    "relevant_chunk_ids": [],
+    "verified_answer": "[NICHT BEANTWORTBAR] Aktuelle Mietpreise sind nicht im Corpus enthalten.",
+    "nature": null,
+    "notes": "No information regarding the prices/rent in the corpus."
+  },
+  {
+    "id": "q17_unanswerable",
+    "question": "Welche politischen Parteien haben das STEK 2035 unterstützt?",
+    "answerable": "no",
+    "expected_authority": 5,
+    "relevant_chunk_ids": [],
+    "verified_answer": "[NICHT BEANTWORTBAR] Parteipolitische Informationen fehlen im Corpus.",
+    "nature": null,
+    "notes": "No information regarding the politics in the corpus."
+  }
+]

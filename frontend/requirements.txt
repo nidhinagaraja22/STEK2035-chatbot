@@ -1,0 +1,5 @@
+# STEK 2035 Assistant — front-end dependencies
+streamlit>=1.36           # chat UI, st.write_stream, tabs, session_state
+fpdf2>=2.7                # conversation export to PDF (pure-Python, no system deps)
+# Pillow is only needed if you regenerate assets/logo.png with tools/make_logo.py
+# Pillow>=10.0

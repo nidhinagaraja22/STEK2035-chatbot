@@ -1,0 +1,617 @@
+[
+  {
+    "id": "Q001",
+    "question": "Was plant die Stadt Heidelberg konkret für bezahlbaren Wohnraum bis 2035?",
+    "category": "housing",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::44",
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::48"
+    ],
+    "expected_answer": "STEK 2035 formuliert Ziel 3.2: vielfältigen und bezahlbaren Wohnraum in allen Stadtteilen verfügbar machen, mit Angebotserweiterung für Starterhaushalte, Familien und Senioren. Kleinere, bezahlbare Wohnungen sollen freiwerdende größere Wohnungen für andere Haushalte ermöglichen."
+  },
+  {
+    "id": "Q002",
+    "question": "Was wünschen sich Bürgerinnen und Bürger für bezahlbaren Wohnraum?",
+    "category": "housing",
+    "answerable": true,
+    "expected_authority": 4,
+    "is_official_policy": false,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::173"
+    ],
+    "expected_answer": "Bürger fordern u.a. Förderung des Mietshäuser-Syndikats, aktive kommunale Bodenpolitik, mehr Studierendenwohnheime, und kritisieren Wohnraum, der vorrangig für Reiche entwickelt wird."
+  },
+  {
+    "id": "Q003",
+    "question": "Wie hoch ist der Anteil geförderter Wohnungen bei den Konversionsflächen?",
+    "category": "housing",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "website_html::vorhaben+im+wohnungsbau.html::0"
+    ],
+    "expected_answer": "Auf Campbell Barracks/Mark-Twain-Village entstehen 1.400 Wohnungen, 70% als preiswerter Wohnraum. Beim US Hospital werden 50% der 600 Wohnungen nach einem neuartigen Konzept vergeben."
+  },
+  {
+    "id": "Q004",
+    "question": "Wie viele geförderte Wohnungen soll es 2035 je 1.000 Personen geben?",
+    "category": "housing",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::12_pdf_STEK_Nachhaltigkeitsbericht_2025::20"
+    ],
+    "expected_answer": "Bis 2035 sollen 20 geförderte Wohnungen je 1.000 Personen und 40 geförderte Haushalte je 1.000 Personen beibehalten werden."
+  },
+  {
+    "id": "Q005",
+    "question": "Wie hat sich die Zahl der Obdachlosen in Heidelberg entwickelt?",
+    "category": "housing",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::12_pdf_STEK_Nachhaltigkeitsbericht_2025::21"
+    ],
+    "expected_answer": "Die Zahl der Obdachlosen ist von rund 450 auf knapp 500 Personen gestiegen (+5%). Zielwert: der prozentuale Anteil an Obdachlosen an der Bevölkerung soll nicht weiter steigen."
+  },
+  {
+    "id": "Q006",
+    "question": "Welche Herausforderung nennt das STEK 2035 als eine der größten beim Thema Wohnen?",
+    "category": "housing",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::43"
+    ],
+    "expected_answer": "Eine bedarfsgerechte Wohnraumversorgung wird als eine der größten Herausforderungen genannt, gestützt auf die Heidelberg-Studie 2023, wo hohe Mieten als wichtigstes Problem benannt wurden."
+  },
+  {
+    "id": "Q007",
+    "question": "Welche Maßnahmen plant Heidelberg für den Ausbau des Radverkehrs?",
+    "category": "mobility",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::17"
+    ],
+    "expected_answer": "Laut MRO 2035+ werden Radinfrastruktur, Multimodalität und öffentlicher Nahverkehr weiter ausgebaut. Konversionsflächen und Wissenschaftsstandorte sollen an das ÖPNV- und Radwegenetz angeschlossen werden."
+  },
+  {
+    "id": "Q008",
+    "question": "Was sind autofreie Quartiere im Kontext der STEK-Planung?",
+    "category": "mobility",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::17"
+    ],
+    "expected_answer": "Innovative Mobilitätskonzepte wie autofreie Quartiere sind für die Entwicklungsgebiete vorgesehen, kombiniert mit Anschluss an ÖPNV- und Radwegenetz."
+  },
+  {
+    "id": "Q009",
+    "question": "Wie soll sich der öffentliche Nahverkehr entwickeln?",
+    "category": "mobility",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::10",
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::17"
+    ],
+    "expected_answer": "Der Verkehrsentwicklungsplan/Klimamobilitätsplan 2035 (VEP/KMP) ist das zentrale Steuerungsinstrument; Priorität haben Radinfrastruktur, Multimodalität und ÖPNV-Ausbau."
+  },
+  {
+    "id": "Q010",
+    "question": "Was wünschen sich Bürger für den Radverkehr und die Straßengestaltung?",
+    "category": "mobility",
+    "answerable": true,
+    "expected_authority": 4,
+    "is_official_policy": false,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::54",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::61",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::380"
+    ],
+    "expected_answer": "Bürger fordern u.a. Rasengittersteine statt Asphalt, Entsiegelung von Parkplätzen, mehr vertikale Begrünung, und sicherere Radwege ohne Schotter-Verletzungsgefahr für Kinder."
+  },
+  {
+    "id": "Q011",
+    "question": "Welche ÖPNV-Maßnahmen plant Heidelberg im Zusammenhang mit klimawirksamen Freiräumen?",
+    "category": "mobility",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::73"
+    ],
+    "expected_answer": "Laut MRO 2035+ sollen neue ÖPNV-Verbindungen geschaffen werden, kombiniert mit verbesserter Durchlüftungsfunktion und Energieversorgung aus erneuerbaren Quellen als Teil der klimaangepassten Quartiersentwicklung."
+  },
+  {
+    "id": "Q012",
+    "question": "Bis wann will Heidelberg klimaneutral sein?",
+    "category": "climate",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::61"
+    ],
+    "expected_answer": "Gesamtstädtische Klimaneutralität ist bis spätestens 2040 vorgesehen; die Verwaltung selbst soll bereits 2030 weitestgehend klimaneutral sein. Bilanzierung erfolgt nach der BISKO-Methode."
+  },
+  {
+    "id": "Q013",
+    "question": "Welche Ziele verfolgt Heidelberg beim Klimaschutz laut Nachhaltigkeitsbericht?",
+    "category": "climate",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::12_pdf_STEK_Nachhaltigkeitsbericht_2025::27",
+      "doc::12_pdf_STEK_Nachhaltigkeitsbericht_2025::28"
+    ],
+    "expected_answer": "Der Nachhaltigkeitsbericht 2025 dokumentiert Treibhausgasemissionen seit 1987 und verfolgt Zielerreichung mit realistischer Zielsetzung als Monitoring-Ansatz für die Klimaschutzziele."
+  },
+  {
+    "id": "Q014",
+    "question": "Wie wird Regenwasser im Patrick-Henry-Village gehandhabt?",
+    "category": "climate",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::25",
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::26"
+    ],
+    "expected_answer": "Fast das komplette Regenwasser wird vor Ort versickert, gereinigt oder gespeichert. Ein zentraler See dient zum Speichern, Reinigen und zur Kühlung des Stadtteils; gespeichertes Wasser wird in Trockenperioden zum Gießen genutzt."
+  },
+  {
+    "id": "Q015",
+    "question": "Welche Herausforderungen nennt das STEK bei Hitzebelastung?",
+    "category": "climate",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::73",
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::74"
+    ],
+    "expected_answer": "Klimawirksame Freiräume, Quartiersbegrünung und Entsiegelung von Flächen werden als Maßnahmen gegen Hitzebelastung genannt; wichtige Luftleitbahnen sollen zur Durchlüftung erhalten bleiben."
+  },
+  {
+    "id": "Q016",
+    "question": "Was fordern Bürger zum Umgang mit versiegelten Flächen?",
+    "category": "climate",
+    "answerable": true,
+    "expected_authority": 4,
+    "is_official_policy": false,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::59",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::74",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::62",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::36"
+    ],
+    "expected_answer": "Bürger fordern Entsiegelung von Parkplätzen (z.B. Bismarckplatz, Uniplatz, Friedrich-Ebert-Platz), wasserdurchlässige Oberflächen, Schwammstrassen und mehr Bäume statt versiegelter Fläche."
+  },
+  {
+    "id": "Q017",
+    "question": "Welche Rolle spielen Wissenschaft und Forschung im STEK 2035?",
+    "category": "economy",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::81"
+    ],
+    "expected_answer": "Wissenschaft und Forschung sollen zum Motor der Stadtentwicklung gemacht werden; Heidelberg positioniert sich als Wissenschaftsstandort mit Austausch zwischen Wissenschaft, Unternehmen, Kliniken und Bildungseinrichtungen."
+  },
+  {
+    "id": "Q018",
+    "question": "Wie hoch ist der Innovationsindex für Heidelberg und was ist das Ziel bis 2035?",
+    "category": "economy",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::12_pdf_STEK_Nachhaltigkeitsbericht_2025::46"
+    ],
+    "expected_answer": "Der Innovationsindex betrug 2023 rund 58,7 Prozent. Zielwert bis 2035: mindestens 60 Prozent und eine Spitzenposition in Baden-Württemberg."
+  },
+  {
+    "id": "Q019",
+    "question": "Wie will Heidelberg Fachkräfte anziehen?",
+    "category": "economy",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::13",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::18"
+    ],
+    "expected_answer": "Bezahlbarer Wohnraum, Abbau formaler Hürden bei der Wohnungssuche, und internationale Vernetzung werden als Standortfaktoren für Fachkräfte genannt."
+  },
+  {
+    "id": "Q020",
+    "question": "Wie viele Arbeitsplätze und Wohnungen kamen laut dem 2015er Stadtentwicklungsplan seit 1974 hinzu?",
+    "category": "economy",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::2015_Stadtentwicklungsplan::8"
+    ],
+    "expected_answer": "Gegenüber 1974 verfügt die Stadt bei nur unwesentlich größerer Einwohnerzahl über 20.000 Arbeitsplätze und 16.000 Wohnungen mehr."
+  },
+  {
+    "id": "Q021",
+    "question": "Wie berücksichtigt das STEK 2035 Kultur und gesellschaftliche Vielfalt?",
+    "category": "culture",
+    "answerable": true,
+    "expected_authority": 4,
+    "is_official_policy": false,
+    "relevant_chunk_ids": [
+      "doc::STEK 2035_Arbeitstreffen_17_06_24_Dokumentation::16"
+    ],
+    "expected_answer": "Die Kulturlandschaft sowie die kulturelle Vielfalt in der Stadt sollen noch sichtbarer gemacht werden — ein Ziel aus den Arbeitstreffen-Diskussionen zur Stadtentwicklung."
+  },
+  {
+    "id": "Q022",
+    "question": "Was sind Freizeit- und Kulturangebote laut STEK 2035?",
+    "category": "culture",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::79"
+    ],
+    "expected_answer": "Freizeit- und Kulturangebote sowie Engagement in Vereinen werden im Kontext von sozialem Zusammenhalt und Lebensqualität in Heidelberg genannt."
+  },
+  {
+    "id": "Q023",
+    "question": "Was wünschen sich Bürger für das kulturelle Angebot in Heidelberg?",
+    "category": "culture",
+    "answerable": true,
+    "expected_authority": 4,
+    "is_official_policy": false,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::165",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::336",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::334",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::337",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::198"
+    ],
+    "expected_answer": "Bürgermeinungen sind gemischt: manche wünschen mehr kulturelle Angebote und Kinderbetreuung, andere kritisieren zu viele elitäre Kulturveranstaltungen und fordern weniger Ressourcenverschwendung."
+  },
+  {
+    "id": "Q024",
+    "question": "Wie soll Kultur zugänglicher gemacht werden?",
+    "category": "culture",
+    "answerable": true,
+    "expected_authority": 4,
+    "is_official_policy": false,
+    "relevant_chunk_ids": [
+      "doc::STEK 2035_Arbeitstreffen_17_06_24_Dokumentation::32",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::338",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::339",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::340",
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::341"
+    ],
+    "expected_answer": "Ziel ist eine dynamische und für alle zugängliche Kultur, als Teil der Arbeitstreffen-Diskussionen zur gesellschaftlichen Teilhabe."
+  },
+  {
+    "id": "Q025",
+    "question": "Welche Maßnahmen gibt es gegen soziale Segregation?",
+    "category": "social",
+    "answerable": true,
+    "expected_authority": 4,
+    "is_official_policy": false,
+    "relevant_chunk_ids": [
+      "doc::STEK 2035_Arbeitstreffen_17_06_24_Dokumentation::7",
+      "doc::12_pdf_STEK 2035_Dokumentation_Zukunft gestalten_25_06_24::45",
+      "doc::20230728_STEK 2035_Zukunftsreise 2035::15"
+    ],
+    "expected_answer": "Das Arbeitstreffen 2024 behandelt explizit das Thema 'Aufgeteilte Stadt (Segregation)' im Rahmen einer lebenswerten, gemischten und inklusiven Stadt als eines von drei Kernthemen."
+  },
+  {
+    "id": "Q026",
+    "question": "Welche Gruppen benötigen laut STEK 2035 besonders barrierefreien Wohnraum?",
+    "category": "social",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::48"
+    ],
+    "expected_answer": "Menschen mit Behinderung und ältere Menschen werden explizit genannt; Ziel ist gute soziale Durchmischung und bezahlbarer Wohnraum auch für untere/mittlere Einkommensgruppen."
+  },
+  {
+    "id": "Q027",
+    "question": "Wie hat sich der Anteil barrierefreier Wohnungen entwickelt?",
+    "category": "social",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::12_pdf_STEK_Nachhaltigkeitsbericht_2025::19"
+    ],
+    "expected_answer": "Der Nachhaltigkeitsbericht 2025 verfolgt den Anteil barrierefreier Wohnungen an Wohnungsangeboten als eigenen Indikator, als Annäherung an den barrierefreien Wohnungsmarkt."
+  },
+  {
+    "id": "Q028",
+    "question": "Wie fördert Heidelberg den sozialen Zusammenhalt in Nachbarschaften?",
+    "category": "social",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::100"
+    ],
+    "expected_answer": "Öffentliche Orte der Begegnung und Räume für Interaktion und Selbstorganisation in der Nachbarschaft sollen den Zusammenhalt fördern; nachbarschaftliche Netzwerke wirken Vereinsamung entgegen."
+  },
+  {
+    "id": "Q029",
+    "question": "Was sind die fünf wichtigsten Handlungsfelder des STEK 2035?",
+    "category": "urban_development",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::15"
+    ],
+    "expected_answer": "Die zentralen Themen sind Wohnen, Mobilität, Umwelt/Klimaschutz, Wirtschaft und Soziales — konsistent mit den fünf über LDA-Themenmodellierung identifizierten Korpusthemen."
+  },
+  {
+    "id": "Q030",
+    "question": "Was ist das Patrick-Henry-Village und wie groß wird es?",
+    "category": "urban_development",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::25"
+    ],
+    "expected_answer": "Das PHV wird der 16. Stadtteil Heidelbergs mit 97,2 Hektar Fläche. Der Masterplan wurde 2020 vom Gemeinderat beschlossen; rund 10.000 Menschen sollen dort leben, Platz für 5.000 Arbeitsplätze."
+  },
+  {
+    "id": "Q031",
+    "question": "Wie hoch ist der Smart City Index für Heidelberg?",
+    "category": "urban_development",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::12_pdf_STEK_Nachhaltigkeitsbericht_2025::47"
+    ],
+    "expected_answer": "Der Smart City Index der BITKOM betrug 2024 rund 78,9 Prozent, ein Anstieg von rund 16 Prozentpunkten seit 2021."
+  },
+  {
+    "id": "Q032",
+    "question": "Wie will Heidelberg regionale und internationale Stärken verbinden?",
+    "category": "urban_development",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::3"
+    ],
+    "expected_answer": "Heidelberg setzt auf Internationalität und Weltoffenheit; Wirtschaft, Wissenschaft, Bildung, Kultur und soziales Miteinander sind als verbundene Stärken genannt, ebenso gebündelte Schienenwege und Energiekorridore."
+  },
+  {
+    "id": "Q033",
+    "question": "Wie will Heidelberg die lokale Demokratie stärken?",
+    "category": "urban_development",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::90"
+    ],
+    "expected_answer": "Heidelberg setzt sich zum Ziel, die lokale Demokratie wehrhaft und krisensicher aufzustellen und räumlicher Polarisierung entgegenzuwirken, aufbauend auf bestehendem Bürgerengagement."
+  },
+  {
+    "id": "Q034",
+    "question": "Wie wurden Bürgerinnen und Bürger am STEK 2035 beteiligt?",
+    "category": "citizen_participation",
+    "answerable": true,
+    "expected_authority": 4,
+    "is_official_policy": false,
+    "relevant_chunk_ids": [
+      "doc::20230728_STEK 2035_Zukunftsreise 2035::0"
+    ],
+    "expected_answer": "Beteiligung erfolgte über die Zukunftsreise 2023 als Auftakt, gefolgt von Online-Beteiligung und aufsuchenden Formaten 2024, sowie Workshops wie 'Zukunft gestalten' und 'Wege zu den Zielen'."
+  },
+  {
+    "id": "Q035",
+    "question": "Was war der Zweck der Zukunftsreise 2023?",
+    "category": "citizen_participation",
+    "answerable": true,
+    "expected_authority": 4,
+    "is_official_policy": false,
+    "relevant_chunk_ids": [
+      "doc::20230728_STEK 2035_Zukunftsreise 2035::0",
+      "doc::20230728_STEK 2035_Zukunftsreise 2035::1"
+    ],
+    "expected_answer": "Die Zukunftsreise war die öffentliche Auftaktveranstaltung der Bürgerbeteiligung zum Stadtentwicklungskonzept, bei der Bürger eingeladen wurden, ihre Wünsche und Fragen an die Zukunft Heidelbergs zu formulieren."
+  },
+  {
+    "id": "Q036",
+    "question": "Wie beschreibt das STEK die eigene Beteiligungskultur?",
+    "category": "citizen_participation",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::0",
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::6"
+    ],
+    "expected_answer": "Das STEK 2035 wird als Ergebnis einer lebendigen Beteiligungskultur mit kontinuierlichem Dialog zwischen Bürgerschaft, Zivilgesellschaft und Wissenschaft beschrieben."
+  },
+  {
+    "id": "Q037",
+    "question": "Welche Räume für kulturelle Nutzung fehlten laut Zukunftsreise-Diskussion?",
+    "category": "citizen_participation",
+    "answerable": true,
+    "expected_authority": 4,
+    "is_official_policy": false,
+    "relevant_chunk_ids": [
+      "doc::20230728_STEK 2035_Zukunftsreise 2035::4"
+    ],
+    "expected_answer": "Bei der Zukunftsreise wurde diskutiert, welche Räume für kulturelle Nutzung in Heidelberg fehlen, als Teil der thematischen Auseinandersetzung mit Stadtentwicklungsfragen."
+  },
+  {
+    "id": "Q038",
+    "question": "Wer hat den Masterplan für das Patrick-Henry-Village beschlossen und wann?",
+    "category": "specific_factual",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::25"
+    ],
+    "expected_answer": "Der Heidelberger Gemeinderat hat den Masterplan für das PHV im Jahr 2020 beschlossen."
+  },
+  {
+    "id": "Q039",
+    "question": "Wie viele Menschen wandern netto jährlich nach Heidelberg zu?",
+    "category": "specific_factual",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::12_pdf_STEK_Nachhaltigkeitsbericht_2025::35"
+    ],
+    "expected_answer": "Im Jahr 2023 hatte Heidelberg ein positives Wanderungssaldo von +630 Personen, eine Entwicklung von rund +14 Prozent seit 2019."
+  },
+  {
+    "id": "Q040",
+    "question": "Was war vor der Entwicklung des PHV auf dieser Fläche, und wie viele Menschen lebten dort?",
+    "category": "specific_factual",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::25"
+    ],
+    "expected_answer": "Es war eine ehemalige US-amerikanische Wohnsiedlung/Militärfläche; bis zum Abzug der Amerikaner lebten dort etwa 5.000 Soldaten."
+  },
+  {
+    "id": "Q041",
+    "question": "Welche Stadtteile werden im STEK 2035 als unterversorgt mit Alltagsfunktionen genannt?",
+    "category": "specific_factual",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::43"
+    ],
+    "expected_answer": "Boxberg, Emmertsgrund, Wieblingen, Schlierbach und Pfaffengrund werden als Stadtteile genannt, in denen einzelne Alltagsfunktionen fehlen und Wege länger sind."
+  },
+  {
+    "id": "Q042",
+    "question": "Wie hoch ist der amtliche Bevölkerungsstand Heidelbergs im Vergleich zum Zensus 2011?",
+    "category": "specific_factual",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::12_pdf_STEK_Nachhaltigkeitsbericht_2025::7"
+    ],
+    "expected_answer": "Der Nachhaltigkeitsbericht 2025 vergleicht die amtliche Bevölkerungszahl Heidelbergs mit dem Zensus 2011 als methodische Grundlage der Bevölkerungsstatistik."
+  },
+  {
+    "id": "Q043",
+    "question": "Wie hängen Wohnraumentwicklung und Klimaschutz im STEK 2035 zusammen?",
+    "category": "cross_document",
+    "answerable": true,
+    "expected_authority": 1,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::STEK_Stadtentwicklungskonzept 2035_A3::43",
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::73"
+    ],
+    "expected_answer": "STEK verbindet beide Themen durch klimaneutrale Quartiere, Fassaden-/Dachbegrünung bei Neubauten, Entsiegelung bei Nachverdichtung und die Kombination von Wohnraumentwicklung mit Grünraumversorgung laut MRO 2035+."
+  },
+  {
+    "id": "Q044",
+    "question": "Was hat sich zwischen dem Stadtentwicklungsplan 2015 und STEK 2035 in Bezug auf Arbeitsplätze verändert?",
+    "category": "cross_document",
+    "answerable": true,
+    "expected_authority": 2,
+    "is_official_policy": true,
+    "relevant_chunk_ids": [
+      "doc::2015_Stadtentwicklungsplan::8"
+    ],
+    "expected_answer": "Der 2015er Plan berichtet rückblickend von +20.000 Arbeitsplätzen und +16.000 Wohnungen gegenüber 1974; STEK 2035 setzt demgegenüber neue, vorausschauende Ziele wie Wissenschaft/Forschung als Wirtschaftsmotor."
+  },
+  {
+    "id": "Q045",
+    "question": "Wie stehen Bürgerwünsche und offizielle Pläne für Verkehrsberuhigung im Vergleich?",
+    "category": "cross_document",
+    "answerable": true,
+    "expected_authority": null,
+    "is_official_policy": null,
+    "relevant_chunk_ids": [
+      "doc::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::59",
+      "doc::MRO 2035+_Konzeptbericht_Broschüre::17"
+    ],
+    "expected_answer": "Bürger fordern radikalere Maßnahmen wie durchgehende Entsiegelung und autofreie Altstadt; offizielle Pläne (MRO 2035+) sehen schrittweisen Ausbau von Radinfrastruktur und autofreien Quartieren in Entwicklungsgebieten vor — graduelleres Vorgehen als citizen wishes."
+  },
+  {
+    "id": "Q046",
+    "question": "Ich möchte etwas über Heidelberg erfahren.",
+    "category": "vague",
+    "answerable": false,
+    "expected_authority": null,
+    "is_official_policy": null,
+    "relevant_chunk_ids": [],
+    "expected_answer": "NOT fact-checkable — correct behavior is a clarifying question offering topic categories (Wohnen, Mobilität, Klimaschutz, Wirtschaft, Kultur), not a broad unfocused answer."
+  },
+  {
+    "id": "Q047",
+    "question": "Was plant Heidelberg?",
+    "category": "vague",
+    "answerable": false,
+    "expected_authority": null,
+    "is_official_policy": null,
+    "relevant_chunk_ids": [],
+    "expected_answer": "NOT fact-checkable — too broad to answer meaningfully; correct behavior is clarification, not a sprawling multi-topic answer."
+  },
+  {
+    "id": "Q048",
+    "question": "Was sagt STEK 2035?",
+    "category": "vague",
+    "answerable": false,
+    "expected_authority": null,
+    "is_official_policy": null,
+    "relevant_chunk_ids": [],
+    "expected_answer": "NOT fact-checkable — no specific topic given; correct behavior is clarification."
+  },
+  {
+    "id": "Q049",
+    "question": "Welche Orte sollte ich in Heidelberg als Tourist besuchen?",
+    "category": "unanswerable",
+    "answerable": false,
+    "expected_authority": null,
+    "is_official_policy": null,
+    "relevant_chunk_ids": [],
+    "expected_answer": "NOT answerable from STEK corpus — correct behavior is abstention with an explicit statement that this is outside the STEK 2035 document scope, optionally redirecting to heidelberg-marketing.de."
+  },
+  {
+    "id": "Q050",
+    "question": "Wie hoch ist das genaue Gesamtbudget für die Umsetzung des STEK 2035?",
+    "category": "unanswerable",
+    "answerable": false,
+    "expected_authority": null,
+    "is_official_policy": null,
+    "relevant_chunk_ids": [],
+    "expected_answer": "NOT answerable from STEK corpus — correct behavior is stating this information is not contained in the available documents, not inventing a figure."
+  }
+]

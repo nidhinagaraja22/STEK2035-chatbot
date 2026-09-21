@@ -1,0 +1,737 @@
+[
+  {
+    "id": "g001",
+    "reference_answer": "Durch ein Wohnungsentwicklungsprogramm, Förderprogramme, Belegungsrechte und die städtische GGH sowie das Bündnis für bezahlbaren Wohnraum.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g002",
+    "reference_answer": "Die städtische Wohnungsbaugesellschaft GGH errichtet und bewirtschaftet geförderten und preisgünstigen Wohnraum in Heidelberg.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g003",
+    "reference_answer": "Ein 2013 von der Stadt initiiertes Bündnis, das Akteure zusammenbringt, um bezahlbaren Wohnraum in Heidelberg zu sichern.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g004",
+    "reference_answer": "Seit Herbst 2024 lässt die Stadt Online-Wohnungsanzeigen auf überhöhte Mieten prüfen; Betroffene können überhöhte Mieten über ein Formular melden.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g005",
+    "reference_answer": "Ein Nachweis für den Zugang zu geförderten Wohnungen, den das Bürgeramt ausstellt.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g006",
+    "reference_answer": "Von der Stadt unterstützte Wohnformen, bei denen Gruppen gemeinsam Wohnraum planen und bewohnen; Infos bietet die Wohnplattform.",
+    "expected_authority": 3,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g007",
+    "reference_answer": "Auf Konversionsflächen und in der Bahnstadt hat die Entwicklung preisgünstigen Wohnraums Priorität.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g008",
+    "reference_answer": "Förderungen für Familien, Baugruppen sowie barrierefreien oder umweltbewussten Ausbau.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g009",
+    "reference_answer": "Laut Beteiligung wünschen sich Bürger mehr bezahlbaren und familiengerechten Wohnraum sowie den Erhalt von Grün in Wohngebieten.",
+    "expected_authority": 4,
+    "is_citizen_opinion": true,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g010",
+    "reference_answer": "Durch bessere Anbindung neuer Quartiere und Verknüpfung mit Rad- und Fußverkehr im Rahmen des Klimamobilitätsplans 2035.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g011",
+    "reference_answer": "Durch Ausbau des Radwegnetzes, Radschnellwege, bessere Abstellanlagen und die RadKULTUR-Initiative.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g012",
+    "reference_answer": "Ein Plan, der die Verkehrswende in Heidelberg hin zu klimafreundlicher Mobilität steuert.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g013",
+    "reference_answer": "In verkehrsberuhigten Bereichen und der Innenstadt sollen Parkflächen zugunsten von Aufenthaltsqualität reduziert werden.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g014",
+    "reference_answer": "Die Stadt verfolgt barrierefreie Wege, abgesenkte Bordsteine und barrierefreie Haltestellen für alle Verkehrsteilnehmenden.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g015",
+    "reference_answer": "Eine Initiative zur Förderung der Fahrradkultur und zur Steigerung des Radverkehrsanteils in Heidelberg.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g016",
+    "reference_answer": "Durch freie Gehwege, verkehrsberuhigte Bereiche und mehr Aufenthaltsqualität im öffentlichen Raum.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g017",
+    "reference_answer": "Eine repräsentative Erhebung des Verkehrsverhaltens in Heidelberg (Steckbrief SrV 2023).",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g018",
+    "reference_answer": "Laut Beteiligung wünschen sich Bürger besseren ÖPNV, mehr sichere Radwege und weniger Autoverkehr in der Stadt.",
+    "expected_authority": 4,
+    "is_citizen_opinion": true,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g019",
+    "reference_answer": "Durch Frischluftkorridore, Dach- und Fassadenbegrünung, mehr Stadtbäume und entsiegelte, wasserdurchlässige Böden.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g020",
+    "reference_answer": "Durch Biotoppflege, Biotopvernetzung, Artenschutzprogramme, die Baumschutzsatzung und den Erhalt des Stadtwalds.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g021",
+    "reference_answer": "Sie regelt den Schutz und Erhalt von Bäumen im Stadtgebiet Heidelberg.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g022",
+    "reference_answer": "Heidelberg verfolgt Klimaneutralität, u. a. über den Masterplan Klimaschutz und kommunale Wärmeplanung.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g023",
+    "reference_answer": "Die Bahnstadt ist die größte Passivhaussiedlung der Welt und erhielt 2014 den Passive House Award.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g024",
+    "reference_answer": "Der Neckar ist ein zentraler Frei- und Erholungsraum, der durch bessere Zugänglichkeit und Uferpflege gestärkt werden soll.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g025",
+    "reference_answer": "Durch Hochwasservorsorge, Freihaltung von Überschwemmungsflächen und wassersensible Stadtgestaltung.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g026",
+    "reference_answer": "Der Heidelberger Stadtwald ist als Erholungswald zertifiziert und dient Naherholung und Naturschutz.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g027",
+    "reference_answer": "Über Artenschutzprogramme, Offenland-Biotopkartierung, Schutzgebiete und Biotopvernetzung.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g028",
+    "reference_answer": "Laut Beteiligung sind Bürgern Erhalt von Grünflächen, Bäumen, Neckarwiese und Klimaanpassung besonders wichtig.",
+    "expected_authority": 4,
+    "is_citizen_opinion": true,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g029",
+    "reference_answer": "Durch Förderung von Innovation, Wissenschaft und Gewerbeflächen sowie regionale Vernetzung in der Metropolregion.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g030",
+    "reference_answer": "Universität und Forschungseinrichtungen prägen Heidelberg als Wissenschafts- und Innovationsstandort.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g031",
+    "reference_answer": "Die Stadt sichert und entwickelt Gewerbe- und Innovationsflächen im Rahmen einer flächensparenden Entwicklung.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g032",
+    "reference_answer": "Ziel ist eine wirtschaftlich starke und zugleich klimaneutrale und ressourcenschonende Stadtentwicklung.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g033",
+    "reference_answer": "Sie bildet den regionalen Kooperationsraum für Wirtschaft, Verkehr und Planung, in den Heidelberg eingebunden ist.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g034",
+    "reference_answer": "Durch innovative Arbeitsorte, Wissenstransfer und die Verbindung von Forschung und Wirtschaft.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g035",
+    "reference_answer": "Ziel ist eine gemischte Stadt mit kurzen Wegen, in der Wohnen und Arbeiten räumlich ausgeglichen werden.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g036",
+    "reference_answer": "Laut Beteiligung nennen Bürger u. a. faire Arbeitsbedingungen, lokale Wirtschaft und wohnortnahe Arbeitsplätze.",
+    "expected_authority": 4,
+    "is_citizen_opinion": true,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g037",
+    "reference_answer": "Kulturelle Vielfalt, Theater, Museen und internationales Flair werden als prägende Merkmale Heidelbergs gefördert.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g038",
+    "reference_answer": "Historische Bauten wie Schloss, Alte Brücke und Universität prägen die Altstadt und stehen unter Denkmalschutz.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g039",
+    "reference_answer": "Durch Denkmalschutz und sorgsame Sanierung historischer Gebäude und Ensembles.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g040",
+    "reference_answer": "Durch Unterstützung von Kulturangeboten, Veranstaltungen und Einrichtungen wie Theater und Museen.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g041",
+    "reference_answer": "Die renommierte Universität und die Wissenschaft prägen Heidelberg als international bekannte Stadt.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g042",
+    "reference_answer": "Durch Förderung von Offenheit, internationaler Gemeinschaft und Teilhabe unterschiedlicher Gruppen.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g043",
+    "reference_answer": "Kultur gilt als Standortfaktor und Teil einer lebenswerten, vielfältigen Stadtentwicklung.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g044",
+    "reference_answer": "Laut Beteiligung nennen Bürger historisches Erbe, Natur am Neckar, kulturelle Vielfalt und die Universität.",
+    "expected_authority": 4,
+    "is_citizen_opinion": true,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g045",
+    "reference_answer": "Mehr Kinderbetreuung, kinderfreundliche Räume, altersgerechtes Wohnen und barrierefreie Infrastruktur.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g046",
+    "reference_answer": "Durch soziale Infrastruktur, Angebote für vulnerable Gruppen und Maßnahmen für Integration und Zusammenhalt.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g047",
+    "reference_answer": "Ausbau von Kindertagesbetreuung und kinderfreundlicher Infrastruktur als Teil der sozialen Daseinsvorsorge.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g048",
+    "reference_answer": "Durch Angebote für internationale Gemeinschaft, Teilhabe und Maßnahmen gegen Diskriminierung.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g049",
+    "reference_answer": "Über Schulen, Bildungsangebote und den Anspruch, alle Menschen auf dem Weg des Wandels mitzunehmen.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g050",
+    "reference_answer": "Barrierefreie und seniorengerechte Wohn- und Infrastrukturangebote für ältere Menschen.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g051",
+    "reference_answer": "Ziel ist eine sozial gerechte Stadtentwicklung, die vulnerable Gruppen besonders berücksichtigt.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g052",
+    "reference_answer": "Gesellschaftliche Stabilität, Teilhabe und ein gutes Miteinander in den Stadtteilen.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g053",
+    "reference_answer": "Laut Beteiligung nennen Bürger vulnerable Gruppen wie ältere Menschen, Kinder und sozial Benachteiligte.",
+    "expected_authority": 4,
+    "is_citizen_opinion": true,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g054",
+    "reference_answer": "Ein neues Quartier auf ehemaliger Bahnfläche, die größte Passivhaussiedlung der Welt und Vorbild nachhaltiger Entwicklung.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g055",
+    "reference_answer": "Konversionsflächen wie Patrick-Henry-Village werden zu gemischten Quartieren mit Wohnen und Gewerbe entwickelt.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g056",
+    "reference_answer": "Ein informelles strategisches Planungsinstrument, das die räumliche Entwicklung Heidelbergs bis 2035+ steuert.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g057",
+    "reference_answer": "Durch Stärkung von Aufenthaltsqualität, Grün, Handel und Kultur bei Erhalt der historischen Struktur.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g058",
+    "reference_answer": "Ziel ist Netto-Null-Flächenverbrauch durch Innenentwicklung, Nachverdichtung und Entsiegelung.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g059",
+    "reference_answer": "Durch wohnortnahe Angebote, kurze Wege und lebendige, gemischte Quartiere.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g060",
+    "reference_answer": "Eine Stadt mit Mischung aus Wohnen, Arbeiten und Versorgung und kurzen Wegen für alle.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g061",
+    "reference_answer": "Das MRO liefert die räumliche Strategie, das STEK 2035 den übergreifenden Wegweiser nachhaltiger Stadtentwicklung.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g062",
+    "reference_answer": "Laut Beteiligung Grünflächen, Neckarwiese, Altstadt, Wälder und der besondere Charakter der Stadtteile.",
+    "expected_authority": 4,
+    "is_citizen_opinion": true,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g063",
+    "reference_answer": "Über Online-Beteiligung, aufsuchende Formate an Festen und Märkten sowie thematische Arbeitstreffen.",
+    "expected_authority": 4,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g064",
+    "reference_answer": "Formate, bei denen die Stadt Menschen direkt im öffentlichen Raum anspricht, z. B. mit einem digitalen Glücksrad.",
+    "expected_authority": 4,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g065",
+    "reference_answer": "Eine digitale Beteiligung, bei der Bürger zu Zukunftsfragen Beiträge einreichen konnten.",
+    "expected_authority": 4,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g066",
+    "reference_answer": "Arbeitskreise, in denen in Sitzungen thematische Grundlagen des STEK erarbeitet und dokumentiert wurden.",
+    "expected_authority": 4,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g067",
+    "reference_answer": "Beteiligung bindet Wissen und Anliegen der Stadtgesellschaft ein und stärkt die Legitimität der Planung.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g068",
+    "reference_answer": "Laut Dokumentation u. a. Freiraum, Netto-Null-Flächenverbrauch, lebenswerte und inklusive Stadt.",
+    "expected_authority": 4,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g069",
+    "reference_answer": "Beiträge wurden auf diskriminierende oder beleidigende Aussagen geprüft und dann auf der Webseite veröffentlicht.",
+    "expected_authority": 4,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g070",
+    "reference_answer": "Maßnahmen für Sicherheitsgefühl, Beleuchtung und die Vermeidung von Angsträumen.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g071",
+    "reference_answer": "Laut Bürgerbeiträgen werden Orte wie Bismarckplatz und die Neckarwiese nachts teils als unsicher empfunden.",
+    "expected_authority": 5,
+    "is_citizen_opinion": true,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g072",
+    "reference_answer": "Durch bessere Beleuchtung, belebte öffentliche Räume und Gestaltung sicherer Wege.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g073",
+    "reference_answer": "Einige Bürger wünschen sich mehr Sicherheit und weniger Angsträume in der Innenstadt und Altstadt.",
+    "expected_authority": 5,
+    "is_citizen_opinion": true,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g074",
+    "reference_answer": "Belebte, gut beleuchtete und einsehbare Räume erhöhen das Sicherheitsempfinden.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g075",
+    "reference_answer": "Durch digitale Verwaltungsangebote und die Weiterentwicklung als digitale, smarte Stadt.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g076",
+    "reference_answer": "Zahlreiche Behördengänge sollen digitalisiert werden, ergänzt durch persönliche Ansprechpartner für komplexe Fragen.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g077",
+    "reference_answer": "Digitale Beteiligungsformate wie die Online-Beteiligung ermöglichen breite Mitwirkung.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g078",
+    "reference_answer": "Laut Beteiligung wünschen Bürger mehr digitale Behördengänge bei gleichzeitigem Erhalt persönlicher Ansprechpartner.",
+    "expected_authority": 4,
+    "is_citizen_opinion": true,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g079",
+    "reference_answer": "Ja, neben digitalen Angeboten sollen weiterhin Menschen als Ansprechpartner für komplexe Fragen verfügbar sein.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g080",
+    "reference_answer": "Das Stadtentwicklungskonzept 2035 ist der Wegweiser für eine nachhaltige Entwicklung Heidelbergs.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g081",
+    "reference_answer": "Eine klimaneutrale, sozial gerechte und wirtschaftlich starke Stadtentwicklung, dokumentiert im Nachhaltigkeitsbericht 2025.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g082",
+    "reference_answer": "Es orientiert sich an den Nachhaltigkeitszielen der Vereinten Nationen.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g083",
+    "reference_answer": "Ein Bericht, der Auswirkungen jüngster Krisen und Ereignisse auf die Stadtentwicklung dokumentiert.",
+    "expected_authority": 2,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g084",
+    "reference_answer": "U. a. Klimawandel, Flächenknappheit, bezahlbares Wohnen, sozialer Zusammenhalt und Mobilitätswende.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g085",
+    "reference_answer": "Das STEK blickt auf das Zieljahr 2035 und teils darüber hinaus.",
+    "expected_authority": 1,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g086",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g087",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g088",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g089",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g090",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g091",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g092",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g093",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g094",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g095",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g096",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g097",
+    "reference_answer": "Die vorliegenden STEK-Dokumente enthalten keine ausreichenden Informationen, um diese Frage zu beantworten.",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g098",
+    "reference_answer": "Diese Frage ist zu allgemein. Bitte präzisieren – z. B. Wohnen, Mobilität, Wirtschaft, Umwelt, Kultur oder Soziales?",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g099",
+    "reference_answer": "Diese Frage ist zu allgemein. Bitte präzisieren – z. B. Wohnen, Mobilität, Wirtschaft, Umwelt, Kultur oder Soziales?",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g100",
+    "reference_answer": "Diese Frage ist zu allgemein. Bitte präzisieren – z. B. Wohnen, Mobilität, Wirtschaft, Umwelt, Kultur oder Soziales?",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g101",
+    "reference_answer": "Diese Frage ist zu allgemein. Bitte präzisieren – z. B. Wohnen, Mobilität, Wirtschaft, Umwelt, Kultur oder Soziales?",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g102",
+    "reference_answer": "Diese Frage ist zu allgemein. Bitte präzisieren – z. B. Wohnen, Mobilität, Wirtschaft, Umwelt, Kultur oder Soziales?",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g103",
+    "reference_answer": "Diese Frage ist zu allgemein. Bitte präzisieren – z. B. Wohnen, Mobilität, Wirtschaft, Umwelt, Kultur oder Soziales?",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g104",
+    "reference_answer": "Diese Frage ist zu allgemein. Bitte präzisieren – z. B. Wohnen, Mobilität, Wirtschaft, Umwelt, Kultur oder Soziales?",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  },
+  {
+    "id": "g105",
+    "reference_answer": "Diese Frage ist zu allgemein. Bitte präzisieren – z. B. Wohnen, Mobilität, Wirtschaft, Umwelt, Kultur oder Soziales?",
+    "expected_authority": null,
+    "is_citizen_opinion": false,
+    "status": "DRAFT - verify against corpus"
+  }
+]

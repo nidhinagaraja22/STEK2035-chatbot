@@ -1,0 +1,11 @@
+# Runtime data (anonymous feedback) — do not commit
+data/*.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
