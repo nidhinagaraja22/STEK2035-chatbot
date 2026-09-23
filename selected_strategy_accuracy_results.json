@@ -1,25 +1,25 @@
 {
-  "mrr": 0.427281746031746,
+  "mrr": 0.5071428571428571,
   "metrics_by_k": {
     "1": {
-      "precision": 0.3333333333333333,
-      "recall": 0.3229166666666667,
-      "ndcg": 0.3333333333333333
+      "precision": 0.3958333333333333,
+      "recall": 0.3854166666666667,
+      "ndcg": 0.3958333333333333
     },
     "3": {
-      "precision": 0.2916666666666667,
-      "recall": 0.53125,
-      "ndcg": 0.4294405665159471
+      "precision": 0.3541666666666667,
+      "recall": 0.65625,
+      "ndcg": 0.5231905665159471
     },
     "5": {
-      "precision": 0.20000000000000004,
-      "recall": 0.5520833333333334,
-      "ndcg": 0.4375
+      "precision": 0.24583333333333332,
+      "recall": 0.6770833333333334,
+      "ndcg": 0.53125
     },
     "10": {
-      "precision": 0.12708333333333333,
-      "recall": 0.6770833333333334,
-      "ndcg": 0.4829364982535848
+      "precision": 0.14583333333333334,
+      "recall": 0.7916666666666666,
+      "ndcg": 0.5721363433198731
     }
   },
   "per_question": [
@@ -41,27 +41,6 @@
         "website_html",
         "nachhaltigkeitsbericht_2025",
         "nachhaltigkeitsbericht_2025",
-        "web_pdf_srv_2023"
-      ]
-    },
-    {
-      "q_id": "Q002",
-      "precision_at_5": 0.0,
-      "recall_at_5": 0.0,
-      "reciprocal_rank": 0.0,
-      "target_docs": [
-        "online_beteiligung_2024"
-      ],
-      "retrieved_docs": [
-        "stek_a3_strategy",
-        "stek_a3_strategy",
-        "stadtentwicklungsplan_2015",
-        "mro_konzeptbericht",
-        "mro_konzeptbericht",
-        "web_pdf_statusbericht",
-        "nachhaltigkeitsbericht_2025",
-        "website_html",
-        "website_html",
         "web_pdf_srv_2023"
       ]
     },
@@ -192,27 +171,6 @@
       ]
     },
     {
-      "q_id": "Q010",
-      "precision_at_5": 0.0,
-      "recall_at_5": 0.0,
-      "reciprocal_rank": 0.0,
-      "target_docs": [
-        "online_beteiligung_2024"
-      ],
-      "retrieved_docs": [
-        "stek_a3_strategy",
-        "stek_a3_strategy",
-        "website_html",
-        "website_html",
-        "web_pdf_srv_2023",
-        "stadtentwicklungsplan_2015",
-        "web_pdf_statusbericht",
-        "mro_konzeptbericht",
-        "mro_konzeptbericht",
-        "web_pdf_srv_2023"
-      ]
-    },
-    {
       "q_id": "Q011",
       "precision_at_5": 0.0,
       "recall_at_5": 0.0,
@@ -315,27 +273,6 @@
         "website_html",
         "web_pdf_srv_2023",
         "web_pdf_srv_2023"
-      ]
-    },
-    {
-      "q_id": "Q016",
-      "precision_at_5": 0.0,
-      "recall_at_5": 0.0,
-      "reciprocal_rank": 0.0,
-      "target_docs": [
-        "online_beteiligung_2024"
-      ],
-      "retrieved_docs": [
-        "stek_a3_strategy",
-        "stek_a3_strategy",
-        "nachhaltigkeitsbericht_2025",
-        "mro_konzeptbericht",
-        "mro_konzeptbericht",
-        "web_pdf_baumschutz",
-        "web_pdf_statusbericht",
-        "website_html",
-        "website_html",
-        "web_pdf_statusbericht"
       ]
     },
     {
@@ -461,27 +398,6 @@
         "nachhaltigkeitsbericht_2025",
         "mro_konzeptbericht",
         "website_html",
-        "web_pdf_srv_2023"
-      ]
-    },
-    {
-      "q_id": "Q023",
-      "precision_at_5": 0.0,
-      "recall_at_5": 0.0,
-      "reciprocal_rank": 0.0,
-      "target_docs": [
-        "online_beteiligung_2024"
-      ],
-      "retrieved_docs": [
-        "stek_a3_strategy",
-        "stek_a3_strategy",
-        "nachhaltigkeitsbericht_2025",
-        "stadtentwicklungsplan_2015",
-        "website_html",
-        "website_html",
-        "stadtentwicklungsplan_2015",
-        "mro_konzeptbericht",
-        "mro_konzeptbericht",
         "web_pdf_srv_2023"
       ]
     },
@@ -714,27 +630,6 @@
         "mro_konzeptbericht",
         "website_html",
         "web_pdf_srv_2023"
-      ]
-    },
-    {
-      "q_id": "Q035",
-      "precision_at_5": 0.0,
-      "recall_at_5": 0.0,
-      "reciprocal_rank": 0.0,
-      "target_docs": [
-        "zukunftsreise_2035"
-      ],
-      "retrieved_docs": [
-        "stek_a3_strategy",
-        "stek_a3_strategy",
-        "nachhaltigkeitsbericht_2025",
-        "website_html",
-        "web_pdf_statusbericht",
-        "nachhaltigkeitsbericht_2025",
-        "web_pdf_statusbericht",
-        "mro_konzeptbericht",
-        "web_pdf_srv_2023",
-        "website_html"
       ]
     },
     {
@@ -890,8 +785,8 @@
       "recall_at_5": 0.5,
       "reciprocal_rank": 1.0,
       "target_docs": [
-        "mro_konzeptbericht",
-        "stek_a3_strategy"
+        "stek_a3_strategy",
+        "mro_konzeptbericht"
       ],
       "retrieved_docs": [
         "stek_a3_strategy",
@@ -924,28 +819,6 @@
         "nachhaltigkeitsbericht_2025",
         "mro_konzeptbericht",
         "website_html",
-        "web_pdf_srv_2023"
-      ]
-    },
-    {
-      "q_id": "Q045",
-      "precision_at_5": 0.0,
-      "recall_at_5": 0.0,
-      "reciprocal_rank": 0.167,
-      "target_docs": [
-        "mro_konzeptbericht",
-        "online_beteiligung_2024"
-      ],
-      "retrieved_docs": [
-        "stek_a3_strategy",
-        "stek_a3_strategy",
-        "stadtentwicklungsplan_2015",
-        "website_html",
-        "website_html",
-        "mro_konzeptbericht",
-        "mro_konzeptbericht",
-        "web_pdf_statusbericht",
-        "web_pdf_srv_2023",
         "web_pdf_srv_2023"
       ]
     },
@@ -1032,6 +905,132 @@
         "stadtentwicklungsplan_2015",
         "web_pdf_baumschutz"
       ]
+    },
+    {
+      "q_id": "Q061",
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.333,
+      "target_docs": [
+        "mro_konzeptbericht"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "mro_konzeptbericht",
+        "nachhaltigkeitsbericht_2025",
+        "website_html",
+        "nachhaltigkeitsbericht_2025",
+        "website_html",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "web_pdf_srv_2023"
+      ]
+    },
+    {
+      "q_id": "Q062",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "web_pdf_statusbericht",
+        "web_pdf_statusbericht",
+        "nachhaltigkeitsbericht_2025",
+        "website_html",
+        "mro_konzeptbericht",
+        "website_html",
+        "web_pdf_srv_2023",
+        "web_pdf_srv_2023"
+      ]
+    },
+    {
+      "q_id": "Q063",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "nachhaltigkeitsbericht_2025",
+        "mro_konzeptbericht",
+        "nachhaltigkeitsbericht_2025",
+        "website_html",
+        "web_pdf_statusbericht",
+        "website_html",
+        "web_pdf_statusbericht",
+        "web_pdf_srv_2023"
+      ]
+    },
+    {
+      "q_id": "Q064",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.333,
+      "target_docs": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "nachhaltigkeitsbericht_2025",
+        "nachhaltigkeitsbericht_2025",
+        "stadtentwicklungsplan_2015",
+        "stadtentwicklungsplan_2015",
+        "website_html",
+        "website_html",
+        "mro_konzeptbericht",
+        "mro_konzeptbericht"
+      ]
+    },
+    {
+      "q_id": "Q065",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 0.333,
+      "target_docs": [
+        "website_html"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "website_html",
+        "mro_konzeptbericht",
+        "website_html",
+        "web_pdf_statusbericht",
+        "nachhaltigkeitsbericht_2025",
+        "mro_konzeptbericht",
+        "web_pdf_statusbericht",
+        "web_pdf_srv_2023"
+      ]
+    },
+    {
+      "q_id": "Q066",
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "reciprocal_rank": 1.0,
+      "target_docs": [
+        "stek_a3_strategy"
+      ],
+      "retrieved_docs": [
+        "stek_a3_strategy",
+        "stek_a3_strategy",
+        "mro_konzeptbericht",
+        "web_pdf_statusbericht",
+        "mro_konzeptbericht",
+        "web_pdf_statusbericht",
+        "website_html",
+        "website_html",
+        "stadtentwicklungsplan_2015",
+        "stadtentwicklungsplan_2015"
+      ]
     }
   ],
   "abstention_metrics": {
@@ -1049,13 +1048,6 @@
       "q_id": "Q001",
       "category": "housing",
       "best_score": 0.8722397089004517,
-      "should_abstain": false,
-      "did_abstain": false
-    },
-    {
-      "q_id": "Q002",
-      "category": "housing",
-      "best_score": 0.8378887176513672,
       "should_abstain": false,
       "did_abstain": false
     },
@@ -1102,13 +1094,6 @@
       "did_abstain": false
     },
     {
-      "q_id": "Q010",
-      "category": "mobility",
-      "best_score": 0.8385986089706421,
-      "should_abstain": false,
-      "did_abstain": false
-    },
-    {
       "q_id": "Q011",
       "category": "mobility",
       "best_score": 0.8641759157180786,
@@ -1140,13 +1125,6 @@
       "q_id": "Q015",
       "category": "climate",
       "best_score": 0.8602067828178406,
-      "should_abstain": false,
-      "did_abstain": false
-    },
-    {
-      "q_id": "Q016",
-      "category": "climate",
-      "best_score": 0.824135959148407,
       "should_abstain": false,
       "did_abstain": false
     },
@@ -1189,13 +1167,6 @@
       "q_id": "Q022",
       "category": "culture",
       "best_score": 0.8595502376556396,
-      "should_abstain": false,
-      "did_abstain": false
-    },
-    {
-      "q_id": "Q023",
-      "category": "culture",
-      "best_score": 0.8549551963806152,
       "should_abstain": false,
       "did_abstain": false
     },
@@ -1277,13 +1248,6 @@
       "did_abstain": false
     },
     {
-      "q_id": "Q035",
-      "category": "citizen_participation",
-      "best_score": 0.7993236184120178,
-      "should_abstain": false,
-      "did_abstain": false
-    },
-    {
       "q_id": "Q036",
       "category": "citizen_participation",
       "best_score": 0.8756145238876343,
@@ -1343,13 +1307,6 @@
       "q_id": "Q044",
       "category": "cross_document",
       "best_score": 0.8665118217468262,
-      "should_abstain": false,
-      "did_abstain": false
-    },
-    {
-      "q_id": "Q045",
-      "category": "cross_document",
-      "best_score": 0.8335845470428467,
       "should_abstain": false,
       "did_abstain": false
     },
@@ -1432,7 +1389,7 @@
     },
     {
       "q_id": "Q057",
-      "category": "unanswerable",
+      "category": "semi_answerable",
       "best_score": 0.8834292888641357,
       "should_abstain": true,
       "did_abstain": false
@@ -1456,6 +1413,48 @@
       "category": "vague",
       "best_score": 0.7965151071548462,
       "should_abstain": true,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q061",
+      "category": "climate",
+      "best_score": 0.8500155210494995,
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q062",
+      "category": "climate",
+      "best_score": 0.8425000905990601,
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q063",
+      "category": "climate",
+      "best_score": 0.8330796957015991,
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q064",
+      "category": "social",
+      "best_score": 0.8869112133979797,
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q065",
+      "category": "climate",
+      "best_score": 0.84578537940979,
+      "should_abstain": false,
+      "did_abstain": false
+    },
+    {
+      "q_id": "Q066",
+      "category": "climate",
+      "best_score": 0.8472908735275269,
+      "should_abstain": false,
       "did_abstain": false
     }
   ]

@@ -1,0 +1,8 @@
+{
+  "sections_available": {
+    "policy_strategy": true,
+    "citizen_strategy": true,
+    "contamination": true,
+    "task7_results": true
+  }
+}

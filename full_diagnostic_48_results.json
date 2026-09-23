@@ -1,0 +1,2067 @@
+[
+  {
+    "q_id": "Q001",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8722397089004517
+      },
+      {
+        "rank": 2,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8692710995674133
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8672884702682495
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8650302290916443
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8626747131347656
+      }
+    ]
+  },
+  {
+    "q_id": "Q004",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8819429874420166
+      },
+      {
+        "rank": 2,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8414157629013062
+      },
+      {
+        "rank": 3,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8409724235534668
+      },
+      {
+        "rank": 4,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8385219573974609
+      },
+      {
+        "rank": 5,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8369724154472351
+      }
+    ]
+  },
+  {
+    "q_id": "Q005",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8700402975082397
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.846878170967102
+      },
+      {
+        "rank": 3,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8445163369178772
+      },
+      {
+        "rank": 4,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8428915143013
+      },
+      {
+        "rank": 5,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8413974642753601
+      }
+    ]
+  },
+  {
+    "q_id": "Q006",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8747400045394897
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8726861476898193
+      },
+      {
+        "rank": 3,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8695365190505981
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8620628118515015
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8551496863365173
+      }
+    ]
+  },
+  {
+    "q_id": "Q007",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "mro_konzeptbericht"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8864544630050659
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8779790997505188
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8726580142974854
+      },
+      {
+        "rank": 4,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8709850311279297
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8699029684066772
+      }
+    ]
+  },
+  {
+    "q_id": "Q008",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "mro_konzeptbericht"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8538026213645935
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8478695750236511
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8445452451705933
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8426008820533752
+      },
+      {
+        "rank": 5,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8417165279388428
+      }
+    ]
+  },
+  {
+    "q_id": "Q009",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "mro_konzeptbericht"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.833048403263092
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.8323469161987305
+      },
+      {
+        "rank": 3,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8319158554077148
+      },
+      {
+        "rank": 4,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8313669562339783
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8311241865158081
+      }
+    ]
+  },
+  {
+    "q_id": "Q011",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "mro_konzeptbericht"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8766885995864868
+      },
+      {
+        "rank": 2,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8703232407569885
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8681093454360962
+      },
+      {
+        "rank": 4,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8641759157180786
+      },
+      {
+        "rank": 5,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8605201244354248
+      }
+    ]
+  },
+  {
+    "q_id": "Q012",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.879629373550415
+      },
+      {
+        "rank": 2,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8791967034339905
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8728943467140198
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.8699996471405029
+      },
+      {
+        "rank": 5,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8657419681549072
+      }
+    ]
+  },
+  {
+    "q_id": "Q013",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.874107837677002
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8724575042724609
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8700673580169678
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8673065304756165
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8657603859901428
+      }
+    ]
+  },
+  {
+    "q_id": "Q014",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8683212995529175
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8068826198577881
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8035939335823059
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.7980427742004395
+      },
+      {
+        "rank": 5,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.7950277924537659
+      }
+    ]
+  },
+  {
+    "q_id": "Q015",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "mro_konzeptbericht"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8602067828178406
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8575963377952576
+      },
+      {
+        "rank": 3,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8563066124916077
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8501667976379395
+      },
+      {
+        "rank": 5,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8484902381896973
+      }
+    ]
+  },
+  {
+    "q_id": "Q017",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8753211498260498
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8626950979232788
+      },
+      {
+        "rank": 3,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8601778745651245
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8592439889907837
+      },
+      {
+        "rank": 5,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8590340614318848
+      }
+    ]
+  },
+  {
+    "q_id": "Q018",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8934130668640137
+      },
+      {
+        "rank": 2,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8730493187904358
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8676795363426208
+      },
+      {
+        "rank": 4,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.862321138381958
+      },
+      {
+        "rank": 5,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.861880898475647
+      }
+    ]
+  },
+  {
+    "q_id": "Q019",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "online_beteiligung_2024"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8564261198043823
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8513197302818298
+      },
+      {
+        "rank": 3,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8507283926010132
+      },
+      {
+        "rank": 4,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8506510257720947
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8500168323516846
+      }
+    ]
+  },
+  {
+    "q_id": "Q020",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stadtentwicklungsplan_2015"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.825026273727417
+      },
+      {
+        "rank": 2,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8238924741744995
+      },
+      {
+        "rank": 3,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.82009357213974
+      },
+      {
+        "rank": 4,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8195662498474121
+      },
+      {
+        "rank": 5,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.818727433681488
+      }
+    ]
+  },
+  {
+    "q_id": "Q021",
+    "is_policy": false,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "arbeitstreffen_2024"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8752883672714233
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8716675043106079
+      },
+      {
+        "rank": 3,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8608601093292236
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8608347177505493
+      },
+      {
+        "rank": 5,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8604514598846436
+      }
+    ]
+  },
+  {
+    "q_id": "Q022",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8595502376556396
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.847299337387085
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8437024354934692
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8398206233978271
+      },
+      {
+        "rank": 5,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8389708399772644
+      }
+    ]
+  },
+  {
+    "q_id": "Q024",
+    "is_policy": false,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "online_beteiligung_2024"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8332291841506958
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8295628428459167
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8252541422843933
+      },
+      {
+        "rank": 4,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8235971927642822
+      },
+      {
+        "rank": 5,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8228214979171753
+      }
+    ]
+  },
+  {
+    "q_id": "Q025",
+    "is_policy": false,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "arbeitstreffen_2024"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.8251290917396545
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.822907567024231
+      },
+      {
+        "rank": 3,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8199811577796936
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8176786303520203
+      },
+      {
+        "rank": 5,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8175311088562012
+      }
+    ]
+  },
+  {
+    "q_id": "Q026",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8528350591659546
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8463557362556458
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8456307649612427
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8419222831726074
+      },
+      {
+        "rank": 5,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8387622237205505
+      }
+    ]
+  },
+  {
+    "q_id": "Q027",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8474874496459961
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8203564882278442
+      },
+      {
+        "rank": 3,
+        "document_id": "web_pdf_wohnraumfoerderung",
+        "authority_level": 3,
+        "score": 0.8129867315292358
+      },
+      {
+        "rank": 4,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8116129636764526
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.808441162109375
+      }
+    ]
+  },
+  {
+    "q_id": "Q028",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8748027086257935
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8692476749420166
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.861497163772583
+      },
+      {
+        "rank": 4,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.860031008720398
+      },
+      {
+        "rank": 5,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8549209237098694
+      }
+    ]
+  },
+  {
+    "q_id": "Q029",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8836911916732788
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8763587474822998
+      },
+      {
+        "rank": 3,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8693857789039612
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8647193312644958
+      },
+      {
+        "rank": 5,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8609752058982849
+      }
+    ]
+  },
+  {
+    "q_id": "Q030",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8677517175674438
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8493189215660095
+      },
+      {
+        "rank": 3,
+        "document_id": "web_pdf_neubuerger_en",
+        "authority_level": 3,
+        "score": 0.8370910286903381
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.8363017439842224
+      },
+      {
+        "rank": 5,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.8344281911849976
+      }
+    ]
+  },
+  {
+    "q_id": "Q031",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.906339168548584
+      },
+      {
+        "rank": 2,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8600625991821289
+      },
+      {
+        "rank": 3,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8550771474838257
+      },
+      {
+        "rank": 4,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.854637622833252
+      },
+      {
+        "rank": 5,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8519443273544312
+      }
+    ]
+  },
+  {
+    "q_id": "Q032",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8857017159461975
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.882422924041748
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8725433349609375
+      },
+      {
+        "rank": 4,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8677300214767456
+      },
+      {
+        "rank": 5,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8654183149337769
+      }
+    ]
+  },
+  {
+    "q_id": "Q033",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8644075393676758
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8623297214508057
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8580787181854248
+      },
+      {
+        "rank": 4,
+        "document_id": "stadtentwicklungsplan_2015",
+        "authority_level": 2,
+        "score": 0.8515833020210266
+      },
+      {
+        "rank": 5,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8512640595436096
+      }
+    ]
+  },
+  {
+    "q_id": "Q034",
+    "is_policy": false,
+    "request_type": "citizen_explicit",
+    "target_docs": [
+      "zukunftsreise_2035"
+    ],
+    "hit": false,
+    "citizen_fraction": 1.0,
+    "tier_used": "L4/L5 (explicit citizen request)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "online_beteiligung_2024",
+        "authority_level": 5,
+        "score": 0.8847571015357971
+      },
+      {
+        "rank": 2,
+        "document_id": "ak_sitzung_1_2023",
+        "authority_level": 4,
+        "score": 0.8672257661819458
+      },
+      {
+        "rank": 3,
+        "document_id": "wege_zu_den_zielen_2024",
+        "authority_level": 4,
+        "score": 0.866817831993103
+      },
+      {
+        "rank": 4,
+        "document_id": "wege_zu_den_zielen_2024",
+        "authority_level": 4,
+        "score": 0.8631618022918701
+      },
+      {
+        "rank": 5,
+        "document_id": "ak_sitzung_1_2023",
+        "authority_level": 4,
+        "score": 0.8588098883628845
+      }
+    ]
+  },
+  {
+    "q_id": "Q036",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8756145238876343
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8595771789550781
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8560899496078491
+      },
+      {
+        "rank": 4,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8523002862930298
+      },
+      {
+        "rank": 5,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8514471054077148
+      }
+    ]
+  },
+  {
+    "q_id": "Q037",
+    "is_policy": false,
+    "request_type": "citizen_explicit",
+    "target_docs": [
+      "zukunftsreise_2035"
+    ],
+    "hit": false,
+    "citizen_fraction": 1.0,
+    "tier_used": "L4/L5 (explicit citizen request)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "online_beteiligung_2024",
+        "authority_level": 5,
+        "score": 0.8100227117538452
+      },
+      {
+        "rank": 2,
+        "document_id": "zukunft_gestalten_2024",
+        "authority_level": 4,
+        "score": 0.8099758625030518
+      },
+      {
+        "rank": 3,
+        "document_id": "arbeitstreffen_2024",
+        "authority_level": 4,
+        "score": 0.8073347806930542
+      },
+      {
+        "rank": 4,
+        "document_id": "online_beteiligung_2024",
+        "authority_level": 5,
+        "score": 0.8069798946380615
+      },
+      {
+        "rank": 5,
+        "document_id": "zukunft_gestalten_2024",
+        "authority_level": 4,
+        "score": 0.8046138286590576
+      }
+    ]
+  },
+  {
+    "q_id": "Q038",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8595316410064697
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8273617625236511
+      },
+      {
+        "rank": 3,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.822055459022522
+      },
+      {
+        "rank": 4,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8141738176345825
+      },
+      {
+        "rank": 5,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8104179501533508
+      }
+    ]
+  },
+  {
+    "q_id": "Q039",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.8499668836593628
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8485002517700195
+      },
+      {
+        "rank": 3,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8467954397201538
+      },
+      {
+        "rank": 4,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.844406008720398
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8417668342590332
+      }
+    ]
+  },
+  {
+    "q_id": "Q040",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8284298181533813
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.8082789182662964
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8064584136009216
+      },
+      {
+        "rank": 4,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8048560619354248
+      },
+      {
+        "rank": 5,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8024603128433228
+      }
+    ]
+  },
+  {
+    "q_id": "Q041",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.840427815914154
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8391704559326172
+      },
+      {
+        "rank": 3,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8344480991363525
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8341472148895264
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8314544558525085
+      }
+    ]
+  },
+  {
+    "q_id": "Q042",
+    "is_policy": true,
+    "request_type": "comparison",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.4,
+    "tier_used": "official + citizen (comparison)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8609293699264526
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8553169369697571
+      },
+      {
+        "rank": 3,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8544973134994507
+      },
+      {
+        "rank": 4,
+        "document_id": "ak_sitzung_1_2023",
+        "authority_level": 4,
+        "score": 0.8386293053627014
+      },
+      {
+        "rank": 5,
+        "document_id": "online_beteiligung_2024",
+        "authority_level": 5,
+        "score": 0.8289557695388794
+      }
+    ]
+  },
+  {
+    "q_id": "Q043",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "mro_konzeptbericht",
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8826359510421753
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8780369758605957
+      },
+      {
+        "rank": 3,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8768525123596191
+      },
+      {
+        "rank": 4,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8702824711799622
+      },
+      {
+        "rank": 5,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8684777021408081
+      }
+    ]
+  },
+  {
+    "q_id": "Q044",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stadtentwicklungsplan_2015"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8665118217468262
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8594324588775635
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8589158058166504
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8548119068145752
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8505216836929321
+      }
+    ]
+  },
+  {
+    "q_id": "Q051",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stadtentwicklungsplan_2015"
+    ],
+    "hit": false,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8367857933044434
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.834845244884491
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.832467794418335
+      },
+      {
+        "rank": 4,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8303327560424805
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8291674852371216
+      }
+    ]
+  },
+  {
+    "q_id": "Q052",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "mro_konzeptbericht"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.875501275062561
+      },
+      {
+        "rank": 2,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8685123920440674
+      },
+      {
+        "rank": 3,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8600009679794312
+      },
+      {
+        "rank": 4,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8596504926681519
+      },
+      {
+        "rank": 5,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8576407432556152
+      }
+    ]
+  },
+  {
+    "q_id": "Q053",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "mro_konzeptbericht"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8554058074951172
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8541579246520996
+      },
+      {
+        "rank": 3,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8532080054283142
+      },
+      {
+        "rank": 4,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8529772758483887
+      },
+      {
+        "rank": 5,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8523640632629395
+      }
+    ]
+  },
+  {
+    "q_id": "Q054",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8887506723403931
+      },
+      {
+        "rank": 2,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8621954917907715
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8520731329917908
+      },
+      {
+        "rank": 4,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8507504463195801
+      },
+      {
+        "rank": 5,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8479831218719482
+      }
+    ]
+  },
+  {
+    "q_id": "Q061",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "mro_konzeptbericht"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8630210161209106
+      },
+      {
+        "rank": 2,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8560278415679932
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8500155210494995
+      },
+      {
+        "rank": 4,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8446770906448364
+      },
+      {
+        "rank": 5,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8433148860931396
+      }
+    ]
+  },
+  {
+    "q_id": "Q062",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8425000905990601
+      },
+      {
+        "rank": 2,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.833544135093689
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8295360803604126
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8273383378982544
+      },
+      {
+        "rank": 5,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8230727910995483
+      }
+    ]
+  },
+  {
+    "q_id": "Q063",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8330796957015991
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.821533203125
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8203458786010742
+      },
+      {
+        "rank": 4,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8185539841651917
+      },
+      {
+        "rank": 5,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8175393342971802
+      }
+    ]
+  },
+  {
+    "q_id": "Q064",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "nachhaltigkeitsbericht_2025"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8869112133979797
+      },
+      {
+        "rank": 2,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8760621547698975
+      },
+      {
+        "rank": 3,
+        "document_id": "nachhaltigkeitsbericht_2025",
+        "authority_level": 2,
+        "score": 0.8694976568222046
+      },
+      {
+        "rank": 4,
+        "document_id": "web_pdf_neubuerger_de",
+        "authority_level": 3,
+        "score": 0.8667939901351929
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8596726655960083
+      }
+    ]
+  },
+  {
+    "q_id": "Q065",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "website_html"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.858506441116333
+      },
+      {
+        "rank": 2,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.84578537940979
+      },
+      {
+        "rank": 3,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8450462818145752
+      },
+      {
+        "rank": 4,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8448841571807861
+      },
+      {
+        "rank": 5,
+        "document_id": "website_html",
+        "authority_level": 2,
+        "score": 0.8430030345916748
+      }
+    ]
+  },
+  {
+    "q_id": "Q066",
+    "is_policy": true,
+    "request_type": "default_cascade",
+    "target_docs": [
+      "stek_a3_strategy"
+    ],
+    "hit": true,
+    "citizen_fraction": 0.0,
+    "tier_used": "official (cascade stage 1)",
+    "retrieved": [
+      {
+        "rank": 1,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8472908735275269
+      },
+      {
+        "rank": 2,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8406684398651123
+      },
+      {
+        "rank": 3,
+        "document_id": "stek_a3_strategy",
+        "authority_level": 1,
+        "score": 0.8350969552993774
+      },
+      {
+        "rank": 4,
+        "document_id": "mro_konzeptbericht",
+        "authority_level": 2,
+        "score": 0.8327307105064392
+      },
+      {
+        "rank": 5,
+        "document_id": "web_pdf_statusbericht",
+        "authority_level": 2,
+        "score": 0.8322038054466248
+      }
+    ]
+  }
+]

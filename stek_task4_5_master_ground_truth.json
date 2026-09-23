@@ -43,34 +43,13 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 151,
-          "chunk_uid": "doc::stek_a3_strategy::151",
+          "chunk_id": 48,
           "document_id": "stek_a3_strategy"
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
-    },
-    {
-      "q_id": "Q002",
-      "question": "Was wünschen sich Bürgerinnen und Bürger für bezahlbaren Wohnraum?",
-      "category": "housing",
-      "answerable": true,
-      "expected_answer": "Bürger fordern u.a. Förderung des Mietshäuser-Syndikats, aktive kommunale Bodenpolitik, mehr Studierendenwohnheime, und kritisieren Wohnraum, der vorrangig für Reiche entwickelt wird.",
-      "relevant_documents": [
-        "online_beteiligung_2024"
-      ],
-      "relevant_chunks": [
-        {
-          "chunk_id": 494,
-          "chunk_uid": "doc::online_beteiligung_2024::494",
-          "document_id": "online_beteiligung_2024"
-        }
-      ],
-      "expected_authority_level": 4,
-      "is_official_policy": false,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "CORRECTED: original chunk_id was a stale corpus_v3 reference, never re-mapped to v2 — pointed to unrelated or out-of-range content in the actual v2 corpus. Real content confirmed via direct text search, exact match to expected_answer."
     },
     {
       "q_id": "Q003",
@@ -177,14 +156,13 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 54,
-          "chunk_uid": "doc::mro_konzeptbericht::54",
+          "chunk_id": 17,
           "document_id": "mro_konzeptbericht"
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "CORRECTED: original chunk_id was a stale corpus_v3 reference, never re-mapped to v2 — pointed to unrelated or out-of-range content in the actual v2 corpus. Real content confirmed via direct text search, exact match to expected_answer."
     },
     {
       "q_id": "Q009",
@@ -210,26 +188,6 @@
       "expected_authority_level": 2,
       "is_official_policy": true,
       "notes": "UNRESOLVED against corpus_v3: search phrase too generic (15 matches) — needs targeted manual disambiguation"
-    },
-    {
-      "q_id": "Q010",
-      "question": "Was wünschen sich Bürger für den Radverkehr und die Straßengestaltung?",
-      "category": "mobility",
-      "answerable": true,
-      "expected_answer": "Bürger fordern u.a. Rasengittersteine statt Asphalt, Entsiegelung von Parkplätzen, mehr vertikale Begrünung, und sicherere Radwege ohne Schotter-Verletzungsgefahr für Kinder.",
-      "relevant_documents": [
-        "online_beteiligung_2024"
-      ],
-      "relevant_chunks": [
-        {
-          "chunk_id": 1093,
-          "chunk_uid": "doc::online_beteiligung_2024::1093",
-          "document_id": "online_beteiligung_2024"
-        }
-      ],
-      "expected_authority_level": 4,
-      "is_official_policy": false,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
     },
     {
       "q_id": "Q011",
@@ -332,26 +290,6 @@
       "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
     },
     {
-      "q_id": "Q016",
-      "question": "Was fordern Bürger zum Umgang mit versiegelten Flächen?",
-      "category": "climate",
-      "answerable": true,
-      "expected_answer": "Bürger fordern Entsiegelung von Parkplätzen (z.B. Bismarckplatz, Uniplatz, Friedrich-Ebert-Platz), wasserdurchlässige Oberflächen, Schwammstrassen und mehr Bäume statt versiegelter Fläche.",
-      "relevant_documents": [
-        "online_beteiligung_2024"
-      ],
-      "relevant_chunks": [
-        {
-          "chunk_id": 171,
-          "chunk_uid": "doc::online_beteiligung_2024::171",
-          "document_id": "online_beteiligung_2024"
-        }
-      ],
-      "expected_authority_level": 4,
-      "is_official_policy": false,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
-    },
-    {
       "q_id": "Q017",
       "question": "Welche Rolle spielen Wissenschaft und Forschung im STEK 2035?",
       "category": "economy",
@@ -404,14 +342,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 38,
-          "chunk_uid": "doc::online_beteiligung_2024::38",
+          "chunk_id": 317,
+          "document_id": "online_beteiligung_2024"
+        },
+        {
+          "chunk_id": 318,
           "document_id": "online_beteiligung_2024"
         }
       ],
-      "expected_authority_level": 2,
+      "expected_authority_level": 5,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "CORRECTED: the original chunk_id=38 was a stale reference verified against corpus_v3's different chunking, never re-mapped to v2 — it pointed to unrelated content (land use/vacancy) in the actual v2 corpus. Real content confirmed via direct text search at v2 chunk_id 317-318 (\"Bezahlbaren Wohnraum...\", \"Abbau formaler Hürden\" — exact matches to expected_answer). expected_authority_level corrected from 2 to 5, since this is genuinely citizen-tier content, not official-tier, despite is_official_policy=True reflecting the question's POLICY-RELEVANT topic rather than where the best answer content actually lives."
     },
     {
       "q_id": "Q020",
@@ -471,26 +412,6 @@
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
-    },
-    {
-      "q_id": "Q023",
-      "question": "Was wünschen sich Bürger für das kulturelle Angebot in Heidelberg?",
-      "category": "culture",
-      "answerable": true,
-      "expected_answer": "Bürgermeinungen sind gemischt: manche wünschen mehr kulturelle Angebote und Kinderbetreuung, andere kritisieren zu viele elitäre Kulturveranstaltungen und fordern weniger Ressourcenverschwendung.",
-      "relevant_documents": [
-        "online_beteiligung_2024"
-      ],
-      "relevant_chunks": [
-        {
-          "chunk_id": 966,
-          "chunk_uid": "doc::online_beteiligung_2024::966",
-          "document_id": "online_beteiligung_2024"
-        }
-      ],
-      "expected_authority_level": 4,
-      "is_official_policy": false,
       "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
     },
     {
@@ -715,26 +636,6 @@
       "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
     },
     {
-      "q_id": "Q035",
-      "question": "Was war der Zweck der Zukunftsreise 2023?",
-      "category": "citizen_participation",
-      "answerable": true,
-      "expected_answer": "Die Zukunftsreise war die öffentliche Auftaktveranstaltung der Bürgerbeteiligung zum Stadtentwicklungskonzept, bei der Bürger eingeladen wurden, ihre Wünsche und Fragen an die Zukunft Heidelbergs zu formulieren.",
-      "relevant_documents": [
-        "zukunftsreise_2035"
-      ],
-      "relevant_chunks": [
-        {
-          "chunk_id": 0,
-          "chunk_uid": "doc::zukunftsreise_2035::0",
-          "document_id": "zukunftsreise_2035"
-        }
-      ],
-      "expected_authority_level": 4,
-      "is_official_policy": false,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
-    },
-    {
       "q_id": "Q036",
       "question": "Wie beschreibt das STEK die eigene Beteiligungskultur?",
       "category": "citizen_participation",
@@ -912,40 +813,13 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 25,
-          "chunk_uid": "doc::stadtentwicklungsplan_2015::25",
+          "chunk_id": 8,
           "document_id": "stadtentwicklungsplan_2015"
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
-    },
-    {
-      "q_id": "Q045",
-      "question": "Wie stehen Bürgerwünsche und offizielle Pläne für Verkehrsberuhigung im Vergleich?",
-      "category": "cross_document",
-      "answerable": true,
-      "expected_answer": "Bürger fordern radikalere Maßnahmen wie durchgehende Entsiegelung und autofreie Altstadt; offizielle Pläne (MRO 2035+) sehen schrittweisen Ausbau von Radinfrastruktur und autofreien Quartieren in Entwicklungsgebieten vor — graduelleres Vorgehen als citizen wishes.",
-      "relevant_documents": [
-        "online_beteiligung_2024",
-        "mro_konzeptbericht"
-      ],
-      "relevant_chunks": [
-        {
-          "chunk_id": 588,
-          "chunk_uid": "doc::online_beteiligung_2024::588",
-          "document_id": "online_beteiligung_2024"
-        },
-        {
-          "chunk_id": 54,
-          "chunk_uid": "doc::mro_konzeptbericht::54",
-          "document_id": "mro_konzeptbericht"
-        }
-      ],
-      "expected_authority_level": null,
-      "is_official_policy": null,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "CORRECTED: original chunk_id was a stale corpus_v3 reference, never re-mapped to v2 — pointed to unrelated or out-of-range content in the actual v2 corpus. Real content confirmed via direct text search, exact match to expected_answer."
     },
     {
       "q_id": "Q046",
@@ -1099,14 +973,14 @@
     },
     {
       "q_id": "Q057",
-      "category": "unanswerable",
+      "category": "semi_answerable",
       "question": "Wie viele Parkplätze gibt es aktuell in der Heidelberger Altstadt?",
       "expected_answer": null,
       "relevant_documents": [],
       "relevant_chunks": [],
       "is_official_policy": null,
       "answerable": false,
-      "notes": "No exact current parking space count for the Altstadt specifically was found in any source document. NEW question added for Task 8."
+      "notes": "Reclassified from 'unanswerable' to 'semi_answerable': stripped top_score=0.8963, the 2nd-highest of all 59 questions tested — likely because the corpus contains real topical content about Altstadt parking/traffic policy, just not the EXACT current parking space count this question demands. Genuinely different failure mode than 'nothing exists on this topic at all' — the topic is covered, the specific fact isn't."
     },
     {
       "q_id": "Q058",
@@ -1140,6 +1014,120 @@
       "is_official_policy": null,
       "answerable": false,
       "notes": "Vague/underspecified question, no clear retrievable intent. NEW question added for Task 8."
+    },
+    {
+      "q_id": "Q061",
+      "category": "climate",
+      "question": "Wie viel Hektar Fläche sind laut Landesvorgabe für den Ausbau von Solar- und Windenergie in Heidelberg vorgesehen?",
+      "expected_answer": "Das vom Land Baden-Württemberg vorgegebene Flächenziel würde für Heidelberg einen Ausbau auf 22 Hektar bedeuten.",
+      "relevant_documents": [
+        "mro_konzeptbericht"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 82,
+          "document_id": "mro_konzeptbericht"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "answerable": true,
+      "notes": "NEW question replacing a citizen-focused question, per user request to prioritize official-policy content. Verified via direct chunk text."
+    },
+    {
+      "q_id": "Q062",
+      "category": "climate",
+      "question": "Wie viele Kilometer Fernwärmeleitung müssen laut STEK 2035 neu verlegt werden?",
+      "expected_answer": "Es müssen 100 Kilometer Fernwärmeleitung verlegt und über 10.000 Gebäude neu angeschlossen werden.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 62,
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "answerable": true,
+      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text."
+    },
+    {
+      "q_id": "Q063",
+      "category": "climate",
+      "question": "Wie viel Prozent der Haushalte sollen bis 2040 an das Fernwärmenetz angeschlossen sein?",
+      "expected_answer": "Bis 2040 sollen 70 Prozent der Haushalte an das Fernwärmenetz angeschlossen sein.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 65,
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "answerable": true,
+      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text."
+    },
+    {
+      "q_id": "Q064",
+      "category": "social",
+      "question": "Wie hoch ist der Versorgungsgrad an Kinderbetreuungsplätzen im Kindergartenalter in Heidelberg?",
+      "expected_answer": "Im Jahr 2023 beträgt der gesamtstädtische Versorgungsgrad an Kinderbetreuungsplätzen im Kindergartenalter (3 bis 6 Jahre) rund 101 Prozent.",
+      "relevant_documents": [
+        "nachhaltigkeitsbericht_2025"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 23,
+          "document_id": "nachhaltigkeitsbericht_2025"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "answerable": true,
+      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text."
+    },
+    {
+      "q_id": "Q065",
+      "category": "climate",
+      "question": "Wo sollen laut Stadtentwicklung mögliche neue Windkraftanlagen in Heidelberg entstehen?",
+      "expected_answer": "Mögliche Standorte sind der Windpark Lammerskopf sowie das Gebiet Weißer Stein/Hoher Nistler.",
+      "relevant_documents": [
+        "website_html"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": null,
+          "document_id": "website_html"
+        }
+      ],
+      "expected_authority_level": 2,
+      "is_official_policy": true,
+      "answerable": true,
+      "notes": "NEW question replacing a citizen-focused question. Verified via direct text search. chunk_id is None since website_html's chunk_id numbering is not unique across its ~90 distinct source pages (documented earlier this project) — document-level citation only."
+    },
+    {
+      "q_id": "Q066",
+      "category": "climate",
+      "question": "Wie hoch sind die geschätzten Umbaukosten für die klimaneutrale Fernwärmeversorgung bis 2040?",
+      "expected_answer": "Die geschätzten Umbaukosten belaufen sich auf 825 Millionen Euro.",
+      "relevant_documents": [
+        "stek_a3_strategy"
+      ],
+      "relevant_chunks": [
+        {
+          "chunk_id": 71,
+          "document_id": "stek_a3_strategy"
+        }
+      ],
+      "expected_authority_level": 1,
+      "is_official_policy": true,
+      "answerable": true,
+      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text."
     }
   ]
 }

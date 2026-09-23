@@ -1,0 +1,112 @@
+{
+  "segment": "CITIZEN-OPINION",
+  "n_questions": 5,
+  "plain_topk": {
+    "mrr": 0.2,
+    "full_hits": 1,
+    "n_questions": 5,
+    "metrics_by_k": {
+      "1": {
+        "precision": 0.2,
+        "recall": 0.2,
+        "ndcg": 0.2
+      },
+      "3": {
+        "precision": 0.2,
+        "recall": 0.2,
+        "ndcg": 0.2
+      },
+      "5": {
+        "precision": 0.12,
+        "recall": 0.2,
+        "ndcg": 0.2
+      },
+      "10": {
+        "precision": 0.13999999999999999,
+        "recall": 0.2,
+        "ndcg": 0.2
+      }
+    }
+  },
+  "plain_topk_stripped": {
+    "mrr": 0.22000000000000003,
+    "full_hits": 1,
+    "n_questions": 5,
+    "metrics_by_k": {
+      "1": {
+        "precision": 0.2,
+        "recall": 0.2,
+        "ndcg": 0.2
+      },
+      "3": {
+        "precision": 0.2,
+        "recall": 0.2,
+        "ndcg": 0.2
+      },
+      "5": {
+        "precision": 0.16,
+        "recall": 0.2,
+        "ndcg": 0.2
+      },
+      "10": {
+        "precision": 0.15999999999999998,
+        "recall": 0.4,
+        "ndcg": 0.25781296526357755
+      }
+    }
+  },
+  "cascade": {
+    "mrr": 0.0,
+    "full_hits": 0,
+    "n_questions": 5,
+    "metrics_by_k": {
+      "1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "ndcg": 0.0
+      },
+      "3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "ndcg": 0.0
+      },
+      "5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "ndcg": 0.0
+      },
+      "10": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "ndcg": 0.0
+      }
+    }
+  },
+  "authority_source_topic": {
+    "mrr": 0.0,
+    "full_hits": 0,
+    "n_questions": 5,
+    "metrics_by_k": {
+      "1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "ndcg": 0.0
+      },
+      "3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "ndcg": 0.0
+      },
+      "5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "ndcg": 0.0
+      },
+      "10": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "ndcg": 0.0
+      }
+    }
+  }
+}

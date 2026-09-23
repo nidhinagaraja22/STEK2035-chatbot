@@ -36,7 +36,7 @@ from stek_cascading_retrieval import cascading_retrieve
 from stek_strategy_authority_source_topic import authority_source_topic_strategy
 from stek_test_vague_unanswerable_signals import strip_generic_terms
 
-CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks_l4l5split.jsonl")
+CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks.jsonl")
 EMB_PATH = Path("corpus/corpus_v2/embeddings_v2_e5base.npy")
 LDA_TOPICS_PATH = Path("corpus/corpus_v2/lda_topics_v2.json")
 EMBED_MODEL = "intfloat/multilingual-e5-base"

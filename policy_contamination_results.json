@@ -1,0 +1,823 @@
+{
+  "plain_mean_citizen_fraction": 0.2651162790697674,
+  "cascade_mean_citizen_fraction": 0.009302325581395349,
+  "per_question": [
+    {
+      "q_id": "Q001",
+      "plain_citizen_fraction": 0.6,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        5,
+        2,
+        5,
+        2,
+        5
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q004",
+      "plain_citizen_fraction": 0.2,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        2,
+        4,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q005",
+      "plain_citizen_fraction": 0.2,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        5,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q006",
+      "plain_citizen_fraction": 0.2,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        1,
+        2,
+        2,
+        4
+      ],
+      "cascade_authorities": [
+        2,
+        1,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q007",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q008",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        4,
+        1,
+        2,
+        4
+      ],
+      "cascade_authorities": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "q_id": "Q009",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        5,
+        2,
+        5,
+        3,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        3,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q011",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        5,
+        2,
+        2,
+        5
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q012",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        2,
+        3,
+        1
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "q_id": "Q013",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        3,
+        1,
+        2,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        3,
+        1,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q014",
+      "plain_citizen_fraction": 0.6,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        1,
+        4,
+        5,
+        2,
+        5
+      ],
+      "cascade_authorities": [
+        1,
+        2,
+        2,
+        3,
+        3
+      ]
+    },
+    {
+      "q_id": "Q015",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        1,
+        2,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        1,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q017",
+      "plain_citizen_fraction": 0.2,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        1,
+        4,
+        2,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        1,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q018",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        1,
+        1,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "q_id": "Q019",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        1,
+        5,
+        2,
+        4,
+        2
+      ],
+      "cascade_authorities": [
+        1,
+        2,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "q_id": "Q020",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q022",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        1,
+        2,
+        4,
+        1,
+        5
+      ],
+      "cascade_authorities": [
+        1,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q026",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        4,
+        5,
+        2,
+        1
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q027",
+      "plain_citizen_fraction": 0.6,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        5,
+        5,
+        2,
+        4
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        3,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q028",
+      "plain_citizen_fraction": 0.2,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        1,
+        4,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        1,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q029",
+      "plain_citizen_fraction": 0.2,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        1,
+        4,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "q_id": "Q030",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        1,
+        2,
+        3,
+        3,
+        3
+      ],
+      "cascade_authorities": [
+        1,
+        2,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "q_id": "Q031",
+      "plain_citizen_fraction": 0.2,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        2,
+        2,
+        5
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q032",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "cascade_authorities": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "q_id": "Q033",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        1,
+        5,
+        1,
+        4
+      ],
+      "cascade_authorities": [
+        2,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "q_id": "Q036",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        5,
+        4,
+        2,
+        1
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "q_id": "Q038",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "cascade_authorities": [
+        1,
+        2,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "q_id": "Q039",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        3,
+        2,
+        2,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        3,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q040",
+      "plain_citizen_fraction": 0.8,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        1,
+        5,
+        5,
+        5,
+        5
+      ],
+      "cascade_authorities": [
+        1,
+        3,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q041",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        4,
+        2,
+        2,
+        4,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q042",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.4,
+      "plain_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "q_id": "Q043",
+      "plain_citizen_fraction": 0.2,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        2,
+        1,
+        4
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "q_id": "Q044",
+      "plain_citizen_fraction": 0.8,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        4,
+        4,
+        1,
+        4,
+        4
+      ],
+      "cascade_authorities": [
+        1,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q051",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q052",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q053",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        4,
+        4,
+        1,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "q_id": "Q054",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q061",
+      "plain_citizen_fraction": 0.6,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        5,
+        4,
+        5
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "q_id": "Q062",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        1,
+        2,
+        4,
+        4,
+        1
+      ],
+      "cascade_authorities": [
+        1,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q063",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        1,
+        4,
+        1,
+        4,
+        1
+      ],
+      "cascade_authorities": [
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "q_id": "Q064",
+      "plain_citizen_fraction": 0.0,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        2,
+        2,
+        3,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "q_id": "Q065",
+      "plain_citizen_fraction": 0.2,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        2,
+        5,
+        2,
+        2,
+        2
+      ],
+      "cascade_authorities": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "q_id": "Q066",
+      "plain_citizen_fraction": 0.4,
+      "cascade_citizen_fraction": 0.0,
+      "plain_authorities": [
+        1,
+        1,
+        4,
+        1,
+        4
+      ],
+      "cascade_authorities": [
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  ]
+}

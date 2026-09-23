@@ -1,0 +1,14 @@
+{
+  "word_to_word_vs_heidelberg": {
+    "Heidelberg": 1.0,
+    "Mannheim": 0.8479499220848083,
+    "Frankfurt": 0.8762680292129517,
+    "Mumbai": 0.8086365461349487
+  },
+  "word_to_corpus_mean": {
+    "Heidelberg": 0.7987487316131592,
+    "Mannheim": 0.7491439580917358,
+    "Frankfurt": 0.7573078274726868,
+    "Mumbai": 0.716953456401825
+  }
+}

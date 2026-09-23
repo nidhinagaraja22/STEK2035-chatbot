@@ -2,7 +2,7 @@
   {
     "q_id": "Q001",
     "question": "Was plant die Stadt Heidelberg konkret für bezahlbaren Wohnraum bis 2035?",
-    "generated_answer": "Der Text gibt keine detaillierte konkrete Planung für bezahlbaren Wohnraum bis 2035. Es wird erwähnt, dass das Thema Wohnen eine große Herausforderung darstellt und dass die Stadt Heidelberg mit dem \"10-Punkte-Programm Wohnen\" eine Strategie zur Umsetzung ihres Handlungsprogramms Wohnen hat. Ziel ist es, durch verschiedene Wohnungsangebote in der ganzen Stadt durchgemischte Quartiere zu fördern und so bezahlbaren und bedarfsgerechten Wohnraum für alle sicherzustellen. Allerdings werden im bereitgestellten Text keine spezifischen Maßnahmen oder Ziele bis 2035 genannt.",
+    "generated_answer": "Der Text gibt keine detaillierte konkrete Planung für bezahlbaren Wohnraum bis 2035. Es wird erwähnt, dass das Thema des bezahlbaren Wohnens eine große Herausforderung darstellt und dass die Stadt Heidelberg durch verschiedene Wohnungsangebote in der ganzen Stadt darauf abzielt, durchmischte Quartiere zu fördern. Zudem hat sich die Stadt 2021 mit dem \"10-Punkte-Programm Wohnen\" eine Strategie zur Umsetzung ihres Handlungsprogramms geschaffen. Allerdings sind in dem bereitgestellten Text keine spezifischen Maßnahmen oder Ziele bis zum Jahr 2035 aufgeführt, die direkt bezahlbare Wohnungslösungen betreffen.",
     "rule_based": {
       "source_attribution": {
         "score": 1.0,
@@ -19,9 +19,9 @@
       },
       "conciseness": {
         "score": 1.0,
-        "generated_words": 76,
+        "generated_words": 81,
         "expected_words": 32,
-        "ratio": 2.38
+        "ratio": 2.53
       }
     },
     "llm_judge": {
@@ -32,49 +32,10 @@
         "completeness": 2,
         "relevance": 3,
         "language_quality": 5,
-        "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle spezifischen Aspekte der Frage wie konkrete Pläne für bezahlbaren Wohnraum bis 2035 abdeckt."
+        "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage vollständig beantwortet und spezifische Ziele oder Maßnahmen bis 2035 fehlen."
       },
       "validation_issues": [],
-      "raw_response": "{\"factual_accuracy\": 3, \"groundedness\": 4, \"completeness\": 2, \"relevance\": 3, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist am niedrigsten, da die Antwort nicht alle spezifischen Aspekte der Frage wie konkrete Pläne für bezahlbaren Wohnraum bis 2035 abdeckt.\"}"
-    }
-  },
-  {
-    "q_id": "Q002",
-    "question": "Was wünschen sich Bürgerinnen und Bürger für bezahlbaren Wohnraum?",
-    "generated_answer": "Bürgerinnen und Bürger wünschen sich für den bezahlbaren Wohnraum in Heidelberg folgende Aspekte:\n\n1. **Preiswerter Wohnraum**: Die Mieten sollen erschwinglich sein, insbesondere für Menschen mit mittlerem Einkommen, Studierende, Familien und Menschen in prekären Lebenslagen.\n2. **Barrierefreie und altersgerechte Wohnungen**: Es soll mehr barrierefreier und altersgerechter Wohnraum geben, der auch für Menschen mit Behinderung geeignet ist.\n3. **Flexibilität**: Die Wohnungen sollen flexibel gestaltet sein, sodass sie sich an die Bedürfnisse der Bewohner anpassen können (z.B. durch modulare Konzepte).\n4. **Klimaneutralität und Nachhaltigkeit**: Der neue Wohnraum soll klimaneutral gebaut werden.\n5. **Qualitativ hochwertiger Wohnraum**: Die Wohnungen sollen qualitativ hochwertig sein, um die Lebensqualität der Bewohner zu verbessern.\n6. **Öffentliche oder genossenschaftliche Hand**: Es wird gefordert, dass mehr Wohnraum in öffentlicher oder genossenschaftlicher Hand gebaut und verwaltet wird, um Profitinteressen auszuschließen.\n7. **Attraktive Lage und Infrastruktur**: Die Wohnungen sollen gut mit der Infrastruktur verbunden sein (z.B. Nahverkehr) und attraktiv gelegen sein.\n8. **Unterstützung für verschiedene Lebensphasen**: Es soll mehr Wohnraum geben, der auf unterschiedliche Lebensphasen zugeschnitten ist, wie Familienwohnungen oder kleine Wohneinheiten für ältere Menschen.\n\nDiese Forderungen zielen darauf ab, dass Heidelberg ein durchmischtes und inklusives Wohngebiet bleibt, das für alle Einkommensgruppen erschwinglich ist.",
-    "rule_based": {
-      "source_attribution": {
-        "score": 1.0,
-        "correct": 5,
-        "total": 5,
-        "mismatches": []
-      },
-      "abstention": {
-        "should_decline": false,
-        "detector_flagged_vague": false,
-        "system_declined": false,
-        "system_correct": true,
-        "score": 1.0
-      },
-      "conciseness": {
-        "score": 0.31413612565445026,
-        "generated_words": 191,
-        "expected_words": 20,
-        "ratio": 9.55
-      }
-    },
-    "llm_judge": {
-      "success": true,
-      "scores": {
-        "factual_accuracy": 4,
-        "groundedness": 4,
-        "completeness": 3,
-        "relevance": 5,
-        "language_quality": 5,
-        "reasoning": "Die Antwort könnte vollständiger sein, indem spezifischere Forderungen wie die Förderung des Mietshäuser-Syndikats oder aktive kommunale Bodenpolitik erwähnt werden."
-      },
-      "validation_issues": [],
-      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte vollständiger sein, indem spezifischere Forderungen wie die Förderung des Mietshäuser-Syndikats oder aktive kommunale Bodenpolitik erwähnt werden.\"}"
+      "raw_response": "{\"factual_accuracy\": 3, \"groundedness\": 4, \"completeness\": 2, \"relevance\": 3, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage vollständig beantwortet und spezifische Ziele oder Maßnahmen bis 2035 fehlen.\"}"
     }
   },
   {
@@ -197,7 +158,7 @@
   {
     "q_id": "Q007",
     "question": "Welche Maßnahmen plant Heidelberg für den Ausbau des Radverkehrs?",
-    "generated_answer": "Die Stadt Heidelberg plant verschiedene Maßnahmen für den Ausbau des Radverkehrs, wie sie in der Radstrategie 2030 festgelegt sind. Diese Strategie umfasst einen Maßnahmenkatalog mit 112 priorisierten Projekten im gesamten Stadtgebiet. Ziel ist ein sicheres, durchgängig befahrbares und attraktives Radnetz, das alle Stadtteile erschließt und eine gute Anbindung an die Region gewährleistet. Es wird vorgesehen, dass die Infrastruktur von Fahrradabstell- oder Radverkehrsanlagen ausgebaut wird. Zudem sollen Radschnellverbindungen geschaffen werden, um sowohl das Umland besser an die innerstädtischen Bereiche anzubinden als auch Heidelberg besser mit dem Umland zu vernetzen. Die Umsetzung der Maßnahmen erfolgt schrittweise in Arbeitsprogrammen, abhängig von verfügbaren Personal- und Haushaltsmitteln.",
+    "generated_answer": "Die Stadt Heidelberg plant mehrere Maßnahmen für den Ausbau des Radverkehrs im Rahmen der Radstrategie 2030. Dies beinhaltet ein hierarchisch gegliedertes Zielnetz, verbindliche Infrastrukturstandards sowie einen Maßnahmenkatalog mit 112 priorisierten Projekten im gesamten Stadtgebiet. Die Umsetzung erfolgt schrittweise in Arbeitsprogrammen und richtet sich nach verfügbaren Personal- und Haushaltsmitteln. Zudem soll die Infrastruktur von Fahrradabstell- oder Radverkehrsanlagen ausgebaut werden, um den Radverkehr attraktiver zu gestalten. Es wird auch auf Radschnellverbindungen hingewiesen, die das Umland besser an die innerstädtischen Bereiche binden und Heidelberg mit dem Umland vernetzen sollen.",
     "rule_based": {
       "source_attribution": {
         "score": 1.0,
@@ -213,10 +174,10 @@
         "score": 1.0
       },
       "conciseness": {
-        "score": 0.6470588235294117,
-        "generated_words": 102,
+        "score": 0.7674418604651163,
+        "generated_words": 86,
         "expected_words": 22,
-        "ratio": 4.64
+        "ratio": 3.91
       }
     },
     "llm_judge": {
@@ -227,16 +188,16 @@
         "completeness": 3,
         "relevance": 5,
         "language_quality": 5,
-        "reasoning": "\"completeness\" ist das niedrigste Kriterium, da die Antwort nicht explizit auf den MRO 2035+ und die Anbindung von Konversionsflächen und Wissenschaftsstandorte an das ÖPNV- und Radwegenetz eingeht."
+        "reasoning": "\"completeness\" ist das niedrigste Kriterium, da die Antwort nicht alle Aspekte der Frage abdeckt, insbesondere den Ausbau des Radverkehrs im Kontext von Multimodalität und ÖPNV wie in der erwarteten Antwort."
       },
       "validation_issues": [],
-      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist das niedrigste Kriterium, da die Antwort nicht explizit auf den MRO 2035+ und die Anbindung von Konversionsflächen und Wissenschaftsstandorte an das ÖPNV- und Radwegenetz eingeht.\"}"
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist das niedrigste Kriterium, da die Antwort nicht alle Aspekte der Frage abdeckt, insbesondere den Ausbau des Radverkehrs im Kontext von Multimodalität und ÖPNV wie in der erwarteten Antwort.\"}"
     }
   },
   {
     "q_id": "Q008",
     "question": "Was sind autofreie Quartiere im Kontext der STEK-Planung?",
-    "generated_answer": "Der bereitgestellte Text enthält keine spezifische Erwähnung oder Beschreibung von \"autofreien Quartieren\" im Kontext der STEK-Planung. Daher kann auf Basis des vorliegenden Materials keine Aussage über autofreie Quartiere getroffen werden.",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifische Erwähnung von \"autofreien Quartieren\" im Kontext der STEK-Planung. Daher kann auf Basis des vorliegenden Materials keine Aussage über autofreie Quartiere getroffen werden.",
     "rule_based": {
       "source_attribution": {
         "score": 1.0,
@@ -253,9 +214,9 @@
       },
       "conciseness": {
         "score": 1.0,
-        "generated_words": 30,
+        "generated_words": 28,
         "expected_words": 17,
-        "ratio": 1.76
+        "ratio": 1.65
       }
     },
     "llm_judge": {
@@ -266,16 +227,16 @@
         "completeness": 2,
         "relevance": 2,
         "language_quality": 4,
-        "reasoning": "Die Antwort ist unvollständig und nicht direkt relevant zur Frage nach autofreien Quartieren im Kontext der STEK-Planung."
+        "reasoning": "Die Antwort ist unvollständig und nicht direkt relevant zur Frage nach autofreien Quartieren."
       },
       "validation_issues": [],
-      "raw_response": "{\"factual_accuracy\": 2, \"groundedness\": 3, \"completeness\": 2, \"relevance\": 2, \"language_quality\": 4, \"reasoning\": \"Die Antwort ist unvollständig und nicht direkt relevant zur Frage nach autofreien Quartieren im Kontext der STEK-Planung.\"}"
+      "raw_response": "{\"factual_accuracy\": 2, \"groundedness\": 3, \"completeness\": 2, \"relevance\": 2, \"language_quality\": 4, \"reasoning\": \"Die Antwort ist unvollständig und nicht direkt relevant zur Frage nach autofreien Quartieren.\"}"
     }
   },
   {
     "q_id": "Q009",
     "question": "Wie soll sich der öffentliche Nahverkehr entwickeln?",
-    "generated_answer": "Der öffentliche Nahverkehr in Heidelberg soll weiter ausgebaut werden, insbesondere das Straßenbahnnetz durch das Mobilitätsnetz Heidelberg. Dazu gehören Maßnahmen wie der Umbau der Haltestelle Hauptbahnhof und die Erweiterung des Netzwerks in Richtung Bahnstadt. Seit Januar 2019 werden Elektrobusse in der Innenstadt eingesetzt, was einen Schritt hin zu umweltfreundlicheren Transportmitteln darstellt. Ziel ist es, dass mehr Menschen den öffentlichen Nahverkehr nutzen und die Zahl der täglich beförderten Fahrgäste im ÖPNV bis 2035 über 150.000 betragen soll.",
+    "generated_answer": "Der öffentliche Nahverkehr in Heidelberg soll weiter ausgebaut werden, insbesondere das Straßenbahnnetz durch den Umbau der Haltestelle Hauptbahnhof und die neue Straßenbahnlinie in die Bahnstadt. Seit Januar 2019 setzt Heidelberg als erste Kommune in der Region Elektrobusse in der Innenstadt ein. Das Ziel ist, die Zahl der täglich beförderten Fahrgäste im öffentlichen Personennahverkehr (ohne Schienen-Personennahverkehr) bis 2035 auf über 150.000 zu erhöhen. Der Ausbau des öffentlichen Nahverkehrs ist Teil eines größeren Konzepts, das auch neue Straßenbahntrassen und Radschnellwege umfasst, um eine umweltfreundlichere Mobilität zu fördern.",
     "rule_based": {
       "source_attribution": {
         "score": 1.0,
@@ -291,10 +252,10 @@
         "score": 1.0
       },
       "conciseness": {
-        "score": 0.56,
-        "generated_words": 75,
+        "score": 0.49411764705882355,
+        "generated_words": 85,
         "expected_words": 14,
-        "ratio": 5.36
+        "ratio": 6.07
       }
     },
     "llm_judge": {
@@ -305,55 +266,16 @@
         "completeness": 3,
         "relevance": 5,
         "language_quality": 5,
-        "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit die Priorität von Radinfrastruktur und Multimodalität erwähnt."
+        "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit auf die Multimodalität und den Radinfrastruktur-Ausbau eingeht."
       },
       "validation_issues": [],
-      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte vollständiger sein, indem sie explizit die Priorität von Radinfrastruktur und Multimodalität erwähnt.\"}"
-    }
-  },
-  {
-    "q_id": "Q010",
-    "question": "Was wünschen sich Bürger für den Radverkehr und die Straßengestaltung?",
-    "generated_answer": "Bürgerinnen und Bürger von Heidelberg wünschen sich eine Reihe von Verbesserungen für den Radverkehr und die Straßengestaltung. Dazu gehören:\n\n- Ein durchgehendes, funktionierendes und sicheres Radwegenetz bis an alle Stadtränder und darüber hinaus.\n- Mehr Kooperationen zwischen verschiedenen Gruppen (z.B. Alt und Jung, Menschen unterschiedlicher Herkunft) zur Förderung des Radverkehrs.\n- Eine autofreie Grüne Stadt mit einer stark ausgeprägten Radinfrastruktur.\n- Breite Gehwege und speziell ausgelagerte Fahrradstraßen/Wege.\n- Ampelschaltungen, die nicht primär für Autofahrer, sondern für Fußgänger und Radfahrer optimiert sind.\n- Mehr und bessere Radwege, die deutlich sichtbar auf oder neben Straßen markiert sind und mit Leitplanken geschützt vor dem Autoverkehr.\n- Dezentrale Radparkhäuser.\n\nDarüber hinaus möchten sie eine Stadt, in der das Fahrrad sowie der öffentliche Nahverkehr die Hauptverkehrsmittel sind und in der das Auto weitgehend aus dem Stadtbild verschwunden ist. Es gibt auch den Wunsch nach einer sanfteren Straßengestaltung, die Radfahrern und Fußgängern mehr Sicherheit bietet und weniger auf den Automobilverkehr ausgelegt ist.",
-    "rule_based": {
-      "source_attribution": {
-        "score": 1.0,
-        "correct": 5,
-        "total": 5,
-        "mismatches": []
-      },
-      "abstention": {
-        "should_decline": false,
-        "detector_flagged_vague": false,
-        "system_declined": false,
-        "system_correct": true,
-        "score": 1.0
-      },
-      "conciseness": {
-        "score": 0.36538461538461536,
-        "generated_words": 156,
-        "expected_words": 19,
-        "ratio": 8.21
-      }
-    },
-    "llm_judge": {
-      "success": true,
-      "scores": {
-        "factual_accuracy": 4,
-        "groundedness": 4,
-        "completeness": 3,
-        "relevance": 5,
-        "language_quality": 5,
-        "reasoning": "Die Antwort könnte vollständiger sein, indem spezifischere Anforderungen wie Rasengittersteine oder die Entsiegelung von Parkplätzen erwähnt werden."
-      },
-      "validation_issues": [],
-      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte vollständiger sein, indem spezifischere Anforderungen wie Rasengittersteine oder die Entsiegelung von Parkplätzen erwähnt werden.\"}"
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte vollständiger sein, indem sie explizit auf die Multimodalität und den Radinfrastruktur-Ausbau eingeht.\"}"
     }
   },
   {
     "q_id": "Q011",
     "question": "Welche ÖPNV-Maßnahmen plant Heidelberg im Zusammenhang mit klimawirksamen Freiräumen?",
-    "generated_answer": "Der bereitgestellte Text bezieht sich auf verschiedene Maßnahmen zur Verbesserung der ÖPNV in Heidelberg, aber es gibt keine spezifische Erwähnung von Maßnahmen im direkten Zusammenhang mit \"klimawirksamen Freiräumen\". Es wird erwähnt, dass die Stadt Heidelberg plant, den öffentlichen Nahverkehr weiter auszubauen und innovative Mobilitätskonzepte in Entwicklungsgebieten umzusetzen. Zudem sollen Konversionsflächen und Wissenschaftsstandorte an das ÖPNV- und Radwegenetz angebunden werden. Allerdings ist nicht explizit beschrieben, wie diese Maßnahmen direkt mit klimawirksamen Freiräumen verbunden sind.",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifischen Informationen über ÖPNV-Maßnahmen, die direkt im Zusammenhang mit klimawirksamen Freiräumen stehen. Es wird jedoch erwähnt, dass Heidelberg Pläne hat, den öffentlichen Nahverkehr (ÖPNV) auszuweitern und attraktivere Angebote an den Zielorten des ÖPNV-Systems zu schaffen. Darüber hinaus sollen klimawirksame Freiräume weiterentwickelt werden, um einen Beitrag zum Klimaschutz leisten zu können, wobei neue Standorte für regenerative Energien entstehen sollen. Allerdings wird nicht explizit beschrieben, wie diese Freiräume direkt mit den Maßnahmen des ÖPNV verbunden sind.",
     "rule_based": {
       "source_attribution": {
         "score": 1.0,
@@ -369,10 +291,10 @@
         "score": 1.0
       },
       "conciseness": {
-        "score": 0.9041095890410958,
-        "generated_words": 73,
+        "score": 0.8354430379746836,
+        "generated_words": 79,
         "expected_words": 22,
-        "ratio": 3.32
+        "ratio": 3.59
       }
     },
     "llm_judge": {
@@ -381,12 +303,1572 @@
         "factual_accuracy": 3,
         "groundedness": 4,
         "completeness": 2,
-        "relevance": 2,
+        "relevance": 3,
         "language_quality": 5,
-        "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage über klimawirksame Freiräume abdeckt."
+        "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage vollständig beantwortet und spezifische Verbindungen zwischen ÖPNV-Maßnahmen und klimawirksamen Freiräumen fehlen."
       },
       "validation_issues": [],
-      "raw_response": "{\"factual_accuracy\": 3, \"groundedness\": 4, \"completeness\": 2, \"relevance\": 2, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage über klimawirksame Freiräume abdeckt.\"}"
+      "raw_response": "{\"factual_accuracy\": 3, \"groundedness\": 4, \"completeness\": 2, \"relevance\": 3, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage vollständig beantwortet und spezifische Verbindungen zwischen ÖPNV-Maßnahmen und klimawirksamen Freiräumen fehlen.\"}"
+    }
+  },
+  {
+    "q_id": "Q012",
+    "question": "Bis wann will Heidelberg klimaneutral sein?",
+    "generated_answer": "Heidelberg will bis spätestens 2050 klimaneutral sein. Allerdings hat sich die Stadt auch verpflichtet, eine gesamtstädtische Klimaneutralität nach BISKO-Bilanzierung bis 2040 zu erreichen und die Stadtverwaltung soll bis 2030 klimaneutral sein.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 31,
+        "expected_words": 21,
+        "ratio": 1.48
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 3,
+        "groundedness": 4,
+        "completeness": 4,
+        "relevance": 4,
+        "language_quality": 5,
+        "reasoning": "Die Fakten stimmen größtenteils überein, jedoch gibt es einen Widerspruch zur genauen Jahreszahl der gesamtstädtischen Klimaneutralität."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 3, \"groundedness\": 4, \"completeness\": 4, \"relevance\": 4, \"language_quality\": 5, \"reasoning\": \"Die Fakten stimmen größtenteils überein, jedoch gibt es einen Widerspruch zur genauen Jahreszahl der gesamtstädtischen Klimaneutralität.\"}"
+    }
+  },
+  {
+    "q_id": "Q013",
+    "question": "Welche Ziele verfolgt Heidelberg beim Klimaschutz laut Nachhaltigkeitsbericht?",
+    "generated_answer": "Laut dem bereitgestellten Text verfolgt Heidelberg beim Klimaschutz folgende Ziele:\n\n1. Bis spätestens 2050 klimaneutral zu sein, was bedeutet, dass die CO2-Emissionen um 95 Prozent reduziert und der Energiebedarf der Kommune um die Hälfte gesenkt werden sollen.\n2. Die Gesamtstadt bis 2040 klimaneutral zu machen.\n3. Bis 2030 sollen die städtischen Einrichtungen weitestgehend klimaneutral sein.\n\nDiese Ziele sind im Kontext der Stadtentwicklung und des Nachhaltigkeitskonzepts von Heidelberg formuliert, das auch andere Aspekte wie Mobilität, Energieversorgung und Umweltschutz umfasst.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.6923076923076924,
+        "generated_words": 78,
+        "expected_words": 18,
+        "ratio": 4.33
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit auf den Nachhaltigkeitsbericht verweist."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte vollständiger sein, indem sie explizit auf den Nachhaltigkeitsbericht verweist.\"}"
+    }
+  },
+  {
+    "q_id": "Q014",
+    "question": "Wie wird Regenwasser im Patrick-Henry-Village gehandhabt?",
+    "generated_answer": "Im Patrick-Henry-Village wird nach der Entwicklung fast das komplette Regenwasser vor Ort versickert oder gereinigt und gespeichert, um es in Trockenperioden zum Gießen einzusetzen.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 24,
+        "expected_words": 31,
+        "ratio": 0.77
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 5,
+        "completeness": 4,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte expliziter auf den zentralen See hinweisen, was die Vollständigkeit erhöhen würde."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 5, \"completeness\": 4, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte expliziter auf den zentralen See hinweisen, was die Vollständigkeit erhöhen würde.\"}"
+    }
+  },
+  {
+    "q_id": "Q015",
+    "question": "Welche Herausforderungen nennt das STEK bei Hitzebelastung?",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifischen Informationen über Herausforderungen des STEK bezüglich Hitzebelastung. Daher kann auf Basis der gegebenen Informationen keine Aussage zu diesen Herausforderungen getroffen werden.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 27,
+        "expected_words": 20,
+        "ratio": 1.35
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 1,
+        "groundedness": 3,
+        "completeness": 2,
+        "relevance": 1,
+        "language_quality": 4,
+        "reasoning": "Die Antwort ist nicht relevant und fehlt an faktischer Genauigkeit"
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 1, \"groundedness\": 3, \"completeness\": 2, \"relevance\": 1, \"language_quality\": 4, \"reasoning\": \"Die Antwort ist nicht relevant und fehlt an faktischer Genauigkeit\"}"
+    }
+  },
+  {
+    "q_id": "Q017",
+    "question": "Welche Rolle spielen Wissenschaft und Forschung im STEK 2035?",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifische Erwähnung der Rolle von Wissenschaft und Forschung im STEK 2035. Es wird erwähnt, dass das Konzept auf einer lebendigen Beteiligungskultur mit einem kontinuierlichen Dialog zwischen Bürgerschaft, Zivilgesellschaft, Wissenschaft, Politik und Verwaltung fußt, aber keine detaillierte Rolle oder Aufgabe von Wissenschaft und Forschung im STEK 2035 wird explizit beschrieben.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 54,
+        "expected_words": 23,
+        "ratio": 2.35
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 2,
+        "groundedness": 3,
+        "completeness": 2,
+        "relevance": 2,
+        "language_quality": 4,
+        "reasoning": "Die Antwort ist nicht vollständig und nicht direkt relevant zur spezifischen Rolle von Wissenschaft und Forschung im STEK 2035"
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 2, \"groundedness\": 3, \"completeness\": 2, \"relevance\": 2, \"language_quality\": 4, \"reasoning\": \"Die Antwort ist nicht vollständig und nicht direkt relevant zur spezifischen Rolle von Wissenschaft und Forschung im STEK 2035\"}"
+    }
+  },
+  {
+    "q_id": "Q018",
+    "question": "Wie hoch ist der Innovationsindex für Heidelberg und was ist das Ziel bis 2035?",
+    "generated_answer": "Der Innovationsindex für Heidelberg betrug im Jahr 2023 58,7 Prozent. Das Ziel bis 2035 ist es, mindestens 60 Prozent zu erreichen und eine Spitzenposition in Baden-Württemberg einzunehmen.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 27,
+        "expected_words": 18,
+        "ratio": 1.5
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 5,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Alle Kriterien wurden optimal erfüllt."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 5, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Alle Kriterien wurden optimal erfüllt.\"}"
+    }
+  },
+  {
+    "q_id": "Q019",
+    "question": "Wie will Heidelberg Fachkräfte anziehen?",
+    "generated_answer": "Heidelberg plant, Fachkräfte anzuziehen, indem es sicherstellt, dass in der Stadt verfügbarer Wohnraum vorhanden ist, qualitative soziale Infrastrukturen bereitgestellt werden und die Vereinbarkeit von Familie und Beruf sowie Geschlechtergerechtigkeit gefördert wird. Zudem soll Heidelberg als international offener Arbeitsmarkt gestaltet werden, um Integration zu fördern. Die Stadt möchte auch sicherstellen, dass Fachkräfte in bezahlbarem Wohnraum leben können, fair entlohnt werden und dass die Arbeitsverträge den Anforderungen gerecht werden.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.7611940298507462,
+        "generated_words": 67,
+        "expected_words": 17,
+        "ratio": 3.94
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 4,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte klarer auf den Aspekt der internationalen Vernetzung eingehen."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 4, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte klarer auf den Aspekt der internationalen Vernetzung eingehen.\"}"
+    }
+  },
+  {
+    "q_id": "Q020",
+    "question": "Wie viele Arbeitsplätze und Wohnungen kamen laut dem 2015er Stadtentwicklungsplan seit 1974 hinzu?",
+    "generated_answer": "Laut dem bereitgestellten Text gab es bei nur unwesentlich größerer Einwohnerzahl im Vergleich zu 1974 bis zum Zeitpunkt des Stadtentwicklungskonzepts 20.000 Arbeitsplätze und 16.000 Wohnungen mehr. Allerdings bezieht sich diese Information nicht explizit auf den Stadtentwicklungsplan von 2015, sondern es wird lediglich erwähnt, dass dies der Situation zum Zeitpunkt des Vergleichs zur Ausgangssituation von 1974 entsprach. Es ist also nicht direkt aus dem Text zu entnehmen, ob sich diese Zahlen bis 2015 verändert hatten oder ob sie auch für den Stadtentwicklungsplan von 2015 gelten.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.6071428571428571,
+        "generated_words": 84,
+        "expected_words": 17,
+        "ratio": 4.94
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 4,
+        "language_quality": 5,
+        "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht explizit auf den Stadtentwicklungsplan von 2015 eingegangen ist."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 4, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist am niedrigsten, da die Antwort nicht explizit auf den Stadtentwicklungsplan von 2015 eingegangen ist.\"}"
+    }
+  },
+  {
+    "q_id": "Q021",
+    "question": "Wie berücksichtigt das STEK 2035 Kultur und gesellschaftliche Vielfalt?",
+    "generated_answer": "Das STEK 2035 berücksichtigt Kultur und gesellschaftliche Vielfalt als wichtige Aspekte der Stadtentwicklung. Heidelbergs kulturelles Erbe wird als einzigartig, vielfältig und identitätsstiftend wahrgenommen und soll sichtbar gemacht werden. Die Digitalisierung hat die Möglichkeit eröffnet, dass Kunstproduktion auch virtuell stattfindet und Kultur ortsunabhängig rezipiert wird.\n\nGesellschaftliche Vielfalt wird durch Heidelbergs Charakter als internationale Stadt gefördert, wo Bevölkerung und Arbeitsmarkt vielfältig und mehrsprachig sind. Die Stadt ist auch ein bedeutender Wirtschaftsstandort mit einem diversifizierten Unternehmensbesatz, was zur Attraktivität für Menschen aus der gesamten Metropolregion und internationalen Zuwanderern beiträgt.\n\nDas STEK legt Wert darauf, Akteurinnen und Akteure aus allen Bereichen sowie die Öffentlichkeit von Anfang an einzubinden. Dies umfasst auch die Kultur- und Kunstschaffenden, sodass sie die Möglichkeit haben, als solche aufzutreten und zur Entwicklung der Stadt beizutragen. Somit wird versucht, sowohl kulturelles Erbe als auch gesellschaftliche Vielfalt in den Prozess der Stadtentwicklung zu integrieren.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.46478873239436624,
+        "generated_words": 142,
+        "expected_words": 22,
+        "ratio": 6.45
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 4,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte klarer darauf eingehen, wie Kultur und gesellschaftliche Vielfalt konkrete Ziele im STEK 2035 sind."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 4, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte klarer darauf eingehen, wie Kultur und gesellschaftliche Vielfalt konkrete Ziele im STEK 2035 sind.\"}"
+    }
+  },
+  {
+    "q_id": "Q022",
+    "question": "Was sind Freizeit- und Kulturangebote laut STEK 2035?",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifischen Informationen über Freizeit- und Kulturangebote im Rahmen des STEK 2035. Es werden zwar Themen wie Digitalisierung, Gesundheit, Klima und Energie, Mobilität, Umwelt- und Naturschutz, Kultur, Soziales und Zusammenleben, Wohnen sowie Arbeit, Wirtschaft und Wissenschaft erwähnt, aber keine konkreten Freizeit- oder Kulturangebote genannt.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 48,
+        "expected_words": 18,
+        "ratio": 2.67
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 2,
+        "groundedness": 3,
+        "completeness": 2,
+        "relevance": 2,
+        "language_quality": 4,
+        "reasoning": "Die Antwort ist nicht vollständig und nicht direkt relevant zur Frage nach Freizeit- und Kulturangeboten im STEK 2035."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 2, \"groundedness\": 3, \"completeness\": 2, \"relevance\": 2, \"language_quality\": 4, \"reasoning\": \"Die Antwort ist nicht vollständig und nicht direkt relevant zur Frage nach Freizeit- und Kulturangeboten im STEK 2035.\"}"
+    }
+  },
+  {
+    "q_id": "Q024",
+    "question": "Wie soll Kultur zugänglicher gemacht werden?",
+    "generated_answer": "Kultur in Heidelberg soll für alle zugänglich gemacht werden durch die Abbauung von Barrieren wie Zugänglichkeit, Bezahlbarkeit, Inklusion und Barrierefreiheit. Es wird auch gefordert, dass interkultureller Austausch gefördert und kulturelle Angebote in allen Stadtteilen gesichert werden. Zudem sollen nicht-kommerzielle, unprogrammierte Räume geschaffen und erhalten werden, um Begegnungen, Experimente und Innovationen zu ermöglichen. Die Sichtbarkeit und Förderung der freien Szene und Subkultur soll ausgebaut werden, ebenso wie die Integration von Kultureinrichtungen, Kultur- und Kreativwirtschaft sowie Kunstproduktion in allen Stadtteilen. Hybride Konzepte und Kooperationen sollen gefördert werden, um Mischung und Integration auch in gewerblich geprägten Standorten zu erreichen. Zudem soll die Zugänglichkeit von kulturellen Gütern verbessert werden, beispielsweise durch elektronisch abrufbare, multi-linguale Schilder von Exponaten in Museen.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.41739130434782606,
+        "generated_words": 115,
+        "expected_words": 16,
+        "ratio": 7.19
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit auf die Bedeutung von Förderungen und Genehmigungen für Künstler eingegangen wäre."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte vollständiger sein, indem sie explizit auf die Bedeutung von Förderungen und Genehmigungen für Künstler eingegangen wäre.\"}"
+    }
+  },
+  {
+    "q_id": "Q025",
+    "question": "Welche Maßnahmen gibt es gegen soziale Segregation?",
+    "generated_answer": "Gegen soziale Segregation werden in Heidelberg verschiedene Maßnahmen ergriffen. Es wird betont, dass eine große soziale Vielfalt geprägt ist und sich durch den internationalen Charakter der Stadt verstärken wird. Um die soziale Segregation entgegenzuwirken, sind breit angelegte Maßnahmen erforderlich, um bestimmte Gebiete vor einer weiteren Abwertung zu schützen und sie sozial orientiert zu erneuern.\n\nDarüber hinaus fördert Heidelberg die Entwicklung von integrativen Nachbarschaftskulturen und unterstützt Eigeninitiative sowie Kooperation und Nachbarschaftshilfe. Die Stadt betont auch die Bedeutung einer guten sozialen Mischung in den Stadtteilen, was durch die Verfügbarkeit verschiedener Angebote wie Bildungs-, Betreuungs- und Pflegeangebote, Sport, Kultur, öffentlicher Personennahverkehr, bezahlbarer Wohnraum sowie Einzelhandel unterstützt wird.\n\nDie Stadt Heidelberg arbeitet auch daran, Chancengleichheit und gleichberechtigte Teilhabe für alle Menschen zu fördern – sowohl auf Stadtteilebene als auch gesamtstädtisch. Dies umfasst die Schaffung von Angeboten, die den unterschiedlichen Bedürfnissen der Bürger gerecht werden, einschließlich barrierefreien Wohnraums und Wohnungen für Familien.\n\nZusammenfassend lässt sich sagen, dass Heidelberg eine breite Palette an Maßnahmen einsetzt, um soziale Segregation entgegenzuwirken, darunter die Förderung von Vielfalt, Integration, Chancengleichheit und der Schaffung eines sozialen Zusammenhalts.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.39204545454545453,
+        "generated_words": 176,
+        "expected_words": 23,
+        "ratio": 7.65
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte klarer auf das Arbeitstreffen 2024 eingehen, um die Vollständigkeit zu erhöhen."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte klarer auf das Arbeitstreffen 2024 eingehen, um die Vollständigkeit zu erhöhen.\"}"
+    }
+  },
+  {
+    "q_id": "Q026",
+    "question": "Welche Gruppen benötigen laut STEK 2035 besonders barrierefreien Wohnraum?",
+    "generated_answer": "Der bereitgestellte Text macht explizit darauf aufmerksam, dass Menschen mit Behinderung bedarfsge-rechten Wohnraum benötigen. Daher können wir aus dem gegebenen Kontext schließen, dass laut STEK 2035 Menschen mit Behinderungen eine Gruppe sind, die besonders barrierefreien Wohnraum benötigen. Barrierefreiheit in allen Bereichen der Bildung und Inklusion stellt auch eine wichtige Aufgabe dar, was indirekt auf die Notwendigkeit von barrierefreiem Wohnraum für alle Menschen mit Behinderungen hindeutet.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.9692307692307692,
+        "generated_words": 65,
+        "expected_words": 21,
+        "ratio": 3.1
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 4,
+        "language_quality": 4,
+        "reasoning": "\"completeness\" ist niedriger, weil die Antwort nicht explizit erwähnt, dass ältere Menschen ebenfalls eine Gruppe sind, die barrierefreien Wohnraum benötigen."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 4, \"language_quality\": 4, \"reasoning\": \"\\\"completeness\\\" ist niedriger, weil die Antwort nicht explizit erwähnt, dass ältere Menschen ebenfalls eine Gruppe sind, die barrierefreien Wohnraum benötigen.\"}"
+    }
+  },
+  {
+    "q_id": "Q027",
+    "question": "Wie hat sich der Anteil barrierefreier Wohnungen entwickelt?",
+    "generated_answer": "Der Anteil barrierefreier Wohnungen in Heidelberg hat sich von 2018 bis 2023 um rund -2 Prozent entwickelt. Im Jahr 2023 waren knapp 11 Prozent der Wohnungsangebote barrierefrei inseriert.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 28,
+        "expected_words": 19,
+        "ratio": 1.47
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 5,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist vollständig, aber sie könnte die Orientierungswerte und Ziele für barrierefreie Wohnungen erwähnen."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 5, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist vollständig, aber sie könnte die Orientierungswerte und Ziele für barrierefreie Wohnungen erwähnen.\"}"
+    }
+  },
+  {
+    "q_id": "Q028",
+    "question": "Wie fördert Heidelberg den sozialen Zusammenhalt in Nachbarschaften?",
+    "generated_answer": "Heidelberg fördert den sozialen Zusammenhalt in Nachbarschaften auf verschiedene Weisen:\n\n1. **Unterstützung von Eigeninitiative und Kooperation**: Die Stadtentwicklungsplanung unterstützt Eigeninitiative (Kommunitarismus), Kooperation und Nachbarschaft, um Hilfe zur Selbsthilfe und Selbstorganisation zu fördern.\n\n2. **Förderung von solidarischen Beziehsnetzwerken**: Heidelberg unterstützt die Stärkung von solidarischen, nachbarschaftlichen Beziehungsnetzen, in denen sich Professionalität und Ehrenamtlichkeit ergänzen.\n\n3. **Öffentliche Orte der Begegnung**: Die Stadt fördert öffentliche Orte der Begegnung und Räume für Interaktion und Selbstorganisation in der Nachbarschaft, um den Zusammenhalt zu stärken.\n\n4. **Beteiligung von Betroffenen**: Heidelberg fördert die gleichberechtigte Mitsprache und Beteiligung von Betroffenen und unterstützt das praktische und politische Handeln von Selbsthilfe und bürgerschaftlichem Engagement im Sinne aktiver Subsidiarität.\n\n5. **Beispiele für Nachbarschaftshilfe**: Es werden Beispiele wie das Projekt „SpaziergangTandems“ und der „Corona Gabenzaun“ genannt, die zeigen, wie Nachbarschaften in Krisenzeiten zusammenhalten können.\n\n6. **Demokratiebildung im Alltag**: Nachbarschaftliche Begegnungen dienen auch als Plattform für Demokratiebildung, wo Menschen sich begegnen und miteinander ins Gespräch kommen, um Sichtweisen auszutauschen und Konflikte zu lösen.\n\nDurch diese Maßnahmen will Heidelberg den sozialen Zusammenhalt in Nachbarschaften stärken und eine integrative Nachbarschaftskultur fördern.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.37714285714285717,
+        "generated_words": 175,
+        "expected_words": 22,
+        "ratio": 7.95
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Bewertungen sind hoch, da alle Kriterien gut erfüllt werden, jedoch gibt es kleine Ungenauigkeiten in der Zuordnung des Kontextes zur Antwort."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Bewertungen sind hoch, da alle Kriterien gut erfüllt werden, jedoch gibt es kleine Ungenauigkeiten in der Zuordnung des Kontextes zur Antwort.\"}"
+    }
+  },
+  {
+    "q_id": "Q029",
+    "question": "Was sind die fünf wichtigsten Handlungsfelder des STEK 2035?",
+    "generated_answer": "Der bereitgestellte Text nennt sechs zentrale Rubriken oder Themenpaare, aber keine expliziten \"Handlungsfelder\". Die sechs thematischen Rubriken sind:\n\n1. Wachstum gestalten bei sparsamer Flächennutzung\n2. Freiräume nutzen und gleichzeitig bewahren\n3. Soziale Stadtentwicklung und individuelle Quartiersidentität verbinden\n4. Energie- und Mobilitätswende gemeinsam vorantreiben\n5. Offene, internationale Stadt mit Fokus auf Bürgerbedürfnisse\n6. Gesunde und resiliente Stadt trotz wachsender Herausforderungen\n\nEs wurden keine fünf spezifischen Handlungsfelder im Sinne des STEK 2035 direkt genannt oder hervorgehoben. Die vier strategischen Konzeptkarten, die als praxisbezogene Planungsgrundlage dienen, sind:\n\n1. Grüne Stadt – sichern und erweitern\n2. Gebaute Stadt – stärken und weiterentwickeln\n3. Produktive Stadt – fördern und vernetzen\n4. Stadtklima – schützen und anpassen\n\nDiese Karten könnten als Handlungsfelder interpretiert werden, aber dies ist nicht explizit bestätigt im Text.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.4523809523809524,
+        "generated_words": 126,
+        "expected_words": 19,
+        "ratio": 6.63
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 5,
+        "completeness": 3,
+        "relevance": 3,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist nicht vollständig und direkt auf die Frage bezogen, da sie keine fünf spezifischen Handlungsfelder identifiziert."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 5, \"completeness\": 3, \"relevance\": 3, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist nicht vollständig und direkt auf die Frage bezogen, da sie keine fünf spezifischen Handlungsfelder identifiziert.\"}"
+    }
+  },
+  {
+    "q_id": "Q030",
+    "question": "Was ist das Patrick-Henry-Village und wie groß wird es?",
+    "generated_answer": "Das Patrick-Henry-Village (PHV) wird der 16. Stadtteil Heidelbergs und umfasst heute eine Fläche von 97,2 Hektar. Im Rahmen seiner Entwicklung soll es Platz für rund 10.000 Menschen bieten und Raum für 5.000 Arbeitsplätze geschaffen werden.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 35,
+        "expected_words": 28,
+        "ratio": 1.25
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 5,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Alle Kriterien wurden optimal erfüllt."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 5, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Alle Kriterien wurden optimal erfüllt.\"}"
+    }
+  },
+  {
+    "q_id": "Q031",
+    "question": "Wie hoch ist der Smart City Index für Heidelberg?",
+    "generated_answer": "Der Smart City Index für Heidelberg beträgt im Jahr 2024 rund 78,9 Prozent.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 13,
+        "expected_words": 19,
+        "ratio": 0.68
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 5,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist vollständig, aber fehlt die Information über den Anstieg seit 2021"
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 5, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist vollständig, aber fehlt die Information über den Anstieg seit 2021\"}"
+    }
+  },
+  {
+    "q_id": "Q032",
+    "question": "Wie will Heidelberg regionale und internationale Stärken verbinden?",
+    "generated_answer": "Heidelberg will seine regionale und internationale Stärke durch die Nutzung seiner Internationalität und Weltoffenheit ausbauen. Die Stadt betont, dass Wirtschaft und Arbeit, Wissenschaft und Forschung, Bildung sowie Kultur und soziales Miteinander als starke Motoren der dynamischen Stadtentwicklung fungieren. Menschen mit unterschiedlichen Qualifikationen und Ausbildungswünschen aus der ganzen Welt werden gezielt angeworben. Das Zusammenleben von langjährigen Bewohnern und Neuankömmlingen wird unterstützt, um die regionale Vielfalt zu stärken und internationale Netzwerke weiter auszubauen. Heidelberg nutzt seine Rolle als Oberzentrum für eine enge Zusammenarbeit in der Region, insbesondere mit dem Rhein-Neckar-Kreis und den Kommunen der Metropolregion, um regionale Kooperationen zu stärken und die globale Wirkung seiner Entscheidungen zu berücksichtigen.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.6509433962264151,
+        "generated_words": 106,
+        "expected_words": 23,
+        "ratio": 4.61
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 4,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte klarer darauf eingehen, wie regionale und internationale Stärken konkret verbunden werden."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 4, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte klarer darauf eingehen, wie regionale und internationale Stärken konkret verbunden werden.\"}"
+    }
+  },
+  {
+    "q_id": "Q033",
+    "question": "Wie will Heidelberg die lokale Demokratie stärken?",
+    "generated_answer": "Heidelberg plant, die lokale Demokratie zu stärken, indem es folgende Maßnahmen umsetzt:\n\n1. Wahlbeteiligung fördern: Die Stadt hat sich zum Ziel gesetzt, eine hohe durchschnittliche Wahlbeteiligung von rund 70 Prozent über alle Wahlarten hinweg zu erreichen und in jedem Stadtteil mindestens 40 Prozent Wahlbeteiligung zu erzielen.\n\n2. Mehr Demokratiebildung: Heidelberg will die Möglichkeit schaffen, verschiedene Sichtweisen und Meinungen auszutauschen, Konflikte auszutragen und Kompromisse zu finden – beispielsweise durch nachbarschaftliche Begegnungen in Schulen oder durch Bürgerbeteiligung.\n\n3. Bürgerbeteiligung stärken: Die Stadt will die Bürgerbeteiligung auf der Grundlage der Heidelberger Leitlinien für mitgestaltende Bürgerbeteiligung weiterentwickeln, Initiativen unterstützen und neue Formate in der Bürgerbeteiligung testen.\n\n4. Sozialer Zusammenhalt stärken: Unterschiedliche Gruppen sollen zusammengebracht werden, um Begegnung, Beteiligung und Austausch zu ermöglichen.\n\n5. Bürgerschaftliches Engagement fördern: Heidelberg will das bürgerschaftliche Engagement als Voraussetzung für einen demokratischen und solidarischen Zusammenhalt stärken, indem es bestehendes Engagement wertschätzt, Vereine und Initiativen unterstützt und vernetzt.\n\n6. Nachbarschaftliche Beziehungen stärken: Heidelberg will die Infrastruktur und Rahmenbedingungen für nachbarschaftliche Beziehungen im gesamten Stadtgebiet schaffen.\n\n7. Sport fördern: Durch den Fokus auf Sport soll die Offenheit des demokratischen Gemeinwesens gestärkt werden.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.3333333333333333,
+        "generated_words": 180,
+        "expected_words": 20,
+        "ratio": 9.0
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Bewertungen sind hoch, da alle Kriterien gut erfüllt werden, jedoch gibt es einige Details im Kontext, die nicht explizit in der Antwort erwähnt wurden, was zu einer leichten Abzugsgrundlage bildet."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Bewertungen sind hoch, da alle Kriterien gut erfüllt werden, jedoch gibt es einige Details im Kontext, die nicht explizit in der Antwort erwähnt wurden, was zu einer leichten Abzugsgrundlage bildet.\"}"
+    }
+  },
+  {
+    "q_id": "Q034",
+    "question": "Wie wurden Bürgerinnen und Bürger am STEK 2035 beteiligt?",
+    "generated_answer": "Bürgerinnen und Bürger wurden am Stadtentwicklungskonzept (STEK) 2035 in Heidelberg auf verschiedene Weisen beteiligt:\n\n1. **Online-Beteiligung**: Es gab eine Online-Beteiligung, bei der die Teilnehmenden 29 Fragen zu sechs Themenfeldern beantworten konnten und allgemeine Kommentare hinterlassen durften. Diese Beteiligung fand auf der Webseite www.heidelberg2035.de statt.\n\n2. **Aufsuchende Beteiligung**: Neben der Online-Beteiligung gab es eine aufsuchende Beteiligung, bei der die STEK-Projektgruppe in verschiedenen Stadtteilen mit Fragen aus der Onlinebeteiligung vorging. Dies geschah unter anderem während des Brunnenfests im Pfaffengrund und an einem weiteren Termin.\n\n3. **Arbeitskreis Stadtentwicklung (AK STEK)**: Der AK STEK besteht aus 12 zufällig ausgewählten Bürgerinnen und Bürgern, 6 Gemeinderätinnen und -räten, 10 Themenpatinnen und -paten aus der Zivilgesellschaft sowie 4 Vertretungen aus der Stadtverwaltung. Der Arbeitskreis begleitet die inhaltliche Erarbeitung des STEK und diskutiert Zielkonflikte und Handlungsmöglichkeiten zur Umsetzung von Zielen.\n\nDiese Beteiligungsfelder ermöglichten es, verschiedene Perspektiven einzubeziehen und eine breite Aktivierung der Bevölkerung zu erreichen.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.5102040816326531,
+        "generated_words": 147,
+        "expected_words": 25,
+        "ratio": 5.88
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 5,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "\"completeness\" ist niedriger, da die 'Zukunftsreise 2023' und Workshops wie 'Zukunft gestalten' nicht erwähnt wurden."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 5, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist niedriger, da die 'Zukunftsreise 2023' und Workshops wie 'Zukunft gestalten' nicht erwähnt wurden.\"}"
+    }
+  },
+  {
+    "q_id": "Q036",
+    "question": "Wie beschreibt das STEK die eigene Beteiligungskultur?",
+    "generated_answer": "Der bereitgestellte Text betont, dass ein zentrales Ziel der Beteiligung im Rahmen des STEK darin lag, niedrigschwellige und inklusive Dialog- und Beteiligungsangebote für möglichst vielfältige Zielgruppen der Stadtgesellschaft zu schaffen. Es wurde darauf geachtet, verschiedene Perspektiven zusammenzubringen und gemeinsame Positionen auszuhandeln. Der Prozess umfasste eine Vielzahl von Formaten wie große Aktionstage, Workshops, aufsuchende Formate in den Stadtteilen sowie eine Online-Beteiligung. Ein Arbeitskreis bestehend aus zufällig ausgewählten Bürgern, lokalen Experten und Vertretern der Kommunalpolitik und Verwaltung begleitete den Prozess.\n\nObwohl diese Beschreibung die Beteiligungskultur des STEK charakterisiert, wird in dem bereitgestellten Text nicht explizit eine Definition oder ein eigenständiger Abschnitt zur „Beteiligungskultur“ des STEK angegeben. Die beschriebenen Elemente können als Indikatoren für die Beteiligungskultur interpretiert werden, aber es gibt keine direkte formulierte Beschreibung der Kultur selbst.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.432,
+        "generated_words": 125,
+        "expected_words": 18,
+        "ratio": 6.94
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 5,
+        "completeness": 3,
+        "relevance": 4,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist nicht vollständig, da sie keine direkte Beschreibung der Beteiligungskultur des STEK bietet."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 5, \"completeness\": 3, \"relevance\": 4, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist nicht vollständig, da sie keine direkte Beschreibung der Beteiligungskultur des STEK bietet.\"}"
+    }
+  },
+  {
+    "q_id": "Q037",
+    "question": "Welche Räume für kulturelle Nutzung fehlten laut Zukunftsreise-Diskussion?",
+    "generated_answer": "Laut der bereitgestellten Textauszüge fehlen laut der Zukunftsreise-Diskussion bezahlbare Räume wie Ateliers, Probenräume, Bühnen und Galerien für Künstler. Es wird auch betont, dass es in Heidelberg nicht mehr genug Freiraum oder leerstehende Räume/Gebäude gibt, die als kultureller Raum dienen könnten. Zudem wird gefordert, dass städtisch geförderte Räume wie das Dezernat 16 mit kürzeren Mietverträgen ausgestattet werden sollten, um verschiedene Kunstschaffende anzulocken und zu unterstützen.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.9375,
+        "generated_words": 64,
+        "expected_words": 20,
+        "ratio": 3.2
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 4,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit auf die Diskussionen über unkommerzielle oder kostengünstige Kulturangebote und Begegnungsräume eingegangen wäre."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 4, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte vollständiger sein, indem sie explizit auf die Diskussionen über unkommerzielle oder kostengünstige Kulturangebote und Begegnungsräume eingegangen wäre.\"}"
+    }
+  },
+  {
+    "q_id": "Q038",
+    "question": "Wer hat den Masterplan für das Patrick-Henry-Village beschlossen und wann?",
+    "generated_answer": "Der Masterplan für das Patrick-Henry-Village wurde 2020 vom Heidelberger Gemeinderat beschlossen.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 11,
+        "expected_words": 13,
+        "ratio": 0.85
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 5,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Alle Kriterien wurden optimal erfüllt."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 5, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Alle Kriterien wurden optimal erfüllt.\"}"
+    }
+  },
+  {
+    "q_id": "Q039",
+    "question": "Wie viele Menschen wandern netto jährlich nach Heidelberg zu?",
+    "generated_answer": "Im Jahr 2023 hat Heidelberg ein positives Wanderungssaldo von +630 Personen. Das bedeutet, dass netto 630 Menschen jährlich nach Heidelberg gewandert sind.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 22,
+        "expected_words": 19,
+        "ratio": 1.16
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 5,
+        "completeness": 4,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort könnte noch klarer machen, dass die Zahlen seit 2019 um +14 Prozent gestiegen sind."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 5, \"completeness\": 4, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort könnte noch klarer machen, dass die Zahlen seit 2019 um +14 Prozent gestiegen sind.\"}"
+    }
+  },
+  {
+    "q_id": "Q040",
+    "question": "Was war vor der Entwicklung des PHV auf dieser Fläche, und wie viele Menschen lebten dort?",
+    "generated_answer": "Vor der Entwicklung des Patrick-Henry-Village (PHV) befand sich dort eine ehemalige US-amerikanische Wohnsiedlung. Bis zum Abzug der Amerikaner lebten dort etwa 5.000 Soldaten.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 23,
+        "expected_words": 16,
+        "ratio": 1.44
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 5,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Alle Kriterien wurden optimal erfüllt."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 5, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Alle Kriterien wurden optimal erfüllt.\"}"
+    }
+  },
+  {
+    "q_id": "Q041",
+    "question": "Welche Stadtteile werden im STEK 2035 als unterversorgt mit Alltagsfunktionen genannt?",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifische Erwähnung von Stadtteilen, die im STEK 2035 als unterversorgt mit Alltagsfunktionen bezeichnet werden. Daher kann auf Basis des vorliegenden Materials nicht angegeben werden, welche Stadtteile unterversorgt sind.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": true,
+        "system_correct": false,
+        "score": 0.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 33,
+        "expected_words": 19,
+        "ratio": 1.74
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 1,
+        "groundedness": 5,
+        "completeness": 3,
+        "relevance": 2,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist nicht faktisch korrekt und nur bedingt relevant, da sie die Frage nicht direkt beantwortet."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 1, \"groundedness\": 5, \"completeness\": 3, \"relevance\": 2, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist nicht faktisch korrekt und nur bedingt relevant, da sie die Frage nicht direkt beantwortet.\"}"
+    }
+  },
+  {
+    "q_id": "Q042",
+    "question": "Wie hoch ist der amtliche Bevölkerungsstand Heidelbergs im Vergleich zum Zensus 2011?",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifische Angabe zum amtlichen Bevölkerungsstand von Heidelberg im Vergleich zum Zensus 2011. Daher kann auf Basis des bereitgestellten Materials keine genaue Antwort auf die Frage gegeben werden.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 32,
+        "expected_words": 17,
+        "ratio": 1.88
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 3,
+        "groundedness": 4,
+        "completeness": 2,
+        "relevance": 3,
+        "language_quality": 5,
+        "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle Teile der Frage beantwortet und keine spezifischen Zahlen oder Vergleiche zum Zensus 2011 liefert."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 3, \"groundedness\": 4, \"completeness\": 2, \"relevance\": 3, \"language_quality\": 5, \"reasoning\": \"\\\"completeness\\\" ist am niedrigsten, da die Antwort nicht alle Teile der Frage beantwortet und keine spezifischen Zahlen oder Vergleiche zum Zensus 2011 liefert.\"}"
+    }
+  },
+  {
+    "q_id": "Q043",
+    "question": "Wie hängen Wohnraumentwicklung und Klimaschutz im STEK 2035 zusammen?",
+    "generated_answer": "Der bereitgestellte Text bietet keine spezifischen Informationen darüber, wie Wohnraumentwicklung und Klimaschutz im STEK 2035 miteinander verknüpft sind. Es wird erwähnt, dass das STEK 2035 verschiedene Herausforderungen wie bezahlbaren und bedarfsgerechten Wohnraum für alle sowie die klimaneutrale Strom- und Wärmeversorgung anspricht, aber keine direkte Verbindung zwischen Wohnraumentwicklung und Klimaschutz im Detail wird hergestellt. Um eine präzise Antwort auf diese Frage zu geben, wären zusätzliche Informationen erforderlich.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 66,
+        "expected_words": 23,
+        "ratio": 2.87
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 2,
+        "groundedness": 3,
+        "completeness": 2,
+        "relevance": 2,
+        "language_quality": 4,
+        "reasoning": "Die Antwort ist unvollständig und nicht direkt auf die Frage bezogen"
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 2, \"groundedness\": 3, \"completeness\": 2, \"relevance\": 2, \"language_quality\": 4, \"reasoning\": \"Die Antwort ist unvollständig und nicht direkt auf die Frage bezogen\"}"
+    }
+  },
+  {
+    "q_id": "Q044",
+    "question": "Was hat sich zwischen dem Stadtentwicklungsplan 2015 und STEK 2035 in Bezug auf Arbeitsplätze verändert?",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifischen Informationen über Veränderungen im Bereich der Arbeitsplätze zwischen dem Stadtentwicklungsplan 2015 und dem STEK 2035. Es wird erwähnt, dass das STEK 2035 an den bestehenden Stadtentwicklungsplan aus dem Jahr 1997 anschließt und sich auf die Nachhaltigkeit konzentriert, aber keine Details zu einem Plan aus dem Jahr 2015 oder spezifischen Veränderungen im Bereich der Arbeitsplätze sind angegeben. Daher kann basierend auf den bereitgestellten Informationen keine Aussage über Veränderungen im Bereich der Arbeitsplätze getroffen werden.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.9113924050632912,
+        "generated_words": 79,
+        "expected_words": 24,
+        "ratio": 3.29
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 2,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 2,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist nicht vollständig relevant und fehlt an faktischer Genauigkeit bezüglich der Arbeitsplätze."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 2, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 2, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist nicht vollständig relevant und fehlt an faktischer Genauigkeit bezüglich der Arbeitsplätze.\"}"
+    }
+  },
+  {
+    "q_id": "Q051",
+    "question": "Wie verteilen sich die Haushaltsformen in Heidelberg?",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifischen Informationen zur Verteilung der Haushaltsformen in Heidelberg. Daher kann auf Basis des gegebenen Materials keine präzise Antwort auf die Frage gegeben werden.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 28,
+        "expected_words": 25,
+        "ratio": 1.12
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 1,
+        "groundedness": 5,
+        "completeness": 2,
+        "relevance": 2,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist nicht faktisch korrekt und vollständig, da keine spezifischen Daten zur Verteilung der Haushaltsformen angegeben werden."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 1, \"groundedness\": 5, \"completeness\": 2, \"relevance\": 2, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist nicht faktisch korrekt und vollständig, da keine spezifischen Daten zur Verteilung der Haushaltsformen angegeben werden.\"}"
+    }
+  },
+  {
+    "q_id": "Q052",
+    "question": "Welche Flächen stehen laut MRO 2035+ für neue Wohnbauentwicklung zur Verfügung?",
+    "generated_answer": "Der bereitgestellte Text gibt keine spezifische Aufschlüsselung darüber, welche Flächen genau für eine neue Wohnbauentwicklung zur Verfügung stehen. Es wird erwähnt, dass Heidelberg im Außenbereich Flächen hat, die in Bebauungsplanverfahren entwickelt werden können und als quantitativer Ansatz Flexibilität in der zukünftigen Planung bieten. Allerdings ist nicht explizit festgelegt, welche dieser Flächen für Wohnbauentwicklung bestimmt sind. Es wird betont, dass die Flächennutzungen sich durch verschiedene Nutzungskonkurrenzen wie Wohnraumversorgung, Wirtschaftsflächen und Naturschutzflächen usw. charakterisieren können. Daher ist keine spezifische Zuweisung für neue Wohnbauentwicklung aus dem Text ersichtlich.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.9176470588235295,
+        "generated_words": 85,
+        "expected_words": 26,
+        "ratio": 3.27
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 2,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 2,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist nicht präzise genug und fehlt spezifische Informationen über die Flächen für Wohnbauentwicklung."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 2, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 2, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist nicht präzise genug und fehlt spezifische Informationen über die Flächen für Wohnbauentwicklung.\"}"
+    }
+  },
+  {
+    "q_id": "Q053",
+    "question": "Wie viele Hektar gewerbliche Bauflächen sieht der Flächennutzungsplan für Heidelberg vor?",
+    "generated_answer": "Der Flächennutzungsplan (FNP) für Heidelberg sieht rund 90 Hektar gewerbliche Bauflächen vor.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 12,
+        "expected_words": 29,
+        "ratio": 0.41
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 4,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist vollständig, enthält jedoch keine spezifischen Details zu den einzelnen Gewerbegebieten wie erwartet."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 4, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist vollständig, enthält jedoch keine spezifischen Details zu den einzelnen Gewerbegebieten wie erwartet.\"}"
+    }
+  },
+  {
+    "q_id": "Q054",
+    "question": "Wie viel Fläche in Heidelberg gilt als Vorrangflur für die Landwirtschaft?",
+    "generated_answer": "In Heidelberg beträgt die Fläche der Vorrangfluren rund 3.700 Hektar, was etwa 34 Prozent der Gemarkungsfläche ausmacht.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 17,
+        "expected_words": 25,
+        "ratio": 0.68
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 5,
+        "completeness": 3,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Antwort fehlt den Zielwert der Flächen, was die Vollständigkeit reduziert."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 5, \"completeness\": 3, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Antwort fehlt den Zielwert der Flächen, was die Vollständigkeit reduziert.\"}"
+    }
+  },
+  {
+    "q_id": "Q061",
+    "question": "Wie viel Hektar Fläche sind laut Landesvorgabe für den Ausbau von Solar- und Windenergie in Heidelberg vorgesehen?",
+    "generated_answer": "Laut dem bereitgestellten Text ist das vom Land Baden-Württemberg vorgegebene Flächenziel für den Ausbau von Freiflächen-Photovoltaik-Anlagen in Heidelberg 22 Hektar. Für Windenergie wurden am 01. Februar 2023 mit dem Wind-an-Land-Gesetz verbindliche Flächenziele festgelegt, aber die genaue Anzahl an Hektar für Heidelberg wird im Text nicht explizit angegeben. Es werden jedoch Flächenziele aus dem Regionalplan bis 2032 erwähnt: 0,2 Prozent der Fläche für Freiflächen-PV und 1,8 Prozent für Windenergie. Ohne die Gesamtfläche von Heidelberg zu kennen, lässt sich daraus keine genaue Anzahl an Hektar berechnen.\n\nZusammengefasst:\n- Solar: 22 Hektar\n- Windenergie: Die genaue Fläche in Hektar wird nicht angegeben.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.4545454545454546,
+        "generated_words": 99,
+        "expected_words": 15,
+        "ratio": 6.6
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 5,
+        "completeness": 3,
+        "relevance": 4,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist nicht vollständig, da sie die genaue Fläche für Windenergie nicht explizit nennt."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 5, \"completeness\": 3, \"relevance\": 4, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist nicht vollständig, da sie die genaue Fläche für Windenergie nicht explizit nennt.\"}"
+    }
+  },
+  {
+    "q_id": "Q062",
+    "question": "Wie viele Kilometer Fernwärmeleitung müssen laut STEK 2035 neu verlegt werden?",
+    "generated_answer": "Der bereitgestellte Text enthält keine spezifische Angabe darüber, wie viele Kilometer Fernwärmeleitung neu verlegt werden müssen laut dem Stadtentwicklungskonzept (STEK) 2035 für Heidelberg. Daher kann auf Basis des vorliegenden Materials diese Frage nicht beantwortet werden.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": true,
+        "system_correct": false,
+        "score": 0.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 35,
+        "expected_words": 13,
+        "ratio": 2.69
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 1,
+        "groundedness": 5,
+        "completeness": 3,
+        "relevance": 4,
+        "language_quality": 5,
+        "reasoning": "Die Antwort ist nicht faktisch korrekt, da sie die Frage nicht beantworten kann aufgrund des fehlenden spezifischen Inhalts im bereitgestellten Text."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 1, \"groundedness\": 5, \"completeness\": 3, \"relevance\": 4, \"language_quality\": 5, \"reasoning\": \"Die Antwort ist nicht faktisch korrekt, da sie die Frage nicht beantworten kann aufgrund des fehlenden spezifischen Inhalts im bereitgestellten Text.\"}"
+    }
+  },
+  {
+    "q_id": "Q063",
+    "question": "Wie viel Prozent der Haushalte sollen bis 2040 an das Fernwärmenetz angeschlossen sein?",
+    "generated_answer": "Bis 2040 soll das Fernwärmenetz 70 Prozent der Haushalte in Heidelberg anschlussbereit machen.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 13,
+        "expected_words": 12,
+        "ratio": 1.08
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 4,
+        "reasoning": "Die Formulierung 'anschlussbereit machen' ist nicht ganz präzise wie in der erwarteten Antwort"
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 4, \"reasoning\": \"Die Formulierung 'anschlussbereit machen' ist nicht ganz präzise wie in der erwarteten Antwort\"}"
+    }
+  },
+  {
+    "q_id": "Q064",
+    "question": "Wie hoch ist der Versorgungsgrad an Kinderbetreuungsplätzen im Kindergartenalter in Heidelberg?",
+    "generated_answer": "Im Jahr 2023 beträgt der gesamtstädtische Versorgungsgrad an Kinderbetreuungsplätzen im Kindergartenalter (Alter 3 bis 6 Jahre) rund 101 Prozent.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 19,
+        "expected_words": 18,
+        "ratio": 1.06
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 5,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Alle Kriterien wurden optimal erfüllt."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 5, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Alle Kriterien wurden optimal erfüllt.\"}"
+    }
+  },
+  {
+    "q_id": "Q065",
+    "question": "Wo sollen laut Stadtentwicklung mögliche neue Windkraftanlagen in Heidelberg entstehen?",
+    "generated_answer": "Laut dem bereitgestellten Text sollen mögliche neue Windkraftanlagen in Heidelberg im Odenwald, am Lammerskopf oder im Gebiet Weißer Stein/Hoher Nistler entstehen. Insbesondere wird ein Bürgerentscheid zum Standort Lammerskopf angesetzt, um zu entscheiden, ob die Stadt die Voraussetzungen für eine mögliche Entwicklung von Windenergieanlagen dort weiterverfolgen soll.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 0.7826086956521738,
+        "generated_words": 46,
+        "expected_words": 12,
+        "ratio": 3.83
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 4,
+        "groundedness": 4,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Die Bewertung für factual_accuracy und groundedness ist nicht 5, da die Antwort den Odenwald als Standort erwähnt, was im Kontext zwar genannt wird, aber nicht explizit als möglicher Standort in Heidelberg identifiziert wird."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 4, \"groundedness\": 4, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Die Bewertung für factual_accuracy und groundedness ist nicht 5, da die Antwort den Odenwald als Standort erwähnt, was im Kontext zwar genannt wird, aber nicht explizit als möglicher Standort in Heidelberg identifiziert wird.\"}"
+    }
+  },
+  {
+    "q_id": "Q066",
+    "question": "Wie hoch sind die geschätzten Umbaukosten für die klimaneutrale Fernwärmeversorgung bis 2040?",
+    "generated_answer": "Die geschätzten Umbaukosten für die klimaneutrale Fernwärmeversorgung bis 2040 betragen 825 Millionen Euro.",
+    "rule_based": {
+      "source_attribution": {
+        "score": 1.0,
+        "correct": 5,
+        "total": 5,
+        "mismatches": []
+      },
+      "abstention": {
+        "should_decline": false,
+        "detector_flagged_vague": false,
+        "system_declined": false,
+        "system_correct": true,
+        "score": 1.0
+      },
+      "conciseness": {
+        "score": 1.0,
+        "generated_words": 13,
+        "expected_words": 9,
+        "ratio": 1.44
+      }
+    },
+    "llm_judge": {
+      "success": true,
+      "scores": {
+        "factual_accuracy": 5,
+        "groundedness": 5,
+        "completeness": 5,
+        "relevance": 5,
+        "language_quality": 5,
+        "reasoning": "Alle Kriterien wurden optimal erfüllt."
+      },
+      "validation_issues": [],
+      "raw_response": "{\"factual_accuracy\": 5, \"groundedness\": 5, \"completeness\": 5, \"relevance\": 5, \"language_quality\": 5, \"reasoning\": \"Alle Kriterien wurden optimal erfüllt.\"}"
     }
   }
 ]

@@ -1,0 +1,1272 @@
+{
+  "qwen2.5:32b": {
+    "summary": {
+      "answer_correctness": 3.533333333333333,
+      "faithfulness": 4,
+      "authority_correctness": 1.0,
+      "hallucination_rate": 0.0,
+      "abstention_accuracy": 1.0,
+      "average_latency": 4.4158227920532225,
+      "latency_sd": 1.652761997268324,
+      "failure_rate": 0.0
+    },
+    "per_question": [
+      {
+        "q_id": "Q001",
+        "latency": 9.196223974227905,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle spezifischen Pläne für bezahlbaren Wohnraum bis 2035 enthält."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q004",
+        "latency": 2.809767484664917,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 5,
+          "completeness": 2,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort ist unvollständig, da sie nur die geförderten Wohnungen erwähnt und nicht die geförderten Haushalte."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q005",
+        "latency": 4.994442939758301,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 4,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die geringste Bewertung betrifft die Groundedness, da zusätzliche Informationen über die Entwicklung der Obdachlosenzahlen je 100.000 Einwohner bereitgestellt wurden, die nicht explizit in der erwarteten Antwort enthalten waren."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q006",
+        "latency": 3.8448121547698975,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte klarer auf die Heidelberg-Studie 2023 verweisen, um vollständig zu sein."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q007",
+        "latency": 5.86707067489624,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit auf die MRO 2035+ und die Anbindung von Konversionsflächen an das Radwegenetz eingegangen wäre."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q008",
+        "latency": 3.177065372467041,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 2,
+          "groundedness": 3,
+          "completeness": 2,
+          "relevance": 2,
+          "language_quality": 4,
+          "reasoning": "Die Antwort ist unvollständig und nicht direkt relevant zur Frage nach autofreien Quartieren im Kontext der STEK-Planung."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q009",
+        "latency": 5.220439195632935,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit die Förderung sozialverträglicher Mobilitätsformen erwähnt"
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q011",
+        "latency": 5.143557548522949,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle spezifischen Aspekte der Frage über ÖPNV-Maßnahmen im Zusammenhang mit klimawirksamen Freiräumen abdeckt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q012",
+        "latency": 3.4480628967285156,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 4,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Fakten stimmen größtenteils überein, jedoch gibt es einen Widerspruch zur genauen Jahreszahl der gesamtstädtischen Klimaneutralität."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q013",
+        "latency": 4.93556809425354,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit auf den Nachhaltigkeitsbericht und die Monitoring-Ansätze eingeht."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q014",
+        "latency": 2.9986116886138916,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 5,
+          "completeness": 4,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte expliziter auf den zentralen See hinweisen, was die Vollständigkeit erhöhen würde."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q015",
+        "latency": 2.921661376953125,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 1,
+          "groundedness": 3,
+          "completeness": 2,
+          "relevance": 1,
+          "language_quality": 4,
+          "reasoning": "Die Antwort ist nicht relevant und liefert keine konkreten Informationen zur Frage."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q017",
+        "latency": 4.039794445037842,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 2,
+          "groundedness": 3,
+          "completeness": 2,
+          "relevance": 2,
+          "language_quality": 4,
+          "reasoning": "Die Antwort ist unvollständig und nicht direkt relevant zur spezifischen Rolle von Wissenschaft und Forschung im STEK 2035"
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q018",
+        "latency": 3.1011850833892822,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 5,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Alle Kriterien wurden optimal erfüllt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q019",
+        "latency": 4.539078950881958,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte klarer auf den Aspekt des bezahlbaren Wohnraums eingehen"
+        },
+        "hallucination": false
+      }
+    ]
+  },
+  "mistral-small:latest": {
+    "summary": {
+      "answer_correctness": 3.533333333333333,
+      "faithfulness": 4.2,
+      "authority_correctness": 1.0,
+      "hallucination_rate": 0.0,
+      "abstention_accuracy": 0.8666666666666667,
+      "average_latency": 11.478011306126913,
+      "latency_sd": 36.85332002433599,
+      "failure_rate": 0.0
+    },
+    "per_question": [
+      {
+        "q_id": "Q001",
+        "latency": 144.67571878433228,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte klarer auf die spezifischen Maßnahmen eingehen, um den Anspruch bezahlbarer Wohnraum zu erfüllen."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q004",
+        "latency": 1.660623550415039,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 5,
+          "completeness": 2,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nur einen Teil der Frage beantwortet und den Aspekt der geförderten Haushalte vernachlässigt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q005",
+        "latency": 2.0945348739624023,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte klarer zwischen absoluten und relativen Zahlen differenzieren."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q006",
+        "latency": 1.621311902999878,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte expliziter auf die Heidelberg-Studie 2023 verweisen, um Vollständigkeit zu erhöhen."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q007",
+        "latency": 3.9890549182891846,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit auf die MRO 2035+ und den Ausbau der Multimodalität eingegangen wäre."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q008",
+        "latency": 1.5311298370361328,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 0.0,
+        "judge_scores": {
+          "factual_accuracy": 2,
+          "groundedness": 3,
+          "completeness": 1,
+          "relevance": 2,
+          "language_quality": 4,
+          "reasoning": "Die Antwort ist unvollständig und nicht relevant zur Frage, da sie keine Informationen zu autofreien Quartieren im Kontext der STEK-Planung liefert."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q009",
+        "latency": 2.1940689086914062,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte vollständiger sein, indem sie auch auf die Förderung sozialverträglicher Mobilitätsformen und die Verbesserung der Umsteigebedingungen eingehen."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q011",
+        "latency": 1.7013111114501953,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 5,
+          "completeness": 2,
+          "relevance": 2,
+          "language_quality": 5,
+          "reasoning": "\"Die bereitgestellten Textauszüge enthalten keine spezifischen Informationen...\" ist nicht vollständig und relevant zur Frage"
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q012",
+        "latency": 1.5107121467590332,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 5,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist niedrigster Wert, da die Antwort nicht alle Aspekte der Frage abdeckt, insbesondere die Klimaneutralität der Stadtverwaltung bis 2030."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q013",
+        "latency": 2.4482614994049072,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte vollständiger sein, insbesondere bezüglich der Monitoring-Mechanismen für die Klimaschutzziele."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q014",
+        "latency": 1.8777837753295898,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 4,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die geringste Bewertung betrifft die Groundedness, da die alte Kanalisation und der zentrale See nur implizit im Kontext erwähnt werden."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q015",
+        "latency": 1.5170395374298096,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 0.0,
+        "judge_scores": {
+          "factual_accuracy": 1,
+          "groundedness": 5,
+          "completeness": 1,
+          "relevance": 1,
+          "language_quality": 5,
+          "reasoning": "Die Antwort ist nicht relevant und vollständig, da sie die Frage nicht beantwortet"
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q017",
+        "latency": 1.59297513961792,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 1,
+          "groundedness": 3,
+          "completeness": 2,
+          "relevance": 1,
+          "language_quality": 4,
+          "reasoning": "Die Antwort ist irrelevant und nicht faktengenau, da sie die Frage nach der Rolle von Wissenschaft und Forschung im STEK 2035 nicht beantwortet."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q018",
+        "latency": 1.7887365818023682,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 5,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Alle Kriterien wurden optimal erfüllt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q019",
+        "latency": 1.966907024383545,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage wie beispielsweise bezahlbare Wohnraum oder den Abbau formaler Hürden erwähnt"
+        },
+        "hallucination": false
+      }
+    ]
+  },
+  "gemma2:27b": {
+    "summary": {
+      "answer_correctness": 3.466666666666667,
+      "faithfulness": 3.8666666666666667,
+      "authority_correctness": 1.0,
+      "hallucination_rate": 0.13333333333333333,
+      "abstention_accuracy": 0.9333333333333333,
+      "average_latency": 13.533730268478394,
+      "latency_sd": 40.956132759030574,
+      "failure_rate": 0.0
+    },
+    "per_question": [
+      {
+        "q_id": "Q001",
+        "latency": 161.56957936286926,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da konkrete Maßnahmen zur Schaffung von bezahlbarem Wohnraum nicht genannt werden."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q004",
+        "latency": 2.3824405670166016,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 5,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort ist unvollständig, da sie nur die geförderten Wohnungen erwähnt und nicht die geförderten Haushalte."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q005",
+        "latency": 3.255005359649658,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort fehlt den Zielwert der Entwicklung der Obdachlosenzahl zu nicht steigern."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q006",
+        "latency": 2.671403646469116,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 5,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist niedriger, da die Antwort nicht explizit auf die Heidelberg-Studie 2023 verweist, obwohl dies in der erwarteten Antwort erwähnt wird."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q007",
+        "latency": 4.043170928955078,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit auf die MRO 2035+ und den Ausbau der Multimodalität eingegangen wäre."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q008",
+        "latency": 2.444571018218994,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 0.0,
+        "judge_scores": {
+          "factual_accuracy": 1,
+          "groundedness": 2,
+          "completeness": 1,
+          "relevance": 1,
+          "language_quality": 3,
+          "reasoning": "Die Antwort ist irrelevant und nicht komplettauf die Frage bezogen"
+        },
+        "hallucination": true
+      },
+      {
+        "q_id": "Q009",
+        "latency": 3.1255083084106445,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte vollständiger sein, indem sie den Verkehrsentwicklungsplan/Klimamobilitätsplan 2035 erwähnt und die Priorität der Radinfrastruktur und Multimodalität berücksichtigt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q011",
+        "latency": 3.155238151550293,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort ist nicht vollständig, da sie die spezifischen ÖPNV-Maßnahmen im Zusammenhang mit klimawirksamen Freiräumen nicht ausreichend abdeckt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q012",
+        "latency": 2.505765914916992,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 1,
+          "groundedness": 2,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Fakten stimmen nicht mit dem bereitgestellten Kontext überein."
+        },
+        "hallucination": true
+      },
+      {
+        "q_id": "Q013",
+        "latency": 3.003352165222168,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "Die Antwort ist unvollständig und beantwortet nicht alle Teile der Frage."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q014",
+        "latency": 2.820420265197754,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 4,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die geringste Bewertung betrifft die Groundedness, da die alte Kanalisation und der zentrale See nur implizit im Kontext erwähnt werden."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q015",
+        "latency": 2.5820624828338623,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 2,
+          "groundedness": 3,
+          "completeness": 2,
+          "relevance": 2,
+          "language_quality": 4,
+          "reasoning": "Die Antwort ist nicht spezifisch genug bezüglich der Herausforderungen bei Hitzebelastung und beantwortet daher die Frage nur unzureichend."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q017",
+        "latency": 2.7210915088653564,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage abdeckt und insbesondere den Teil über Heidelbergs Positionierung als Wissenschaftsstandort vernachlässigt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q018",
+        "latency": 2.6688268184661865,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 5,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Alle Kriterien wurden optimal erfüllt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q019",
+        "latency": 4.0575175285339355,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte noch spezifischer die Maßnahmen zur Anziehung von Fachkräften ansprechen"
+        },
+        "hallucination": false
+      }
+    ]
+  },
+  "command-r:latest": {
+    "summary": {
+      "answer_correctness": 3.7333333333333334,
+      "faithfulness": 4,
+      "authority_correctness": 1.0,
+      "hallucination_rate": 0.0,
+      "abstention_accuracy": 1.0,
+      "average_latency": 14.017761516571046,
+      "latency_sd": 42.52198993468127,
+      "failure_rate": 0.0
+    },
+    "per_question": [
+      {
+        "q_id": "Q001",
+        "latency": 167.63242745399475,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte konkretere Maßnahmen für bezahlbaren Wohnraum nennen."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q004",
+        "latency": 1.8940463066101074,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 5,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort ist unvollständig, da sie nur die geförderten Wohnungen erwähnt und nicht die geförderten Haushalte."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q005",
+        "latency": 2.0577728748321533,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort fehlt den Zielwert der Entwicklung der Obdachlosenzahl zu nicht weiter steigen."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q006",
+        "latency": 1.9314906597137451,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte expliziter auf die Heidelberg-Studie 2023 verweisen, um vollständig zu sein."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q007",
+        "latency": 5.958890676498413,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Bewertungen sind hoch, da alle Kriterien gut erfüllt werden, jedoch gibt es einige Details in der Antwort, die nicht direkt aus dem bereitgestellten Kontext abgeleitet wurden."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q008",
+        "latency": 2.272777795791626,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage beantwortet und keine konkrete Definition von autofreien Quartieren bietet."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q009",
+        "latency": 3.1947593688964844,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte vollständiger sein, indem sie explizit die Förderung sozialverträglicher Mobilitätsformen erwähnt"
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q011",
+        "latency": 6.82697606086731,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte spezifischer zu den ÖPNV-Maßnahmen im Zusammenhang mit klimawirksamen Freiräumen sein."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q012",
+        "latency": 2.266904592514038,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 2,
+          "groundedness": 3,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "Die Antwort enthält einen Fehlern in der Zeitangabe für die Klimaneutralität."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q013",
+        "latency": 3.1568033695220947,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte klarer darauf eingehen, welche spezifischen Ziele im Nachhaltigkeitsbericht genannt werden."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q014",
+        "latency": 2.0048539638519287,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte expliziter auf den zentralen See hinweisen, um die Vollständigkeit zu erhöhen."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q015",
+        "latency": 2.3313350677490234,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 2,
+          "groundedness": 3,
+          "completeness": 2,
+          "relevance": 2,
+          "language_quality": 4,
+          "reasoning": "Die Antwort ist unvollständig und nicht spezifisch genug bezüglich der Herausforderungen bei Hitzebelastung"
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q017",
+        "latency": 3.644663095474243,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage vollständig beantwortet und spezifische Beiträge von Wissenschaft und Forschung fehlen."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q018",
+        "latency": 1.9728443622589111,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 5,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Alle Kriterien wurden optimal erfüllt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q019",
+        "latency": 3.1198770999908447,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte spezifischer zu den Standortfaktoren für Fachkräfte sein."
+        },
+        "hallucination": false
+      }
+    ]
+  },
+  "mistral:latest": {
+    "summary": {
+      "answer_correctness": 3.6,
+      "faithfulness": 3.8666666666666667,
+      "authority_correctness": 1.0,
+      "hallucination_rate": 0.06666666666666667,
+      "abstention_accuracy": 1.0,
+      "average_latency": 4.223723316192627,
+      "latency_sd": 11.151479119731192,
+      "failure_rate": 0.0
+    },
+    "per_question": [
+      {
+        "q_id": "Q001",
+        "latency": 44.49593949317932,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte klarer auf die spezifischen Maßnahmen eingehen, um bezahlbaren Wohnraum zu schaffen."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q004",
+        "latency": 1.12666654586792,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht explizit die geforderte Zahl für das Jahr 2035 nennt, sondern nur einen Orientierungswert gibt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q005",
+        "latency": 1.00184965133667,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort fehlt in der Angabe des Zielwerts, dass der prozentuale Anteil an Obdachlosen an der Bevölkerung nicht weiter steigen soll."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q006",
+        "latency": 0.9092302322387695,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 5,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Alle Kriterien wurden optimal erfüllt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q007",
+        "latency": 1.5075249671936035,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte klarer auf die spezifischen Maßnahmen eingehen"
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q008",
+        "latency": 1.6372456550598145,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 3,
+          "groundedness": 4,
+          "completeness": 2,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da die Antwort nicht alle Aspekte der Frage über autofreie Quartiere im Kontext des STEK abdeckt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q009",
+        "latency": 1.605276107788086,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 3,
+          "completeness": 2,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "\"completeness\" ist am niedrigsten, da nicht alle Aspekte der Frage wie die Verbesserung der Umsteigebedingungen und die Verknüpfung mit dem S-Bahn-Netz explizit erwähnt werden."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q011",
+        "latency": 1.3776803016662598,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte klarer auf die klimawirksamen Freiräume eingehen"
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q012",
+        "latency": 0.7685332298278809,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 1,
+          "groundedness": 2,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Fakten stimmen nicht mit dem bereitgestellten Kontext überein."
+        },
+        "hallucination": true
+      },
+      {
+        "q_id": "Q013",
+        "latency": 1.361051321029663,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 5,
+          "reasoning": "Die Antwort könnte klarer darauf eingehen, welche spezifischen Ziele im Nachhaltigkeitsbericht genannt werden."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q014",
+        "latency": 0.9684245586395264,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 4,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Die Bewertung für groundedness ist etwas geringer, da die alte Kanalisation und der zentrale See nicht explizit als Einzelpunkte im Kontext erwähnt werden."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q015",
+        "latency": 1.3203978538513184,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 2,
+          "groundedness": 3,
+          "completeness": 4,
+          "relevance": 2,
+          "language_quality": 5,
+          "reasoning": "Die Antwort enthält allgemeine Herausforderungen der Stadtentwicklung, die nicht spezifisch auf Hitzebelastung eingehen."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q017",
+        "latency": 1.482320785522461,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 2,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 3,
+          "language_quality": 5,
+          "reasoning": "Die Antwort ist nicht vollständig und könnte präziser auf die Rolle von Wissenschaft und Forschung eingehen."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q018",
+        "latency": 0.9912962913513184,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 5,
+          "groundedness": 5,
+          "completeness": 5,
+          "relevance": 5,
+          "language_quality": 5,
+          "reasoning": "Alle Kriterien wurden optimal erfüllt."
+        },
+        "hallucination": false
+      },
+      {
+        "q_id": "Q019",
+        "latency": 2.802412748336792,
+        "failed": false,
+        "attribution_score": 1.0,
+        "abstention_score": 1.0,
+        "judge_scores": {
+          "factual_accuracy": 4,
+          "groundedness": 4,
+          "completeness": 3,
+          "relevance": 4,
+          "language_quality": 4,
+          "reasoning": "\"completeness\" ist niedriger, da nicht alle Aspekte der Frage vollständig beantwortet werden."
+        },
+        "hallucination": false
+      }
+    ]
+  }
+}

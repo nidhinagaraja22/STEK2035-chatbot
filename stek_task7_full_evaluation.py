@@ -38,6 +38,7 @@ Requires:
 """
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -49,7 +50,10 @@ from stek_cascading_retrieval import cascading_retrieve, CITATION_PREFIX as CASC
 from stek_task7_rule_based_metrics import score_source_attribution, score_abstention, score_conciseness
 from stek_task7_llm_judge import judge_answer, check_ollama_running
 
-CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks_l4l5split.jsonl")
+CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks.jsonl")  # confirmed correct:
+                                                                  # authority dist
+                                                                  # {1:116,2:476,3:75,
+                                                                  # 4:159,5:432}
 EMB_PATH = Path("corpus/corpus_v2/embeddings_v2_e5base.npy")
 EMBED_MODEL = "intfloat/multilingual-e5-base"
 GROUND_TRUTH_PATH = Path("stek_task4_5_master_ground_truth.json")
@@ -99,6 +103,40 @@ DECLINE_PHRASES = ["nicht enthalten", "keine information", "nicht beantwort",
                      "nicht angegeben", "nicht bekannt", "kann ich nicht", "liegen keine"]
 
 
+def is_genuine_decline(generated_answer: str) -> bool:
+    """A genuine decline means the answer is SUBSTANTIVELY empty —
+    not merely that a decline-sounding phrase appears anywhere in an
+    otherwise-substantive response. A model correctly answering part
+    of a multi-part question while honestly flagging a gap for
+    another part (e.g. "solar: 22 hectares; wind: not specified in
+    the source") is NOT a decline — it's the honest, granular
+    behavior this system should exhibit, and scoring it as a false
+    refusal would penalize exactly the right behavior.
+
+    Found via a real case: Q061 correctly answered the solar-energy
+    half of a two-part question with a specific figure, while
+    honestly noting the wind-energy figure wasn't in the source —
+    the naive "contains a decline phrase" check wrongly flagged this
+    entire, mostly-correct answer as a full refusal.
+
+    Heuristic: only treat it as a decline if a decline phrase is
+    present AND the answer lacks real numeric content — a proxy for
+    "this is substantively empty" rather than "this is a full
+    answer with one honestly-flagged gap.\""""
+    text_lower = generated_answer.lower()
+    has_decline_phrase = any(p in text_lower for p in DECLINE_PHRASES)
+    if not has_decline_phrase:
+        return False
+
+    digit_groups = re.findall(r'\d+', generated_answer)
+    word_count = len(generated_answer.split())
+
+    if len(digit_groups) >= 1 and word_count > 40:
+        return False  # substantive, specific answer — not a genuine decline
+
+    return True
+
+
 def main():
     n_questions = int(sys.argv[1]) if len(sys.argv) > 1 else 10
 
@@ -145,7 +183,7 @@ def main():
         generated_answer = call_ollama_generate(prompt)
         print(f"Generated: {generated_answer[:150]}...")
 
-        system_declined = any(p in generated_answer.lower() for p in DECLINE_PHRASES)
+        system_declined = is_genuine_decline(generated_answer)
 
         # ── Rule-based dimensions ────────────────────────────────────────────
         cited_chunks = [{"authority_level": lvl, "citation_used": CASCADE_CITATION_PREFIX.get(lvl, "Quelle unklar")}
