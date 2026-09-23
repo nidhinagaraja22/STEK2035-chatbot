@@ -61,7 +61,17 @@ meta = json.loads(META_PATH.read_text(encoding="utf-8"))
 EMB_MODEL_NAME = meta["model"]  # "intfloat/multilingual-e5-base"
 
 chunks = [json.loads(line) for line in CHUNKS_PATH.read_text(encoding="utf-8").splitlines()]
-embeddings = np.load(EMB_PATH)  # shape (N, 768), L2-normalized
+embeddings = np.load(EMB_PATH)  # shape (N, dim), L2-normalized
+
+# Fail loudly if the corpus and embeddings are out of sync (e.g. chunks were added
+# but the embeddings were not regenerated) rather than silently misaligning or
+# raising a confusing IndexError deep in retrieval.
+if embeddings.shape[0] != len(chunks):
+    raise RuntimeError(
+        f"Corpus/embeddings mismatch: {len(chunks)} chunks but {embeddings.shape[0]} "
+        f"embedding rows. Re-embed the corpus (e.g. python stek_reembed_cleaned_corpus.py) "
+        f"so {EMB_PATH.name} matches {CHUNKS_PATH.name}."
+    )
 
 print(f"Loaded {len(chunks)} chunks, embeddings shape {embeddings.shape}")
 

@@ -1,23 +1,31 @@
 # -*- coding: utf-8 -*-
 """
-Add the 6 official STEK 2035 cluster pages (scraped from heidelberg.de) to the
-corpus. These describe the city's official development goals and were missed in
-the original scrape. Creates Corpus 2.1 (Corpus 2 + cluster chunks) and leaves
-Corpus 2 untouched.
+Fold the 6 official STEK 2035 cluster pages (scraped from heidelberg.de) INTO the
+canonical corpus (corpus_v2). These describe the city's official development
+goals and were missed in the original scrape.
+
+Reconciliation note (2026-09): the clusters were previously kept in a separate
+corpus_v2_1. They are now appended directly onto the cleaned corpus_v2 so the
+project has ONE corpus. Clusters are appended at the END, so the existing
+embedding rows stay aligned to the first N chunks; only the appended rows are
+new. This script is idempotent (re-running does nothing once clusters exist) and
+backs up the pre-cluster corpus before writing.
 
 Authority: these pages present the official STEK strategy goals directly, so they
-are proposed as Level 1 (official strategy). TEAM: confirm L1 vs L2.
+are tagged Level 1 (official strategy).
 
-After running: RE-EMBED the corpus (chunk count changes) before use.
+AFTER RUNNING: RE-EMBED the corpus (chunk count changed) before retrieval — see
+the printed instructions.
 """
 import json
 import re
+import shutil
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
-CORPUS_V2 = BASE / "corpus/corpus_v2/corpus_v2_chunks.jsonl"
-OUT_DIR = BASE / "corpus/corpus_v2_1"
-OUT_DIR.mkdir(parents=True, exist_ok=True)
+CORPUS = BASE / "corpus/corpus_v2/corpus_v2_chunks.jsonl"        # canonical corpus (in place)
+BACKUP = BASE / "corpus/corpus_v2/corpus_v2_chunks_precluster.jsonl"
+CHANGELOG = BASE / "corpus/corpus_v2/clusters_changelog.md"
 
 AUTHORITY_LABELS = {1: "Official STEK strategy (approved policy)"}
 BASE_URL = "https://www.heidelberg.de/HD/Rathaus/cluster+{n}.html"
@@ -38,54 +46,79 @@ CLUSTERS = {
 "Ein sicheres und gesundes Leben wird weiterhin gezielt gefördert – auch mit attraktiven Bewegungs- und Sportangeboten. Der gesellschaftliche Zusammenhalt und die Demokratie sollen gestärkt werden. Bürgerinnen und Bürger können sich auf vielfältige Weise einbringen, die digitale städtische Beteiligungsplattform baut diesen Weg weiter aus. Heidelberg reagiert auf herausfordernde Veränderungen wie den Klimawandel und globale Krisen mit Frühwarnsystemen und klimaangepasster Stadtentwicklung. Auch die Sicherstellung der öffentlichen Ordnung und der Schutz der Versorgungsinfrastruktur hat eine hohe Bedeutung."),
 }
 
+
 def chunk_words(text, size=250):
     w = text.split()
-    return [" ".join(w[i:i+size]) for i in range(0, len(w), size)] or [text]
+    return [" ".join(w[i:i + size]) for i in range(0, len(w), size)] or [text]
 
-new_chunks = []
-for n, (title, body) in CLUSTERS.items():
-    body = re.sub(r"\s+", " ", body).strip()
-    for ci, ch in enumerate(chunk_words(body)):
-        new_chunks.append({
-            "chunk_uid": f"website_html::cluster_{n}::{ci}",
-            "source": "website_html",
-            "origin": BASE_URL.format(n=n),
-            "chunk_id": ci,
-            "text": ch,
-            "topics": [],
-            "relevance_score": None,
-            "lda_topic": None,
-            "document_id": f"cluster_{n}",
-            "document_title": f"STEK 2035 Cluster {n}: {title}",
-            "source_url": BASE_URL.format(n=n),
-            "publication_date": "2024",
-            "doc_type": "official_strategy",
-            "authority_level": 1,
-            "authority_label": AUTHORITY_LABELS[1],
-            "citation_prefix": f"{AUTHORITY_LABELS[1]} — STEK 2035 Cluster {n}: {title} (2024)",
-            "is_citizen_opinion": False,
-            "topic": None,
-            "section": ci,
-        })
 
-# Corpus 2.1 = Corpus 2 (untouched) + cluster chunks
-existing = [json.loads(l) for l in CORPUS_V2.read_text(encoding="utf-8").splitlines()]
-combined = existing + new_chunks
-out = OUT_DIR / "corpus_v2_1_chunks.jsonl"
-with out.open("w", encoding="utf-8") as f:
-    for r in combined:
-        f.write(json.dumps(r, ensure_ascii=False) + "\n")
-(OUT_DIR / "changelog.md").write_text(
-    f"# Corpus 2.1 changelog\n\n"
-    f"- Base: Corpus 2 ({len(existing)} chunks) — untouched\n"
-    f"- Added: 6 official STEK cluster pages (heidelberg.de/HD/Rathaus/cluster+N.html)\n"
-    f"- New chunks: {len(new_chunks)}\n"
-    f"- Total: {len(combined)}\n"
-    f"- Authority: proposed L1 (official strategy) — team to confirm\n"
-    f"- ACTION REQUIRED: re-embed the corpus (chunk count changed).\n",
-    encoding="utf-8")
+def build_cluster_chunks():
+    out = []
+    for n, (title, body) in CLUSTERS.items():
+        body = re.sub(r"\s+", " ", body).strip()
+        for ci, ch in enumerate(chunk_words(body)):
+            out.append({
+                "chunk_uid": f"website_html::cluster_{n}::{ci}",
+                "source": "website_html",
+                "origin": BASE_URL.format(n=n),
+                "chunk_id": ci,
+                "text": ch,
+                "topics": [],
+                "relevance_score": None,
+                "lda_topic": None,
+                "document_id": f"cluster_{n}",
+                "document_title": f"STEK 2035 Cluster {n}: {title}",
+                "source_url": BASE_URL.format(n=n),
+                "publication_date": "2024",
+                "doc_type": "official_strategy",
+                "authority_level": 1,
+                "authority_label": AUTHORITY_LABELS[1],
+                "citation_prefix": f"{AUTHORITY_LABELS[1]} — STEK 2035 Cluster {n}: {title} (2024)",
+                "is_citizen_opinion": False,
+                "topic": None,
+                "section": ci,
+            })
+    return out
 
-print(f"Cluster chunks added: {len(new_chunks)}")
-print(f"Corpus 2: {len(existing)} -> Corpus 2.1: {len(combined)}")
-print(f"Wrote -> {out}")
-print("NEXT: re-embed corpus_v2_1_chunks.jsonl (chunk count changed).")
+
+def main():
+    existing = [json.loads(l) for l in CORPUS.read_text(encoding="utf-8").splitlines()]
+    have = {c["chunk_uid"] for c in existing}
+    clusters = build_cluster_chunks()
+
+    if all(c["chunk_uid"] in have for c in clusters):
+        print(f"Clusters already present in corpus_v2 ({len(existing)} chunks). Nothing to do.")
+        return
+
+    # back up the pre-cluster corpus once
+    if not BACKUP.exists():
+        shutil.copy2(CORPUS, BACKUP)
+        print(f"Backed up pre-cluster corpus -> {BACKUP.name}")
+
+    to_add = [c for c in clusters if c["chunk_uid"] not in have]
+    combined = existing + to_add
+    with CORPUS.open("w", encoding="utf-8") as f:
+        for r in combined:
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+
+    CHANGELOG.write_text(
+        f"# corpus_v2 clusters changelog\n\n"
+        f"- Base (cleaned corpus_v2): {len(existing)} chunks\n"
+        f"- Added: {len(to_add)} official STEK cluster chunks "
+        f"(heidelberg.de/HD/Rathaus/cluster+N.html), document_id cluster_1..6\n"
+        f"- Total: {len(combined)} chunks\n"
+        f"- Position: appended at the END (rows {len(existing)}..{len(combined) - 1}), "
+        f"so existing embedding rows stay aligned to chunks 0..{len(existing) - 1}\n"
+        f"- Authority: L1 (official strategy)\n"
+        f"- ACTION REQUIRED: re-embed the corpus so all rows have embeddings.\n",
+        encoding="utf-8")
+
+    print(f"Added {len(to_add)} cluster chunks. corpus_v2: {len(existing)} -> {len(combined)}")
+    print(f"Backup: {BACKUP.name}  |  changelog: {CHANGELOG.name}")
+    print("\nNEXT — re-embed on a GPU box (needs sentence-transformers + torch):")
+    print("  python stek_reembed_cleaned_corpus.py         # regenerates embeddings_v2_e5base.npy")
+    print("  python stek_generate_e5large_bgem3.py         # e5-large + bge-m3 (point its CHUNKS_PATH at corpus_v2_chunks.jsonl)")
+
+
+if __name__ == "__main__":
+    main()

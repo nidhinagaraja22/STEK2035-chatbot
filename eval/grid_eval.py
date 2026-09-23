@@ -38,11 +38,11 @@ import numpy as np
 # --------------------------------------------------------------------------- #
 BASE = Path.cwd()
 for cand in [BASE, *BASE.parents]:
-    if (cand / "corpus" / "corpus_v2_1" / "corpus_v2_1_chunks.jsonl").exists():
+    if (cand / "corpus" / "corpus_v2" / "corpus_v2_chunks.jsonl").exists():
         BASE = cand
         break
 
-CORPUS = BASE / "corpus/corpus_v2_1/corpus_v2_1_chunks.jsonl"   # Corpus 2.1 (with cluster pages)
+CORPUS = BASE / "corpus/corpus_v2/corpus_v2_chunks.jsonl"   # canonical corpus (cleaned + cluster pages)
 GOLD = BASE / "eval/gold_master.json"                           # 50-question verified master gold (Task 4+5)
 OUT = BASE / "eval/grid_results.csv"
 K_VALUES = [1, 3, 5, 10]
@@ -52,12 +52,9 @@ RERANKER = "BAAI/bge-reranker-v2-m3"
 # Each embedding model: HF name, its query prefix (e5 uses "query: ", others ""),
 # and the pre-generated embeddings file (on Corpus 2.1). Only models whose .npy exists are run.
 EMBED_MODELS = {
-    "e5-small":  {"hf": "intfloat/multilingual-e5-small",  "prefix": "query: ", "emb": "corpus/corpus_v2_1/embeddings_v2_1_e5small.npy"},
-    "e5-base":   {"hf": "intfloat/multilingual-e5-base",   "prefix": "query: ", "emb": "corpus/corpus_v2_1/embeddings_v2_1_e5base.npy"},
-    "e5-large":  {"hf": "intfloat/multilingual-e5-large",  "prefix": "query: ", "emb": "corpus/corpus_v2_1/embeddings_v2_1_e5large.npy"},
-    "bge-m3":    {"hf": "BAAI/bge-m3",                      "prefix": "",        "emb": "corpus/corpus_v2_1/embeddings_v2_1_bge.npy"},
-    "gte":       {"hf": "Alibaba-NLP/gte-multilingual-base","prefix": "",       "emb": "corpus/corpus_v2_1/embeddings_v2_1_gte.npy"},
-    "mpnet":     {"hf": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2", "prefix": "", "emb": "corpus/corpus_v2_1/embeddings_v2_1_mpnet.npy"},
+    "e5-base":   {"hf": "intfloat/multilingual-e5-base",   "prefix": "query: ", "emb": "corpus/corpus_v2/embeddings_v2_e5base.npy"},
+    "e5-large":  {"hf": "intfloat/multilingual-e5-large",  "prefix": "query: ", "emb": "corpus/corpus_v2/embeddings_v2_e5large.npy"},
+    "bge-m3":    {"hf": "BAAI/bge-m3",                      "prefix": "",        "emb": "corpus/corpus_v2/embeddings_v2_bgem3.npy"},
 }
 # retrieval methods that depend on the embedding model
 DENSE_METHODS = ["dense", "hybrid", "rerank"]

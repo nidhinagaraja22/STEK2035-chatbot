@@ -31,7 +31,10 @@ from sentence_transformers import SentenceTransformer
 import json
 
 # ── ADJUST THIS to your actual current corpus file ───────────────────────────
-CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks_l4l5split.jsonl")
+# Canonical corpus (cleaned + cluster pages). Keep this the SAME file the e5-base
+# re-embed uses (stek_reembed_cleaned_corpus.py) so all three embedding sets are
+# row-aligned to one corpus.
+CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks.jsonl")
 
 OUTPUT_DIR = Path("corpus/corpus_v2")
 BATCH_SIZE = 32  # smaller than e5-base's batch size — both these models are
