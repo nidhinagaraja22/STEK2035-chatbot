@@ -101,6 +101,15 @@ STRINGS: dict[str, dict[str, Any]] = {
         "sidebar_length_short": "Kurz",
         "sidebar_length_detailed": "Ausführlich",
         "sidebar_show_sources": "Quellen anzeigen",
+        "sidebar_models": "Modelle",
+        "sidebar_llm": "Sprachmodell (LLM)",
+        "sidebar_llm_help": "Welches Generierungsmodell die Antwort schreibt.",
+        "sidebar_embed": "Embedding-Modell",
+        "sidebar_embed_help": "Welches Modell die Texte für die Suche vektorisiert.",
+        "sidebar_citations": "Zitationen bearbeiten (L1–L5)",
+        "sidebar_citations_help": "Einleitungstext je Autoritätsstufe, mit dem Quellen zitiert werden.",
+        "sidebar_citations_reset": "Auf Standard zurücksetzen",
+        "answer_model_caption": "Erstellt mit",
         "sidebar_about": "Über dieses Projekt",
         "sidebar_about_body": (
             "Das **Stadtentwicklungskonzept (STEK) 2035** ist Heidelbergs "
@@ -255,6 +264,15 @@ STRINGS: dict[str, dict[str, Any]] = {
         "sidebar_length_short": "Short",
         "sidebar_length_detailed": "Detailed",
         "sidebar_show_sources": "Show sources",
+        "sidebar_models": "Models",
+        "sidebar_llm": "Language model (LLM)",
+        "sidebar_llm_help": "Which generation model writes the answer.",
+        "sidebar_embed": "Embedding model",
+        "sidebar_embed_help": "Which model vectorises the texts for search.",
+        "sidebar_citations": "Edit citations (L1–L5)",
+        "sidebar_citations_help": "Lead-in text per authority level used when citing sources.",
+        "sidebar_citations_reset": "Reset to defaults",
+        "answer_model_caption": "Generated with",
         "sidebar_about": "About this project",
         "sidebar_about_body": (
             "The **Urban Development Concept (STEK) 2035** is Heidelberg's guide to "

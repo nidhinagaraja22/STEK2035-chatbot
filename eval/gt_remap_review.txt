@@ -1,0 +1,441 @@
+
+Q001 [housing] conf=MED  Was plant die Stadt Heidelberg konkret für bezahlbaren Wohnraum bis 2035?
+  expected: STEK 2035 formuliert Ziel 3.2: vielfältigen und bezahlbaren Wohnraum in allen Stadtteilen verfügbar machen, mit Angebotserweiterung für Starterhaushal
+  assigned: [2692]   anchors=none rare=['Angebotserweiterung', 'Starterhaushalte']
+     alt idx=2692 (stek_a3_strategy, rare=2,words=6): Bevölkerung auch in der Verwaltung und Politik abbilden – Zugänge zu Hilfs- und Unterstützungsangeboten durch 
+     alt idx=2683 (stek_a3_strategy, rare=0,words=3): Einige Menschen wohnen 
+auf mehr Fläche als sie benötigen. Doch nur wenn bezahlbare, gut gelegene, kleinere 
+W
+
+Q003 [housing] NO MATCH  Wie hoch ist der Anteil geförderter Wohnungen bei den Konversionsflächen?
+  expected: Auf Campbell Barracks/Mark-Twain-Village entstehen 1.400 Wohnungen, 70% als preiswerter Wohnraum. Beim US Hospital werden 50% der 600 Wohnungen nach e
+
+Q006 [housing] conf=MED  Welche Herausforderung nennt das STEK 2035 als eine der größten beim Thema Wohnen?
+  expected: Eine bedarfsgerechte Wohnraumversorgung wird als eine der größten Herausforderungen genannt, gestützt auf die Heidelberg-Studie 2023, wo hohe Mieten a
+  assigned: [2682]   anchors=none rare=['Wohnraumversorgung']
+     alt idx=2682 (stek_a3_strategy, rare=1,words=5): Verdrängung kann die Nutzungsmischung gefährden, indem sich die jeweils ökonomisch stärkere Nutzung durchsetzt
+     alt idx=2681 (stek_a3_strategy, rare=1,words=2): Es ist eine Qualität des Wohnstandortes, 
+wenn Arbeitsplätze, Läden, Schulen, Kindertageseinrichtungen, Ausbil
+
+Q007 [mobility] conf=MED  Welche Maßnahmen plant Heidelberg für den Ausbau des Radverkehrs?
+  expected: Laut MRO 2035+ werden Radinfrastruktur, Multimodalität und öffentlicher Nahverkehr weiter ausgebaut. Konversionsflächen und Wissenschaftsstandorte sol
+  assigned: [2043]   anchors=none rare=['Multimodalität']
+     alt idx=2043 (mro_konzeptbericht, rare=1,words=6): siehe Abbildung 7)
+Die Förderung des Umweltverbundes, darunter 
+werden alle umweltverträglichen Verkehrsmittel
+     alt idx=2042 (mro_konzeptbericht, rare=1,words=3): Dessen 
+stadträumlich bedeutsamen Auswirkungen sollen 
+kontinuierlich im MRO berücksichtigt werden. Dazu 
+zähl
+
+Q008 [mobility] conf=MED  Was sind autofreie Quartiere im Kontext der STEK-Planung?
+  expected: Innovative Mobilitätskonzepte wie autofreie Quartiere sind für die Entwicklungsgebiete vorgesehen, kombiniert mit Anschluss an ÖPNV- und Radwegenetz.
+  assigned: [2043]   anchors=none rare=['Entwicklungsgebiete', 'Mobilitätskonzepte']
+     alt idx=2043 (mro_konzeptbericht, rare=2,words=5): siehe Abbildung 7)
+Die Förderung des Umweltverbundes, darunter 
+werden alle umweltverträglichen Verkehrsmittel
+     alt idx=2028 (mro_konzeptbericht, rare=1,words=1): Die weiterhin großen Flächenpotenziale der Konversionsgebiete sorgen dafür, dass auch bis ins Jahr 
+2035 nur w
+
+Q009 [mobility] conf=MED  Wie soll sich der öffentliche Nahverkehr entwickeln?
+  expected: Der Verkehrsentwicklungsplan/Klimamobilitätsplan 2035 (VEP/KMP) ist das zentrale Steuerungsinstrument; Priorität haben Radinfrastruktur, Multimodalitä
+  assigned: [2042]   anchors=none rare=['Multimodalität']
+     alt idx=2042 (mro_konzeptbericht, rare=1,words=3): Dessen 
+stadträumlich bedeutsamen Auswirkungen sollen 
+kontinuierlich im MRO berücksichtigt werden. Dazu 
+zähl
+     alt idx=2043 (mro_konzeptbericht, rare=1,words=3): siehe Abbildung 7)
+Die Förderung des Umweltverbundes, darunter 
+werden alle umweltverträglichen Verkehrsmittel
+
+Q011 [mobility] conf=MED  Welche ÖPNV-Maßnahmen plant Heidelberg im Zusammenhang mit klimawirksamen Freiräumen?
+  expected: Laut MRO 2035+ sollen neue ÖPNV-Verbindungen geschaffen werden, kombiniert mit verbesserter Durchlüftungsfunktion und Energieversorgung aus erneuerbar
+  assigned: [2198]   anchors=none rare=['Durchlüftungsfunktion', 'Quartiersentwicklung']
+     alt idx=2198 (mro_konzeptbericht, rare=1,words=3): Leitlinien Klimaschutz in den Quartieren verbessern Klimaneutrale Mobilitätsangebote fördern Bausteine Widerst
+     alt idx=2297 (mro_konzeptbericht, rare=1,words=2): So wird durch eine vorausschauende und 
+arbeitsteilige Entwicklung gewerblicher Flächen 
+die Basis für eine na
+
+Q012 [climate] conf=MED  Bis wann will Heidelberg klimaneutral sein?
+  expected: Gesamtstädtische Klimaneutralität ist bis spätestens 2040 vorgesehen; die Verwaltung selbst soll bereits 2030 weitestgehend klimaneutral sein. Bilanzi
+  assigned: [2727]   anchors=none rare=none
+     alt idx=2727 (stek_a3_strategy, rare=0,words=3): GUTE BEISPIELE FÜR BEGEGNUNGSORTE AUS HEIDELBERG 
+CLUSTER 4
+ENERGIE- UND 
+MOBILITÄTSWENDE
+TEILHABE AN 
+ VERÄND
+     alt idx=2615 (stek_a3_strategy, rare=0,words=2): Hierbei wird auf eine sensible Vorgehensweise bezüglich der Bebauungsdichte und -höhe geachtet. Durch die Mehr
+
+Q013 [climate] conf=MED  Welche Ziele verfolgt Heidelberg beim Klimaschutz laut Nachhaltigkeitsbericht?
+  expected: Der Nachhaltigkeitsbericht 2025 dokumentiert Treibhausgasemissionen seit 1987 und verfolgt Zielerreichung mit realistischer Zielsetzung als Monitoring
+  assigned: [1630]   anchors=none rare=['Klimaschutzziele', 'Treibhausgasemissionen']
+     alt idx=1630 (nachhaltigkeitsbericht_2025, rare=1,words=1): Werte über 100 Prozent bedeuten, dass ein Kaufkraftzufluss von außerhalb 
+Heidelbergs stattfindet. Kenngrößen:
+     alt idx=1631 (nachhaltigkeitsbericht_2025, rare=1,words=1): 38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Energie- und Mobilitätswende + 
+Teilhabe an Veränderungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Q014 [climate] conf=MED  Wie wird Regenwasser im Patrick-Henry-Village gehandhabt?
+  expected: Fast das komplette Regenwasser wird vor Ort versickert, gereinigt oder gespeichert. Ein zentraler See dient zum Speichern, Reinigen und zur Kühlung de
+  assigned: [2634]   anchors=none rare=['Gießen', 'Reinigen', 'Trockenperioden']
+     alt idx=2634 (stek_a3_strategy, rare=3,words=8): Mikroklima
+Im Patrick-Henry-Village werden viele Grünflächen und 
+Bäume sowie Wasserflächen zur Kühlung geplan
+     alt idx=2635 (stek_a3_strategy, rare=3,words=8): Im 
+Patrick-Henry-Village wird nach der Entwicklung fast das 
+komplette Regenwasser vor Ort versickert oder ge
+
+Q015 [climate] conf=MED  Welche Herausforderungen nennt das STEK bei Hitzebelastung?
+  expected: Klimawirksame Freiräume, Quartiersbegrünung und Entsiegelung von Flächen werden als Maßnahmen gegen Hitzebelastung genannt; wichtige Luftleitbahnen so
+  assigned: [2213]   anchors=none rare=['Durchlüftung', 'Klimawirksame']
+     alt idx=2213 (mro_konzeptbericht, rare=2,words=7): Es ist zielführend, 
+Kaltluftleitbahnen, Kaltluftabflüsse und Kaltluftentstehungsgebiete in Bebauungsplänen zu
+     alt idx=2198 (mro_konzeptbericht, rare=2,words=4): Leitlinien Klimaschutz in den Quartieren verbessern Klimaneutrale Mobilitätsangebote fördern Bausteine Widerst
+
+Q017 [economy] conf=MED  Welche Rolle spielen Wissenschaft und Forschung im STEK 2035?
+  expected: Wissenschaft und Forschung sollen zum Motor der Stadtentwicklung gemacht werden; Heidelberg positioniert sich als Wissenschaftsstandort mit Austausch 
+  assigned: [1659, 2771]   anchors=none rare=none
+     alt idx=1659 (nachhaltigkeitsbericht_2025, rare=0,words=4): 50 
+5.2 Wissenschaft und Forschung zum Motor der 
+Stadtentwicklung machen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     alt idx=1658 (nachhaltigkeitsbericht_2025, rare=0,words=3): Durchschnittlich rund plus 1.200 Personen je Jahr 
+bis 2035. 
+Indikatorbeschreibung: Der Indikator Wanderungss
+     alt idx=2771 (stek_a3_strategy, rare=0,words=6): Die zahlreichen Kultur- und Kreativunternehmen aller Teilbranchen bilden die international 
+erfolgreiche und v
+     alt idx=2775 (stek_a3_strategy, rare=0,words=6): und Folgenutzungen/ -infrastrukturen fördern, Standorte sichern und Entwicklungsmöglichkeiten geben, den Stand
+
+Q019 [economy] conf=LOW  Wie will Heidelberg Fachkräfte anziehen?
+  expected: Bezahlbarer Wohnraum, Abbau formaler Hürden bei der Wohnungssuche, und internationale Vernetzung werden als Standortfaktoren für Fachkräfte genannt.
+  assigned: [39, 1560]   anchors=none rare=none
+     alt idx=39 (online_beteiligung_2024, rare=0,words=3): 107 Einträge) 
+ 
+ 
+Bezahlbarer Wohnraum: Dieses Thema wird in besonders vielen Antworten als 
+zentraler Punkt 
+     alt idx=1009 (online_beteiligung_2024, rare=0,words=3): - Wenn Arbeit für Ausländer verboten ist und 
+weiter sein sollte (absurd), dann evtl. andere 
+Möglichkeiten fi
+     alt idx=1560 (nachhaltigkeitsbericht_2025, rare=0,words=1): Verfügbare Ressourcen besser einsetzen .............................. 44 4.5 Regionale Zusammenarbeit ausbauen
+     alt idx=1586 (nachhaltigkeitsbericht_2025, rare=0,words=1): Die Flächen mit rechtlichem Schutzstatus enthalten Naturdenkmäler, Landschaftsschutzgebiete, Naturschutzgebiet
+
+Q021 [culture] conf=LOW  Wie berücksichtigt das STEK 2035 Kultur und gesellschaftliche Vielfalt?
+  expected: Die Kulturlandschaft sowie die kulturelle Vielfalt in der Stadt sollen noch sichtbarer gemacht werden — ein Ziel aus den Arbeitstreffen-Diskussionen z
+  assigned: [2429]   anchors=none rare=none
+     alt idx=2429 (arbeitstreffen_2024, rare=0,words=2): Mit Blick auf das Ziel „Wissenschaft und Forschung als Motor der Stadtentwicklung“ wurde u. a. vorgeschlagen, 
+     alt idx=2484 (arbeitstreffen_2024, rare=0,words=2): KG IM AUFTRAG DER STADT HEIDELBERG 
+ 
+ 
+Attraktiv für Fachkräfte: Vielfältiger Wissenschaftsstandort und gute 
+
+Q022 [culture] conf=MED  Was sind Freizeit- und Kulturangebote laut STEK 2035?
+  expected: Freizeit- und Kulturangebote sowie Engagement in Vereinen werden im Kontext von sozialem Zusammenhalt und Lebensqualität in Heidelberg genannt.
+  assigned: [2769]   anchors=none rare=none
+     alt idx=2769 (stek_a3_strategy, rare=0,words=4): Die Stadt soll weltoffen und einladend für Gäste 
+wie Zuwanderung gleichermaßen sein. In einer globalisierten 
+     alt idx=2763 (stek_a3_strategy, rare=0,words=3): In der Altersgruppe der 16- bis 34-Jährigen 
+stammten 2022 rund zwei Drittel (66 Prozent) nicht aus Heidelberg
+
+Q024 [culture] conf=LOW  Wie soll Kultur zugänglicher gemacht werden?
+  expected: Ziel ist eine dynamische und für alle zugängliche Kultur, als Teil der Arbeitstreffen-Diskussionen zur gesellschaftlichen Teilhabe.
+  assigned: [2389]   anchors=none rare=none
+     alt idx=2389 (arbeitstreffen_2024, rare=0,words=1): Für viele Anwesenden war das STEK kein neues Thema: Einige hatten bereits im Frühjahr 
+2023 an themenspezifisc
+     alt idx=2393 (arbeitstreffen_2024, rare=0,words=1): Die Ergebnisse der Diskussion werden zusammenfassend beschrieben und sind im vollständigen Wortlaut im Anhang 
+
+Q025 [social] conf=LOW  Welche Maßnahmen gibt es gegen soziale Segregation?
+  expected: Das Arbeitstreffen 2024 behandelt explizit das Thema 'Aufgeteilte Stadt (Segregation)' im Rahmen einer lebenswerten, gemischten und inklusiven Stadt a
+  assigned: [2407]   anchors=none rare=['Kernthemen']
+     alt idx=2407 (arbeitstreffen_2024, rare=0,words=2): SEITE 8 VON 37 
+DOKUMENTATION STAKEHOLDERWORKSHOP AM 17. JUNI 2024 
+ 
+09.09.2024 
+ERSTELLT DURCH KOKONSULT GMB
+     alt idx=2388 (arbeitstreffen_2024, rare=0,words=1): ARBEITSTREFFEN ZUM 
+STADTENTWICKLUNGSKONZEPT 
+(STEK) 2035 
+ 
+17. JUNI 2024 | 17:30-20:30 UHR 
+GESELLSCHAFTSHAU
+
+Q026 [social] conf=MED  Welche Gruppen benötigen laut STEK 2035 besonders barrierefreien Wohnraum?
+  expected: Menschen mit Behinderung und ältere Menschen werden explizit genannt; Ziel ist gute soziale Durchmischung und bezahlbarer Wohnraum auch für untere/mit
+  assigned: [2692]   anchors=none rare=['Einkommensgruppen']
+     alt idx=2692 (stek_a3_strategy, rare=1,words=1): Bevölkerung auch in der Verwaltung und Politik abbilden – Zugänge zu Hilfs- und Unterstützungsangeboten durch 
+     alt idx=2683 (stek_a3_strategy, rare=0,words=2): Einige Menschen wohnen 
+auf mehr Fläche als sie benötigen. Doch nur wenn bezahlbare, gut gelegene, kleinere 
+W
+
+Q027 [social] conf=MED  Wie hat sich der Anteil barrierefreier Wohnungen entwickelt?
+  expected: Der Nachhaltigkeitsbericht 2025 verfolgt den Anteil barrierefreier Wohnungen an Wohnungsangeboten als eigenen Indikator, als Annäherung an den barrier
+  assigned: [1607]   anchors=none rare=['Annäherung']
+     alt idx=1607 (nachhaltigkeitsbericht_2025, rare=1,words=4): Ziel: Erhöhung der Inanspruchnahme des Angebotes bis 2035. 
+Indikatorbeschreibung: Anzahl der ausgestellten He
+     alt idx=1608 (nachhaltigkeitsbericht_2025, rare=1,words=4): 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anteil barrierefreie W
+
+Q028 [social] conf=MED  Wie fördert Heidelberg den sozialen Zusammenhalt in Nachbarschaften?
+  expected: Öffentliche Orte der Begegnung und Räume für Interaktion und Selbstorganisation in der Nachbarschaft sollen den Zusammenhalt fördern; nachbarschaftlic
+  assigned: [2819]   anchors=none rare=['Interaktion', 'Selbstorganisation']
+     alt idx=2819 (stek_a3_strategy, rare=2,words=8): MEHRWERTE VON NACHBARSCHAFTLICHEM ZUSAMMENHALT G
+1. Starke Nachbarschaften haben einen positiven Einfluss auf 
+     alt idx=2815 (stek_a3_strategy, rare=1,words=1): Die Stadt, der Gemeinderat und Bürgerinnen und Bürger haben sich dafür bereits im Jahr 2012 
+Leitlinien gegebe
+
+Q029 [urban_development] conf=MED  Was sind die fünf wichtigsten Handlungsfelder des STEK 2035?
+  expected: Die zentralen Themen sind Wohnen, Mobilität, Umwelt/Klimaschutz, Wirtschaft und Soziales — konsistent mit den fünf über LDA-Themenmodellierung identif
+  assigned: [2580]   anchors=none rare=none
+     alt idx=2580 (stek_a3_strategy, rare=0,words=5): Die unterschiedlichen Charaktere der Stadtteile und ihre individuell geprägten Gebiete bestimmen die lebendige
+     alt idx=2581 (stek_a3_strategy, rare=0,words=4): Heidelberg will die Kreislaufwirtschaft G im Baubereich stärken. Bildung für Nachhaltigkeit G 
+informiert und 
+
+Q032 [urban_development] conf=MED  Wie will Heidelberg regionale und internationale Stärken verbinden?
+  expected: Heidelberg setzt auf Internationalität und Weltoffenheit; Wirtschaft, Wissenschaft, Bildung, Kultur und soziales Miteinander sind als verbundene Stärk
+  assigned: [2576]   anchors=none rare=['Energiekorridore', 'Schienenwege']
+     alt idx=2576 (stek_a3_strategy, rare=2,words=10): Gemeinsam mit den Nachbarkommunen werden die Grünzüge als verbindender und erlebbarer Landschaftsraum 
+mit Nec
+     alt idx=2574 (stek_a3_strategy, rare=0,words=6): Heidelberg spielt dabei insbesondere seine Stärken als Spitzenstandort für Gesundheit und Lebenswissen­
+schaft
+
+Q033 [urban_development] conf=LOW  Wie will Heidelberg die lokale Demokratie stärken?
+  expected: Heidelberg setzt sich zum Ziel, die lokale Demokratie wehrhaft und krisensicher aufzustellen und räumlicher Polarisierung entgegenzuwirken, aufbauend 
+  assigned: [2795]   anchors=none rare=none
+     alt idx=2795 (stek_a3_strategy, rare=0,words=2): Heidelberg verbessert das soziale Miteinander und stärkt den gesellschaftlichen Zusammenhalt G. Dazu sind geme
+     alt idx=2577 (stek_a3_strategy, rare=0,words=1): Menschen mit unterschiedlichen Qualifikationen und Ausbildungswünschen aus der 
+ganzen Welt werden gezielt ang
+
+Q034 [citizen_participation] conf=MED  Wie wurden Bürgerinnen und Bürger am STEK 2035 beteiligt?
+  expected: Beteiligung erfolgte über die Zukunftsreise 2023 als Auftakt, gefolgt von Online-Beteiligung und aufsuchenden Formaten 2024, sowie Workshops wie 'Zuku
+  assigned: [1881, 1]   anchors=none rare=['Formaten', 'Zukunftsreise']
+     alt idx=1881 (zukunftsreise_2035, rare=1,words=3): 1 
+ 
+DOKUMENTATION – Öffentliche Veranstaltung 
+„Zukunftsreise Heidelberg – Start der Bürgerbeteiligung 
+zum S
+     alt idx=1883 (zukunftsreise_2035, rare=0,words=2): Moderierte Zukunftsdialoge luden in regelmäßigen Abständen dazu ein, Inspiration zu 
+globalen Zukunftstrends d
+     alt idx=1 (online_beteiligung_2024, rare=1,words=3): KG IM AUFTRAG DER STADT HEIDELBERG 
+ 
+HINTERGRUND 
+Vom 25.06.2024 bis zum 25.07.2024 fand eine Online-Beteilig
+     alt idx=5 (online_beteiligung_2024, rare=1,words=3): SEITE 3 VON 472 
+DOKUMENTATION ONLINE-BETEILIGUNG UND AUFSUCHENDE BETEILIGUNG | 25.06.-25.07.24 | HEIDELBERG S
+
+Q036 [citizen_participation] conf=MED  Wie beschreibt das STEK die eigene Beteiligungskultur?
+  expected: Das STEK 2035 wird als Ergebnis einer lebendigen Beteiligungskultur mit kontinuierlichem Dialog zwischen Bürgerschaft, Zivilgesellschaft und Wissensch
+  assigned: [2570]   anchors=none rare=['Beteiligungskultur']
+     alt idx=2570 (stek_a3_strategy, rare=1,words=5): STADTENTWICKLUNGS-
+KONZEPT 2035
+www.heidelberg.de
+Liebe Bürgerinnen und Bürger,
+das vorliegende Stadtentwicklu
+     alt idx=2767 (stek_a3_strategy, rare=1,words=1): Das historische und baukulturelle Erbe wird geschützt und behutsam weiterentwickelt. Das Ziel ist ein Heidelbe
+
+Q037 [citizen_participation] conf=MED  Welche Räume für kulturelle Nutzung fehlten laut Zukunftsreise-Diskussion?
+  expected: Bei der Zukunftsreise wurde diskutiert, welche Räume für kulturelle Nutzung in Heidelberg fehlen, als Teil der thematischen Auseinandersetzung mit Sta
+  assigned: [1881]   anchors=none rare=['Auseinandersetzung', 'Zukunftsreise']
+     alt idx=1881 (zukunftsreise_2035, rare=1,words=1): 1 
+ 
+DOKUMENTATION – Öffentliche Veranstaltung 
+„Zukunftsreise Heidelberg – Start der Bürgerbeteiligung 
+zum S
+     alt idx=1890 (zukunftsreise_2035, rare=0,words=1): 14-16 Jahre, Treffpunkte, was 
+können die machen? jemand der da guckt, Ideen + Inspiration) 
+LGBTIQ 
+Wie könne
+
+Q038 [specific_factual] conf=LOW  Wer hat den Masterplan für das Patrick-Henry-Village beschlossen und wann?
+  expected: Der Heidelberger Gemeinderat hat den Masterplan für das PHV im Jahr 2020 beschlossen.
+  assigned: [2575]   anchors=none rare=none
+     alt idx=2575 (stek_a3_strategy, rare=0,words=1): Gleichzeitig wurden die wertvollen 
+Freiräume über Gemarkungsgrenzen hinweg gesichert und aufgewertet. Traditi
+     alt idx=2585 (stek_a3_strategy, rare=0,words=1): Unter 
+www.heidelberg2035.de konnten sich 
+Bürgerinnen und Bürger über den 
+aktuellen Arbeitsstand zum STEK in
+
+Q041 [specific_factual] conf=MED  Welche Stadtteile werden im STEK 2035 als unterversorgt mit Alltagsfunktionen genannt?
+  expected: Boxberg, Emmertsgrund, Wieblingen, Schlierbach und Pfaffengrund werden als Stadtteile genannt, in denen einzelne Alltagsfunktionen fehlen und Wege län
+  assigned: [2681]   anchors=none rare=none
+     alt idx=2681 (stek_a3_strategy, rare=0,words=6): Es ist eine Qualität des Wohnstandortes, 
+wenn Arbeitsplätze, Läden, Schulen, Kindertageseinrichtungen, Ausbil
+     alt idx=2835 (stek_a3_strategy, rare=0,words=4): Basierend auf etablierten Definitionen, zum Beispiel seitens 
+Bundesministerien sowie Heidelberger Begriffsver
+
+Q042 [specific_factual] conf=MED  Wie hoch ist der amtliche Bevölkerungsstand Heidelbergs im Vergleich zum Zensus 2011?
+  expected: Der Nachhaltigkeitsbericht 2025 vergleicht die amtliche Bevölkerungszahl Heidelbergs mit dem Zensus 2011 als methodische Grundlage der Bevölkerungssta
+  assigned: [1574]   anchors=none rare=['Zensus']
+     alt idx=1574 (nachhaltigkeitsbericht_2025, rare=1,words=3): Zahlen basierend auf dem Zensus 2011 und 2022) lag zuletzt bei rund 800 Erwerbstätigen je 1.000 Einwohner. Um 
+     alt idx=1668 (nachhaltigkeitsbericht_2025, rare=1,words=1): Die Kulturausgaben sind dargestellt durch die ordentlichen Aufwendungen in Euro je Person auf Grundlage der am
+
+Q043 [cross_document] conf=LOW  Wie hängen Wohnraumentwicklung und Klimaschutz im STEK 2035 zusammen?
+  expected: STEK verbindet beide Themen durch klimaneutrale Quartiere, Fassaden-/Dachbegrünung bei Neubauten, Entsiegelung bei Nachverdichtung und die Kombination
+  assigned: [2613, 2121]   anchors=none rare=['Grünraumversorgung', 'Wohnraumentwicklung']
+     alt idx=2613 (stek_a3_strategy, rare=0,words=2): und -korridoren sowie Schaffung von neuen innerstädtischen Grün- und Erholungsflächen – Größere Pflanzgruben f
+     alt idx=2617 (stek_a3_strategy, rare=0,words=2): Grünflächen mit 
+geringer Wirkung für die Klimaanpassung G werden qualifiziert und neu entwickelt. Bestehende 
+     alt idx=2121 (mro_konzeptbericht, rare=1,words=1): Die Beschlussfassung der kommunalen 
+Biotopverbundplanung ist Grundlage für die Abwägung 
+in der Bauleitplanun
+     alt idx=2274 (mro_konzeptbericht, rare=1,words=1): Die 
+Empfehlungen der GALK, Gartenamtsleiterkonferenz, gelten seit den 1970er Jahren als Orientierung 
+für die
+
+Q044 [cross_document] conf=LOW  Was hat sich zwischen dem Stadtentwicklungsplan 2015 und STEK 2035 in Bezug auf Arbeitsplätze verändert?
+  expected: Der 2015er Plan berichtet rückblickend von +20.000 Arbeitsplätzen und +16.000 Wohnungen gegenüber 1974; STEK 2035 setzt demgegenüber neue, vorausschau
+  assigned: [1744, 1560]   anchors=['16.000', '20.000'] rare=none
+     alt idx=1775 (stadtentwicklungsplan_2015, rare=0,words=2): Es ist alles zu tun, um die Heidelberger
+Einzelhandelsstruktur zu erhalten und
+somit die vorhandenen Arbeitspl
+     alt idx=1776 (stadtentwicklungsplan_2015, rare=0,words=2): Das Zusammenwirken von Wissenschaft
+und Wirtschaft wird gefördert. Ziel ist
+dabei vor allem ein Belebungseffek
+     alt idx=1560 (nachhaltigkeitsbericht_2025, rare=0,words=2): Verfügbare Ressourcen besser einsetzen .............................. 44 4.5 Regionale Zusammenarbeit ausbauen
+     alt idx=1656 (nachhaltigkeitsbericht_2025, rare=0,words=2): 47 
+ 
+ 
+ 
+5. International vernetzte Stadt + 
+lokale Bedürfnisse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Q053 [economy] conf=MED  Wie viele Hektar gewerbliche Bauflächen sieht der Flächennutzungsplan für Heidelberg vor?
+  expected: Rund 90 Hektar gewerbliche Bauflächen, darunter Marienhof (ca. 59 Hektar) westlich von Eppelheim, Holzapfelbaum (ca. 18 Hektar) im Norden von Wiebling
+  assigned: [2068]   anchors=none rare=['Holzapfelbaum', 'Marienhof', 'Wolfsgärten']
+     alt idx=2068 (mro_konzeptbericht, rare=3,words=7): Insbesondere klimatische Bedingungen wie die Luftströmungen von Ost nach West als 
+auch die Profilierung der S
+     alt idx=2069 (mro_konzeptbericht, rare=3,words=3): Besonders die Fläche Marienhof ist aufgrund der Flächengröße und der Möglichkeit, 
+großflächige Gewerbe- und I
+
+Q061 [climate] conf=MED  Wie viel Hektar Fläche sind laut Landesvorgabe für den Ausbau von Solar- und Windenergie in Heidelberg vorgesehen?
+  expected: Das vom Land Baden-Württemberg vorgegebene Flächenziel würde für Heidelberg einen Ausbau auf 22 Hektar bedeuten.
+  assigned: [2222]   anchors=none rare=['Flächenziel']
+     alt idx=2222 (mro_konzeptbericht, rare=1,words=3): In vorangegangenen Analysen und Gutachten wurden bereits Potenzialflächen 
+für die Konzentration von Windenerg
+     alt idx=2221 (mro_konzeptbericht, rare=1,words=2): 2 Flächenvorsorge für Stoffkreisläufe 
+(Urban Mining)
+ 
+2 Flächenvorsorge für Energieinfrastruktur 
+ 
+2 Weiter
+
+Q063 [climate] conf=LOW  Wie viel Prozent der Haushalte sollen bis 2040 an das Fernwärmenetz angeschlossen sein?
+  expected: Bis 2040 sollen 70 Prozent der Haushalte an das Fernwärmenetz angeschlossen sein.
+  assigned: [2738]   anchors=none rare=none
+     alt idx=2738 (stek_a3_strategy, rare=0,words=2): 86 | Cluster 4 – Zielsetzung Cluster 4 – Zielsetzung | 87 Ziel 4.1. Große Investitionen in die Energiewende G 
+     alt idx=2692 (stek_a3_strategy, rare=0,words=1): Bevölkerung auch in der Verwaltung und Politik abbilden – Zugänge zu Hilfs- und Unterstützungsangeboten durch 
+
+Q065 [climate] conf=MED  Wo sollen laut Stadtentwicklung mögliche neue Windkraftanlagen in Heidelberg entstehen?
+  expected: Mögliche Standorte sind der Windpark Lammerskopf sowie das Gebiet Weißer Stein/Hoher Nistler.
+  assigned: [3059]   anchors=none rare=['Nistler', 'Weißer', 'Windpark']
+     alt idx=3059 (website_html, rare=2,words=4): Dafür sollen mehr Grünflächen entstehen, versiegelte Flächen geöffnet sowie Dächer und Fassaden begrünt werden
+     alt idx=3087 (website_html, rare=1,words=3): Meldung vom
+13. Mai 2026
+Windenergie am Lammerskopf: Stadt informiert über Bürgerentscheid am 12. Juli
+Am Sonn

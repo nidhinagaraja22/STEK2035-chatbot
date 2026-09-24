@@ -43,6 +43,18 @@ def init_state() -> None:
     ss.setdefault("regen", None)           # a question to regenerate
     ss.setdefault("feedback_given", {})    # msg_id -> "up"|"down"
     ss.setdefault("show_comment", {})      # msg_id -> bool
+    # model + citation controls
+    ss.setdefault("llm_model", backend.DEFAULT_LLM_MODEL)
+    ss.setdefault("embed_model", backend.DEFAULT_EMBEDDING_MODEL)
+    for _lvl in backend.AUTHORITY_LEVELS:
+        ss.setdefault(f"cite_{_lvl}", backend.DEFAULT_CITATIONS[_lvl])
+
+
+def _reset_citations() -> None:
+    """Restore the default citation lead-ins (runs as a button callback, before
+    the widgets are re-instantiated on the next rerun)."""
+    for lvl in backend.AUTHORITY_LEVELS:
+        st.session_state[f"cite_{lvl}"] = backend.DEFAULT_CITATIONS[lvl]
 
 
 init_state()
@@ -105,6 +117,29 @@ def render_sidebar() -> dict:
 
         st.divider()
 
+        # --- Model selection ---
+        st.markdown(f"**{t('sidebar_models', cur)}**")
+        st.selectbox(
+            t("sidebar_llm", cur), options=backend.LLM_MODELS,
+            key="llm_model", help=t("sidebar_llm_help", cur),
+        )
+        st.selectbox(
+            t("sidebar_embed", cur), options=backend.EMBEDDING_MODELS,
+            key="embed_model", help=t("sidebar_embed_help", cur),
+        )
+
+        # --- Editable citations L1–L5 ---
+        with st.expander(t("sidebar_citations", cur), expanded=False):
+            st.caption(t("sidebar_citations_help", cur))
+            for lvl in backend.AUTHORITY_LEVELS:
+                st.text_input(f"L{lvl}", key=f"cite_{lvl}")
+            st.button(
+                t("sidebar_citations_reset", cur), on_click=_reset_citations,
+                use_container_width=True,
+            )
+
+        st.divider()
+
         # --- About ---
         st.markdown(f"**{t('sidebar_about', cur)}**")
         st.markdown(t("sidebar_about_body", cur))
@@ -153,6 +188,12 @@ def render_sidebar() -> dict:
             "sdgs": st.session_state.get("sdgs", []),
         },
         "show_sources": st.session_state.get("show_sources", True),
+        "model": st.session_state.get("llm_model", backend.DEFAULT_LLM_MODEL),
+        "embedding_model": st.session_state.get("embed_model", backend.DEFAULT_EMBEDDING_MODEL),
+        "citations": {
+            lvl: st.session_state.get(f"cite_{lvl}", backend.DEFAULT_CITATIONS[lvl])
+            for lvl in backend.AUTHORITY_LEVELS
+        },
     }
 
 
@@ -229,6 +270,12 @@ def render_message(msg: dict, is_last: bool, show_sources: bool) -> None:
     with st.chat_message("assistant", avatar=ASSISTANT_AVATAR):
         st.markdown(msg["content"])
 
+        # Which models produced this answer
+        if msg.get("model"):
+            emb = msg.get("embedding_model", "")
+            st.caption(f"{t('answer_model_caption', lang)}: {msg['model']}"
+                       + (f" · {emb}" if emb else ""))
+
         # SDG badges
         if msg.get("sdgs"):
             st.markdown(f'<div class="sdg-label">{t("related_sdgs_label", lang)}</div>',
@@ -279,6 +326,7 @@ def generate_answer(question: str, settings: dict) -> None:
                     sources = backend.retrieve(
                         question, top_k=settings["top_k"],
                         topics=settings["topics"], language=lang,
+                        embedding_model=settings["embedding_model"],
                     )
                 if not sources:
                     # honest fallback — no guessing
@@ -292,6 +340,9 @@ def generate_answer(question: str, settings: dict) -> None:
                                 top_k=settings["top_k"],
                                 answer_length=settings["answer_length"],
                                 topics=settings["topics"], sources=sources,
+                                model=settings["model"],
+                                embedding_model=settings["embedding_model"],
+                                citations=settings["citations"],
                             )
                         )
                     except Exception:                      # streaming failed -> fallback
@@ -300,6 +351,9 @@ def generate_answer(question: str, settings: dict) -> None:
                             top_k=settings["top_k"],
                             answer_length=settings["answer_length"],
                             topics=settings["topics"], sources=sources,
+                            model=settings["model"],
+                            embedding_model=settings["embedding_model"],
+                            citations=settings["citations"],
                         )
                         answer = resp["answer"]
                         st.markdown(answer)
@@ -309,6 +363,9 @@ def generate_answer(question: str, settings: dict) -> None:
                         top_k=settings["top_k"],
                         answer_length=settings["answer_length"],
                         topics=settings["topics"], sources=sources,
+                        model=settings["model"],
+                        embedding_model=settings["embedding_model"],
+                        citations=settings["citations"],
                     )
                     answer = resp["answer"]
                     st.markdown(answer)
@@ -328,6 +385,8 @@ def generate_answer(question: str, settings: dict) -> None:
         "sources": sources,
         "sdgs": sdgs,
         "followups": followups,
+        "model": settings["model"],
+        "embedding_model": settings["embedding_model"],
     })
 
 

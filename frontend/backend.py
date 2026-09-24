@@ -53,6 +53,48 @@ class Source(TypedDict):
     snippet: str
     url: str | None
     authority: str | None
+    authority_level: int | None
+
+
+# --------------------------------------------------------------------------- #
+# Selectable models + editable citation prefixes.
+# These are the single source of truth for the UI dropdowns and the citation
+# editor. A real backend should read `model` / `embedding_model` / `citations`
+# from the call arguments (see answer_query) instead of hard-coding them.
+# --------------------------------------------------------------------------- #
+LLM_MODELS: list[str] = [
+    "qwen2.5:32b",      # default / chosen after comparing five models
+    "mistral",
+    "mistral-small",
+    "command-r",
+    "gemma2:27b",
+]
+DEFAULT_LLM_MODEL = LLM_MODELS[0]
+
+EMBEDDING_MODELS: list[str] = [
+    "multilingual-e5-base",
+    "multilingual-e5-large",
+    "bge-m3",
+]
+DEFAULT_EMBEDDING_MODEL = EMBEDDING_MODELS[0]
+
+# Authority tiers L1–L5 and the default German citation lead-in per tier.
+AUTHORITY_LEVELS: list[int] = [1, 2, 3, 4, 5]
+DEFAULT_CITATIONS: dict[int, str] = {
+    1: "Laut dem offiziellen STEK 2035",
+    2: "Laut einem offiziellen Bericht der Stadt",
+    3: "Laut ergänzendem Fachmaterial der Stadt",
+    4: "Im Bürgerbeteiligungsprozess wurde geäußert",
+    5: "Ein einzelner Bürger äußerte",
+}
+
+# Map the mock's authority label strings to their tier (real chunks carry the
+# level directly as `authority_level`).
+_AUTHORITY_TO_LEVEL: dict[str, int] = {
+    "Offizielle STEK-Strategie": 1,
+    "Offizieller Bericht": 2,
+    "Bürgerbeteiligung": 4,
+}
 
 
 # --------------------------------------------------------------------------- #
@@ -139,11 +181,13 @@ def retrieve(
     top_k: int = 5,
     topics: dict | None = None,
     language: str = "de",
+    embedding_model: str = DEFAULT_EMBEDDING_MODEL,
 ) -> list[Source]:
     """Return the top-k source passages for a question (no generation).
 
-    In the real system this embeds the query, searches the vector store
-    (optionally filtered by ``topics``), and returns chunk metadata.
+    In the real system this embeds the query with ``embedding_model``, searches
+    the vector store (optionally filtered by ``topics``), and returns chunk
+    metadata. The mock ignores ``embedding_model``.
     """
     if _is_out_of_scope(question):
         return []
@@ -159,21 +203,29 @@ def retrieve(
                 "snippet": rng.choice(doc["snippets"]),
                 "url": doc["url"],
                 "authority": doc["authority"],
+                "authority_level": _AUTHORITY_TO_LEVEL.get(doc["authority"]),
             }
         )
     return sources
 
 
 def _compose_answer(
-    question: str, sources: list[Source], answer_length: str, language: str
+    question: str, sources: list[Source], answer_length: str, language: str,
+    citations: dict[int, str] | None = None,
 ) -> str:
-    """Build a plausible, grounded-sounding mock answer from the sources."""
+    """Build a plausible, grounded-sounding mock answer from the sources.
+
+    ``citations`` maps authority level (1–5) to the lead-in phrase used to
+    attribute each source. Editing it in the UI changes how answers cite their
+    sources — e.g. an L5 chunk is introduced as "Ein einzelner Bürger äußerte …".
+    """
     if not sources:
         # honest abstention — never guess
         from i18n import t
 
         return t("not_found_fallback", language)
 
+    cites = {**DEFAULT_CITATIONS, **(citations or {})}
     de = language != "en"
     lead = (
         f"Auf Basis des STEK 2035 lässt sich Ihre Frage „{question.strip()}“ wie "
@@ -184,10 +236,14 @@ def _compose_answer(
     )
     body_points = []
     for s in sources[:3]:
-        body_points.append(
-            f"- {s['snippet']} " + (f"(vgl. {s['title']}, S. {s['page']})" if de
-                                    else f"(cf. {s['title']}, p. {s['page']})")
-        )
+        lvl = s.get("authority_level")
+        prefix = cites.get(lvl) if lvl in cites else None
+        ref = (f"(vgl. {s['title']}, S. {s['page']})" if de
+               else f"(cf. {s['title']}, p. {s['page']})")
+        if prefix:
+            body_points.append(f"- **{prefix}:** {s['snippet']} {ref}")
+        else:
+            body_points.append(f"- {s['snippet']} {ref}")
     body = "\n".join(body_points)
 
     if answer_length == "short":
@@ -252,20 +308,27 @@ def answer_query(
     answer_length: str = "detailed",
     topics: dict | None = None,
     sources: list[Source] | None = None,
+    model: str = DEFAULT_LLM_MODEL,
+    embedding_model: str = DEFAULT_EMBEDDING_MODEL,
+    citations: dict[int, str] | None = None,
 ) -> dict:
     """Non-streaming answer. Returns the full response dict (see module docstring).
 
     ``sources`` may be passed in if already retrieved (to avoid a double lookup);
-    otherwise they are fetched here.
+    otherwise they are fetched here. ``model`` / ``embedding_model`` select the
+    generation and embedding models; ``citations`` overrides the per-tier
+    citation lead-ins. A real backend routes these to the LLM / vector store.
     """
     if sources is None:
         sources = retrieve(question, top_k=top_k, topics=topics, language=language)
-    answer = _compose_answer(question, sources, answer_length, language)
+    answer = _compose_answer(question, sources, answer_length, language, citations)
     return {
         "answer": answer,
         "sources": sources,
         "sdgs": related_sdgs(question, sources),
         "followups": suggest_followups(question, language),
+        "model": model,
+        "embedding_model": embedding_model,
     }
 
 
@@ -278,6 +341,9 @@ def answer_query_stream(
     answer_length: str = "detailed",
     topics: dict | None = None,
     sources: list[Source] | None = None,
+    model: str = DEFAULT_LLM_MODEL,
+    embedding_model: str = DEFAULT_EMBEDDING_MODEL,
+    citations: dict[int, str] | None = None,
 ) -> Iterator[str]:
     """Streaming answer generator, yielding text chunks for ``st.write_stream``.
 
@@ -287,6 +353,7 @@ def answer_query_stream(
     full = answer_query(
         question, history, language,
         top_k=top_k, answer_length=answer_length, topics=topics, sources=sources,
+        model=model, embedding_model=embedding_model, citations=citations,
     )["answer"]
     for token in full.split(" "):
         yield token + " "
