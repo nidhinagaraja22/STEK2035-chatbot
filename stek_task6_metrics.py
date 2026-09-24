@@ -41,7 +41,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 
 CORPUS_DIR   = Path("corpus/corpus_v2")
-CHUNKS_PATH  = CORPUS_DIR / "corpus_v2_chunks_l4l5split.jsonl"
+CHUNKS_PATH  = CORPUS_DIR / "corpus_v2_chunks.jsonl"
 GROUND_TRUTH_PATH = Path("stek_task4_5_master_ground_truth.json")
 
 EMBEDDING_FILES = {

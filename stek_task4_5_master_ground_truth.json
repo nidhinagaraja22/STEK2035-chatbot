@@ -27,8 +27,8 @@
       "expected_authority_level": "1 (official strategy) to 4 (consultation/citizen) per the corpus's actual DAT levels; null if not applicable (vague/unanswerable)",
       "is_official_policy": "true = represents committed city policy; false = citizen/participant opinion; null if not applicable"
     },
-    "corpus_version": "v3 (rebuilt from raw source files, 100-word/20-word-overlap chunking, 2944 total chunks)",
-    "reverification_status": "41/45 questions fully re-verified against corpus_v3 with confirmed chunk_id/chunk_uid. Unresolved: ['Q003', 'Q009', 'Q038', 'Q039'].",
+    "corpus_version": "chunks_v2_meta.jsonl (sentence-aware 256/40 chunking, 3653 chunks, + registry metadata)",
+    "reverification_status": "relevant_chunks remapped onto chunks_v2_meta.jsonl. Every answerable question is assigned the best-matching chunk per cited document, and carries a 'remap_confidence': HIGH = a distinctive number from expected_answer is literally present (number-verified, trustworthy); MED = matched on a rare word or strong word overlap (spot-check advised); LOW = weak word overlap only (review); NONE = no lexical overlap in the cited document (left empty). Each chunk entry has idx (line no.), chunk_id, chunk_uid, document_id and authority_level from the corpus. MED/LOW/NONE questions and alternative candidates are listed in gt_remap_review.txt.",
     "expansion_note": "Expanded from 50 to 60 questions — 4 new answerable questions (Q051-Q054, verified directly against raw source text) plus 6 new unanswerable/vague questions (Q055-Q060) to help meet Task 8's 10-20 target."
   },
   "questions": [
@@ -43,13 +43,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 48,
-          "document_id": "stek_a3_strategy"
+          "idx": 2692,
+          "chunk_id": 122,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::122",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "CORRECTED: original chunk_id was a stale corpus_v3 reference, never re-mapped to v2 — pointed to unrelated or out-of-range content in the actual v2 corpus. Real content confirmed via direct text search, exact match to expected_answer."
+      "notes": "CORRECTED: original chunk_id was a stale corpus_v3 reference, never re-mapped to v2 — pointed to unrelated or out-of-range content in the actual v2 corpus. Real content confirmed via direct text search, exact match to expected_answer. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q003",
@@ -63,7 +67,8 @@
       "relevant_chunks": [],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "Corrected: 'answerable=false' was set during the corpus_v3 rebuild, where web_pdf_statusbericht was genuinely missing from the 12 raw source files used at the time. This question IS answerable in the actual v2 corpus, which has web_pdf_statusbericht — confirmed by the cascading retrieval test finding the correct document. relevant_chunks left empty since exact chunk_id was never re-verified against v2's own chunk numbering (only document-level match confirmed)."
+      "notes": "Corrected: 'answerable=false' was set during the corpus_v3 rebuild, where web_pdf_statusbericht was genuinely missing from the 12 raw source files used at the time. This question IS answerable in the actual v2 corpus, which has web_pdf_statusbericht — confirmed by the cascading retrieval test finding the correct document. relevant_chunks left empty since exact chunk_id was never re-verified against v2's own chunk numbering (only document-level match confirmed). || REMAP: no lexical overlap found in the cited document(s) — verify manually",
+      "remap_confidence": "NONE"
     },
     {
       "q_id": "Q004",
@@ -76,14 +81,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 64,
-          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::64",
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 1610,
+          "chunk_id": 53,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::53",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q005",
@@ -96,14 +104,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 67,
-          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::67",
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 1614,
+          "chunk_id": 57,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::57",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q006",
@@ -116,14 +127,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 137,
-          "chunk_uid": "doc::stek_a3_strategy::137",
-          "document_id": "stek_a3_strategy"
+          "idx": 2682,
+          "chunk_id": 112,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::112",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q007",
@@ -136,14 +150,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 53,
-          "chunk_uid": "doc::mro_konzeptbericht::53",
-          "document_id": "mro_konzeptbericht"
+          "idx": 2043,
+          "chunk_id": 46,
+          "chunk_uid": "document::MRO 2035+_Konzeptbericht_Broschüre::46",
+          "document_id": "mro_konzeptbericht",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q008",
@@ -156,13 +173,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 17,
-          "document_id": "mro_konzeptbericht"
+          "idx": 2043,
+          "chunk_id": 46,
+          "chunk_uid": "document::MRO 2035+_Konzeptbericht_Broschüre::46",
+          "document_id": "mro_konzeptbericht",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "CORRECTED: original chunk_id was a stale corpus_v3 reference, never re-mapped to v2 — pointed to unrelated or out-of-range content in the actual v2 corpus. Real content confirmed via direct text search, exact match to expected_answer."
+      "notes": "CORRECTED: original chunk_id was a stale corpus_v3 reference, never re-mapped to v2 — pointed to unrelated or out-of-range content in the actual v2 corpus. Real content confirmed via direct text search, exact match to expected_answer. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q009",
@@ -175,19 +196,17 @@
       ],
       "relevant_chunks": [
         {
-          "idx": 665,
-          "chunk_id": 10,
-          "document_id": "mro_konzeptbericht"
-        },
-        {
-          "idx": 672,
-          "chunk_id": 17,
-          "document_id": "mro_konzeptbericht"
+          "idx": 2042,
+          "chunk_id": 45,
+          "chunk_uid": "document::MRO 2035+_Konzeptbericht_Broschüre::45",
+          "document_id": "mro_konzeptbericht",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "UNRESOLVED against corpus_v3: search phrase too generic (15 matches) — needs targeted manual disambiguation"
+      "notes": "UNRESOLVED against corpus_v3: search phrase too generic (15 matches) — needs targeted manual disambiguation || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q011",
@@ -200,14 +219,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 229,
-          "chunk_uid": "doc::mro_konzeptbericht::229",
-          "document_id": "mro_konzeptbericht"
+          "idx": 2198,
+          "chunk_id": 201,
+          "chunk_uid": "document::MRO 2035+_Konzeptbericht_Broschüre::201",
+          "document_id": "mro_konzeptbericht",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q012",
@@ -220,14 +242,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 87,
-          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::87",
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 2727,
+          "chunk_id": 157,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::157",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q013",
@@ -240,14 +265,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 90,
-          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::90",
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 1630,
+          "chunk_id": 73,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::73",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q014",
@@ -260,14 +288,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 81,
-          "chunk_uid": "doc::stek_a3_strategy::81",
-          "document_id": "stek_a3_strategy"
+          "idx": 2634,
+          "chunk_id": 64,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::64",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q015",
@@ -280,14 +311,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 247,
-          "chunk_uid": "doc::mro_konzeptbericht::247",
-          "document_id": "mro_konzeptbericht"
+          "idx": 2213,
+          "chunk_id": 216,
+          "chunk_uid": "document::MRO 2035+_Konzeptbericht_Broschüre::216",
+          "document_id": "mro_konzeptbericht",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q017",
@@ -301,14 +335,24 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 253,
-          "chunk_uid": "doc::stek_a3_strategy::253",
-          "document_id": "stek_a3_strategy"
+          "idx": 1659,
+          "chunk_id": 102,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::102",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
+        },
+        {
+          "idx": 2771,
+          "chunk_id": 201,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::201",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q018",
@@ -321,14 +365,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 150,
-          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::150",
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 1689,
+          "chunk_id": 132,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::132",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q019",
@@ -342,17 +389,24 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 317,
-          "document_id": "online_beteiligung_2024"
+          "idx": 39,
+          "chunk_id": 39,
+          "chunk_uid": "document::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::39",
+          "document_id": "online_beteiligung_2024",
+          "authority_level": 4
         },
         {
-          "chunk_id": 318,
-          "document_id": "online_beteiligung_2024"
+          "idx": 1560,
+          "chunk_id": 3,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::3",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 5,
       "is_official_policy": true,
-      "notes": "CORRECTED: the original chunk_id=38 was a stale reference verified against corpus_v3's different chunking, never re-mapped to v2 — it pointed to unrelated content (land use/vacancy) in the actual v2 corpus. Real content confirmed via direct text search at v2 chunk_id 317-318 (\"Bezahlbaren Wohnraum...\", \"Abbau formaler Hürden\" — exact matches to expected_answer). expected_authority_level corrected from 2 to 5, since this is genuinely citizen-tier content, not official-tier, despite is_official_policy=True reflecting the question's POLICY-RELEVANT topic rather than where the best answer content actually lives."
+      "notes": "CORRECTED: the original chunk_id=38 was a stale reference verified against corpus_v3's different chunking, never re-mapped to v2 — it pointed to unrelated content (land use/vacancy) in the actual v2 corpus. Real content confirmed via direct text search at v2 chunk_id 317-318 (\"Bezahlbaren Wohnraum...\", \"Abbau formaler Hürden\" — exact matches to expected_answer). expected_authority_level corrected from 2 to 5, since this is genuinely citizen-tier content, not official-tier, despite is_official_policy=True reflecting the question's POLICY-RELEVANT topic rather than where the best answer content actually lives. || REMAP -> chunks_v2_meta.jsonl; confidence=LOW (text-match, spot-check advised)",
+      "remap_confidence": "LOW"
     },
     {
       "q_id": "Q020",
@@ -365,14 +419,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 25,
-          "chunk_uid": "doc::stadtentwicklungsplan_2015::25",
-          "document_id": "stadtentwicklungsplan_2015"
+          "idx": 1744,
+          "chunk_id": 19,
+          "chunk_uid": "document::2015_Stadtentwicklungsplan::19",
+          "document_id": "stadtentwicklungsplan_2015",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q021",
@@ -385,14 +442,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 49,
-          "chunk_uid": "doc::arbeitstreffen_2024::49",
-          "document_id": "arbeitstreffen_2024"
+          "idx": 2429,
+          "chunk_id": 41,
+          "chunk_uid": "document::STEK 2035_Arbeitstreffen_17_06_24_Dokumentation::41",
+          "document_id": "arbeitstreffen_2024",
+          "authority_level": 4
         }
       ],
       "expected_authority_level": 4,
       "is_official_policy": false,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=LOW (text-match, spot-check advised)",
+      "remap_confidence": "LOW"
     },
     {
       "q_id": "Q022",
@@ -405,14 +465,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 247,
-          "chunk_uid": "doc::stek_a3_strategy::247",
-          "document_id": "stek_a3_strategy"
+          "idx": 2769,
+          "chunk_id": 199,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::199",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q024",
@@ -425,14 +488,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 972,
-          "chunk_uid": "doc::online_beteiligung_2024::972",
-          "document_id": "online_beteiligung_2024"
+          "idx": 2389,
+          "chunk_id": 1,
+          "chunk_uid": "document::STEK 2035_Arbeitstreffen_17_06_24_Dokumentation::1",
+          "document_id": "arbeitstreffen_2024",
+          "authority_level": 4
         }
       ],
       "expected_authority_level": 4,
       "is_official_policy": false,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=LOW (text-match, spot-check advised)",
+      "remap_confidence": "LOW"
     },
     {
       "q_id": "Q025",
@@ -445,14 +511,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 21,
-          "chunk_uid": "doc::arbeitstreffen_2024::21",
-          "document_id": "arbeitstreffen_2024"
+          "idx": 2407,
+          "chunk_id": 19,
+          "chunk_uid": "document::STEK 2035_Arbeitstreffen_17_06_24_Dokumentation::19",
+          "document_id": "arbeitstreffen_2024",
+          "authority_level": 4
         }
       ],
       "expected_authority_level": 4,
       "is_official_policy": false,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=LOW (text-match, spot-check advised)",
+      "remap_confidence": "LOW"
     },
     {
       "q_id": "Q026",
@@ -465,14 +534,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 150,
-          "chunk_uid": "doc::stek_a3_strategy::150",
-          "document_id": "stek_a3_strategy"
+          "idx": 2692,
+          "chunk_id": 122,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::122",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q027",
@@ -485,14 +557,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 60,
-          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::60",
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 1607,
+          "chunk_id": 50,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::50",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q028",
@@ -505,14 +580,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 313,
-          "chunk_uid": "doc::stek_a3_strategy::313",
-          "document_id": "stek_a3_strategy"
+          "idx": 2819,
+          "chunk_id": 249,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::249",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q029",
@@ -525,14 +603,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 47,
-          "chunk_uid": "doc::stek_a3_strategy::47",
-          "document_id": "stek_a3_strategy"
+          "idx": 2580,
+          "chunk_id": 10,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::10",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q030",
@@ -545,14 +626,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 78,
-          "chunk_uid": "doc::stek_a3_strategy::78",
-          "document_id": "stek_a3_strategy"
+          "idx": 2633,
+          "chunk_id": 63,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::63",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q031",
@@ -565,14 +649,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 151,
-          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::151",
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 1691,
+          "chunk_id": 134,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::134",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q032",
@@ -585,14 +672,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 236,
-          "chunk_uid": "doc::stek_a3_strategy::236",
-          "document_id": "stek_a3_strategy"
+          "idx": 2576,
+          "chunk_id": 6,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::6",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q033",
@@ -605,14 +695,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 282,
-          "chunk_uid": "doc::stek_a3_strategy::282",
-          "document_id": "stek_a3_strategy"
+          "idx": 2795,
+          "chunk_id": 225,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::225",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=LOW (text-match, spot-check advised)",
+      "remap_confidence": "LOW"
     },
     {
       "q_id": "Q034",
@@ -626,14 +719,24 @@
       ],
       "relevant_chunks": [
         {
+          "idx": 1881,
           "chunk_id": 0,
-          "chunk_uid": "doc::zukunftsreise_2035::0",
-          "document_id": "zukunftsreise_2035"
+          "chunk_uid": "document::20230728_STEK 2035_Zukunftsreise 2035::0",
+          "document_id": "zukunftsreise_2035",
+          "authority_level": 3
+        },
+        {
+          "idx": 1,
+          "chunk_id": 1,
+          "chunk_uid": "document::12_PDF_STEK 2035_Dokumentation_Online-Beteiligung und aufsuchende Formate 2024::1",
+          "document_id": "online_beteiligung_2024",
+          "authority_level": 4
         }
       ],
       "expected_authority_level": 4,
       "is_official_policy": false,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q036",
@@ -646,14 +749,17 @@
       ],
       "relevant_chunks": [
         {
+          "idx": 2570,
           "chunk_id": 0,
-          "chunk_uid": "doc::stek_a3_strategy::0",
-          "document_id": "stek_a3_strategy"
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::0",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q037",
@@ -666,14 +772,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 12,
-          "chunk_uid": "doc::zukunftsreise_2035::12",
-          "document_id": "zukunftsreise_2035"
+          "idx": 1881,
+          "chunk_id": 0,
+          "chunk_uid": "document::20230728_STEK 2035_Zukunftsreise 2035::0",
+          "document_id": "zukunftsreise_2035",
+          "authority_level": 3
         }
       ],
       "expected_authority_level": 4,
       "is_official_policy": false,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q038",
@@ -686,14 +795,17 @@
       ],
       "relevant_chunks": [
         {
-          "idx": 876,
-          "chunk_id": 25,
-          "document_id": "stek_a3_strategy"
+          "idx": 2575,
+          "chunk_id": 5,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::5",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "UNRESOLVED against corpus_v3: specific 'Gemeinderat...2020...beschlossen' decision fact not clearly located in stek_a3_strategy chunks checked so far — needs further targeted search."
+      "notes": "UNRESOLVED against corpus_v3: specific 'Gemeinderat...2020...beschlossen' decision fact not clearly located in stek_a3_strategy chunks checked so far — needs further targeted search. || REMAP -> chunks_v2_meta.jsonl; confidence=LOW (text-match, spot-check advised)",
+      "remap_confidence": "LOW"
     },
     {
       "q_id": "Q039",
@@ -706,14 +818,17 @@
       ],
       "relevant_chunks": [
         {
-          "idx": 530,
-          "chunk_id": 35,
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 1658,
+          "chunk_id": 101,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::101",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "UNRESOLVED against corpus_v3: Wanderungssaldo topic confirmed present (chunk ~112), but exact +630/+14% figures not yet pinpointed to one chunk"
+      "notes": "UNRESOLVED against corpus_v3: Wanderungssaldo topic confirmed present (chunk ~112), but exact +630/+14% figures not yet pinpointed to one chunk || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q040",
@@ -726,14 +841,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 79,
-          "chunk_uid": "doc::stek_a3_strategy::79",
-          "document_id": "stek_a3_strategy"
+          "idx": 2633,
+          "chunk_id": 63,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::63",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q041",
@@ -746,14 +864,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 136,
-          "chunk_uid": "doc::stek_a3_strategy::136",
-          "document_id": "stek_a3_strategy"
+          "idx": 2681,
+          "chunk_id": 111,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::111",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q042",
@@ -766,14 +887,17 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 22,
-          "chunk_uid": "doc::nachhaltigkeitsbericht_2025::22",
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 1574,
+          "chunk_id": 17,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::17",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q043",
@@ -787,19 +911,24 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 137,
-          "chunk_uid": "doc::stek_a3_strategy::137",
-          "document_id": "stek_a3_strategy"
+          "idx": 2613,
+          "chunk_id": 43,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::43",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         },
         {
-          "chunk_id": 247,
-          "chunk_uid": "doc::mro_konzeptbericht::247",
-          "document_id": "mro_konzeptbericht"
+          "idx": 2121,
+          "chunk_id": 124,
+          "chunk_uid": "document::MRO 2035+_Konzeptbericht_Broschüre::124",
+          "document_id": "mro_konzeptbericht",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
-      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search."
+      "notes": "RE-VERIFIED against corpus_v3 (100-word chunking rebuild) — chunk_id/chunk_uid confirmed via direct text search. || REMAP -> chunks_v2_meta.jsonl; confidence=LOW (text-match, spot-check advised)",
+      "remap_confidence": "LOW"
     },
     {
       "q_id": "Q044",
@@ -813,13 +942,24 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 8,
-          "document_id": "stadtentwicklungsplan_2015"
+          "idx": 1744,
+          "chunk_id": 19,
+          "chunk_uid": "document::2015_Stadtentwicklungsplan::19",
+          "document_id": "stadtentwicklungsplan_2015",
+          "authority_level": 2
+        },
+        {
+          "idx": 1560,
+          "chunk_id": 3,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::3",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
-      "notes": "CORRECTED: original chunk_id was a stale corpus_v3 reference, never re-mapped to v2 — pointed to unrelated or out-of-range content in the actual v2 corpus. Real content confirmed via direct text search, exact match to expected_answer."
+      "notes": "CORRECTED: original chunk_id was a stale corpus_v3 reference, never re-mapped to v2 — pointed to unrelated or out-of-range content in the actual v2 corpus. Real content confirmed via direct text search, exact match to expected_answer. || REMAP -> chunks_v2_meta.jsonl; confidence=LOW (text-match, spot-check advised)",
+      "remap_confidence": "LOW"
     },
     {
       "q_id": "Q046",
@@ -891,12 +1031,17 @@
       ],
       "relevant_chunks": [
         {
-          "document_id": "stadtentwicklungsplan_2015"
+          "idx": 1793,
+          "chunk_id": 68,
+          "chunk_uid": "document::2015_Stadtentwicklungsplan::68",
+          "document_id": "stadtentwicklungsplan_2015",
+          "authority_level": 2
         }
       ],
       "is_official_policy": true,
       "answerable": true,
-      "notes": "Verified directly against raw text, lines 1740-1760: '56,2 % ... Einpersonen-Haushalte ... 9,5 % ... 8,5 % ... 25,8 %'. NEW question added to expand toward Task 4's 50-100 target."
+      "notes": "Verified directly against raw text, lines 1740-1760: '56,2 % ... Einpersonen-Haushalte ... 9,5 % ... 8,5 % ... 25,8 %'. NEW question added to expand toward Task 4's 50-100 target. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q052",
@@ -908,12 +1053,17 @@
       ],
       "relevant_chunks": [
         {
-          "document_id": "mro_konzeptbericht"
+          "idx": 2065,
+          "chunk_id": 68,
+          "chunk_uid": "document::MRO 2035+_Konzeptbericht_Broschüre::68",
+          "document_id": "mro_konzeptbericht",
+          "authority_level": 2
         }
       ],
       "is_official_policy": true,
       "answerable": true,
-      "notes": "Verified directly against raw text, lines 1356-1362. NEW question added to expand toward Task 4's 50-100 target."
+      "notes": "Verified directly against raw text, lines 1356-1362. NEW question added to expand toward Task 4's 50-100 target. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q053",
@@ -925,12 +1075,17 @@
       ],
       "relevant_chunks": [
         {
-          "document_id": "mro_konzeptbericht"
+          "idx": 2068,
+          "chunk_id": 71,
+          "chunk_uid": "document::MRO 2035+_Konzeptbericht_Broschüre::71",
+          "document_id": "mro_konzeptbericht",
+          "authority_level": 2
         }
       ],
       "is_official_policy": true,
       "answerable": true,
-      "notes": "Verified directly against raw text, lines 1387-1397. NEW question added to expand toward Task 4's 50-100 target."
+      "notes": "Verified directly against raw text, lines 1387-1397. NEW question added to expand toward Task 4's 50-100 target. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q054",
@@ -942,12 +1097,17 @@
       ],
       "relevant_chunks": [
         {
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 1590,
+          "chunk_id": 33,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::33",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "is_official_policy": true,
       "answerable": true,
-      "notes": "Verified directly against raw text, lines 975-984. NEW question added to expand toward Task 4's 50-100 target."
+      "notes": "Verified directly against raw text, lines 975-984. NEW question added to expand toward Task 4's 50-100 target. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q055",
@@ -1025,14 +1185,18 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 82,
-          "document_id": "mro_konzeptbericht"
+          "idx": 2222,
+          "chunk_id": 225,
+          "chunk_uid": "document::MRO 2035+_Konzeptbericht_Broschüre::225",
+          "document_id": "mro_konzeptbericht",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
       "answerable": true,
-      "notes": "NEW question replacing a citizen-focused question, per user request to prioritize official-policy content. Verified via direct chunk text."
+      "notes": "NEW question replacing a citizen-focused question, per user request to prioritize official-policy content. Verified via direct chunk text. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q062",
@@ -1044,14 +1208,18 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 62,
-          "document_id": "stek_a3_strategy"
+          "idx": 2728,
+          "chunk_id": 158,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::158",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
       "answerable": true,
-      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text."
+      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q063",
@@ -1063,14 +1231,18 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 65,
-          "document_id": "stek_a3_strategy"
+          "idx": 2738,
+          "chunk_id": 168,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::168",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
       "answerable": true,
-      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text."
+      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text. || REMAP -> chunks_v2_meta.jsonl; confidence=LOW (text-match, spot-check advised)",
+      "remap_confidence": "LOW"
     },
     {
       "q_id": "Q064",
@@ -1082,14 +1254,18 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 23,
-          "document_id": "nachhaltigkeitsbericht_2025"
+          "idx": 1620,
+          "chunk_id": 63,
+          "chunk_uid": "document::12_pdf_STEK_Nachhaltigkeitsbericht_2025::63",
+          "document_id": "nachhaltigkeitsbericht_2025",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
       "answerable": true,
-      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text."
+      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     },
     {
       "q_id": "Q065",
@@ -1101,14 +1277,18 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": null,
-          "document_id": "website_html"
+          "idx": 3059,
+          "chunk_id": 10,
+          "chunk_uid": "website_html::01_07_2025+wegweiser+fuer+innovative+und+nachhaltige+stadt.html#anker5701108::10",
+          "document_id": "website_html",
+          "authority_level": 2
         }
       ],
       "expected_authority_level": 2,
       "is_official_policy": true,
       "answerable": true,
-      "notes": "NEW question replacing a citizen-focused question. Verified via direct text search. chunk_id is None since website_html's chunk_id numbering is not unique across its ~90 distinct source pages (documented earlier this project) — document-level citation only."
+      "notes": "NEW question replacing a citizen-focused question. Verified via direct text search. chunk_id is None since website_html's chunk_id numbering is not unique across its ~90 distinct source pages (documented earlier this project) — document-level citation only. || REMAP -> chunks_v2_meta.jsonl; confidence=MED (text-match, spot-check advised)",
+      "remap_confidence": "MED"
     },
     {
       "q_id": "Q066",
@@ -1120,14 +1300,18 @@
       ],
       "relevant_chunks": [
         {
-          "chunk_id": 71,
-          "document_id": "stek_a3_strategy"
+          "idx": 2750,
+          "chunk_id": 180,
+          "chunk_uid": "document::STEK_Stadtentwicklungskonzept 2035_A3::180",
+          "document_id": "stek_a3_strategy",
+          "authority_level": 1
         }
       ],
       "expected_authority_level": 1,
       "is_official_policy": true,
       "answerable": true,
-      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text."
+      "notes": "NEW question replacing a citizen-focused question. Verified via direct chunk text. || REMAP -> chunks_v2_meta.jsonl; confidence=HIGH (number-verified)",
+      "remap_confidence": "HIGH"
     }
   ]
 }

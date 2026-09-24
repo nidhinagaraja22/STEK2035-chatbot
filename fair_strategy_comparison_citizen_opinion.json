@@ -2,8 +2,8 @@
   "segment": "CITIZEN-OPINION",
   "n_questions": 5,
   "plain_topk": {
-    "mrr": 0.2,
-    "full_hits": 1,
+    "mrr": 0.3,
+    "full_hits": 2,
     "n_questions": 5,
     "metrics_by_k": {
       "1": {
@@ -12,73 +12,73 @@
         "ndcg": 0.2
       },
       "3": {
-        "precision": 0.2,
-        "recall": 0.2,
-        "ndcg": 0.2
+        "precision": 0.13333333333333333,
+        "recall": 0.3,
+        "ndcg": 0.2773705614469083
       },
       "5": {
-        "precision": 0.12,
-        "recall": 0.2,
-        "ndcg": 0.2
+        "precision": 0.2,
+        "recall": 0.4,
+        "ndcg": 0.32481010400076754
       },
       "10": {
-        "precision": 0.13999999999999999,
-        "recall": 0.2,
-        "ndcg": 0.2
+        "precision": 0.12000000000000002,
+        "recall": 0.4,
+        "ndcg": 0.32481010400076754
       }
     }
   },
   "plain_topk_stripped": {
-    "mrr": 0.22000000000000003,
+    "mrr": 0.1,
     "full_hits": 1,
     "n_questions": 5,
     "metrics_by_k": {
       "1": {
-        "precision": 0.2,
-        "recall": 0.2,
-        "ndcg": 0.2
+        "precision": 0.0,
+        "recall": 0.0,
+        "ndcg": 0.0
       },
       "3": {
-        "precision": 0.2,
+        "precision": 0.13333333333333333,
         "recall": 0.2,
-        "ndcg": 0.2
+        "ndcg": 0.1261859507142915
       },
       "5": {
-        "precision": 0.16,
+        "precision": 0.12,
         "recall": 0.2,
-        "ndcg": 0.2
+        "ndcg": 0.1261859507142915
       },
       "10": {
-        "precision": 0.15999999999999998,
-        "recall": 0.4,
-        "ndcg": 0.25781296526357755
+        "precision": 0.08,
+        "recall": 0.2,
+        "ndcg": 0.1261859507142915
       }
     }
   },
   "cascade": {
-    "mrr": 0.0,
+    "mrr": 0.2,
     "full_hits": 0,
     "n_questions": 5,
     "metrics_by_k": {
       "1": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "ndcg": 0.0
+        "precision": 0.2,
+        "recall": 0.1,
+        "ndcg": 0.2
       },
       "3": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "ndcg": 0.0
+        "precision": 0.06666666666666667,
+        "recall": 0.1,
+        "ndcg": 0.12262943855309168
       },
       "5": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "ndcg": 0.0
+        "precision": 0.04,
+        "recall": 0.1,
+        "ndcg": 0.12262943855309168
       },
       "10": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "ndcg": 0.0
+        "precision": 0.04,
+        "recall": 0.1,
+        "ndcg": 0.12262943855309168
       }
     }
   },

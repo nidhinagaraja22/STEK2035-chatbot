@@ -44,7 +44,7 @@ from pathlib import Path
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
-CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks_l4l5split.jsonl")  # v2, L4/L5 split applied
+CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks.jsonl")  # v2, L4/L5 split applied
 EMB_PATH = Path("corpus/corpus_v2/embeddings_v2_e5base.npy")             # your EXISTING v2 embeddings —
                                                                            # unchanged, still row-aligned
                                                                            # since the L4/L5 split is
@@ -53,7 +53,7 @@ EMBED_MODEL = "intfloat/multilingual-e5-base"
 GROUND_TRUTH_PATH = Path("stek_task4_5_master_ground_truth.json")
 
 TOP_K = 5
-COVERAGE_THRESHOLD = 0.75  # same caveat as before: uncalibrated, needs a
+COVERAGE_THRESHOLD = 0.35  # same caveat as before: uncalibrated, needs a
                             # labeled calibration set before trusting in
                             # production — see stek_two_layer_retrieval.py
 

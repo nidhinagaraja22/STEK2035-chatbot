@@ -46,7 +46,7 @@ from collections import defaultdict
 
 import numpy as np
 
-CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks_l4l5split.jsonl")
+CHUNKS_PATH = Path("corpus/corpus_v2/corpus_v2_chunks.jsonl")
 LDA_OUTPUT_PATH = Path("corpus/corpus_v2/lda_topics_v2.json")
 LSA_OUTPUT_PATH = Path("corpus/corpus_v2/lsa_topics_v2.json")
 
